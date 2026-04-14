@@ -9,7 +9,6 @@ On first use, ask the user where to install the skills and agents:
 > "Where should I install hormozi-skills?
 > - **Project** (default) — `.claude/` in the current project folder. Only available in this project.
 > - **User** — `~/.claude/` in your home directory. Available in all projects.
-> - **Local** — `.claude.local/` in the current project folder. Not committed to git.
 >
 > Press Enter to use the default (project)."
 
@@ -23,9 +22,6 @@ cp -r skills/ agents/ .claude/
 
 # User (global)
 cp -r skills/ agents/ ~/.claude/
-
-# Local (project, not committed)
-cp -r skills/ agents/ .claude.local/
 ```
 
 > **Important:** After installation, Claude Code must be restarted for the new skills and agents to be available.
