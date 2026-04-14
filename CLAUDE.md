@@ -2,6 +2,36 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## First Run: Installation
+
+On first use, ask the user where to install the skills and agents:
+
+> "Where should I install hormozi-skills?
+> - **Project** (default) — `.claude/` in the current project folder. Only available in this project.
+> - **User** — `~/.claude/` in your home directory. Available in all projects.
+> - **Local** — `.claude.local/` in the current project folder. Not committed to git.
+>
+> Press Enter to use the default (project)."
+
+**Default:** project-level (`.claude/` in the current working directory).
+
+Installation copies `skills/` and `agents/` into the chosen `.claude/` directory:
+
+```bash
+# Project (default)
+cp -r skills/ agents/ .claude/
+
+# User (global)
+cp -r skills/ agents/ ~/.claude/
+
+# Local (project, not committed)
+cp -r skills/ agents/ .claude.local/
+```
+
+> **Important:** After installation, Claude Code must be restarted for the new skills and agents to be available.
+
+---
+
 ## What This Is
 
 A skill library for coding agents to build Hormozi-inspired offer systems. No build pipeline — content only. Each `skills/` folder is a standalone agent skill; `agents/` contains an orchestrator and five subagents.
