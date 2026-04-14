@@ -1,102 +1,149 @@
 # hormozi-skills
 
-Coding agent skill library for building Hormozi-inspired offer systems.
+**Turn any business idea into a complete, sellable offer — using Alex Hormozi's frameworks.**
 
-Converts raw business ideas into structured, actionable offer documents using a multi-agent pipeline.
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-blueviolet)
+![Platform](https://img.shields.io/badge/platform-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-lightgrey)
+![Inspired by](https://img.shields.io/badge/inspired%20by-Alex%20Hormozi-orange)
 
 ---
 
-## Structure
+> A skill library for coding agents. Plug it in, describe your business, and get a complete offer system — market research, offer structure, pricing, pitch, hooks, landing page — written to files in one session.
 
-```
-hormozi-skills/
-├── skills/          # Individual agent skills
-├── agents/          # Orchestrator + subagents
-├── output/          # Generated offer documents (OFFER.md, etc.)
-└── .claude/         # Agent config (memory, settings)
-```
+---
+
+## The Problem
+
+Building a compelling offer is hard. Most founders, coaches, and consultants either:
+
+- Write vague offers that don't convert — *"I help people grow their business"*
+- Price wrong — too low to be taken seriously, too high without justification
+- Skip the sales layer entirely — no hooks, no pitch, no landing page copy
+
+**hormozi-skills** solves this end-to-end. One orchestrator, five specialized subagents, 17 skills, 11 output files.
 
 ---
 
 ## Quick Start
 
-Copy `skills/` and `agents/` into your coding agent's config folder (e.g. `.claude/` for Claude Code, or equivalent for your tool), then invoke any skill or the orchestrator directly.
+**Requires:** Claude Code (or any coding agent that supports `.claude/` skills)
 
 ```bash
-cp -r skills/ agents/ .claude/
+# Clone the skill library
+git clone https://github.com/alexsmedile/hormozi-skills
+cd hormozi-skills
+
+# Copy skills and agents into your Claude config
+cp -r skills/ agents/ ~/.claude/
 ```
 
-Start with the orchestrator for a full offer build, or call any skill individually for a focused task.
+Then in Claude Code invoke the `hormozi-orchestrator` agent or a specific skill.
+
+> [!TIP]
+> Describe your business in plain language — rough idea, brain dump, or existing offer. The orchestrator interviews you, detects your stage, and builds everything from there.
 
 ---
 
-## Skills
+## 📦 What You Get
+
+11 output files written to `output/` in one session:
+
+| File | What's Inside |
+|------|--------------|
+| `MARKET_RESEARCH.md` | Validated niche, pain map, demand signals |
+| `OFFER.md` | Full Grand Slam Offer — avatar, obstacles, solution map, value stack |
+| `OFFER_ANGLES.md` | 8 positioning angles, ranked |
+| `OFFER_AUDIT.md` | Score per dimension + priority fixes |
+| `VALUE_PERCEPTION.md` | Improved naming, packaging, framing |
+| `BONUS_STACK.md` | Objection-killing bonus structure with perceived value |
+| `PRICING.md` | Value-anchored price, tiers, justification story |
+| `OBJECTIONS.md` | Hidden beliefs, belief shifts, DM-ready responses |
+| `PITCH.md` | Short / medium / long pitch versions |
+| `HOOKS.md` | 30+ hooks across 10 types, ranked |
+| `LANDING_PAGE.md` | Full landing page copy, section by section |
+
+---
+
+## 🧠 Skills Library
+
+Use any skill standalone — no orchestrator needed:
 
 | Skill | Purpose |
 |-------|---------|
-| `hormozi-offer` | Full Grand Slam Offer builder → `OFFER.md` |
+| `hormozi-offer` | Build a Grand Slam Offer from scratch → `OFFER.md` |
 | `hormozi-pitch` | Pitch deck and sales narrative |
-| `hormozi-hooks` | Hook and headline generation |
-| `audit-offer` | Audit and rewrite existing offer |
-| `bonus-stack` | Build bonus stack with perceived value |
-| `business-model` | Choose and structure business model |
+| `hormozi-hooks` | Hook and headline generation (30+ hooks) |
+| `audit-offer` | Score and rewrite an existing weak offer |
+| `bonus-stack` | Build a bonus stack that kills objections |
+| `business-model` | Choose and structure the right business model |
 | `dfy-dwy-diy` | Frame offer as DFY / DWY / DIY tiers |
-| `effort-reduction` | Reduce perceived effort in offer |
+| `effort-reduction` | Reduce perceived effort in the offer |
 | `idea-to-product` | Turn rough idea into productized offer |
-| `landing-page-copy` | Generate landing page copy from offer |
-| `market-research` | Research market, pain, and demand signals |
+| `landing-page-copy` | Generate landing page copy from an existing offer |
+| `market-research` | Research market pain and demand signals |
 | `objection-destroyer` | Map and neutralize common objections |
 | `offer-angles` | Generate multiple positioning angles |
-| `pricing-strategy` | Price anchoring and packaging strategy |
-| `productize` | Productize a service |
-| `value-accelerator` | Increase perceived value of an offer |
+| `pricing-strategy` | Price anchoring and packaging |
+| `productize` | Productize a service business |
+| `value-accelerator` | Increase perceived value |
 | `value-perception` | Improve how value is communicated |
 
----
-
-## Agents
-
-| Agent | Role |
-|-------|------|
-| `hormozi-orchestrator` | Master orchestrator — intake, interview, route to subagents |
-| `sub-market` | Market and avatar research |
-| `sub-offer` | Offer structure and value stack |
-| `sub-pricing` | Pricing, packaging, guarantee |
-| `sub-sales` | Sales copy and messaging |
-| `sub-value` | Value perception and positioning |
+> [!TIP]
+> Skip the orchestrator and call any skill directly: `/audit-offer`, `/pricing-strategy`, `/landing-page-copy` — each works standalone with no prior context needed.
 
 ---
 
-## Usage
-
-### Run orchestrator
-
-Start from any business idea, notes, or existing offer:
+## 🔀 Agent System
 
 ```
-/hormozi-orchestrator
+hormozi-orchestrator
+├── sub-market    → MARKET_RESEARCH.md
+├── sub-offer     → OFFER.md + OFFER_ANGLES.md
+├── sub-value     → OFFER_AUDIT.md + VALUE_PERCEPTION.md + BONUS_STACK.md
+├── sub-pricing   → PRICING.md + OBJECTIONS.md
+└── sub-sales     → PITCH.md + HOOKS.md + LANDING_PAGE.md
 ```
 
-The orchestrator interviews you, routes to subagents, and writes final documents to `output/`.
+**Dependency order:** market → offer → (value ∥ pricing) → sales
 
-### Run individual skill
+The orchestrator detects your funnel stage (idea / broken offer / needs sales layer / service scaling) and runs only the subagents you need.
+
+---
+
+## ⚙️ How It Works
+
+1. **Intake** — give the orchestrator anything: a raw idea, existing offer, brain dump, or sales page
+2. **Interview** — focused questions one at a time, each with a suggested answer
+3. **Stage detection** — classifies your situation (Stage A–E), shows which subagents will run
+4. **Delegation** — spawns subagents in dependency order, passing structured briefs
+5. **Summary** — produces `output/SUMMARY.md`: one-paragraph offer, key decisions, top 3 actions, best hook to use today
+
+---
+
+## Repo Structure
 
 ```
-/hormozi-offer
-/audit-offer
-/landing-page-copy
+hormozi-skills/
+├── skills/     # 17 standalone agent skills
+├── agents/     # Orchestrator + 5 subagents
+├── output/     # Generated offer documents (starts empty)
+└── input/      # Drop existing offers, notes, or sales pages here
 ```
 
 ---
 
-## Output
+## Who This Is For
 
-Generated files land in `output/`. Typical outputs:
+- Founders, coaches, consultants, and freelancers building offers
+- Anyone applying Hormozi's methodology who wants AI execution, not just AI advice
+- Coding agents running offer-generation pipelines
 
-- `OFFER.md` — full offer document
-- `PITCH.md` — sales narrative
-- `HOOKS.md` — headline and hook library
-- `LANDING.md` — landing page copy
+## Who This Is Not For
+
+- Generic copywriters looking for fill-in-the-blank templates — this thinks, it doesn't just fill
+- Developers needing a code library — this is prompt-based, agent-native
+- People who want a one-shot answer without iteration — the orchestrator interviews you
 
 ---
 
@@ -105,8 +152,15 @@ Generated files land in `output/`. Typical outputs:
 Built on Alex Hormozi's offer methodology from *$100M Offers* and *$100M Leads*:
 
 - Grand Slam Offer construction
-- Dream outcome mapping
+- Dream outcome × likelihood × time delay × effort equation
 - Obstacle → solution reversal
 - Value stack and bonus engineering
-- Guarantee design
-- Pricing psychology
+- Guarantee design (unconditional / conditional / effort-based)
+- Price anchoring and perceived value
+- Hook architecture (pattern interrupt, identity, outcome, curiosity)
+
+---
+
+## Credits
+
+Inspired by Alex Hormozi's work. Built for coding agents by [@alexsmedile](https://github.com/alexsmedile).
