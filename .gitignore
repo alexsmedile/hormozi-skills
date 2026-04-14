@@ -1,0 +1,6 @@
+_archive/
+.claude/
+.DS_Store
+**/.DS_Store
+output/*
+!output/.gitkeep
