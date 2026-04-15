@@ -29,9 +29,7 @@
         "funnel",
         "grand-slam-offer"
       ],
-      "category": "business",
-      "skills": "./skills/",
-      "agents": "./agents/"
+      "category": "business"
     }
   ]
 }
