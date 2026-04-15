@@ -30,8 +30,8 @@
         "grand-slam-offer"
       ],
       "category": "business",
-      "skills": "./skills",
-      "agents": "./agents"
+      "skills": "./skills/",
+      "agents": "./agents/"
     }
   ]
 }
