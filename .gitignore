@@ -2,5 +2,8 @@ _archive/
 .claude/
 .DS_Store
 **/.DS_Store
+input/*
+!input/.gitkeep
 output/*
 !output/.gitkeep
+!your-files-go-here.txt
