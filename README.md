@@ -27,7 +27,28 @@ Building a compelling offer is hard. Most founders, coaches, and consultants eit
 
 ## Quick Start
 
-**Requires:** Claude Code (or any coding agent that supports `.claude/` skills)
+### Claude Code
+
+Add the marketplace, then install the plugin:
+
+```bash
+/plugin marketplace add alexsmedile/hormozi-skills
+/plugin install hormozi-skills@hormozi-skills
+```
+
+Then invoke the `hormozi-orchestrator` agent or a specific skill.
+
+### Codex
+
+Install directly from GitHub:
+
+```bash
+codex plugin install https://github.com/alexsmedile/hormozi-skills
+```
+
+### Manual Install
+
+If you want the raw skill files instead of the plugin flow:
 
 ```bash
 # Clone the skill library
@@ -37,8 +58,6 @@ cd hormozi-skills
 # Copy skills and agents into your Claude config
 cp -r skills/ agents/ ~/.claude/
 ```
-
-Then in Claude Code invoke the `hormozi-orchestrator` agent or a specific skill.
 
 > [!TIP]
 > Describe your business in plain language — rough idea, brain dump, or existing offer. The orchestrator interviews you, detects your stage, and builds everything from there.
