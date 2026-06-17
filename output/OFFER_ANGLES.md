@@ -5,160 +5,192 @@
 
 ---
 
-## Temel Teklif (Referans)
+## Temel Teklif
 
-- **Kim:** Yıllarca İngilizce okumuş, gramer biliyor ama konuşamayan Antakyalı yetişkin (22–40) + çocuğunun gerçek konuşma becerisi kazanmasını isteyen ebeveyn
-- **Ne:** KonuşAmerika 5 — 5 ayda ölçülebilir konuşma kapasitesi (%70 konuşma, %30 gramer, CEFR tabanlı)
-- **Garanti:** 5 ayda konuşamazsan tüm ücret iade
-- **Mevcut konumlandırma:** Organik, ağızdan ağıza — henüz sistematik mesaj yok
-
----
-
-## 8 Teklif Açısı
+- **Yetişkin için:** Unmute Profesyonel Akıcılık Simülasyonu — 90 günde gerçek iş senaryolarında konuşma özgüveni + Europass/eDevlet sertifikası
+- **Çocuk/Gençler için:** 60 Günlük Doğal İngilizce Konuşma Kampı — ezberciliğe son, 60 günde doğal konuşma + Europass belgesi
+- **Mevcut konumlandırma:** "Saat satarken emekten, sonuç satarak tekelleşme"
 
 ---
 
-### Açı 1: Sistem Karşıtı (Anti-Sistem)
-
-Türk eğitim sistemini suçla — kişiyi asla değil. Bu okulun temel çerçevesi.
-
-**V1 — Doğrudan çerçeve:**
-"12 yıl İngilizce okudun, hâlâ konuşamıyorsun. Bu senin hatan değil — sistem sana gramer öğretti, konuşmayı öğretmedi. Biz farklı çalışıyoruz: %70 zamanı konuşmaya harcıyoruz."
-
-**V2 — Empati ile açılış:**
-"Belki 'dil yeteneğim yok' diye düşünüyorsun. Yıllarca ders aldın, sonuç çıkmadı — bu sonuç mantıklı geliyor. Ama şunu söyleyelim: Türkçeyi de mi öğrenemezdim? Sistem sana yanlış şeyi öğretti. Biz doğrusunu öğretiyoruz."
-
-**Neden güçlü:** Müşterinin içinde taşıdığı en büyük bloğu — "belki ben aptaldım" inancını — kırar. Tüm diğer açılar bu inanç kırılmadan etkisiz kalır. Her mesajın altında bu çerçeve olmalı.
+## Üretilen Açılar
 
 ---
 
-### Açı 2: Önce / Sonra (Before/After)
+### Açı 1: Sonuç Odaklı (Outcome-Specific)
 
-Konuşmadan önce ve sonrasındaki hayatı görsel olarak karşılaştır.
+**Segment:** Her iki segment
 
-**V1 — Yetişkin için:**
-"Yabancı birisi toplantıya girince sandalyeye gömülüyordun. 5 ay sonra sen söze giriyorsun. CEFR belgelenmiş. Garantili."
+**Yetişkin V1:**
+"90 günün sonunda iş görüşmesinde İngilizce soruya tereddütsüz cevap veriyorsunuz — gramer kitabı değil, Europass belgesiyle."
 
-**V2 — Ebeveyn için:**
-"Çocuğun 'İngilizce bilmiyorum' diyordu — sınavdan geçse bile. 5 ay sonra yabancıyla cümle kuruyor. Gramer defteri yok. Konuşma var."
+**Yetişkin V2:**
+"Bu programı bitirdiğinizde: toplantılarda söz alıyorsunuz, yabancı müşteriyle görüşüyorsunuz ve CV'nize uluslararası geçerli bir akıcılık belgesi ekliyorsunuz."
 
-**Neden güçlü:** Somut, görsel, duygusal. Müşterinin zihninde filmi çalıştırır. Karşılaştırma hem acıyı hem umudu aynı anda aktive eder — satın alma kararının duygusal yakıtı bu.
+**Çocuk V1:**
+"60. günün sonunda çocuğunuz sınıfta yabancı biriyle doğal diyalog kuruyor — not için değil, gerçekten konuşmak için."
 
----
+**Çocuk V2:**
+"Kamp biterken çocuğunuzun elinde CEFR bazlı Europass belgesi, sizin elinizde ise başlangıç-bitiş karşılaştırmalı ilerleme raporu var."
 
-### Açı 3: Acı Odaklı (Derin Acıya Dokun)
-
-Müşterinin gece kafasında dönen ama dışarıya söylemediği düşünceyi seslendir.
-
-**V1 — Yetişkin gece düşüncesi:**
-"On iki yıl İngilizce dersi aldın. Bir yabancıyla karşılaştığında hâlâ donup kalıyorsun. Ve içinden şunu geçiriyorsun: 'Belki ben hiç öğrenemeyeceğim.' Bu yalan. Sorun sen değildin — sorun yöntemdi. Bunu 5 ayda kanıtlıyoruz."
-
-**V2 — Ebeveyn gece düşüncesi:**
-"Çocuğun da senin gibi mi büyüyecek — yıllarca ders, sınavlardan geçiyor, ama yabancıyla bir kelime edemiyor? Bu sefer farklı bir sistem var. Ve işe yaramazsa ücret iade."
-
-**Neden güçlü:** Gizli acıyı yüzeye çıkarır. Müşteri "bu beni anlıyor" der — güven kapısı açılır. Satıştan önce bağ kurulur.
+**Neden işe yarar:** Somut, ölçülebilir ve görselleştirilebilir sonuçlar satın alma kararını kolaylaştırır. "Bir şeyler öğreneceksiniz" belirsizliği yerine "işte bu olacak" netliği güven kurar.
 
 ---
 
-### Açı 4: Garanti Odaklı
+### Açı 2: Zaman Odaklı (Time-Based)
 
-Garantiyi merkeze al — risk tamamen okuldadır, müşteride değil.
+**Segment:** Her iki segment
 
-**V1 — Güçlü iddialı:**
-"5 ayda konuşacaksın ya da paranı iade ederiz. Antakya'da bunu söyleyen başka bir okul var mı? Biz söylüyoruz — çünkü arkasındayız."
+**Yetişkin V1:**
+"Haftada 6 saat. 90 gün. Bir kariyer değişikliği."
 
-**V2 — Soru formatı:**
-"Hiç bir dil kursu sana şunu söyledi mi: 'Sonuç yoksa tüm ücretini iade ederiz'? Biz söylüyoruz. Çünkü 100 öğrencimiz zaten konuşuyor — ve sen de konuşacaksın."
+**Yetişkin V2:**
+"10 haftada, haftada iki gün — yıllarca birikmiş konuşma engelini aşıyorsunuz."
 
-**Neden güçlü:** "Daha önce para verdim, işe yaramadı" itirazını tek cümlede kırar. Risk müşteriden okula transfer olur — karar verme eşiği anında düşer.
+**Çocuk V1:**
+"Sadece 4 hafta, 4 gün/hafta. Çocuğunuzun İngilizcesi sonsuza kadar değişiyor."
 
----
+**Çocuk V2:**
+"1 yaz. 60 gün. Çocuğunuzun dil hayatını yeniden yazacak dönüm noktası."
 
-### Açı 5: Kimlik Değişimi
-
-Müşterinin olmak istediği kimliği hedefe koy — ürün değil, dönüşüm sat.
-
-**V1 — Yetişkin için:**
-"İş yerinde İngilizce bilen kişi olmak için üniversiteye geri dönmene gerek yok. 5 ay yeter — eğer doğru sistemdeysen. Bu sistem Antakya'da."
-
-**V2 — Ebeveyn için:**
-"Çocuğun sınıfın en iyi konuşan öğrencisi olabilir — gramer ezberlemeden. 5 ayda. Garantili."
-
-**Neden güçlü:** İnsanlar ürün satın almaz, kim olacaklarını satın alırlar. Kimlik çerçevesi motivasyonu kışkırtır ve mesajı kişiselleştirir.
+**Neden işe yarar:** Net bir zaman çerçevesi belirsizlik korkusunu kaldırır. "Ne kadar sürecek?" itirazının önüne geçer ve taahhüdü somutlaştırır.
 
 ---
 
-### Açı 6: Rakip Karşıtı (Rakibi Adresle, İsimsiz)
+### Açı 3: Acı Odaklı (Pain-Based) ⭐ ÖNERİLEN
 
-Diğer kursların neden işe yaramadığını açıkla — müşterinin geçmiş başarısızlığını mantıklı hale getir.
+**Segment:** Öncelikle Yetişkin, ikincil olarak Ebeveyn
 
-**V1 — Karşılaştırmalı:**
-"Antakya'daki diğer İngilizce kursları ne öğretiyor? Gramer. Zamanlar. Fill-in-the-blank. Peki hiç birinde cümle kurdurun mu seni? Biz her dersin %70'ini konuşmaya harcıyoruz. Diğerleri %70'i gramere. Bu fark, beş yılın farkıdır."
+**Yetişkin V1:**
+"12 yıl İngilizce okudunuz. Hâlâ bir yabancı gelince susuyorsunuz. Bu sizin suçunuz değil — gramer sistemi sizi konuşmaya hazırlamadı."
 
-**V2 — Empati ile başla:**
-"O kadar kurs dendin, o kadar para harcadın — hiçbiri işe yaramadı. Seni suçlamıyoruz. Sistemi suçluyoruz. Gramer ezberletiyor, konuşmayı bekliyorlar. Biz önce konuşturuyoruz. Fark bu."
+**Yetişkin V2:**
+"O terfi yine İngilizce bilene gitti. O toplantıda yine sussunuz. Bir dahaki seferde farklı olmak istiyorsanız — yöntemi değiştirme zamanı."
 
-**Neden güçlü:** Müşteri zaten hayal kırıklığı yaşadı — "neden olmadı" sorusunu cevaplamak güven inşa eder ve bu okulu sürüden ayırır.
+**Ebeveyn V1:**
+"Çocuğunuz her yıl İngilizce alıyor, para ve zaman harcıyorsunuz — ama hâlâ konuşamıyorsa, sistem onu da mahvediyor."
 
----
+**Ebeveyn V2:**
+"Diğer çocuklar konuşuyor. Sizin çocuğunuz test geçiyor. Bu fark büyümeden kapatılabilir — ama gramerle değil."
 
-### Açı 7: Niş Spesifik (Kariyer Odaklı Alt Segment)
-
-Kariyer engeli yaşayan çalışan yetişkini doğrudan hedefle.
-
-**V1 — Terfi açısı:**
-"O terfi. O uluslararası proje. O müşteri görüşmesi. Hep İngilizce bilene gitti. 5 ay sonra bu değişiyor — ya da tüm ücret iade."
-
-**V2 — İş görüşmesi tetikleyicisi:**
-"İş görüşmesinde İngilizce sorusu gelince ne yapıyorsun? 'Yazılı anlıyorum' mı diyorsun? Sonraki görüşmeden önce 5 ay var. Bu 5 ay yeter."
-
-**Neden güçlü:** Tetikleyici olayı (iş görüşmesi, terfi fırsatı) doğrudan hedefler. Aciliyeti yükseltir, karar anını öne çeker.
+**Neden işe yarar:** Antakya pazarındaki en güçlü tetikleyici duygu bu açıda. Yıllar içinde birikmiş hayal kırıklığı ve öfke, "sorun sen değildin" çerçevesiyle birleşince anlık satın alma kararı üretiyor. Pazar araştırması bu acının 9/10 yoğunlukta olduğunu doğruluyor.
 
 ---
 
-### Açı 8: Merak / Provokasyon (Öz Farkındalık Tetikleyici)
+### Açı 4: Kimlik Odaklı (Identity-Based) ⭐ ÖNERİLEN
 
-Müşteriyi düşündüren, savunmaya geçirmeden kendi durumunu fark ettiren soru.
+**Segment:** Yetişkin — özellikle kariyer hedefli
 
-**V1 — Kendine yöneltilen soru:**
-"Kaç yıldır İngilizce öğreniyorsun? Şimdi kendini bir yabancıya tanıtabilir misin? Eğer cevabın 'hayır' ise — sorun sen değilsin. Ama değişmez de, eğer aynı şeyi yapmaya devam edersen."
+**V1:**
+"Gramer bilen biri değil, dünyayla konuşan biri olmak istiyorsunuz. Unmute, tam olarak bunu inşa ediyor."
 
-**V2 — İstatistiksel kanca:**
-"Türkiye'de insanlar ortalama 8–12 yıl İngilizce okuyor. Kaçı gerçekten konuşabiliyor? Sorun yetenek değil — sorun yöntem. Ve bunu değiştiren Antakya'da bir okul var."
+**V2:**
+"'İngilizce biliyorum ama konuşamıyorum' cümlesi artık sizi tanımlamasın. 90 günde yeni kimliğinizi inşa edin — belgesiyle."
 
-**Neden güçlü:** Müşteri kendisi söyler — okul söylemez. İçselleştirme sağlar, savunma refleksini bypass eder. Organik içerik için ideal format.
-
----
-
-## Top 3 Açı
-
-### 1. Açı 1: Sistem Karşıtı — "Bu senin hatan değil"
-
-**Neden birinci:** Bu açı, müşterinin satın alma kararının önündeki en büyük psikolojik bloğu — "belki ben aptaldım, bir daha para harcamak istemiyorum" inancını — doğrudan kırar. Tüm diğer açılar bu inanç kırılmadan yüzeyde kalır. Her kanal, her format, her mesajın altında bu çerçeve olmalı. Hem yetişkin hem ebeveyn segmenti için eşit güçte çalışıyor.
-
-### 2. Açı 3: Acı Odaklı — "Gece düşünceleri"
-
-**Neden ikinci:** Müşteri "bu beni anlıyor" dediğinde okula güvenir — bu güven satıştan önce gelir. Derin acıyı seslendirmek (özellikle gizli acıyı — "belki ben hiç öğrenemeyeceğim") okul ile müşteri arasında duygusal bağ kurar. Bu bağ olmadan garanti bile yeterli değildir. Organik içerikte en yüksek etkileşimi bu açı üretir.
-
-### 3. Açı 4: Garanti Odaklı — "Ya da paranı iade ederiz"
-
-**Neden üçüncü:** "Daha önce para verdim işe yaramadı" itirazı bu pazardaki en büyük satış engelidir (MARKET_RESEARCH.md — aciliyet skoru 8/10 ama geçmiş hayal kırıklığı nedeniyle gezgin moduna geçmiş potansiyel müşteriler var). Garanti bu engeli tek cümlede kırar. Sistem suçu (Açı 1) + acı tanıma (Açı 3) + garanti (Açı 4) üçlüsü birlikte çalışınca — güven + anlayış + risk yokluğu — satışa en doğrudan yol oluşur.
+**Neden işe yarar:** Yetişkin kariyer segmenti bir beceri değil, bir kimlik dönüşümü satın alıyor. "Özgüvenli konuşan profesyonel" kimliğiyle özdeşleşme motivasyonu, fiyat direncini aşıyor.
 
 ---
 
-## Kanal Bazlı Kullanım Önerileri
+### Açı 5: Çaba Odaklı (Effort-Based)
 
-| Kanal | Önerilen Açı | Neden |
-|---|---|---|
-| Instagram organik içerik | Açı 8 (Merak) + Açı 3 (Acı) | Yorum ve paylaşım tetikler, organik erişim yüksek |
-| Instagram / Facebook reklamı | Açı 1 (Sistem Suçu) + Açı 4 (Garanti) | Hızlı güven + risk yokluğu = tıklama ve DM |
-| Landing page başlığı | Açı 1 (Sistem Suçu) | İlk 3 saniyede inanç kırılır |
-| Landing page güven bölümü | Açı 7 (Sosyal Kanıt + Kariyer) | 100 öğrenci referansı + sonuç kanıtı |
-| WhatsApp / DM satış konuşması | Açı 3 (Acı) + Açı 4 (Garanti) | Kişisel, empati önce, risk sonra kaldırılır |
-| Ebeveyn segmenti | Açı 2 (Önce/Sonra) + Açı 5 (Kimlik) | Duygusal + statü motivasyonu güçlü |
-| Yetişkin kariyer segmenti | Açı 6 (Rakip Karşıtı) + Açı 7 (Niş Spesifik) | Geçmiş başarısızlık mantıklandırılır + aciliyet tetiklenir |
-| Yüksek bilet satış görüşmesi | Açı 1 + Açı 4 + Açı 7 | Sistem suçu + garanti + kariyer sonucu üçlüsü |
+**Segment:** Her iki segment — özellikle "vaktim yok" itirazı taşıyanlar
+
+**Yetişkin V1:**
+"Gramer ezberlemek yok. Kelime listesi yok. Sadece konuşuyorsunuz — ve her seans sizi bir adım daha ileriye taşıyor."
+
+**Yetişkin V2:**
+"Hata yapmaktan korkmadan, yargılanmadan pratik yapabileceğiniz tek ortam. Konuşmak bu kadar kolay olmamıştı."
+
+**Çocuk V1:**
+"Çocuğunuz ders yapmıyor — oynuyor, rol yapıyor, eğleniyor. Ve bu süreçte İngilizce konuşmayı öğreniyor."
+
+**Çocuk V2:**
+"Evde kitap açtırmanıza gerek yok. Günlük 10 dakikalık Dijital Alıştırma Kiti ile kamp dışında da ilerleme devam ediyor."
+
+**Neden işe yarar:** "Zaten çok şey denedim, yoruldum" profili için çaba engeli kritik bir itiraz noktası. Kolaylık ve düşük sürtünme vurgusu bu profili harekete geçirir.
 
 ---
 
-*Kaynak: MARKET_RESEARCH.md içgörüleri + iş brifingi + Grand Slam Offer çerçevesi*
+### Açı 6: Hız Odaklı (Speed-Based) ⭐ ÖNERİLEN
+
+**Segment:** Her iki segment
+
+**Yetişkin V1:**
+"Yıllarca beklemeye gerek yok. 90 günde — iş görüşmesinde, toplantıda, müşteri görüşmesinde konuşacaksınız."
+
+**Yetişkin V2:**
+"Diğer kurslar size yıllık program öneriyor. Biz 90 günde kariyer seviyesi konuşma özgüveni ve belgesi veriyoruz."
+
+**Çocuk V1:**
+"1 yaz. Çocuğunuzun İngilizcesindeki dönüşümü kendiniz göreceksiniz — sonbaharda okula döndüğünde herkes fark edecek."
+
+**Çocuk V2:**
+"60 günde CEFR belgesi. Diğer çocuklar yıllarca bekledi — sizin çocuğunuz bu yaz başlıyor."
+
+**Neden işe yarar:** Yaz kampı için hız açısı en güçlü tetikleyicidir — çünkü yaz kısıtlı bir zaman penceresidir ve "şimdi karar ver ya da bir yıl daha bekle" aciliyeti doğal olarak oluşur.
+
+---
+
+### Açı 7: Niş Odaklı (Niche-Specific)
+
+**Segment:** Alt segmentlere özel
+
+**Antakyalı Esnaf / Küçük İşletme Sahibi V1:**
+"Yabancı müşteriniz geliyor, siz tercüman arıyorsunuz. Unmute ile 90 günde kendi müşterinizle konuşun — iş fırsatlarını başkasına bırakmayın."
+
+**Antakyalı Esnaf / Küçük İşletme Sahibi V2:**
+"Antakya'nın turizm potansiyeli büyüyor. Yabancı misafirinize kendiniz rehberlik edebiliyor musunuz? 90 günde evet diyebilirsiniz."
+
+**Yurt Dışı Hayali Olan Genç Yetişkin V1:**
+"Yurt dışı başvurusu, vize görüşmesi, yurt dışında çalışma mülakatı — hepsi İngilizce. 90 günde hazır olun."
+
+**Yurt Dışı Hayali Olan Genç Yetişkin V2:**
+"Europass ve eDevlet belgesi ile CV'niz artık Türkiye sınırlarını aşıyor. Uluslararası iş başvurusu için fark yaratın."
+
+**Neden işe yarar:** Antakya'nın özgül ekonomik ve sosyal dinamiklerine dokunuyor — turizm büyümesi, yurt dışı göçü, küçük işletme rekabeti. Genel mesaj yerine "bu senin için" hissi yaratıyor.
+
+---
+
+### Açı 8: Karşı Açı / Anti-Angle
+
+**Segment:** Her iki segment — özellikle şüpheci profil
+
+**Yetişkin V1:**
+"Daha fazla gramer öğrenmek konuşmanızı iyileştirmez. İngilizce gramerini zaten biliyorsunuz — eksik olan pratik. Biz pratik satıyoruz."
+
+**Yetişkin V2:**
+"'İngilizce kursuna gideyim mi?' sorusunu yanlış soruyorsunuz. Doğru soru: 'Beni konuşturan kursa mı, gramer öğreten kursa mı gideyim?' — fark bu."
+
+**Çocuk V1:**
+"Çocuğunuz daha fazla gramer testi çözmüyor. Daha fazla konuşma alışkanlığı kazanıyor. Test sonucu değil, hayat becerisi."
+
+**Çocuk V2:**
+"Okul zaten gramer öğretiyor. Biz okula rakip değiliz. Okul öğrettiğini biz konuşmaya dönüştürüyoruz — bu fark her şeyi değiştiriyor."
+
+**Neden işe yarar:** Şüpheci ve "daha önce hayal kırıklığı yaşadım" profilleri için karşı açı, kategorik bir ayrım yaratıyor. "Diğer kurslarla biz aynı şey değiliz" mesajı hem güven hem merak inşa ediyor.
+
+---
+
+## En Güçlü 3 Açı
+
+### 1. Açı 3 — Acı Odaklı
+**Neden:** Antakya pazarındaki mevcut müşterilerin %90'ı "gramer öğrendim ama konuşamıyorum" profilinden geliyor. Bu acı hem yetişkin hem ebeveyn segmentini aynı anda hedefliyor. Pazar araştırması bu acının 9/10 yoğunlukta, aciliyetinin 8/10 olduğunu teyit ediyor. "Sorun sen değildin — sistem yanlıştı" çerçevesi okula özgü ve kopyalanamaz. Hayal kırıklığı yaşamış müşterileri hızla alıcıya dönüştürüyor.
+
+### 2. Açı 4 — Kimlik Odaklı
+**Neden:** Yetişkin kariyer segmenti için fiyat direncini aşan tek etken kimlik dönüşümüdür. "Gramer bilen biri" olmak değil, "özgüvenle konuşan profesyonel" olmak satın alınıyor. Europass + eDevlet sertifikası bu kimlik dönüşümünü somutlaştırıyor ve doğrulayıcı bir sosyal kanıt olarak işlev görüyor. Yüksek fiyat paketleri (90.000 TL) için bu açı kapatıcı mesaj.
+
+### 3. Açı 6 — Hız Odaklı
+**Neden:** Yaz kampı için doğal bir aciliyet penceresi oluşuyor — yaz bitmeden karar ver ya da bir yıl daha bekle. "60 günde sonuç" ve "90 günde belge" iddiaları CEFR ölçümüyle desteklendiği için güvenilir. Hız açısı özellikle sosyal medya içeriklerinde ve reklam kopyasında en yüksek tıklama oranını üretecek açıdır.
+
+---
+
+## Önerilen Kullanım
+
+- **Reklamlarda en iyi:** Açı 3 (Acı Odaklı) + Açı 6 (Hız Odaklı) — kısa, tetikleyici, scroll durduran
+- **Açılış sayfasında en iyi:** Açı 4 (Kimlik Odaklı) — dönüşüm için derin duygusal bağlantı
+- **Organik içerikte en iyi:** Açı 8 (Karşı Açı) + Açı 3 (Acı Odaklı) — paylaşım ve yorum tetikler, "ben de böyleyim" etkisi
+- **Yüksek fiyatlı satışta en iyi:** Açı 4 (Kimlik Odaklı) + Açı 1 (Sonuç Odaklı) — değer algısını yükseltir, fiyat itirazını azaltır
+
+---
+
+*Oluşturulma tarihi: 17 Haziran 2026*
