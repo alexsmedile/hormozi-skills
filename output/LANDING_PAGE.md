@@ -1,296 +1,294 @@
 # LANDING_PAGE.md
-# Antakya Amerikan Kültür Dil Okulu — Landing Page Metni
+# Antakya Amerikan Kültür Dil Okulu — KonuşAmerika Landing Page Metni
 
 *Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## Sayfa Yapısı ve Amaç
+## Bölüm 1: Hero
 
-Bu sayfa tek bir iş yapacak: yıllarca İngilizce okuyup hâlâ konuşamayan Antakyalı yetişkini (ve çocuğu için endişeli ebeveyni) ücretsiz değerlendirme seansına yönlendirmek.
-
-Ton: Sistemi suçla, kişiyi asla. Güçlendirici, dürüst, pazarlamacı dili yok.
+**Bu bölümün amacı:** Ziyaretçiyi ilk 5 saniyede durdurmak. En güçlü kanca burada. Kimliği tanımlama ve sonucu sunma.
 
 ---
 
-## Bölüm 1: Hero
+**Ana Başlık:**
+12 Yıl İngilizce Okudun. Hâlâ Konuşamıyorsun.
+Bu Senin Sorunun Değil — Yöntemin Sorunuydu.
 
-*Tasarımcıya not: Bu bölümün amacı — ilk 3 saniyede "bu beni anlıyor" hissini vermek ve kaydırmaya devam ettirmek.*
+**Alt Başlık:**
+KonuşAmerika 5'te her dersin %70'i konuşma pratiği. 5 ayda CEFR belgeli konuşma kapasitesi. Konuşamazsan — tüm ücret iade. Yazılı sözleşmeyle.
 
-### Ana Başlık
+**CTA Butonu:**
+Ücretsiz Konuşma Engeli Tespiti'ne Kayıt Ol
 
-**Yıllarca İngilizce Okudun. Hâlâ Konuşamıyorsun.**
-**Sorun Sen Değilsin.**
-
-### Alt Başlık
-
-Türk eğitim sistemi seni gramer makinesi yaptı — konuşan insan değil. Biz farklı çalışıyoruz: her dersin %70'i konuşma pratiği. 5 ayda sonuç. Garantili.
-
-### CTA Butonu
-
-**Ücretsiz CEFR Değerlendirmesini Rezerve Et — Taahhütsüz**
-
-*(Alt metin: 30 dakika. Şu an hangi seviyedesin, 5 ayda nereye gelebilirsin — birlikte görüyoruz.)*
+**CTA altı not (küçük metin):**
+30 dakika. Taahhütsüz. Ücret yok.
 
 ---
 
 ## Bölüm 2: Acı Tanıma
 
-*Tasarımcıya not: Bu bölümün amacı — müşteriyi "bu kesinlikle benim durumum" dedirtmek. Özsuçlama yok — sadece tanıma.*
-
-### Başlık
-
-**Bu durumlardan herhangi biri tanıdık mı?**
-
-- Toplantıda yabancı biri oturunca sesin çıkmıyor — kafanda cümleyi kuruyorsun ama ağzından çıkmıyor
-- Özgeçmişine "iyi derecede İngilizce" yazıyorsun ama içinden "yarın sınasalar geçemem" diye düşünüyorsun
-- Yurt dışına gittiğinde ne yemek sipariş edeceğini google translate'le çözüyorsun
-- İş görüşmesinde "İngilizce biliyor musunuz?" sorusu gelince "yazılı anlıyorum" diyorsun
-- Bir daha kursa para vermeye korkuyorsun çünkü hep aynı son: gramer, gramer, gramer — konuşma yok
-
-Eğer bunlardan en az biri tanıdık geliyorsa — devam et. Bu sayfa senin için.
+**Bu bölümün amacı:** Ziyaretçi "Bu tam benim durumum" demeli. Müşteri kendini görülmüş ve anlaşılmış hissetmeli. Suçlama yok — yansıtma var.
 
 ---
 
-## Bölüm 3: Kırılma Anı — "Bu Senin Hatan Değil"
+**Başlık:** Senin durumun bu mu?
 
-*Tasarımcıya not: Bu bölümün amacı — müşterinin içselleştirdiği "belki ben aptaldım" inancını kırmak. Bu kırılma olmadan hiçbir satış çalışmaz.*
+- Toplantıda yabancı biri İngilizce soruyor. Kafanda cümle var — ama ağzından çıkmıyor. Susuyorsun. Sonra o pozisyon başkasına gidiyor.
 
-### Başlık
+- Özgeçmişine "iyi derecede İngilizce" yazdın. Ama yabancı bir müşteri geldiğinde başka odaya geçiyorsun. İçten içe biliyorsun bu çelişkiyi.
 
-**Neden bu kadar yıl okudun ama konuşamıyorsun?**
+- Para verdin. Kurs aldın. Gramer öğrendin. Ama konuşma yok. Ve artık içinden geçiyor: "Belki ben gerçekten dil yeteneği olmayan birisiyim."
 
-Türkçe'yi kaç yaşında öğrendin? İki, üç yaşında. Sana o zaman gramer tablosu gösterdiler mi? Hayır. Konuşarak öğrendin.
+- Yurt dışına gidince yanındakini iter misin? Otelde, havalimanında, restoranda — sesin çıkmıyor. Bu his her seyahatten daha uzun sürüyor.
 
-İngilizce derslerinde geçirdiğin yılların kaçında sahici konuşma pratiği yaptın? Büyük ihtimalle sıfır ya da sıfıra yakın. Zamanlar öğretildi. Kurallar ezber yaptırıldı. Test çözüldü. Ama konuşma olmadı.
+- Bir üst pozisyon, uluslararası proje, kariyer adımı. Hepsi "İngilizce bilene" gidiyor. Sen izliyorsun.
 
-Kimse konuşmadan konuşmayı öğrenemez. Bu bir yetenek meselesi değil. Bu bir yöntem meselesi.
+Eğer bunlardan biri sana tanıdık geldiyse — devam et. Çünkü bu durumun sebebini ve çözümünü burada açıklıyoruz.
 
-**Sorun sen değildin. Sorun sistemdi. Ve sistem değişebilir.**
+---
+
+## Bölüm 3: Sistem Suçu
+
+**Bu bölümün amacı:** "Belki ben aptalım" inancını kırmak. Müşteriye suçun kendisinde değil, yanlış sisteme maruz kalmakta olduğunu göstermek. Bu bölüm duygusal kırılma noktası.
+
+---
+
+**Başlık:** Bu senin hatan değil.
+
+Türkiye'de İngilizce eğitimi şu şekilde tasarlandı: gramer ezberlet, sınav geçir, notu yükselt. Konuşturmak? Hiç gündemde değildi.
+
+8 ila 12 yıl boyunca zamanlar öğrendin, bağlaçlar öğrendin, edilgen yapılar öğrendin. Ama hiç kimse seni gerçek anlamda konuşturmadı.
+
+Ve konuşma pratiği olmadan dil aktive olmuyor. Bu bir yorum değil — dilbilimin temel gerçeği. Bebek Türkçe'yi nasıl öğrendi? Gramer kitabı okuyarak değil — konuşarak. Sen de Türkçe'yi konuşarak öğrendin. İngilizce'yi ise gramer ezberleyerek öğrenmeye çalıştın. Sistem böyle kurulmuştu.
+
+Sorun gramer bilgin yok değil. Sorun gramer bilgini konuşmaya dönüştürecek pratik hiç yapılmadı.
+
+Sistem seni başarısız kılmak için değil — gramer sınavından geçirmek için tasarlandı. O amacı başardı. Konuşturmak amacıyla değil.
+
+Şimdi doğru sistem var.
 
 ---
 
 ## Bölüm 4: Sosyal Kanıt
 
-*Tasarımcıya not: Bu bölümün amacı — "bu gerçekten işe yarıyor mu?" şüphesini kırmak. Öğrenci hikayeleri için şablon.*
-
-### Başlık
-
-**Sıfır reklam verdik. 100 öğrenciye ulaştık. Nasıl?**
-
-Öğrenciler arkadaşlarını getirdi. Çünkü konuştular.
+**Bu bölümün amacı:** "Bu da aynı diğerleri gibi" şüphesini kırmak. Organik büyümeyi güven kanıtına dönüştürmek. Bireysel hikayeler için yer açmak.
 
 ---
 
-**[Öğrenci Hikayesi Şablonu 1 — Yetişkin Kariyer]**
+**Başlık:** Sıfır Reklam. 100 Öğrenci. Neden?
 
-*"[İsim], [yaş], [meslek].*
+Bugüne kadar hiç reklam vermedik. Sosyal medyada ücretli kampanya yok. Broşür yok. Kalabalık fuarlar yok.
 
-*Beş yıl önce bir iş görüşmesinde İngilizce sorusu geldi ve donup kaldım. O günden beri o pozisyona başvurmayı bıraktım.*
+Yine de 100 aktif öğrencimiz var.
 
-*KonuşAmerika 5'te 5 ay geçirdim. Geçen ay aynı tür bir görüşmeye girdim. Bu sefer cevap verdim. İşi aldım.*
+Bu nasıl oluyor? Öğrenci konuşmaya başlıyor. Bunu işe gidince, ailesiyle konuşunca, arkadaşlarına anlatınca — biri soruyor: "Nerede öğrendin?" Böyle büyüdük.
 
-*Sorun ben değilmişim. Yöntem yanlışmış."*
+Bu olmayan bir şeyin reklamı değil — gerçek sonucun yayılması.
+
+---
+
+**[Öğrenci Hikayesi Şablonu 1 — Yetişkin / Kariyer]**
+
+"[Ad, yaş, meslek]"
+
+"[Program öncesi durum: ne yapamıyordu, ne kaçırıyordu, nasıl hissediyordu.]"
+
+"[Dönüm noktası: KonuşAmerika'ya neden geldi.]"
+
+"[5 ay sonra: ne değişti, hangi somut fırsat açıldı.]"
+
+*[Fotoğraf / video]*
 
 ---
 
 **[Öğrenci Hikayesi Şablonu 2 — Ebeveyn]**
 
-*"[İsim], [yaş]'ındaki çocuğunun velisi.*
+"[Ad, meslek]"
 
-*Ben de böyle büyüdüm — yıllarca İngilizce, hiç konuşamadım. Çocuğumun aynı yolu gitmesini istemiyordum.*
+"Çocuğum [ad], [yaş]. [Program öncesi: ne yapamıyordu, hangi kursları denemiş, nasıl sonuçlanmış.]"
 
-*5 ay sonra çocuğum yabancıyla cümle kuruyor. Gramer defteri yok. Konuşma var."*
+"[5 ay sonra: ne yapabiliyor artık. Ebeveynin gözlemlediği somut değişim.]"
+
+*[Fotoğraf / video]*
 
 ---
 
-**[Rakamsal Kanıt Bloğu]**
-
-- 100+ aktif öğrenci — sıfır reklam ile
-- 500.000 TL/ay gelir — organik büyüme
-- 5 yıllık faaliyet — Antakya'da
-- Antakya'da yüzde yetmiş konuşma oranıyla tek okul
+*Not: Bu bölüme en az 3 gerçek öğrenci hikayesi eklenmelidir. Yüz, isim ve somut öncesi/sonrası — bunlar olmadan garanti bile tam inandırıcı olmuyor.*
 
 ---
 
 ## Bölüm 5: Program Detayı
 
-*Tasarımcıya not: Bu bölümün amacı — "peki tam olarak ne alıyorum?" sorusunu yanıtlamak.*
-
-### Başlık
-
-**İki Program. Farklı başlangıç noktaları. Aynı hedef: konuşmak.**
+**Bu bölümün amacı:** "Bu nasıl çalışıyor?" sorusunu net ve sade biçimde yanıtlamak. 4 adımda açıklamak — karmaşıklık yok.
 
 ---
 
-### KonuşAmerika 5 — 5 Ayda Konuşma Sistemi
+**Başlık:** KonuşAmerika Nasıl Çalışıyor?
 
-**Kim için:** Kariyer veya günlük hayat için gerçek konuşma kapasitesi isteyen yetişkin. Ya da çocuğuna temel İngilizce konuşma becerisi kazandırmak isteyen ebeveyn.
+**Adım 1 — Nerede Başlıyorsun?**
+Kayıt öncesinde ücretsiz 30 dakikalık Konuşma Engeli Tespiti yapıyoruz. Şu an hangi CEFR seviyesindesin, 5 ayda nereye gidebilirsin, engelin tam olarak ne — somut olarak görüyorsun. Taahhüt yok.
 
-**Neler dahil:**
-- 5 ay boyunca haftada 3 seans, 60 dakika
-- Her dersin %30'u gramer altyapısı, %70'i konuşma pratiği
-- 4–6 kişilik küçük grup (aynı CEFR başlangıç seviyesinden)
-- CEFR başlangıç değerlendirmesi + dönem sonu ilerleme ölçümü
-- Ayda 1 bireysel ilerleme görüşmesi (10–15 dakika)
-- WhatsApp destek grubu — haftalık pratik egzersizler
-- 4 telafi dersi hakkı
-- Dönem sonu CEFR ilerleme belgesi
+**Adım 2 — Program Başlıyor**
+Haftada 3 gün, 60 dakika. Maks. 6 kişilik küçük grup — senin başlangıç seviyenden insanlarla. Her dersin %70'i konuşma pratiği: gerçek senaryolar, diyaloglar, simülasyonlar. Gramer ihtiyaç duyuldukça öğretiliyor — ayrı bir ders olarak değil.
 
-**Fiyat:** 5.500 TL/ay → 5 ay toplam
+Zaman kısıtın mı var? Esnek saat seçenekleri var — sabah erken veya akşam üstü. 4 telafi dersi hakkın var. Bir hafta kaçırsan telafi edebilirsin.
+
+**Adım 3 — İlerlemeni Görüyorsun**
+Her ay CEFR ölçümü. Başladığın seviye kayıtlı. Her ay "Bu ay neredeyim?" sorusunun cevabı sayıyla gelecek. Muğlaklık yok. Her ay birebir Dönüşüm Kontrolü görüşmesiyle öğretmenin ile konuşuyorsun.
+
+**Adım 4 — 5 Ay Sonunda**
+CEFR belgeli sonuç. Özgeçmişine yazabileceğin uluslararası geçerli ilerleme belgesi. Ve en önemlisi: toplantıda, yurt dışında, iş görüşmesinde — artık susmuyor, konuşuyorsun.
 
 ---
 
-### KonuşAmerika Yaz Sprint — 1 Ayda Başla
+**KonuşAmerika Yaz Sprint — Önce Deneyelim mi?**
 
-**Kim için:** "Deneyelim bakalım" kafasında olan, uzun taahhütten çekinen, ya da hızlı bir başlangıç isteyen kişi.
+"5 aylık taahhüt vermek için henüz emin değilim" diyorsan — Yaz Sprint tam sana göre.
 
-**Neler dahil:**
-- 4 hafta yoğun format — haftada 5 seans, 45 dakika
-- İlk haftadan itibaren gerçek konuşma senaryoları
-- CEFR giriş değerlendirmesi
-- Ana programa geçiş için önerilen başlangıç noktası
+4 haftada yoğun konuşma pratiği. Haftada 5 seans, 45 dakika. Temel iletişim kapasitesi: kendini tanıtmak, yönleri sormak, basit günlük diyalog kurmak.
 
-**Fiyat:** 7.500 TL / 1 ay
+4 hafta sonunda "Bu çalışıyor" diyorsan — 5 aylık KonuşAmerika 5 programına öncelikli geçiş hakkın var.
+Fiyat: 7.500 TL / 1 ay.
 
 ---
 
 ## Bölüm 6: Değer Yığını
 
-*Tasarımcıya not: Bu bölümün amacı — fiyatın küçük görünmesini sağlamak, değer algısını somutlaştırmak.*
+**Bu bölümün amacı:** Fiyatı söylemeden önce alınan değeri somutlaştırmak. "Bu kadar para vermek mantıklı mı?" sorusunu önceden yanıtlamak. Toplam değer fiyatın 2 katından fazla gösterilmeli.
 
-### Başlık
+---
 
-**KonuşAmerika 5'te ne alıyorsun?**
+**Başlık:** KonuşAmerika 5'e Katıldığında Ne Alıyorsun?
 
-| Bileşen | Bağımsız Değer |
-|---|---|
-| 5 aylık konuşma odaklı program (~60 seans) | 18.000 TL |
-| CEFR başlangıç ve bitiş değerlendirmesi | 1.000 TL |
-| Kişisel konuşma ilerleme haritası | 800 TL |
-| 5 bireysel ilerleme görüşmesi (aylık) | 2.500 TL |
-| "İlk 60 Dakikada Konuşun" açılış paketi | 600 TL |
-| WhatsApp destek + haftalık egzersizler | 1.200 TL |
-| Dönem sonu CEFR ilerleme belgesi | 500 TL |
-| Yazılı Konuşma Garantisi Belgesi | Değeri ölçülemez |
-| **Toplam Yığın Değeri** | **~24.600 TL** |
-| **Gerçek Fiyat** | **5.500 TL/ay** |
+| Bileşen | Açıklama | Değer |
+|---|---|---|
+| 5 Aylık Konuşma Dönüşüm Programı (~60 seans) | Haftada 3 gün, maks. 6 kişilik küçük grup, %70 konuşma odaklı. Piyasada bireysel derste bu saatler 35.000 TL tutar. | 35.000 TL |
+| Kişisel 5 Aylık Konuşma Yol Haritası | Başlangıç seviyenizden hedef seviyenize giden özel plan. Her ay ne yapacağınızı önceden biliyorsunuz. | 1.500 TL |
+| Aylık Dönüşüm Kontrolü (5 seans) | Her ay öğretmeninizle birebir: bu ay ne ilerlediniz, nerede takıldınız, önümüzdeki ay ne yapacaksınız. | 5.000 TL |
+| İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı | İlk ders sonunda kendinizi yabancıya İngilizce tanıtıyorsunuz. "Bu işe yarıyor" hissi ilk saatte geliyor. | 800 TL |
+| Günlük Konuşma Sahası (WhatsApp, 5 ay) | Ders saatleri bitmeden pratik bitmiyor. Günlük sorular, kısa egzersizler, öğrendiklerinizi pekiştirme. | 2.500 TL |
+| Konuşma Engeli Tespiti — Ücretsiz 30 Dakika + PDF Rapor | Kayıt öncesi neden hâlâ konuşamadığınızı somut olarak görüyorsunuz. | 800 TL |
+| Uluslararası Konuşma Düzeyi Belgesi (CEFR Onaylı) | Özgeçmişinize yazabileceğiniz, uluslararası geçerli ilerleme belgesi. Başladığınız yer ile bitirdiğiniz yer yan yana. | 1.200 TL |
+| 5 Ay Konuşma Garantisi — Yazılı Taahhüt Belgesi | "5 ayda konuşamazsan ücret iade" — bu bir söz değil, imzalanan belge. | 5.000 TL |
+| Esnek Saat Seçeneği + 4 Telafi Dersi Hakkı | Hayat sizi koparsa telafi var. Bir hafta kaçırsanız geri dönebilirsiniz. | 2.000 TL |
+| **Toplam Değer** | | **53.800 TL** |
+| **KonuşAmerika 5 Fiyatı** | | **27.500 TL (5.500 TL/ay x 5 ay)** |
 
-*Günlük çerçeveleme: 5 ay, 5.500 TL/ay = günde 183 TL. Bir öğle yemeği.*
+Fiyatın 2 katı değer. Ve konuşamazsan — ücret iade.
 
 ---
 
 ## Bölüm 7: Garanti
 
-*Tasarımcıya not: Bu bölümün amacı — "bir daha para batarsa" korkusunu tamamen ortadan kaldırmak.*
+**Bu bölümün amacı:** "Yine para harcayıp hayal kırıklığı yaşarım" korkusunu tamamen kaldırmak. Risk müşteriden okula transfer edilmeli.
 
-### Başlık
+---
 
-**5 Ayda Konuşamazsan — Tüm Ücretini İade Ediyoruz**
+**Başlık:** 5 Ay Konuşma Garantisi
 
-Bu bir pazarlama lafı değil. Yazılı sözleşme.
+Antakya'da bunu söyleyen başka okul yok.
 
-**Koşullar:**
-- Derslerin %80'ine katılım (5 ayda 48/60 seans)
-- Haftalık pratik görevleri tamamlama
-- 5 ay sonunda CEFR değerlendirmesi
+Biz söylüyoruz.
 
-Bu iki koşul sağlanır ve 5 ay sonunda konuşma kapasitesinde ölçülebilir ilerleme olmazsa — ücretin tamamı iade edilir.
+**Garanti nasıl çalışır:**
+
+KonuşAmerika 5 programına katıl. 5 ay boyunca seansların %80'ine devam et. Haftalık pratik görevlerini tamamla. 5 ayın sonunda İngilizce konuşma kapasitesi kazanamamışsan — ödediğinin tamamını iade ediyoruz.
+
+Bu bir söz değil. Kayıt anında imzalanan belgedir.
 
 **Neden bu garantiyi verebiliyoruz?**
 
-Çünkü zaten çalışıyor. 100 öğrencimiz var. Öğrenciler arkadaşlarını getiriyor. Sonuç üretmeyen bir okul bu büyümeyi organik olarak yapamazdı.
+Çünkü sistemimizin çalıştığını biliyoruz. 100 öğrenci, sıfır reklam — bu organik büyüme gerçek sonucun kanıtı. Rakipler garanti veremiyor çünkü sonuç üretmiyorlar. Biz verebiliyoruz çünkü üretiyoruz.
 
-Bu garantiyi Antakya'da başka bir okul veriyor mu? Hayır. Biz veriyoruz. Çünkle arkasındayız.
+Koşullar nettir. İki şey istiyoruz: devam ve pratik. Gerisini biz hallediyoruz.
 
 ---
 
 ## Bölüm 8: Fiyat
 
-*Tasarımcıya not: Bu bölümün amacı — fiyatı değer bağlamında sunmak, "çok pahalı" düşüncesinin gelmesini önlemek.*
-
-### Başlık
-
-**Yatırım — Kariyer Bağlamında**
-
-Türkiye'de İngilizce konuşabilen biri ile konuşamayan arasındaki yıllık maaş farkı ortalama 60.000 – 100.000 TL.
-
-Bu program toplam 27.500 TL. Tek bir kariyer adımı bu programı 3 ila 4 kat geri öder.
+**Bu bölümün amacı:** Fiyatı değer bağlamında sunmak. Karşılaştırma yapmak. "Bu kadar vermek mantıklı mı?" sorusuna "evet" dedirtmek. Günlük çerçeveleme kullanmak.
 
 ---
 
-**KonuşAmerika Yaz Sprint**
-7.500 TL — 1 ay, taahhütsüz başlangıç
+**Başlık:** Yatırım
 
-**KonuşAmerika 5**
-5.500 TL/ay — 5 ay, garantili sonuç
+KonuşAmerika 5: 5.500 TL/ay — Toplam 27.500 TL (5 ay)
 
-**Premium (Birebir + Küçük Grup)**
-9.500 TL/ay — tamamen kişiselleştirilmiş
+Bunu bir perspektife oturtalım:
+
+Türkiye'de İngilizce konuşan bir çalışan ile konuşamayan arasındaki yıllık maaş farkı ortalama 60.000 ile 100.000 TL. Bu program maliyeti tek bir kariyer adımıyla ilk yılda geri dönüyor.
+
+Şu ana kadar İngilizce kurslarına ne kadar harcadın? Gramer öğreten ama konuşturmayan kurslara? O para gitti — ve bu sefer hâlâ konuşamıyorsun. Bu program çalışmıyorsa paranı geri alırsın.
+
+Günlük çerçeve: 5.500 TL/ay, günde 183 TL. Bir öğle yemeği fiyatına, her gün konuşma pratiği. Fark şu: öğle yemeği yarın seni toplantıda konuşturmaz. Bu program konuştururur.
+
+**Aylık ödeme:** 5.500 TL/ay x 5 ay. "Toplam 27.500 TL" yerine aylık düşün.
+
+**KonuşAmerika Yaz Sprint:** 7.500 TL / 1 ay. Önce dene, sonra karar ver.
 
 ---
 
-*Aylık ödeme seçeneği mevcuttur. Erken kayıt için ilk 5 kişiye 5.000 TL/ay sabitleniyor.*
+**Karşılaştırma:**
+
+| Seçenek | Maliyet | Sonuç |
+|---|---|---|
+| Bireysel özel ders (haftada 3 gün, 5 ay) | 35.000-50.000 TL | Sadece ders, takip yok, garanti yok |
+| Klasik dil kursu (yıllarca denediler) | 3.000-15.000 TL/yıl | Gramer odaklı — zaten denediniz, çalışmadı |
+| Yurt dışı dil okulu (1 ay) | 60.000-100.000 TL | Kısa dönem, garanti yok |
+| **KonuşAmerika 5** | **27.500 TL / 5 ay** | **%70 konuşma, CEFR ölçümlü, garanti altında** |
 
 ---
 
-## Bölüm 9: SSS
+## Bölüm 9: Sıkça Sorulan Sorular
 
-*Tasarımcıya not: Bu bölümün amacı — sayfa terk edilmeden son itirazları kırmak.*
+**Bu bölümün amacı:** Satın alma kararını engelleyen son itirazları ortadan kaldırmak. SSS bölümü itiraz haritasının son savunma hattı.
 
-**S: "Daha önce kurslara para verdim, yine mi hayal kırıklığı yaşayacağım?"**
+---
 
-C: Bu endişeyi anlıyoruz. Fark şu: daha önce gittiğin kurslarda her dersin kaçında gerçek konuşma pratiği yaptın? Büyük ihtimalle sıfır. Biz %70 zamanı konuşmaya harcıyoruz. CEFR ile başlangıcını ölçüyoruz, ilerlemeyi takip ediyoruz. Ve 5 ayda konuşamazsan ücret iade. Riski biz üstleniyoruz.
+**S: Daha önce birçok kurs aldım ve hiçbirisi işe yaramadı. Bu neden farklı?**
+C: Daha önce aldığın kurslar büyük ihtimalle zamanın %70-80'ini gramer anlatmaya harcadı. Konuşma pratiği minimum düzeyde kaldı. KonuşAmerika'da tam tersi: her dersin %70'i konuşma. Bu yapısal bir fark. Üstelik 5 ayda konuşamazsan ücret iade. Önceki kurslar bunu söyledi mi?
 
-**S: "Belki ben dil yeteneği olmayan birisiyim."**
+**S: Haftada 3 gün programa devam etmek zor olabilir — işim çok yoğun.**
+C: Haftada 3 seans, her biri 60 dakika. Toplam haftada 3 saat. Sabah erken veya akşam üstü saat seçenekleri var — iş programına göre seçiyorsun. Bir hafta iş yoğunluğu nedeniyle kaçırırsan — 4 telafi dersi hakkın var. Programı senin hayatına göre esnek tasarladık.
 
-C: Türkçe'yi kaç yaşında öğrendin? Gramer kitabı okumadan. Konuşarak öğrendin. İngilizce de böyle öğrenilir — kullanarak. Türk eğitimi bunu hiç yaptırmadı. Sorun yetenek değil, maruz kalınan sistem. Mevcut öğrencilerimizin büyük çoğunluğu aynı düşünceyle geldi — 5 ay sonra aynı düşüncede değiller.
+**S: Bu program sınav hazırlığı (LGS, YKS, IELTS) için uygun mu?**
+C: Hayır. KonuşAmerika gerçek iletişim öğretiyor — sınav stratejisi değil. İş hayatında, günlük yaşamda, yurt dışında kullanabileceğin konuşma İngilizcesi. Sınav hazırlığı arıyorsan bu program sana uygun değil. Ama konuşmak istiyorsan — tam yerindesin.
 
-**S: "Grup mu? Bireysel ilgi olmaz mı?"**
+**S: Kaç yaşında başlamak çok geç olmaz mı?**
+C: Sorun yaş değil — yöntem. 30-40 yaş öğrencilerimiz 5 ayda somut sonuç aldı. Yetişkinlerin bir avantajı var: neden öğrendiğini biliyorsun. Kariyer, iletişim, kişisel hedef — bu netlik öğrenmeyi hızlandırıyor.
 
-C: Maksimum 4–6 kişi. 20-30 kişilik kalabalık sınıf değil. Öğretmen herkesi tanıyor. Her ay sana özel ilerleme görüşmesi var. Bu düzey kişiselleştirme çoğu özel ders programında dahi yok.
-
-**S: "Zamanım yok, programım yoğun."**
-
-C: Haftada 3 seans, 60 dakika. Sabah erken ve akşam üstü saat seçenekleri var. Kaçırılan dersler için 4 telafi hakkı var. Programını durdurmana gerek yok — bu program programının içine giriyor.
-
-**S: "Sınav hazırlığı yapıyor musunuz?"**
-
-C: Hayır. Bu okul LGS, YKS veya herhangi bir sınav hazırlığı yapmıyor. Eğer hedefin sınav puanı ise, başka bir okul daha uygun olabilir. Eğer hedefin gerçekten konuşmak, iş hayatında veya günlük hayatda İngilizce kullanmak ise — bu okul tam senin için.
+**S: Garantiyi nasıl ispat edebilirim, gerçekten ödeme yapılıyor mu?**
+C: Garanti kayıt anında imzalanan belgedir — sözlü vaat değil. Koşullar nettir: seansların %80'ine katılmak ve haftalık pratik görevleri tamamlamak. Bu koşulları karşılarsan ve 5 ayda konuşma kapasitesi kazanmazsan — ödediğinin tamamı iade edilir. Belgeyi imzalamadan kayıt tamamlanmaz.
 
 ---
 
 ## Bölüm 10: Final CTA
 
-*Tasarımcıya not: Bu bölümün amacı — son bir itki, korkusuz aksiyon.*
-
-### Başlık
-
-**Bu engeli kaç yıldır taşıyorsun?**
-
-Bırakmak 5 ay alıyor. Başlamak 30 dakika.
-
-Ücretsiz CEFR değerlendirmesinde şunları öğreniyorsun:
-- Şu an hangi seviyedesin
-- 5 ayda nereye gelebilirsin
-- KonuşAmerika 5 sana uygun mu
-
-Taahhüt yok. Para yok. Sadece 30 dakika.
-
-### CTA Butonu (Büyük, Görünür)
-
-**Ücretsiz Değerlendirmemi Rezerve Et**
-
-*(Alt metin: Kontenjan sınırlıdır — 4–6 kişilik gruplarda yer her zaman açık olmayabilir.)*
+**Bu bölümün amacı:** Ziyaretçiyi harekete geçirmek. Sonucu bir kez daha hatırlatmak. Düşük riskli ilk adımı net sunmak.
 
 ---
 
-### Son Güven İmzası
+**Başlık:** Bir Adım Yeterli
 
-"Sıfır reklam verdik. 100 öğrenciye ulaştık. Çünkü öğrenciler arkadaşlarını getirdi. Çünkü konuştular."
+5 ay boyunca her şey farklı çalışabilir.
 
-— Antakya American Culture Language School
+Toplantıda, iş görüşmesinde, yurt dışında — artık susmuyor, konuşuyorsun. İçindeki "Belki ben yapamam" inancı gitmiş. Çünkü yaptın.
+
+Ya da 5 ay sonunda aynı yerde oluyorsun. Ama bu sefer paranı da geri aldın.
+
+Her iki durumda da kaybedecek hiçbir şeyin yok.
+
+Başlamak için tek yapman gereken şey: 30 dakikalık ücretsiz Konuşma Engeli Tespiti. Neden hâlâ konuşamadığını somut olarak gösteriyoruz. Sonra sen karar veriyorsun.
+
+**Buton:** Ücretsiz Konuşma Engeli Tespiti'ne Kayıt Ol
+
+**Buton altı:** 30 dakika. Taahhütsüz. Ücret yok.
 
 ---
 
-*Kaynak: OFFER.md, OFFER_ANGLES.md, OBJECTIONS.md, PRICING.md*
+*Tasarımcı notu: CTA butonu sayfanın her ana bölümünün sonunda tekrarlanmalı. Mobil görünümde buton her zaman ekranın alt kısmında sabit tutulmalı. Renk: dikkat çekici, sayfa renk paleti ile kontrast.*
+
+---
+
+*Kaynak: OFFER.md, BONUS_STACK.md, OBJECTIONS.md, PRICING.md, VALUE_PERCEPTION.md, OFFER_AUDIT.md*
