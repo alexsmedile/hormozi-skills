@@ -1,63 +1,119 @@
 # MARKET_RESEARCH.md
+# Antakya Amerikan Kültür Dil Okulu — Pazar Araştırması
+
+---
 
 ## 1. Değerlendirilen Mikro-Nişler
 
-| Niş | Acı (1-10) | Para (1-10) | Erişim (1-10) | Büyüme (1-10) | Toplam |
+| Niş | Acı Yoğunluğu | Satın Alma Gücü | Erişilebilirlik | Büyüme | Toplam |
 |---|---|---|---|---|---|
-| 8-14 yaş arası çocuğu olan, sınav kaygısı taşıyan orta-üst gelirli Antakya aileleri | 9 | 7 | 8 | 8 | 32/40 |
-| LGS/YKS hazırlığındaki 14-18 yaş Antakya lise öğrencileri | 10 | 7 | 8 | 9 | 34/40 |
-| Terfi veya yurt dışı fırsatı arayan 25-40 yaş çalışan yetişkinler | 7 | 8 | 6 | 7 | 28/40 |
-| Göç veya yurt dışı seyahat planı yapan 20-35 yaş gençler | 8 | 6 | 7 | 8 | 29/40 |
-| İlkokul çağı çocuğuna erken İngilizce başlatmak isteyen aileler (6-10 yaş) | 7 | 7 | 7 | 8 | 29/40 |
+| Kariyerinde İngilizce engeline takılan yetişkinler (22–40) | 9/10 | 8/10 | 8/10 | 9/10 | 34/40 |
+| Yurt dışına gitmek isteyen veya giden yetişkinler | 8/10 | 7/10 | 7/10 | 8/10 | 30/40 |
+| Çocuğu (8–14) arkadaşlarından önde olsun isteyen ebeveynler | 8/10 | 9/10 | 9/10 | 8/10 | 34/40 |
+| Sosyal özgüveni düşük, konuşamayan gençler (15–18) | 7/10 | 5/10 | 6/10 | 7/10 | 25/40 |
+| Yıllarca İngilizce okuyan ama konuşamayan üniversite mezunları | 9/10 | 7/10 | 8/10 | 8/10 | 32/40 |
+
+---
 
 ## 2. Seçilen Niş
 
-- **Kim**: LGS veya YKS sınavına hazırlanan, İngilizce puanı düşük olduğu için okul başarısı ve üniversite hayalleri tehdit altında hisseden 13-17 yaş Antakya liseli öğrencileri ve onların kaygılı aileleri.
-- **Neden**: En yüksek acı + para kombinasyonu. Sınav tarihi sabit ve değiştirilemez — bu da çözümü ertelemeyi imkânsız kılar. Aileler bu hedefe zaten para harcıyor (dershane, özel ders); harcamaya istekli kitle mevcut. Antakya'da bu spesifik açıyı hedefleyen rakip yok.
+**Birincil odak:** Kariyerinde İngilizce engeline takılan, yıllarca İngilizce okuduğu halde iş görüşmesinde, toplantıda veya yabancıyla karşılaştığında konuşamayan Antakyalı yetişkin (22–40).
+
+**Eş zamanlı ikincil niş:** Çocuğunun okul İngilizce'sinin çok ötesine geçmesini, sınıftaki en iyi konuşan öğrenci olmasını isteyen ebeveyn.
+
+**Neden bu ikisi:** Her ikisi de aynı anda yüksek acı yoğunluğu ve satın alma gücü taşıyor. Ebeveyn nişi özellikle güçlü — çocuğu için harcama duygusal olarak daha kolay meşrulaştırılır; satın alma kararını veren ebeveyn, acıyı yaşayan ise çocuktur — bu iki katmanlı motivasyon satın alma eşiğini düşürür. Yetişkin kariyer nişi ise en yüksek kişisel acıyı ve en acil "şimdi çözmem lazım" duygusunu barındırıyor.
+
+---
 
 ## 3. Müşteri Acı Haritası
 
-### Yüzeysel Acı (Dışarıya Söyledikleri)
-- "Çocuğumun İngilizce notu çok düşük, sınıfı geçemeyebilir."
-- "LGS'de İngilizce bölümünden puan kayıpları oluyor, bütün ortalamamızı etkiliyor."
-- "Diğer çocuklar özel ders alıyor, biz de bir şeyler yapmamız lazım."
-- "Gittiği kurs hiç işe yaramadı, para ziyan ettik."
+### A. Yetişkin Kariyer Segmenti
 
-### Derin Acı (Arkasında Yatan)
-- "Çocuğum çabalıyor ama ilerleyemiyor; bu onun özgüvenini mahvediyor."
-- "Ben bu şehirde takılıp kaldım, çocuğum en azından daha iyi bir hayata sahip olsun istiyorum."
-- "Sınav tarihi yaklaşıyor, zamanımız tükeniyor ve elimizden bir şey gelmiyor gibi hissediyorum."
-- "Doğru yere para harcayıp harcamadığımı bile bilmiyorum."
+#### Yüzey Acısı (Dışarıya Söyledikleri)
+- "İngilizce biliyorum aslında, sadece konuşmakta zorlanıyorum"
+- "Yıllarca ders aldım ama iş yerinde kullanamıyorum"
+- "Toplantıda bir yabancı gelince susuyorum, utanıyorum"
+- "Özgeçmişime 'iyi derecede İngilizce' yazıyorum ama aslında sadece yazılı anlıyorum"
 
-### Gizli Acı (İçlerinde Taşıdıkları)
-- "Bu ülkede İngilizce bilmeden hiçbir yere gidemezsin — çocuğum da mahkum olacak mı?"
-- "Antakya'daki kursların hepsi aynı; burada kaliteli eğitim bulamayacağız."
-- "Başka şehirlerdeki çocukların çok daha iyi imkânları var, bu adaletsiz."
-- "Belki çocuğum bu sınav için gerçekten yeterli değil."
+#### Derin Acı (Arkasında Yatan)
+- Türk eğitim sisteminin verdiği hasarlı inançla yaşıyorlar: "Belki ben dil yeteneği olmayan birisiyim"
+- Kariyerde tavan hissediyorlar — o bir üst pozisyon, o uluslararası proje, o terfi; hepsi İngilizce bilen birine gidiyor
+- Kendini yetersiz hissettiren durumların tekrar etmemesi için fırsatlardan kaçınıyorlar
+- Yıllarca harcanan emek ve paranın boşa gittiğini düşünüyorlar: "Ne kadar ders alsam olmaz" inancı oluşmuş
 
-### Gece Yarısı Düşünceleri (Hiç Dile Getirmedikleri)
-- "Çocuğum İngilizce öğrenemezse iyi bir üniversiteye giremez, ve bu büyük ölçüde benim hatam olacak."
-- "Yıllarca para verdim kurslara, hiçbir işe yaramadı — belki de artık çok geç."
-- "Arkadaşlarının çocukları Ankara'ya, İstanbul'a okumaya gidecek. Bizimki Antakya'da kalacak mı?"
-- "Depremden sonra her şey alt üst oldu, çocuğumun geleceği için ne yapabildiğimi bilmiyorum."
-- "Eğer şimdi doğru adımı atmazsam, bu fırsatı bir daha yakalayamayabiliriz."
+#### Gizli Acı (Hiç Dile Getirmedikleri)
+- Türk eğitim sisteminin kendilerini mahvettiğini düşünüyorlar ama bunu söylemek istemiyorlar — sistemi sorgulamak kendi geçmişlerini sorgulamak gibi hissettiriyor
+- "Belki ben aptalım" korkusu var — çünkü yıllarca okuyup öğrenemediler ve mantıklı tek açıklama bu gibi geliyor
+- Başkalarının ne kadar kolay konuştuğunu gördükçe (diziler, sosyal medya) daha da küçülüyorlar
+
+#### Gece Yarısı Düşünceleri
+- "Bu işe başvursam İngilizce sınav var — yine geçemeyeceğim."
+- "On iki yıl İngilizce dersi aldım, hâlâ bir cümle kuramıyorum. Bu benim sorunum değil, sistemin sorunu — ama bunu kimse dinlemez."
+- "Yabancı bir müşteri gelirse ne yapacağım? Yine mi kaçacağım?"
+- "Bir daha para ve zaman harcasam, yine aynı şeyi mi öğreterek vakit geçirecekler?"
+- "Kaç yaşında öğreneceğim artık? Geç mi kaldım?"
+
+---
+
+### B. Ebeveyn Segmenti (Çocuk: 8–14)
+
+#### Yüzey Acısı
+- "Okul İngilizce'si çok zayıf kalıyor, özel ders aldırmak istiyorum"
+- "Testlerde iyi not alıyor ama konuşamıyor"
+- "Yurt dışına gittiğinde hiçbir şey anlatamıyor"
+
+#### Derin Acı
+- Kendi çektikleri acının — yukarıdaki yetişkin acısı — çocuklarında tekrar etmesini istemiyorlar
+- Çocuklarının gelecekte iş dünyasında ve dünyada geri kalmasından korkuyorlar
+- "Biz böyle büyüdük, çocuğum daha iyi olsun" motivasyonu güçlü bir itici güç
+
+#### Gizli Acı
+- Başka çocukların İngilizce konuştuğunu gördüklerinde içten içe rekabetçi bir korku uyanıyor
+- "İyi bir ebeveyn olarak çocuğuma en iyisini sunmak benim görevim" baskısı hissediyorlar
+
+#### Gece Yarısı Düşünceleri
+- "Çocuğum da benim gibi büyüyecek — ne kadar ders alsa konuşamayacak."
+- "Diğer çocuklar zaten konuşuyor. Benim çocuğum geride kalacak."
+- "Sınav geçirttiren kurs mu, gerçekten konuşturan kurs mu — ikisini nasıl ayırt edeceğim?"
+
+---
 
 ## 4. Talep Değerlendirmesi
 
-- **Alıcılar mı, Gezginler mi**: Büyük ölçüde **Alıcılar**. LGS/YKS gibi sabit sınav tarihleri olan bir pazarda veliler aktif olarak çözüm arıyor ve hali hazırda dershane + özel ders gibi ürünlere ödeme yapıyor. Harcama davranışı mevcut; ihtiyaç duyulan şey güven verecek doğru konumlanma.
-- **Aciliyet puanı**: 9/10 — Sınav tarihi değişmez. Zaman baskısı kalıcı ve yapısal.
-- **Ödeme istekliliği**: 7/10 — Antakya orta gelirli bir şehir, fiyat hassasiyeti var; ancak çocuğun geleceği söz konusu olduğunda aileler bütçe zorluyor. Mevcut 5.000 TL/ay fiyat bu pazarda kabul görmüş.
-- **Rekabet sinyali**: Yerel rakipler mevcut (genel kurslar) ama Amerikan Kültürü odaklı, sınav sonucu garantisine yönelik konumlanan sıfır rakip var. Para zaten bu alanda harcanıyor; kazananın kim olacağı belirsiz.
-- **Genel talep**: **GÜÇLÜ** — Sabit sınav tarihleri, somut ölçülebilir sonuç beklentisi (puan artışı), rekipsiz konumlanma ve mevcut harcama alışkanlığı bir araya gelince bu niş için talep yapısal ve sürdürülebilir.
+**Alıcılar mı, Gezginler mi:**
+Her iki segmentte de aktif alıcılar var. Ebeveynler halihazırda özel ders ve kurslara para harcıyor — bu kesin alıcı davranışı. Yetişkin kariyer segmenti ise daha önce hayal kırıklığıyla sonuçlanan deneyimler nedeniyle "gezgin" moduna geçmiş olabilir; ancak "sorun sen değilsin, sorun yöntem" çerçevelemesiyle hızla alıcıya dönüşebilir. Okulun sıfır pazarlama ile 100 aktif öğrenciye ulaşmış olması, talep kanıtının en güçlü işareti.
+
+**Aciliyet Skoru:** 8/10
+İngilizce konuşamama sorunu her gün hissediliyor — iş yerinde, sosyal medyada, içerik tüketirken, seyahat planlarken. Kronik ama düşük yoğunluklu bir acıdır; ancak tetikleyici olay (iş görüşmesi, yurt dışı seyahati, çocuğun sınıf arkadaşının konuştuğunu görmek) onu ani ve yüksek yoğunluklu hale getiriyor.
+
+**Ödeme İsteği:** 8/10
+Ebeveynler çocukları için zaten ödüyor. Yetişkinler kariyer yatırımı olarak çerçevelendiğinde ödemeye hazır. Mevcut 500.000 TL aylık gelir, ödeme gücünün var olduğunu kanıtlıyor.
+
+**Rekabet Sinyali:**
+Antakya'da rakipler mevcut — ama tamamı gramer odaklı. Bu, para zaten bu pazarda dönüyor demek. Rakiplerin varlığı talebi kanıtlıyor; diferansiyasyon boşluğu ise net: kimse konuşma odaklı değil. Rakipler, farkında olmadan bu okulun en büyük satış argümanını üretiyor — hayal kırıklığı yaşayan eski öğrenciler.
+
+**Genel Talep Değerlendirmesi: GÜÇLÜ**
+Para zaten bu pazarda dönüyor, acı günlük yaşanıyor, konuşma odaklı rakip yok ve okul sıfır pazarlama ile 100 öğrenciye ulaştı — bu organik çekim güçlü talebin kanıtı.
+
+---
 
 ## 5. Doğrulama Testleri
 
-1. **Sonuç İdraki Testi**: Mevcut 100 öğrencinin sınav öncesi ve sonrası puanlarını belgele. "Antakya'da en yüksek LGS İngilizce puan artışı" gibi somut bir iddiayı 3 veli referansıyla birlikte WhatsApp gruplarında ve okulun sosyal medyasında paylaş. 72 saat içinde gelen DM ve soru sayısını ölç.
+**Test 1 — Sosyal Kanıt İçeriği (Ebeveyn Segmenti önce):**
+Mevcut öğrencilerin ebeveynlerinden 3–5 kısa video toplanır. Odak sorusu: "Kursa başlamadan önce ne bekliyordunuz, şimdi ne görüyorsunuz?" Bu videolar Instagram ve Facebook'ta yayınlanır. Hangi segmentin (çocuk ebeveynleri mi, yetişkinler mi) daha fazla DM ve soru gönderdiği izlenir — bu, hangi segmentin önce hedefleneceğini gösterir.
 
-2. **Ön Kayıt Testi**: Bir sonraki dönem başlamadan 30 gün önce "Erken Kayıt — Sınırlı Kontenjan" kampanyası başlat. Tam fiyatın %20 indirimli erken kayıt fiyatını sun, ödeme olmadan rezervasyon al. Hedef: 15 rezervasyon. Bu sayıya ulaşılırsa fiyat artışı ve ek program doğrulanmış demektir.
+**Test 2 — "Gramer Tuzağı" Kancası (Yetişkin Segmenti İçerik Testi):**
+Şu tür bir içerik paylaşılır: "Türk eğitim sisteminde 12 yıl İngilizce okudunuz. Peki kendinizi bir yabancıya tanıtabilir misiniz?" — bir ankete veya yorum sorusuna bağlanır. Etkileşim ve DM hacmi ölçülür. Bu içerik hem organik talep yaratır hem de potansiyel öğrenci listesi oluşturur.
 
-3. **Doğrudan Erişim Testi**: Antakya'daki 8.-11. sınıf velilerinin bulunduğu 5 WhatsApp okul grubuna (ya da bu gruplara erişimi olan mevcut velilere) şu mesajı ilet: "Çocuğunuzun İngilizce sınav puanı 3 ayda kayda değer biçimde artmasaydı ücret iadesi olsa, bu teklifi değerlendirir miydiniz?" Yanıtları kategorize et: Evet / Fiyat bağlı / Hayır. %40 "Evet" oranı güçlü talep sinyalidir.
+**Test 3 — Kurumsal Direkt Erişim:**
+Antakya'daki esnaf dernekleri, genç girişimci ağları veya şirket İK departmanlarına ulaşılır. "Çalışanlarınız İngilizce biliyor ama konuşamıyor mu?" çerçevesiyle kurumsal grup paketi sunulur. Bir ya da iki kurumsal anlaşma hem gelir hem de güçlü sosyal kanıt (şirket adıyla referans) sağlar.
 
-## 6. Teklif Oluşturma için Temel İçgörü
+---
 
-Antakya Amerikan Kültür Dil Okulu'nun en keskin açısı şudur: bu bir İngilizce kursu değil, **sınav sonucu garantisi olan bir gelecek yatırımı**. Aileler metot satın almıyor, sonuç satın alıyor — çocuğunun LGS veya YKS'de kaybettiği puanları geri kazanmasını ve arkadaşlarını geçmesini istiyor. Tüm mesajlaşma, müfredat veya Amerikan kültürü üzerinden değil, **"X ay içinde Y puan artışı"** üzerinden kurulmalı; mevcut öğrenci başarı hikayeleri bu iddianın kanıtı olarak her temas noktasında görünür kılınmalıdır.
+## 6. Offer Building için Temel İçgörü
+
+Antakya'daki en büyük fırsat, rakiplerin yarattığı hayal kırıklığıdır — yıllarca gramer kursu alıp hâlâ konuşamayan yüzlerce insan var ve bu kişiler aktif olarak "başka bir şey" arıyor. Pazarlama mesajının çekirdeği şu olmalı: **"Sorun sen değilsin — sorun yöntem."** Bu çerçeve hem yetişkin hem de ebeveyn segmentine aynı anda hitap eder, çünkü her ikisi de Türk eğitim sistemine duyulan kronik güvensizlikle bağlantılı. Yaz yoğun programı (1 ayda konuşmaya başlamak) ise düşük taahhüt ve yüksek somut sonuç kombinasyonuyla güçlü bir giriş ürünü görevi görür — pazarlama sistemi henüz kurulmamışken en hızlı kanıtlanabilir sonucu üretecek araç da budur.
+
+---
+
+*Oluşturulma tarihi: 17 Haziran 2026*
