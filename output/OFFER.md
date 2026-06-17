@@ -1,231 +1,295 @@
 # OFFER.md
-# Antakya Amerikan Kültür Dil Okulu — Grand Slam Teklif Planı
+# Antakya Amerikan Kültür Dil Okulu — Grand Slam Teklif Belgesi
+
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
 ## 1. İşletme Özeti
 
-- **İşletmenin yaptığı**: Antakya'nın tek Amerikan Kültürü odaklı İngilizce dil okulu; LGS/YKS sınav odaklı kurslar, Yaz Okulu ve özel ders hizmeti sunuyor.
-- **Satılan şey**: LGS/YKS İngilizce bölümünde somut puan artışı sağlayan yapılandırılmış dil programları
-- **Mevcut aşama**: Aşama B — Var olan okul; yeniden konumlandırma ve sistematik satış sistemi inşası
-- **Ana kanal**: Yerel ağ (veli referansı), WhatsApp grupları, sosyal medya (Instagram/Facebook)
+- **Ne yapıyor:** Antakya'da konuşma odaklı İngilizce eğitimi — yetişkin ve çocuk programları
+- **Ne satıyor:** KonuşAmerika 5 (5 aylık birincil program) + KonuşAmerika Yaz Sprint (1 aylık giriş ürünü)
+- **Mevcut aşama:** Aşama B — çalışan okul, teklif netleştirilip güçlendirilecek
+- **Ana kanal:** Organik büyüme — sıfır pazarlama ile 100 aktif öğrenci, 500.000 TL/ay gelir
 
 ---
 
 ## 2. Hedef Pazar
 
-- **Pazar**: Antakya ve çevresi K-12 eğitim & dil kursu pazarı
-- **Segment**: LGS (8. sınıf) veya YKS'ye (11-12. sınıf) hazırlanan, İngilizce puanı düşük 13-17 yaş öğrenciler ve onların kaygılı aileleri
-- **Bu segmentin seçilme nedeni**: En yüksek acı + en yüksek ödeme isteği kombinasyonu. Sınav tarihi sabit ve değiştirilemez — erteleme lüksü yok. Antakya'da bu açıyı benimseyen sıfır rakip mevcut. Aileler zaten para harcıyor; kazananın kim olacağı belirsiz.
+- **Pazar:** Türkiye'de İngilizce dil eğitimi (yetişkin + çocuk)
+- **Birincil segment:** Kariyerinde İngilizce engeline takılan, yıllarca ders alıp hâlâ konuşamayan Antakyalı yetişkin (22–40) — Acı skoru: 9/10, Satın alma gücü: 8/10
+- **İkincil segment:** Çocuğunun (8–14) gerçek konuşma İngilizcesi öğrenmesini isteyen ebeveyn — Acı skoru: 8/10, Satın alma gücü: 9/10
+- **Neden bu ikisi:** Her ikisi de 34/40 ile niş skorlama tablosunun en tepesinde (MARKET_RESEARCH.md). Rakipler bu iki segmentte kronik hayal kırıklığı yarattı — bu kişiler aktif olarak "başka bir şey" arıyor. Okul zaten sıfır pazarlama ile bu kitleyi çekiyor; talep kanıtlanmış.
 
 ---
 
 ## 3. İdeal Müşteri Avatarı
 
-- **Tek cümlelik avatar**: Çocuğunun LGS veya YKS'de İngilizce bölümünden puan kaybetmesini izleyen, daha önce kurs parasını ziyan etmiş, sınav tarihinin yaklaşmasıyla birlikte çaresizlik ve suçluluk hisseden Antakyalı veli.
+### Birincil Avatar — Kariyer Yetişkini
 
-- **Mevcut durum**:
-  - Çocuğu düzenli İngilizce kursu almış ama somut puan artışı yaşanmamış
-  - Sınava 3-8 ay kalmış; panik ve zaman baskısı giderek artıyor
-  - Antakya'daki alternatiflerin hepsini "aynı" olarak görüyor, neye güveneceğini bilmiyor
+**Tek cümlelik avatar:** 12 yıl İngilizce okumuş, iş görüşmesinde yabancı soru sorunca donup kalan, bunun kendi yetersizliği olduğunu düşünen ama aslında yanlış sistemin kurbanı olan 28–38 yaşındaki Antakyalı profesyonel.
 
-- **Ağrı noktaları**:
-  - "Gittiği kurs hiç işe yaramadı, para ziyan ettik."
-  - "Sınav tarihi yaklaşıyor, zamanımız tükeniyor."
-  - "Doğru yere harcayıp harcamadığımı bile bilmiyorum."
-  - "Çocuğum öğrenemeyecek mi diye içimde bir şüphe var; belki çok geç."
+**Mevcut durumu:**
+- Özgeçmişine "iyi derecede İngilizce" yazıyor ama yabancı bir müşteri gelince başka bir odaya geçiyor
+- Bir üst pozisyon, uluslararası proje, terfi — hepsi İngilizce bilene gidiyor
+- "Bir daha para harcasam yine aynı şeyi mi öğretecekler?" diye düşünüp yeni kurslardan uzak duruyor
 
-- **Daha önce denedikleri**:
-  - Genel dil kursları (sonuç yok)
-  - Okul dışı özel ders (tutarsız, takibi zor)
-  - Okul destekli etütler (sınav odaklı değil)
-  - YouTube / uygulama tabanlı öğrenme (bıraktı)
+**En derin acısı (geceleri uyutmayan):**
+12 yıl hem zaman hem para harcadı. Hâlâ bir cümle kuramıyor. Mantıklı gelen tek açıklama: "Belki ben dil yeteneği olmayan birisiyim." Bu inanç her fırsattan kaçmasına, her başvurudan geri çekilmesine neden oluyor. (Not: Bu inanç tamamen yanlış. Sorun sistemde.)
 
-- **Hayal edilen sonuç**: Çocuğu LGS/YKS İngilizce bölümünde kayda değer puan artışı yaşasın, güvenle sınava girsin, Türkiye'nin iyi üniversitelerine veya yurt dışı burs programlarına kabul alsın — ve veli olarak "doğru yere yatırım yaptım" hissini taşısın.
+**Daha önce denedikleri:**
+- Okul İngilizcesi — 8 ila 12 yıl, gramer + test + not
+- Özel ders — kısa süreli, yapısız, bırakıldı
+- Mobil uygulamalar — Duolingo vb., bırakıldı
+- Belki bir dil kursu — yine gramer ağırlıklı
+
+**Hayal ettikleri sonuç:**
+İş görüşmesine giriyor. Yabancı panel üyesi İngilizce soruyor. Bu sefer donmuyor. Net, güvenli, anlaşılır cevap veriyor. Akıcı olmak zorunda değil — sadece iletişim kuruyor. O gece yatarken "Sonunda oldu" diyor.
+
+---
+
+### İkincil Avatar — Ebeveyn
+
+**Tek cümlelik avatar:** Kendi çektiği İngilizce acısının çocuğunda tekrar etmesini istemeyen, çocuğunun sınıfın en iyi konuşan öğrencisi olmasını isteyen Antakyalı ebeveyn.
+
+**Mevcut durumu:**
+- Çocuğu okul sınavlarından not alıyor ama "What's your name?" dışında cümle kuramıyor
+- Başka çocukların İngilizce konuştuğunu görünce içten içe sıkışıyor
+- Sınav geçirttiren kurs ile gerçekten konuşturan kurs arasındaki farkı bilmiyor
+
+**En derin acısı:**
+"Benim gibi büyümesin." Kendi yaşadığı hayal kırıklığının — yıllarca ders, sonuç yok — çocuğunda tekrar etme korkusu. İyi ebeveyn olma baskısı ve rekabetçi korku bir arada.
 
 ---
 
 ## 4. Hayal Edilen Sonuç
 
-- **Birincil sonuç**: LGS veya YKS İngilizce bölümünde ölçülebilir puan artışı (hedef: net puan bazında +15 ila +30 puan)
-- **Duygusal sonuç**: "Elimden geleni yaptım, doğru kararı verdim" huzuru; çocuğun sınava güvenle girmesi
-- **Statü değişimi**: Çocuk arkadaşları arasında "İngilizce düzeldi, sınava hazır" olarak görülür; veli "iyi okul buldu" referansıyla çevresinde tanınır
-- **Sonuç ifadesi**: "Sınav sonucu olmayan kurslara para vermeyi bırakıp, 8 ayda tam bir İngilizce seviye atlayan ve LGS/YKS'de kaybettiği puanları geri kazanan bir çocuğa sahip olmak."
+- **Birincil sonuç (somut, ölçülebilir):** 5 ayda CEFR A2→B1 veya B1→B2 geçişi. Yabancıyla kendini tanıtabilmek, iş toplantısında temel sorulara cevap verebilmek, yurt dışında günlük iletişimi yönetebilmek.
+
+- **Duygusal sonuç:** "Bu benim sorunum değil" gerçeğini içselleştirmiş, yabancı gelince kaçmak yerine öne çıkan, kendine güvenen biri hissi.
+
+- **Statü değişimi:** İş yerinde "o İngilizce bilen kişi" olmak. Ebeveyn için: "Çocuğumun kursu farklı — gerçekten konuşuyor" diyebilmek.
+
+- **Sonuç cümlesi:** "Yıllarca yanlış sisteme maruz kaldıktan sonra, 5 ayda gerçek konuşma kapasitesine ulaşmak — sınav için değil, hayat için."
 
 ---
 
-## 5. Engeller (Minimum 10)
+## 5. Engeller (12 Kritik Engel)
 
-1. Çocuğun mevcut İngilizce seviyesinin gerçekten nerede olduğunu bilmemek
-2. "Yine para ziyan edeceğiz" korkusu — güven eksikliği
-3. Hangi kurun/programın çocuğa uygun olduğunu bilmemek
-4. Ulaşım sorunu — Antakya içi mesafe ve taşıma imkânı
-5. Çocuğun motivasyon eksikliği ve direnç göstermesi
-6. Sınav tarihine yetişip yetişilmeyeceği belirsizliği
-7. Diğer derslerle (matematik, fen, Türkçe) zaman çakışması
-8. Ebeveynin programı takip edip edemeyeceği belirsizliği
-9. Finansal baskı — "Bu kadar para veremeyiz" itirazı
-10. Sonuç garantisi olmadığı için ödeme yapmaktan çekinme
-11. "Amerikan Kültürü" odaklı okulun sınav İngilizcesine yabancı olduğu düşüncesi
-12. Çocuğun geçmişte hayal kırıklığıyla kurs bırakma alışkanlığı
+1. Geçmiş başarısızlık korkusu — "Bir daha para ve zaman harcarsam yine hayal kırıklığı yaşarım"
+2. İçselleştirilmiş yetenek inancı — "Ben dil yeteneği olmayan birisiyim"
+3. Güvenli konuşma ortamı yok — hata yapmaktan, küçük düşmekten utanma
+4. Pasif gramer aktivasyon sorunu — bilgi var ama konuşmaya dönüşmüyor
+5. Zaman kısıtı — çalışan yetişkin için düzenli derse gelmek imkânsız görünüyor
+6. Lokasyon / program uyumu — Antakya içinde bile ulaşım ve saat çakışması engeli
+7. Alternatif şüphesi — "Başka bir kurs daha ne fark eder?"
+8. Aksan ve hız korkusu — gerçek bir yabancıyla karşılaşınca panik
+9. Kelime hazinesi boşluğu — "Söylemek istiyorum ama kelime aklıma gelmiyor"
+10. İlerlemeyi görememe — aylarca ders alıp nerede olduğunu bilememek, motivasyon çöküşü
+11. Sosyal baskı — sınıf arkadaşları önünde hata yapmak, yargılanmak korkusu
+12. Sürdürme güçlüğü — iş/aile baskısıyla programdan kopmak ve geri dönememek
 
 ---
 
-## 6. Çözüm Haritası
+## 6. Engel → Çözüm → Teslimat Haritası
 
 | Engel | Çözüm | Teslimat Yöntemi |
 |---|---|---|
-| Mevcut seviye belirsizliği | Ücretsiz seviye tespit sınavı + veli raporu | Yüz yüze değerlendirme oturumu (30 dk) |
-| Güven eksikliği / "yine para ziyan" korkusu | Sonuç garantisi + kanıtlanmış öğrenci hikayeleri | Yazılı garanti belgesi + veli referans videoları |
-| Doğru kur seçimi belirsizliği | Kişisel öğrenme yol haritası | PDF yol haritası + danışmanlık görüşmesi |
-| Ulaşım sorunu | Esnek saat seçenekleri + veliye düzenli WhatsApp güncelleme | Program takvimi + mobil iletişim sistemi |
-| Çocuğun motivasyon eksikliği | Gamifikasyon sistemi, aylık ödül seremonisi, başarı sertifikası | Sınıf içi puan panosu + dönem sonu ödül töreni |
-| Sınava yetişememe kaygısı | Sınav tarihine göre ters planlama + haftalık ilerleme raporu | İlerleme takip tablosu + veli bilgilendirme SMS/WhatsApp |
-| Ders çakışması | Haftada 2 gün / 4 saat esnek program bloğu | Esnek program + telafi dersi hakkı |
-| Program takibinde belirsizlik | Aylık veli bilgilendirme toplantısı | Grup WhatsApp + aylık bülten |
-| Finansal baskı | Aylık ödeme seçeneği + erken kayıt indirimi | Taksitli ödeme planı |
-| Garanti eksikliği | Sonuç garantisi: puan artmazsa ücret iadesi | Yazılı garanti sözleşmesi |
-| "Sınav İngilizcesi" uyum şüphesi | LGS/YKS format odaklı müfredatın görünür kılınması | Müfredat şeffaflık dökümanı + örnek ders videosu |
-| Geçmiş bırakma alışkanlığı | İlk 30 günde "Hızlı Kazanım Modülü" ile erken başarı hissi | Hızlı kazanım paketi (ilk 4 ders özel içerik) |
+| Geçmiş başarısızlık korkusu | Sistem suçu çerçevesi + 100 öğrenci sosyal kanıtı + tam iade garantisi | Onboarding seansı + video tanıklıklar |
+| "Yetenek olmayan birisiyim" inancı | İlk 2 haftada küçük ve gerçek bir konuşma zaferi üretmek | Yapılandırılmış Hızlı Kazanç açılış modülü |
+| Hata yapmaktan utanma | 4–6 kişilik küçük, homojen grup; yargılamayan sınıf kültürü | Öğretmen protokolü + güvenli alan kuralları |
+| Pasif gramer, aktivasyon yok | Her dersin %70'i konuşma — output odaklı egzersizler | Canlı diyalog pratiği, gerçek senaryo simülasyonları |
+| Zaman kısıtı | Esnek saat seçenekleri + 5 ayda 4 telafi dersi hakkı | Haftalık program takvimi + telafi sistemi |
+| İlerlemeyi görememe | CEFR tabanlı aylık değerlendirme — başlangıç ve bitiş skoru | Dijital ilerleme kartı + aylık bireysel geri bildirim |
+| Kelime hazinesi boşluğu | Bağlam bazlı öğretim — liste değil, konuşma senaryosu | Tema bazlı kelime + anında aktivasyon egzersizleri |
+| Aksan ve hız korkusu | Kademeli gerçek konuşma maruziyeti, Amerikan aksanı alıştırmaları | Simüle diyaloglar + dinleme egzersizleri |
+| Sosyal baskı | Aynı başlangıç seviyesinden homojen grup oluşturma | Giriş CEFR testine göre sınıf yerleştirme |
+| Alternatif şüphesi | CEFR ölçümü + %70 konuşma + garanti — üçlü fark | Teklif sayfası + ücretsiz deneme seansı |
+| Sürdürme güçlüğü | Telafi dersi + WhatsApp destek grubu + aylık koçluk | Asenkron destek + bireysel kontrol noktaları |
 
 ---
 
 ## 7. Ana Teklif
 
-- **Teklif adı**: LGS/YKS İngilizce Puan Garanti Programı
-- **Alt başlık**: "8 Ayda Tam Seviye, Sınav Günü Hazır — Ya da Ücretini İade Ederiz"
+### Birincil Program: KonuşAmerika 5 — Beş Ayda Konuşma Sistemi
 
-- **Neler dahil**:
-  - Ücretsiz seviye tespit sınavı ve kişisel öğrenme yol haritası
-  - Haftada 2 gün, 4 saat, 8 aylık yapılandırılmış İngilizce programı (4 kur = 1 tam seviye atlama)
-  - LGS/YKS sınav formatına uyarlanmış müfredat
-  - Aylık veli ilerleme raporu (WhatsApp + yazılı)
-  - Sınıf içi motivasyon sistemi (ödül, sertifika, puan panosu)
-  - Hızlı Kazanım Başlangıç Modülü (ilk 4 ders — 30 günde ilk ölçülebilir iyileşme)
-  - Sınav öncesi yoğunlaştırılmış tekrar haftası
-  - Telafi dersi hakkı (döneme göre 2 telafi)
+**Teklif adı:** KonuşAmerika 5
+**Alt başlık:** "Sorun sen değildin. Sorun yöntemdi. Artık değişiyor."
 
-- **Format**: Yüz yüze, küçük grup (maks. 8 öğrenci)
-- **Teslimat**: Fiziksel okul, Antakya
-- **İlk kazanıma kadar süre**: 30 gün (Hızlı Kazanım Modülü sayesinde ilk aydaki ölçülebilir kelime/soru tipi iyileşmesi)
+**Dahil olanlar:**
+- Haftada 3 seans × 60 dakika — toplam ~60 seans / 5 ay
+- Her dersin %30'u yapı (gerektiğinde gramer altyapısı), %70'i konuşma pratiği
+- 4–6 kişilik küçük, aynı CEFR başlangıç seviyesinden grup
+- CEFR tabanlı aylık değerlendirme — somut, belgelenmiş skor değişimi
+- Ayda 1 bireysel koçluk seansı (10–15 dk) — hedef belirleme + kişisel geri bildirim
+- Kaçırılan dersler için seans kaydı erişimi
+- Öğrenci WhatsApp destek grubu — pratik sorular, haftalık mini egzersizler
+
+**Format:** Sınıf içi, Antakya lokasyonu, küçük gruplar
+**Teslimat modeli:** DWY (Done With You) — öğretmen yönetiminde, aktif katılım odaklı
+**İlk kazanç süresi:** 2. haftada öğrenci en az 3 gerçek yaşam senaryosunu konuşmuş olacak (kendini tanıtmak, yönleri tarif etmek, temel iş/okul iletişimi)
+**Fiyat:** 5.000 TL/ay — toplam 25.000 TL / 5 ay
+
+---
+
+### Giriş Ürünü: KonuşAmerika Yaz Sprint — 1 Ayda Konuşmaya Başla
+
+**Teklif adı:** KonuşAmerika Yaz Sprint
+**Alt başlık:** "Deneyelim bakalım — 4 haftada cümle kuruyorsun veya ücret iade."
+
+**Dahil olanlar:**
+- Haftada 5 seans × 45 dakika — yoğunlaştırılmış 1 aylık format
+- Odak: temel konuşma kapasitesi — kendini tanıtmak, yönleri sormak, basit günlük iletişim
+- Aynı seviyeden 4–6 kişilik grup
+- Program sonu mini CEFR değerlendirmesi
+- 5 aylık programa geçiş için öncelikli kayıt hakkı
+
+**Neden giriş ürünü olarak güçlü:** Düşük taahhüt (1 ay), yüksek somut sonuç, düşük karar eşiği. "Bir daha para harcamak istemiyorum" diyen kişi için deney ortamı. Aylık tam programa köprü.
+**Fiyat:** 6.500–8.000 TL / 1 ay
 
 ---
 
 ## 8. Bonus Yığını
 
-| Bonus | Amacı | Tahmini Değer |
+| Bonus | Amacı | Tahmini Standalone Değeri |
 |---|---|---|
-| Ücretsiz Seviye Tespit Sınavı + Veli Raporu | Güven oluşturma, taahhüt öncesi değer sunma | 500 TL |
-| LGS/YKS Soru Tipi Hızlı Başvuru Kartları (lamineli) | Evde pratik, görünür başarı aracı | 250 TL |
-| WhatsApp Veli Bildirim Sistemi (aylık ilerleme raporu) | Veliyi döngüde tutar, endişeyi azaltır | 600 TL/ay |
-| Sınav Öncesi Yoğunlaştırılmış Tekrar Haftası | Son düzlükte güven artışı | 800 TL |
-| "İngilizce Sınav Taktikleri" Veli Rehberi (PDF) | Evi öğrenme ortamına dönüştürür, veli güveni artar | 300 TL |
-| Mezun Öğrenci Başarı Hikayeleri Kitapçığı | İtiraz kırar, sosyal kanıt sağlar | Fiyatsız |
+| CEFR Başlangıç Seviye Testi + Kişisel Sonuç Raporu | "Ben yetersizim" inancını kırar — somut başlangıç noktası verir | 500 TL |
+| İlk 7 Günde Kullanabileceğin 20 Konuşma Cümlesi (Kart Seti) | Hızlı kazanç — ilk haftadan elinde somut araç olur | 200 TL |
+| "Yabancıyla Tanışma" Simülasyon Seansı (1. ay sonu) | Gerçek dünya pratiği, kontrollü ortamda güven inşası | 750 TL |
+| Aylık "Neredeyim?" İlerleme Skoru Raporu | Görünür ilerleme motivasyonu canlı tutar — 5 ay boyunca | 1.000 TL |
+| Telafi Dersi Hakkı (5 ayda 4 derse kadar) | Zaman kısıtı engelini ortadan kaldırır — hayat seni koparsa geri dönebilirsin | 2.000 TL |
+
+**Toplam bonus değeri:** 4.450 TL
 
 ---
 
 ## 9. Değer Yığını
 
-| Bileşen | Bağımsız Değer |
+| Bileşen | Standalone Değeri |
 |---|---|
-| 8 Aylık Yapılandırılmış Program (haftada 4 saat x 34 hafta) | 13.600 TL |
-| Kişisel Öğrenme Yol Haritası + Seviye Tespit Sınavı | 500 TL |
-| Hızlı Kazanım Başlangıç Modülü (özel ilk 4 ders içeriği) | 1.200 TL |
-| Aylık Veli İlerleme Raporu Sistemi (8 ay) | 4.800 TL |
-| Sınav Öncesi Tekrar Haftası | 800 TL |
-| LGS/YKS Soru Tipi Kart Seti | 250 TL |
-| Veli Rehber PDF | 300 TL |
-| Motivasyon & Ödül Sistemi Katılımı | 400 TL |
-| **Toplam Yığın Değeri** | **21.850 TL** |
-| **Fiyat Hipotezi** | **5.000 TL/ay (aylık ödeme) = 40.000 TL/yıl** |
+| 5 Aylık Konuşma Programı (~60 seans) | 30.000 TL |
+| Aylık Bireysel Koçluk (5 seans × 200 TL) | 5.000 TL |
+| CEFR Başlangıç Testi + Rapor | 500 TL |
+| Hızlı Başlangıç Kart Seti | 200 TL |
+| Yabancıyla Tanışma Simülasyon Seansı | 750 TL |
+| Aylık İlerleme Raporu (5 ay) | 1.000 TL |
+| Telafi Dersi Hakkı (4 ders) | 2.000 TL |
+| WhatsApp Destek Grubu Erişimi | 500 TL |
+| **Toplam yığın değeri:** | **39.950 TL** |
+| **Fiyat hipotezi:** | **25.000 TL (5.000 TL/ay × 5 ay)** |
 
-> Not: Yaz Okulu yoğun formatı için fiyat hipotezi: 6.000–8.000 TL / 1 ay (2 kur). Özel ders: 1.500–2.000 TL/ay (haftada 2 seans).
+Algılanan değer / fiyat oranı: ~1,6x. Garanti eklendi mi? Risk yokluğu bu oranı psikolojik olarak çok daha yükseğe taşır.
 
 ---
 
 ## 10. Garanti
 
-- **Seçenek 1 — Koşulsuz (30 Gün)**: İlk 30 gün içinde programdan memnun kalmazsanız, hiçbir soru sormadan ücretin tamamını iade ederiz.
+**Seçenek 1 — Koşulsuz:**
+"14 gün içinde istediğin için iade ederiz, soru sormadan."
+(Düşük kayıp riski, yüksek kayıt erişimi — ama güven mesajı zayıf)
 
-- **Seçenek 2 — Koşullu (Aksiyon Bazlı)**: Çocuğunuz 8 ay boyunca devam yükümlülüklerini yerine getirir (derslerin %80'ine katılım + haftalık pratik), 8. ay sonunda ölçülebilir puan artışı gerçekleşmezse bir sonraki dönemi ücretsiz alırsınız.
+**Seçenek 2 — Koşullu (Eylem Bazlı):**
+"5 ay boyunca seansların %80'ine katıl, ödevleri tamamla — CEFR seviyende ölçülebilir ilerleme olmazsa son ayı iade ederiz."
+(Orta güç — müşteri taahhüt verir, garanti koşullu)
 
-- **Seçenek 3 — Sonuç Bazlı**: Programa başlamadan önce yapılan seviye tespit sınavına göre belirlenen hedef puanı sınav gününde yakalayamazsanız, ödenen ücretin %50'sini iade ederiz.
+**Seçenek 3 — Sonuç Bazlı (Marka Garantisi):**
+"5 ayda konuşamazsan — tüm 5 aylık ücreti iade ederiz."
+(En güçlü — risk tamamen okuldadır)
 
-- **Önerilen**: Seçenek 2 (Koşullu, aksiyon bazlı). Bu fiyat noktasında ve bu pazarda en ikna edici olan; hem okulu kayıptan korur hem de aileye "sonuç garantisi" hissi verir. "Devam et ve sonuç al" mesajı, taahhüdü artırır ve bırakmayı azaltır.
+**Tavsiye edilen: Seçenek 3.**
+
+Neden: Bu segmentin birincil itirazı "bir daha para ve zaman harcamak istemiyorum" (MARKET_RESEARCH.md). Tam iade garantisi bu itirazı tek cümlede kırar ve risk müşteriden okula transfer olur. Mevcut 100 öğrenci ve organik büyüme sistemin çalıştığını kanıtlıyor — bu garantiyi vermek düşük riskli. Rakipler sonuç üretmediği için garanti veremiyor; bu okul verdiğinde orantısız güven avantajı doğar.
+
+**Garanti metni:**
+"5 ay KonuşAmerika sistemine katıl. Konuşamazsan, tüm ödediğini iade ederiz. Bu sefer fark yöntem — ve biz arkasındayız."
 
 ---
 
 ## 11. Konumlandırma
 
-- **Kimin için**: LGS veya YKS İngilizce bölümünden puan kaybeden, sınava 3-8 ay kalan ve daha önce kurslara para verip sonuç alamamış 13-17 yaş öğrencilerin aileleri
+**Kimler için:**
+- 12+ yıl İngilizce okuyup hâlâ konuşamayan yetişkinler (22–40)
+- Kariyerde, toplantıda, seyahatte İngilizce'yi gerçekten kullanmak isteyenler
+- Çocuğunun (8–14) gerçek konuşma kapasitesi geliştirmesini isteyen ebeveynler
+- "Daha önce denedim, olmadı — ama bir kez daha doğru olanla denemek istiyorum" diyenler
 
-- **Kimin için DEĞİL**:
-  - Sadece konuşma İngilizcesi veya genel İngilizce isteyen kişiler
-  - Çocuğunu kursa kaydedip takibini yapmak istemeyen aileler
-  - Sınav tarihi henüz çok uzak olan (2 yıl ve üzeri) öğrenciler
-  - Tamamen online eğitim arayan aileler
+**Kimler için DEĞİL:**
+- LGS / YKS / IELTS / TOEFL sınav hazırlığı arayanlar — bu programda sınav stratejisi yok
+- "Gramer mükemmel olsun" diyenler — burada dil araçtır, amaç değil
+- Düzenli katılım taahhüdü vermek istemeyenler — sistem devam ister
 
-- **Benzersiz açı**: Antakya'nın tek Amerikan Kültürü odaklı okulu — ama bunu satar gibi konumlanmıyoruz. Bizi farklı kılan: kanıtlanmış sınav sonuçları, şeffaf ilerleme takibi ve sonuç garantisi. Diğer kurslar müfredat satar; biz puan artışı satıyoruz.
+**Benzersiz açı:** Antakya'nın tek %70 konuşma odaklı, CEFR tabanlı ölçülebilir ilerleme sunan ve tam iade garantisi veren dil okulu.
 
-- **Konumlandırma ifadesi**: "Antakya'da LGS/YKS İngilizce hazırlığında tek garantili puan artışı programı — ya sonuç alırsın, ya ücretini geri alırsın."
+**Konumlandırma cümlesi:**
+"Yıllarca gramer ezberlediniz. Biz konuşmayı öğretiyoruz — ve 5 ayda sonuç almazsanız paranızı geri veriyoruz."
+
+**Kategori:** Performans bazlı konuşma İngilizcesi okulu — sınav kursu değil, iletişim okulu.
 
 ---
 
 ## 12. Teslimat Modeli
 
-- **Model**: Hibrit (DWY ağırlıklı, DFY bileşenli)
+**Model:** DWY (Done With You) — Guided, küçük grup, sınıf içi
 
-- **Neden**:
-  - Kış Okulu (Haftada 2 gün, 8 ay): DWY — öğrenci aktif katılım sağlar, öğretmen yönlendirir. Küçük grup formatı (maks. 8 kişi) kişiselleştirilmiş deneyim sağlar, ölçeklenir.
-  - Yaz Okulu (1 ayda 2 kur, yoğun): DWY — hızlı dönüşüm için ideal, yüksek algılanan değer.
-  - Özel Ders: DFY'ya en yakın — tamamen bireysel, en yüksek algılanan değer, en yüksek fiyat noktası.
-  - Veli ilerleme raporları ve WhatsApp sistemi: DFY bileşeni — veli "işi bize bırakmış" hisseder.
-  - Bu model okulun mevcut kısıtlarına (fiziksel lokasyon, sınırlı kadro) uyar ve fiyat artışına kapı açar.
+**Neden bu model:**
+- Yetişkin kariyer segmenti yapı ve hesap verebilirlik istiyor — DIY'de kayboluyorlar
+- Konuşma pratiği sosyal bağlam gerektirir — tekil çalışmayla dil aktive olmuyor
+- DFY bu iş modelinde anlamsız — öğrencinin aktif katılımı olmadan dil gelişmiyor
+- 4–6 kişilik küçük grup hem konuşma sıklığını maksimuma çıkarıyor hem ekonomik sürdürülebilirlik sağlıyor
+- Mevcut 100 öğrenci zaten bu modelle geldi ve kalmaya devam ediyor — sistem çalışıyor
 
 ---
 
 ## 13. Mesajlaşma
 
-### Hook'lar (Kanca Cümleleri)
+### Kancalar (Hooks) — En Güçlüden Sıralı
 
-1. "Çocuğunuz İngilizce kursuna gidiyor ama LGS/YKS puanı hâlâ yerinde sayıyorsa, sorun çocuğunuzda değil — kursta."
-2. "Antakya'daki tek program: 8 ayda ölçülebilir puan artışı — ya da ücretini iade ederiz."
-3. "Sınav tarihi beklemez. Çocuğunuzun İngilizce puanını 8 ayda kurtarın — daha önce işe yaramayan kurslarla değil, sonuç garantisiyle."
-4. "Kaç kursa para verdiniz, kaçı sınav puanına yansıdı? Biz bu soruyu sormaktan korkmuyoruz — çünkü cevabımız var."
-5. "LGS/YKS İngilizce bölümünde kaybedilen her puan, üniversite kapısını bir adım daha uzaklaştırıyor. Bunu değiştirmek 8 ay alıyor."
+1. **[Sistem suçu + garanti]** "12 yıl İngilizce okudun. Hâlâ konuşamıyorsun. Bu senin sorunun değil — yöntemin sorunuydu. 5 ayda konuşmazsan, paranı iade ediyoruz."
+2. **[Sosyal kanıt + merak]** "Antakya'da 100 kişi, sıfır reklam ile öğrendi. Fark ne? %70 zamanı konuşmaya harcıyoruz — diğerleri gramere."
+3. **[Acı dile getirme]** "Toplantıda susuyorsun. İş görüşmesinden kaçıyorsun. İçinden şunu geçiriyorsun: 'Belki ben hiç öğrenemeyeceğim.' Bu yalan. 5 ayda bu biter."
+4. **[Fark + ölçüm]** "Gramer bilgin var. Konuşma yok. Biz tam da bunu çözüyoruz — CEFR belgelenmiş ilerlemeyle."
+5. **[Ebeveyn için]** "Çocuğunun 'İngilizce bilmiyorum' demesine ne kadar daha katlanacaksın? 5 ayda bu değişiyor — ya da ücret iade."
 
-### Sonuç Odaklı Bullet'lar
+### Sonuç Odaklı Maddeler
 
-- Çocuğunuz 8 ay sonunda tam bir İngilizce seviye atlayarak sınava güvenle girer — bunu ölçülebilir ilerleme raporlarıyla takip edersiniz.
-- Aylık veli güncellemeleriyle neyin öğrenildiğini, neyin eksik kaldığını ve bir sonraki adımı her zaman bilirsiniz — tahmin yok, sürpriz yok.
-- Programa başlamadan önce ücretsiz seviye tespit sınavı yapılır; çocuğunuza özel yol haritası hazırlanır — herkese aynı kutuyu satmıyoruz.
+- 5 ayda CEFR tabanlı, belgelenmiş seviye atlama — gramer notu değil, gerçek iletişim kapasitesi
+- Küçük grupta, güvenli ortamda, hata yaparak öğren — Antakya'da bunu başka hiçbir kurs sunmuyor
+- Sonuç gelmezse tam iade — çünkü 5 ayda konuşmaya başlayan 100 öğrencimiz zaten burada
 
-### İtiraz Kırıcı Bullet'lar
+### İtiraz Karşılama Maddeleri
 
-- "Daha önce kurslara para verdik, işe yaramadı" — Bu yüzden garanti sunuyoruz: 8 ay sonunda puan artışı yoksa bir dönem ücretsiz. Biz iddiamızın arkasındayız.
-- "Sınav İngilizcesi mi öğretiyorsunuz, konuşma İngilizcesi mi?" — Müfredatımız LGS/YKS soru tiplerine göre tasarlandı. İlk günden itibaren sınav formatında çalışılır.
-- "Çocuğum kursa gidip bırakıyor" — İlk 30 günde hızlı kazanım modülüyle erken bir başarı hissi yaratıyoruz. Bırakan öğrenci başarısız öğrenci değil — doğru başlatılmamış öğrencidir.
+- **"Daha önce denedim, olmadı"** → "Evet. Çünkü sistem yanlıştı. Gramer ezberletip konuşmayı bekliyorlardı. Biz tam tersini yapıyoruz — %70 konuşma, garantiyle."
+- **"Bu kadar para harcamaya değer mi?"** → "5 ayda konuşmazsan, ödediğinin tamamını geri veriyoruz. Risk yok — sadece fırsat var."
+- **"Zamanım yok"** → "Haftada 3 gün, 60 dakika. Kaçırdığın dersi telafi edebilirsin. Programı senin hayatına göre tasarladık."
 
-### CTA Taslakları
+### Kısa Teklif Açıklaması
 
-- "Ücretsiz seviye tespit sınavı için şimdi arayın — kontenjan sınırlı."
-- "WhatsApp'tan yazın, çocuğunuzun hangi seviyede olduğunu 30 dakikada öğrenin."
-- "Bu haftaki değerlendirme seanslarından birini ayırtın — ücretsiz, taahhütsüz."
+KonuşAmerika, Antakya'nın tek konuşma odaklı İngilizce okulu. Gramer ezberlemek yerine gerçek diyalog pratiği yapıyorsunuz — her dersin %70'i konuşma. 5 ay sonunda CEFR belgelenmiş ilerlemeniz var ya da tüm ücretinizi iade ediyoruz.
+
+### CTA (Harekete Geçirici Çağrı)
+
+"Ücretsiz CEFR seviye testine kayıt ol — nerede olduğunu gör, 5 ayda nereye gelebileceğini öğren. Risk yok."
 
 ---
 
 ## 14. Lansman Notları
 
-- **En iyi kanal**: WhatsApp (mevcut veli ağı ve okul grupları) + Instagram (başarı hikayeleri, öğrenci dönüşüm hikayeleri) + Yerel okul çevresi (8. ve 11. sınıf veli toplantıları döneminde)
-- **Satış açısı**: Puan artışı garantisi + sosyal kanıt (mevcut öğrenci başarı hikayeleri) + aciliyet (sınav tarihi, kontenjan sınırı)
-- **Üstesinden gelinmesi gereken itirazlar**:
-  - "Yine para ziyan ederiz" → Garanti ile kır
-  - "Ulaşım zor" → Esnek saat seçenekleri ve program takvimi ile kır
-  - "Çocuğum kursa gidip bırakıyor" → Hızlı kazanım modülü + motivasyon sistemi ile kır
-  - "Fiyat çok yüksek" → Aylık ödeme seçeneği + değer yığını kıyaslaması ile kır
-- **Sonraki adımlar**:
-  1. Mevcut 100 öğrencinin sınav öncesi/sonrası puan verilerini belgele (en az 10-15 vaka)
-  2. 3 veli video referansı çek (2 dakika, sınav sonucu odaklı)
-  3. WhatsApp'ta "Ücretsiz Seviye Tespit Sınavı" kampanyası başlat
-  4. Garanti belgesi ve kayıt sözleşmesi taslağını hazırla
-  5. Erken kayıt kampanyasını test et (30 günde 15 rezervasyon hedefi)
+**En iyi kanal:** Instagram + Facebook (Antakya yerel hedefleme) — "Gramer Tuzağı" içerik serisi; WhatsApp DM kapısı. Mevcut 100 öğrenciden 3–5 video tanıklık toplamak birinci öncelik.
+
+**Satış açısı:** Sistem suçlama + garanti kombinasyonu. "Sorun sen değildin, yöntemdi — ve bu sefer garantimiz var."
+
+**Öncelikli itirazlar ve yanıtlar:**
+1. "Bir daha para harcamak istemiyorum" → Tam iade garantisi
+2. "Zamanım yok" → Esnek seans + telafi hakkı
+3. "Başka kurslardan ne farkı var" → CEFR ölçümü + %70 konuşma + garanti üçlüsü
+
+**Sonraki 5 adım:**
+1. Mevcut öğrencilerden 3–5 video tanıklık topla (ebeveyn + yetişkin, odak sorusu: "Öncesi ve sonrası ne değişti?")
+2. "Gramer Tuzağı" içerik serisini başlat — Instagram/Facebook, organik
+3. Ücretsiz CEFR seviye testi ile lead yakalamayı aç
+4. KonuşAmerika Yaz Sprint'i ilk funnel girişi olarak pazara sun
+5. Garanti metnini teklif sayfasında, WhatsApp otomasyonunda ve her satış görüşmesinde öne çıkar
+
+---
+
+*Kaynak: MARKET_RESEARCH.md içgörüleri + iş brifingi + Grand Slam Offer çerçevesi*

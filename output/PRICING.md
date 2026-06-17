@@ -1,79 +1,110 @@
 # PRICING.md
 # Antakya Amerikan Kültür Dil Okulu — Fiyatlandırma Stratejisi
 
----
-
-## 1. Değer Analizi
-
-### Temel Sonuç
-LGS/YKS İngilizce bölümünde +15 ila +30 net puan artışı — ölçülebilir, belgelenebilir, sınav günü sonucu.
-
-### Bu Sonucun Parasal Değeri
-
-| Değer Boyutu | Hesaplama | Tahmini Değer |
-|---|---|---|
-| LGS puan artışının okul kalitesine etkisi | +15 net puan = ortalama 5-8 puan yükselmesi; bu fark iyi bir devlet lisesi ile sıradan lise arasında | Çok yüksek (ölçülmesi güç) |
-| YKS'de puan artışının bölüm etkisi | +20 net puan = tercihlerde 10.000–50.000 sıra farkı | Potansiyel olarak çok yüksek |
-| Daha önce harcanan ve "boşa giden" kurs masrafı | Aileler yıllık ortalama 8.000–15.000 TL harcamış ve sonuç almamış | 8.000–15.000 TL |
-| Puan kaybı sonucu oluşan ek hazırlık maliyeti (bir yıl daha dershane) | 30.000–60.000 TL | 30.000–60.000 TL |
-| "Doğru üniversiteye girememe" maliyeti | Yurt içi yurt/kira farkı, bölüm kalitesi, kariyer farkı | Yüzlerce bin TL hayat boyu |
-
-**Çerçeveleme**: "Bu program 5.000 TL/ay. Bir yıl daha beklemenin maliyeti 40.000+ TL ve bir sınav daha. Başarısızlık maliyeti, programın 3 yıllık bedelinden büyük."
-
-### Zaman Değeri
-- Ailenin alternatif araştırmaya harcadığı süre: ayda ortalama 4–8 saat
-- Özel ders koordinasyonu stresi: haftalık zihinsel yük
-- Programın sunduğu "teslim et unut" rahatlığı: aylık rapor, takip sistemi, tek muhatap
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## 2. Teslimat Modeli ve Fiyatlama İmplikasyonu
+## 1. Değer Analizi — Fiyattan Önce Değeri Gör
 
-- **Model**: Hibrit DWY + DFY bileşeni
-- **DWY bileşeni** (grup dersleri, haftada 2 gün): grup yapısı maliyeti düşürür, küçük grup (8 kişi) değeri yüksek tutar
-- **DFY bileşeni** (veli raporları, ilerleme takibi, WhatsApp sistemi): veli "her şeyi hallettim" hisseder — bu yüksek fiyat algısı yaratır
-- **Fiyatlama sonucu**: Saf DWY üst bandının (3.000 TL) üzerine çıkılabilir çünkü DFY bileşeni algılanan değeri artırır. Mevcut 5.000 TL/ay fiyatı bu nedenle savunulabilir ve hatta artırılabilir bir noktada.
+### İngilizce Konuşabilmenin Gerçek Ekonomik Değeri
+
+Müşteri "5.000 TL/ay" rakamını duymadan önce şunu anlamalı: Bu program ne satın alıyor?
+
+**Kariyer değeri — yetişkin segmenti:**
+
+| Senaryo | Tahmini TL Değeri |
+|---|---|
+| Mevcut işte bir kademe terfi (maaş farkı, 1 yıl) | 60.000 – 120.000 TL |
+| "İngilizce gerekli" yazan pozisyona geçiş imkânı | 80.000 – 150.000 TL/yıl |
+| Yabancı ortaklı proje veya uluslararası görevlendirme | 50.000 – 200.000 TL (tek seferlik) |
+| Seyahatte otel, ulaşım, müzakere serbestliği | 5.000 – 15.000 TL/seyahat |
+
+Tek bir terfinin değeri, bu programın toplam maliyetinin 3 ila 6 katı.
+
+**Ebeveyn segmenti:**
+
+| Senaryo | Tahmini TL Değeri |
+|---|---|
+| Çocuğun ileriki kariyerinde İngilizce avantajı (erken temel) | Yıllar içinde 200.000 TL+ |
+| Özel dil koçu veya yurt dışı dil okulu maliyetinden kaçınma | 20.000 – 80.000 TL |
+| Sınıftaki en rahat konuşan çocuk olmak — özgüven avantajı | Parayla ölçülemeyen uzun vadeli değer |
+
+**Yapmamak ne kadara mal olur?**
+
+- Ortalama Türk dil kursu: 1.500 – 3.000 TL/ay, sonuç yok.
+- 3 yıl sonuçsuz kurs: 54.000 – 108.000 TL harcanmış, sıfır konuşma kapasitesi.
+- Kaçırılan bir terfi: 60.000 – 100.000 TL.
+- "Hiçbir şey yapmamanın" toplam maliyeti: 120.000 – 200.000 TL+
+
+Bu programa ödenen 27.500 TL (5 aylık toplam), kaçırılan tek bir terfinin yüzde 15 ila 25'i.
+
+**Ana çerçeveleme:**
+"Eğer bu program size bir terfi, bir proje veya bir iş fırsatı kazandırırsa — yatırımın değeri ilk ayda geri dönebilir."
 
 ---
 
-## 3. Fiyat Aralıkları
+## 2. Teslimat Modeli ve Fiyatlama Aralığı
 
-### Ana Program: LGS/YKS İngilizce Puan Garanti Programı
+**Model:** DWY (Birlikte Yapıyoruz) — küçük grup (maks. 8 kişi), yüz yüze, rehberli
 
-| Seçenek | Fiyat | Mantık |
-|---|---|---|
-| Giriş (düşük bariyer) | 3.500 TL/ay | Fiyat hassasiyeti olan aileler için kapı açar; ilk kaydı kolaylaştırır |
-| Orta (mevcut ve önerilen) | 5.000 TL/ay | Kanıtlanmış, piyasada kabul görmüş, savunulabilir |
-| Premium (fiyat artışı hedefi) | 6.500–7.000 TL/ay | Garanti + küçük grup + veli sistemi tamamen oturursa ulaşılacak nokta |
+DWY modeli için genel aralık: 500 – 3.000 TL/ay.
 
-### Yaz Okulu (Yoğun Format, 1 Ay, 2 Kur)
+Bu okulun fiyatı bu aralığın üzerinde — ve bu doğru. Çünkü:
+- Garanti var (rakiplerde yok)
+- CEFR tabanlı ölçüm var (rakiplerde yok)
+- Küçük grup, maks. 8 kişi (rakiplerde kalabalık sınıf)
+- Kanıtlanmış sonuç: sıfır pazarlama ile 100 aktif öğrenci
 
-| Seçenek | Fiyat | Mantık |
-|---|---|---|
-| Standart | 6.000 TL | Mevcut öğrenci ve referans aileler için |
-| Premium (8 kişi, tam paket) | 8.000 TL | Tüm bonuslar dahil, sınav öncesi güvence paketi |
+Mevcut fiyat meşru ve korunmalı. Küçük bir artış hem mümkün hem de değeri yukarı çeker.
 
-### Özel Ders (1-1, Haftada 2 Seans)
+---
 
-| Seçenek | Fiyat | Mantık |
-|---|---|---|
-| Temel | 1.500 TL/ay | Grup programına geçiş köprüsü |
-| Üst | 2.500 TL/ay | Sınav öncesi yoğunlaştırılmış, LGS/YKS odaklı |
+## 3. Fiyat Aralıkları ve Katmanlar
+
+### Katman 1 — Giriş: Yaz Yoğun Programı (1 Ay)
+
+**Kimin için:** "Bir deneyelim" zihniyetindeki yetişkin ya da çocuğu için seçenek arayan ebeveyn.
+**Ne sunar:** Günlük yoğun konuşma pratiği. 4 haftada temel iletişim kapasitesi.
+**Taahhüt seviyesi:** Düşük — tek aylık karar.
+**Fiyat: 7.500 TL**
+
+Not: "6.500 – 8.000 TL arasında" gibi bir aralık sunmak güven zayıflatır. Tek sabit fiyat profesyonellik sinyali verir.
+
+---
+
+### Katman 2 — Standart: 5 Aylık Konuşma Programı (Ana Ürün)
+
+**Kimin için:** Kariyer veya yaşam kalitesi için gerçek dönüşüm isteyen yetişkin ya da çocuğu için yatırım yapan ebeveyn.
+**Ne sunar:** Haftada 3 gün, küçük grup (maks. 8 kişi), CEFR seviye takibi, aylık 1-1 ilerleme görüşmesi, WhatsApp destek, dönem sonu CEFR belgesi.
+**Taahhüt seviyesi:** Orta — 5 ay, ama garantili.
+**Fiyat: 5.500 TL/ay — Toplam: 27.500 TL**
+
+Alternatif sunum: "Günde 183 TL" — bir öğle yemeği fiyatına kariyer dönüşümü.
+
+---
+
+### Katman 3 — Premium: Özel + Küçük Grup Hibrit
+
+**Kimin için:** Sonucu çok daha hızlı isteyen, birebir ilgi önemseyen yetişkin. Ya da kritik bir iş görüşmesi veya uluslararası görev için hazırlanması gereken kişi.
+**Ne sunar:** Haftada 2 gün küçük grup + haftada 1 gün birebir özel ders + hızlandırılmış CEFR yol haritası + öncelikli rezervasyon.
+**Taahhüt seviyesi:** Yüksek — ama hızlı sonuç.
+**Fiyat: 9.500 TL/ay — Toplam: 47.500 TL**
 
 ---
 
 ## 4. Önerilen Strateji
 
-**Strateji: Marj (yüksek bilet) + Hibrit Tier**
+**Tip: Marj Stratejisi — Tier kontrasti ile güçlendirilmiş**
 
-**Mantık:**
-- Antakya orta gelirli şehir — yüksek hacim + düşük fiyat stratejisi marjı ezer ve okulu "ucuz" konumuna iter.
-- 100 mevcut öğrenci zaten var; sorun hacim değil, konumlanma ve fiyat meşruiyeti.
-- Küçük grup (maks. 8 öğrenci) modeli zaten hacmi kısıtlıyor — bu kısıtı fiyata dönüştürmek zorunlu.
-- Orta/premium fiyat + güçlü garanti + sosyal kanıt kombinasyonu en güçlü marj stratejisi.
-- Hedef: mevcut 100 öğrenciden daha az öğrenciyle daha yüksek gelir ve daha güçlü sonuç kanıtı üretmek.
+**Gerekçe:**
+- Antakya nispeten küçük bir pazar. Hacim büyümesi yerine müşteri başına değeri artırmak daha sürdürülebilir.
+- 100 aktif öğrenci zaten var. Yeni müşteri kazanımı değil, mevcut kanalın değerlendirilmesi öncelikli.
+- Garanti ve CEFR tabanlı sistem fiyatı koruma altına alıyor — indirimi gerektirmiyor.
+- Premium katmanın varlığı, Standart katmanı "makul" gösteriyor (orta seçenek etkisi).
 
-**Kısıt uyarısı**: Fiziksel lokasyon ve kadro kapasitesi fiyat artışından önce çözülmeli; çok fazla öğrenci alınırsa küçük grup avantajı bozulur ve garanti riske girer.
+**Kısa vadeli adım:** Standart programı 5.000 TL'den 5.500 TL'ye çıkar. Yeni kayıtlarda uygula, mevcutların fiyatını dondur.
+**Orta vadeli adım:** Premium katmanı 3-5 kişiyle pilot olarak başlat.
 
 ---
 
@@ -81,73 +112,80 @@ LGS/YKS İngilizce bölümünde +15 ila +30 net puan artışı — ölçülebili
 
 | Teknik | Uygulama |
 |---|---|
-| Değer çıpalama (price anchoring) | Önce 21.850 TL'lik değer yığınını göster, sonra 5.000 TL/ay'ı aç; "bu yığın değerinin sadece %23'ü" olarak çerçevele |
-| Cazibe fiyatlandırma | Giriş tier için 3.497 TL veya 4.900 TL (5.000 yerine) kullanılabilir — ancak premium konumlanma isteniyorsa yuvarlak rakamlar daha güçlü |
-| Yuvarlak fiyat (güven sinyali) | 5.000 TL ve 7.000 TL gibi yuvarlak rakamlar premium konumlanmada özgüven yayar; "çıkarcı" izlenimi yaratmaz |
-| Tier karşıtlığı | Özel ders (2.500 TL) → Grup programı (5.000 TL) → Yaz Okulu (8.000 TL) şeklinde açık değer farkı; sadece fiyat farkı değil, sonuç hızı ve destek yoğunluğu farkı olmalı |
-| Aylık ödeme çerçeveleme | "Aylık 5.000 TL" ifadesi, "8 aylık 40.000 TL" yerine her zaman daha az ağır hissettirir; ödeme planı sunumu satışı kolaylaştırır |
-| Aciliyet + kıtlık | "Bu dönem 8 kontenjan, 3'ü doldu" — gerçek kısıt var, bunu görünür kılmak hem dürüsttür hem satış hızlandırır |
+| Fiyat çıpası (değer yığını) | Önce 17.900 TL'lik yığın değerini göster, sonra 5.500 TL/ay'ı açıkla |
+| Yuvarlak fiyatlar | 5.500 TL, 7.500 TL, 9.500 TL — premium konumlanmada özgüven sinyali verir |
+| Günlük çerçeveleme | "Günde 183 TL" — kafe kahvesiyle karşılaştır |
+| Tier kontrast | Katman 3 (9.500 TL) varlığı, Katman 2'yi (5.500 TL) otomatik olarak "mantıklı" seçenek haline getirir |
+| Kayıp çerçeveleme | "Bu yıl da sonuçsuz kurs almanın maliyeti 36.000 – 54.000 TL" |
+| Taksit seçeneği | "5.500 TL/ay" ifadesi "27.500 TL toplam" yerine çok daha az ağır hissettirir |
 
 ---
 
 ## 6. Fiyat Meşrulaştırma Hikayesi
 
-Satış görüşmelerinde, WhatsApp mesajlarında ve landing page'de kullanılacak tam anlatı:
+Bu anlatı sosyal medya içeriğinde, DM yanıtlarında ve satış görüşmelerinde kullanılabilir.
 
 ---
 
-**Adım 1 — Sonucu yeniden çerçevele:**
-"Bir dakika düşünelim. Çocuğunuz LGS/YKS İngilizce bölümünden şu an kaç puan kaybediyor? 10 mu, 20 mi, 30 mu? Bu kayıp sınav puanında nasıl görünüyor?"
+"Sana bir soru sorayım.
 
-**Adım 2 — O sonucun değerini göster:**
-"Türkiye'de üniversite yerleşiminde 10.000 sıra fark, tercih listesinde 2-3 bölüm fark ediyor. LGS'de iyi bir liseye girememek, 4 yıl boyunca farklı bir ortamda büyümek demek. Bu farkın bedeli — sırf üniversite yolu açısından — yüz binlerce lira. Ama sayıyla ifade edilemeyen kısmı var: özgüven, imkân ve gelecek."
+12 yıl İngilizce okudun. Muhtemelen 2-3 kursa daha para verdin. Hepsini topla — kaç para etti? 20.000 TL? 30.000 TL? Belki daha fazla.
 
-**Adım 3 — Yalnız yapmanın maliyetini göster:**
-"Şimdiye kadar ne kadar harcadınız? Genel kurslar, özel dersler, kitaplar... Tahminim 8.000 ile 15.000 TL arasında. Ve sonuç? Puan aynı yerinde duruyor. Çünkü bu harcamalar sistematik değildi. Sınav formatına uygun değildi. Takip yoktu. Garanti yoktu."
+Peki sonuç? Hâlâ bir yabancı geldiğinde susuyorsun.
 
-**Adım 4 — Değer yığınını göster:**
-"Şimdi size şunu sunuyoruz: 8 aylık yapılandırılmış program (13.600 TL değer), kişisel yol haritası (500 TL), hızlı kazanım modülü (1.200 TL), aylık veli raporları (4.800 TL), sınav öncesi tekrar haftası (800 TL), soru tipi kart seti, veli rehberi, motivasyon sistemi... Bunların bağımsız değeri 21.850 TL."
+Sorun sen değildin. Sorun yöntemdi. Gramer anlatıldı, konuşma pratiği yapılmadı. Sistem böyle tasarlandı — seni gramer sınavından geçirmek için, konuşturmak için değil.
 
-**Adım 5 — Fiyatı "sadece bir kesir" olarak açıkla:**
-"Bizim fiyatımız aylık 5.000 TL. 8 ay için 40.000 TL. Bu yığın değerinin %23'ü. Ve üstüne bir garanti koyuyoruz: çocuğunuz devam yükümlülüklerini yerine getirir, 8 ay sonunda ölçülebilir puan artışı olmazsa, bir dönem ücretsiz. Biz iddiamızın arkasındayız."
+Biz farklıyız. %70 konuşma. Küçük grup. CEFR takibi — ilerlemeyi göreceksin, hissedeceksin. Ve eğer 5 ayda konuşamıyorsan, paranı geri alırsın. Garantiyle.
 
----
+Bu program 5 ay boyunca 5.500 TL/ay. Toplam 27.500 TL.
 
-## 7. Fiyatlandırma Kademeleri
+Ama şunu düşün: Tek bir kariyer adımı — tek bir iş fırsatı, tek bir terfi — kaç para etti? 60.000 TL mü? 100.000 TL mi?
 
-| Kademe | Ad | Ne Dahil | Fiyat |
-|---|---|---|---|
-| Giriş | Hızlı Başlangıç Paketi | Özel ders (haftada 2 seans, 1 ay) + seviye tespit sınavı + öğrenme yol haritası | 1.500–2.500 TL/ay |
-| Temel | LGS/YKS Puan Garanti Programı | 8 aylık grup programı (haftada 2 gün, 4 saat) + tüm bonuslar + aylık veli raporu + garanti | 5.000 TL/ay |
-| Premium | Yaz Okulu Hızlandırılmış Program | 1 ayda 2 kur, günde yoğun seans + LGS/YKS odaklı müfredat + tüm bonuslar + sınav günü hazırlık paketi | 6.000–8.000 TL/ay |
+Bu program o fırsatın kapısını açıyor. Yatırımın geri dönüşü ilk ayda başlayabilir.
 
-**Tier geçiş mantığı:**
-- Hızlı Başlangıç → Temel programa geçiş: "Bireysel ders sizi tanımamıza yaradı; şimdi grup programıyla sistemi tam devreye alalım."
-- Temel → Yaz Okulu: "Sınav tarihi yaklaştı, yoğunlaştırılmış format daha hızlı sonuç verir."
+Ve eğer başlamazsa — ücretini iade ederiz."
 
 ---
 
-## 8. Fiyat Deneyleri
+## 7. Fiyat İtirazı İçin 5 Çerçeveleme
 
-1. **A/B fiyat testi**: Aynı ay iki farklı teklif — 4.900 TL ve 5.000 TL. Hangisinin daha az itiraz ürettiğini ölç. (Çoğunlukla yuvarlak rakam daha güçlüdür premium konumlanmada.)
+### Çerçeve 1 — Günlük Maliyet
+"5.500 TL/ay, günde 183 TL'ye denk geliyor. Bir öğle yemeğinin fiyatına, her gün İngilizce konuşma pratiği. Aynı öğle yemeği yarın hâlâ konuşamayacaksın. Bu program için değil."
 
-2. **Erken kayıt testi**: Dönem başlamadan 30 gün önce "ilk 5 kayıt için %10 indirim" sun. Hem satışı erkene çek hem de talebi ölç; indirim olmadan dolan dolmadığını öğren.
+### Çerçeve 2 — Rakip Kurs Karşılaştırması
+"Şu ana kadar kurslara ne kadar para harcadın? Grameri öğretip konuşturmayan kurslara? O para gitti — hiçbiri çalışmadı. Bu sefer fark şu: çalışmazsa paranı geri alırsın."
 
-3. **Ödeme planı testi**: "8 ay peşin = 38.000 TL (1 ay bedava)" vs. "aylık 5.000 TL" seçeneği sun. Peşin ödemeyi seçen oranı ve toplam nakit akışını karşılaştır.
+### Çerçeve 3 — Kaçırılan Fırsat Maliyeti
+"Geçen yıl İngilizce yüzünden kaçırdığın bir iş fırsatı, bir terfi veya bir proje oldu mu? O fırsatın değeri bu programın kaç katıydı? Bu, o kaybı bir daha yaşamamak için bir yatırım."
 
-4. **Bonus-vs-indirim testi**: Aynı fiyata "500 TL indirim" vs. "ücretsiz sınav öncesi tekrar haftası" sun. Hangi çerçevenin daha fazla kayıt ürettiğini karşılaştır. (Çoğu pazarda bonus daha güçlüdür.)
+### Çerçeve 4 — Aylık Taksit
+"27.500 TL'yi bir seferde düşünmek zorunda değilsin. Aylık 5.500 TL. Bir kurs fiyatı ödüyorsun — ama bu sefer garanti var, CEFR takibi var, ve en önemlisi: bu sefer çalışacak."
+
+### Çerçeve 5 — Çocuk için Ebeveyn Versiyonu
+"Çocuğun için şu an aylık ne harcıyorsun? 1.500? 2.000? O ders ona ne öğretiyor? Test sorusu çözmeyi. Bizim programımız ona konuşmayı öğretiyor — 20 yıl boyunca kullanacağı bir beceri. Tek seferlik değil, ömürlük."
 
 ---
 
-## 9. Fiyat Artışına Giden Yol
+## 8. Erken Kayıt ve Doluluk Aciliyeti
 
-**Mevcut durum**: 5.000 TL/ay — piyasada kabul görmüş, kanıtlanmamış garanti üzerine oturmuş.
+Bu okul zaten dolmaya meyilli (100 öğrenci, sıfır pazarlama). Gerçek kısıtlamayı kullan — yapay aciliyet değil.
 
-**6 ay içinde**: Mevcut 100 öğrenciden 10–15 belgelenmiş başarı vakası çıkar. "Antakya'da LGS İngilizce bölümünde en yüksek puan artışı" iddiası sosyal kanıtla güçlenir.
+**Uygulamalar:**
 
-**Fiyat artışı eşikleri:**
-- 15 belgelenmiş başarı vakası → 5.500 TL/ay'a geç (mevcut öğrencilere dondurulmuş fiyat)
-- 30 belgelenmiş başarı vakası + 3 veli video referansı → 6.000 TL/ay
-- Yeni dönem kapasitesi dolmadan önce → 7.000 TL/ay (kıtlık + kanıt kombinasyonu)
+- **Sınıf kontenjanı:** "Bu dönem Standart Program'da 8 kişilik 2 grup var. 3 yer kaldı." Gerçekse kullan — dürüst ve güçlü.
+- **Erken kayıt fiyatı:** İlk 5 kayıt için 5.000 TL/ay, sonrası 5.500 TL. Mevcut fiyatı korurken yeni müşteriyi hızlandırır.
+- **Yaz programı penceresi:** "Yaz Yoğun'un başlangıç tarihi [X]. Kayıt bu tarihten 2 hafta önce kapanıyor — grup dolduğunda liste kapatılıyor."
+- **Bekleme listesi:** "Bu dönem için bekleme listemiz var. Bir dahaki açılışta sizi haberdar edeyim mi?" — hem talep kanıtı hem de potansiyel müşteri listesi.
 
-**Kural**: Fiyat artışından önce her zaman "kanıt artışı" olmalı. Fiyatı kanıt olmadan artırmak itirazı büyütür; kanıtla artırmak fiyatı meşrulaştırır.
+---
+
+## 9. Fiyatlandırma Deneyleri
+
+1. **Fiyat artışı testi:** 10 yeni kayıt için 5.500 TL uygula. Dönüşüm oranını 5.000 TL ile karşılaştır.
+2. **Taksit vs. peşin:** "Aylık 5.500 TL" ile "peşin 25.000 TL (1 ay hediye)" seçeneğini sun. Hangisinin dönüşümü yükselttiğini ölç.
+3. **Yaz fiyatı testi:** 7.000 TL ile 7.500 TL — hangisi daha az itiraz alıyor?
+4. **Bonus vs. indirim:** "Ücretsiz CEFR sertifikası" ekle vs. "500 TL indirim" yap. Bonus çoğunlukla kazanır.
+
+---
+
+*Kaynak: OFFER.md, MARKET_RESEARCH.md ve Hormozi Fiyatlandırma Çerçevesi*

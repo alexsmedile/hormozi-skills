@@ -1,83 +1,103 @@
-# Antakya Amerikan Kültür Dil Okulu — Hormozi Satış & Pazarlama Playbook Özeti
+# SUMMARY.md
+# Antakya American Culture Language School — Oyun Planı Özeti
 
-## Durum Tespiti
-
-| Gösterge | Mevcut |
-|---|---|
-| Aktif öğrenci | 100 |
-| Ortalama aylık gelir/öğrenci | 5.000 TL |
-| Aylık toplam gelir | 500.000 TL |
-| Pazarlama sistemi | Yok |
-| Rakip konumu | Antakya'nın tek uluslararası kültür odaklı dil okulu |
-
-**Teklif Denetim Skoru: 64/100** — Ürün güçlü, sunum zayıf. Kanıt eksikliği en kritik kırılma noktası.
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## Teklif Çerçevesi
+## Teklifiniz Tek Paragrafta
 
-**Ana Teklif Adı:** LGS/YKS İngilizce Puan Garanti Programı
-**Alt Başlık:** "8 Ayda Tam Seviye, Sınav Günü Hazır — Ya da Ücretini İade Ederiz"
-**Konumlandırma:** Antakya'da LGS/YKS İngilizce hazırlığında tek garantili puan artışı programı.
-
-**Fiyat:** 5.000 TL/ay
-**Değer Yığını Çerçevesi:** "21.850 TL'lik paketin sadece %23'ü"
-**Hedef Geçiş:** Kanıt arttıkça 6.000–7.000 TL/ay'a kademeli artış
+Antakya American Culture Language School, yıllarca İngilizce okuyup hâlâ konuşamayan yetişkinlere ve çocukları için aynı tuzağa düşmek istemeyen ebeveynlere, Antakya'da başka hiçbir okulun yapmadığı şeyi sunuyor: her dersin %70'ini konuşma pratiğine harcayan, CEFR ile ilerlemeyi ölçen ve 5 ayda konuşma kapasitesi üretemezsek tüm ücreti iade eden garantili bir program. Sorun müşteride değil — Türk eğitim sisteminin gramer öğretip konuşma öğretmemesinde. Bu okul o sistemi tersine çeviriyor.
 
 ---
 
-## Kritik Bulgular
+## Temel Kararlar
 
-### 1. Fiyat itirazı aslında güven sorunudur
-"5.000 TL çok" diyen aile aslında "yine para ziyan mı edeceğiz?" diyor. Çözüm fiyatı düşürmek değil — imzalı, belgelenmiş garanti + sosyal kanıt.
-
-### 2. Garantiyi "yazılı belge" haline getirin
-"Garanti veriyoruz" yetmez. Kayıt anında fiziksel imzalı sözleşme teslim edin: başlangıç puanı ölçülür, hedef belirlenir, koşullar net yazılır.
-
-### 3. Aciliyet üretmeyin — gerçeği gösterin
-"LGS Haziran'da, program 8 ay, bugün Ekim — hesap ortada." Sahte sayaçlara gerek yok.
-
-### 4. Sosyal kanıt öncelik #1
-100 öğrenci var, başarı hikayeleri var ama hiçbiri belgelenmemiş. Video referanslar, önce/sonra puan kartları ve veli yazılı görüşleri — bunlar olmadan diğer her şey yarım kalır.
-
----
-
-## Üretilen Dokümanlara Genel Bakış
-
-| Dosya | İçerik |
-|---|---|
-| `MARKET_RESEARCH.md` | Antakya mikro-nişi, rakip analizi, acı noktaları, talep doğrulama |
-| `OFFER.md` | Grand Slam Offer yapısı, değer yığını, garanti tasarımı |
-| `OFFER_ANGLES.md` | 6–10 farklı konumlandırma açısı; outcome, acı, zaman, kimlik, mekanizma |
-| `OFFER_AUDIT.md` | 64/100 denetim skoru, zayıf nokta analizi, iyileştirme öncelikleri |
-| `VALUE_PERCEPTION.md` | İsimlendirme, paketleme, çerçeveleme, değer yığını yükseltmeleri |
-| `BONUS_STACK.md` | İtiraz öldüren bonus yapısı, teslim formatları, algılanan değerler |
-| `PRICING.md` | Değer bazlı fiyatlandırma, kademe tasarımı, psikolojik fiyatlama |
-| `OBJECTIONS.md` | Top 5 itiraz + inanç kayması + DM'e hazır yanıtlar |
-| `PITCH.md` | 30 saniyelik, 2 dakikalık ve tam satış görüşmesi pitch versiyonları |
-| `HOOKS.md` | 15+ Instagram/WhatsApp/veli toplantısı hook'u |
-| `LANDING_PAGE.md` | Hero'dan FAQ'a tam satış sayfası kopyası |
-
----
-
-## Acil Eylem Listesi (İlk 30 Gün)
-
-1. **Sosyal kanıt toplama** — Mevcut 5–10 öğrenciden video referans + puan kartı al
-2. **Garanti belgesi hazırla** — Avukata değil, sade Türkçeyle yazılmış 1 sayfa imzalı taahhüt
-3. **WhatsApp mesaj şablonları** — HOOKS.md'den ilk 5 hook'u WhatsApp Business şablonuna dönüştür
-4. **Seviye tespit sınavı lead magnet** — Ücretsiz "İngilizce Hazırlık Testi" ile liste topla
-5. **Erken kayıt kampanyası** — Mart erken kayıt için Ocak'ta hook'ları yayına al
-6. **Landing page yayına al** — LANDING_PAGE.md kopyasını Linktree veya basit bir sayfa olarak kur
-
----
-
-## Potansiyel Büyüme Senaryosu
-
-| Senaryo | Öğrenci | Aylık Gelir |
+| Karar | Seçim | Gerekçe |
 |---|---|---|
-| Mevcut | 100 | 500.000 TL |
-| +50 öğrenci (aynı fiyat) | 150 | 750.000 TL |
-| 100 öğrenci + fiyat artışı (6.500 TL) | 100 | 650.000 TL |
-| 150 öğrenci + fiyat artışı (6.500 TL) | 150 | 975.000 TL |
+| Birincil müşteri | Kariyerinde İngilizce engeli yaşayan Antakyalı yetişkin (22–40) | En yüksek acı yoğunluğu (9/10) + en yüksek satın alma gücü |
+| Eş zamanlı ikincil müşteri | Çocuğu (8–14) için konuşma İngilizcesi isteyen ebeveyn | İkinci en yüksek niş skoru (34/40) |
+| Temel sorun | Gramer odaklı eğitim sistemi konuşma kapasitesi üretmiyor | Tüm Antakya rakipleri aynı hatayı yapıyor |
+| Hedef sonuç | 5 ayda CEFR tabanlı ölçülebilir konuşma kapasitesi | Somut, belgeli, ölçülebilir |
+| Teslimat modeli | DWY — 4–6 kişilik küçük grup, yüz yüze | Konuşma pratiği sosyal bağlam gerektirir |
+| Ana program fiyatı | 5.500 TL/ay (toplam 27.500 TL / 5 ay) | Garanti + CEFR + küçük grup — meşru fark |
+| Giriş ürünü fiyatı | 7.500 TL / 1 ay (Yaz Sprint) | Düşük taahhüt, ana programa köprü |
+| Program adı | KonuşAmerika 5 + KonuşAmerika Yaz Sprint | Konuşmayı merkeze alıyor |
+| Garanti | 5 ayda konuşamazsan tam ücret iade — yazılı sözleşme | Rakipler garanti vermiyor |
+| Temel mesaj | "Sorun sen değildin. Sistem yanlıştı. Biz farklıyız." | Müşterinin en derin inancını kırıyor |
+| Sınav hazırlığı | YOK | Bu okulun kimliği: gerçek iletişim, sınav puanı değil |
 
-Kanıt sistemini kur, garantiyi belgele, 3 ay içinde fiyatı %30 artır.
+---
+
+## Top 3 Öncelikli Aksiyon
+
+### 1. Sosyal Kanıt Videolarını Bu Hafta Çekin
+
+Mevcut 5–10 öğrenciden (hem yetişkin hem ebeveyn) 60–90 saniyelik video alın.
+
+Soru şablonu:
+- "Bu okula gelmeden önce İngilizce konusunda nasıl hissediyordunuz?"
+- "5 ay sonunda ne değişti?"
+- "Başkasına neden öneriyor olurdunuz?"
+
+Bu videolar Instagram ve Facebook'a yükleniyor. Sosyal kanıt olmadan hiçbir satış materyali tam gücünde çalışmaz. En güçlü satış aracı başkasının ağzından çıkan hikaye.
+
+**Beklenen sonuç:** İlk 30 günde DM ve başvuru artışı.
+
+### 2. Garanti Belgesini Yazılı Hale Getirin
+
+"5 ayda konuşacaksın ya da ücret iade" söz olarak değil, kayıtta imzalanan belge olarak uygulanmalı. Belge içeriği: başlangıç CEFR seviyesi, 5 ay sonunda minimum ilerleme kriteri, devam koşulları (%80 katılım + haftalık pratik), iade prosedürü.
+
+**Beklenen sonuç:** "Garanti gerçek mi?" itirazı ortadan kalkar, dönüşüm oranı artar.
+
+### 3. Instagram'da Haftalık İçerik Ritmi Kurun
+
+HOOKS.md'deki 31 kanca 6–8 haftalık içerik takvimini karşılıyor.
+
+Başlangıç formatı:
+- Pazartesi: Sistem suçu kancası (H13, H14, H15)
+- Çarşamba: Gece düşüncesi kancası (H7, H8, H9)
+- Cuma: Öğrenci hikayesi veya sosyal kanıt
+
+İlk Reel için: H4 sorusu ("Kaç yıldır öğreniyorsun? Şimdi tanıtabilir misin?") — yorum → DM → kayıt akışını başlatır.
+
+**Beklenen sonuç:** 4–6 haftada organik DM akışı.
+
+---
+
+## Ne Üretildi — Dosya Dizini
+
+| Dosya | İçerik | Ne Zaman Kullanılır |
+|---|---|---|
+| MARKET_RESEARCH.md | Niş skorları, acı haritası, talep değerlendirmesi | Segment veya ürün kararlarında |
+| OFFER.md | KonuşAmerika 5 ve Yaz Sprint tam yapısı, değer yığını, garanti | Satış görüşmesinde, ekip brifinginde |
+| OFFER_ANGLES.md | 8 konumlandırma açısı, top 3, kanal önerileri | İçerik üretiminde, reklam metninde |
+| OFFER_AUDIT.md | 7 boyutta teklif puanlaması, en kritik 3 düzeltme | Teklifi güçlendirme önceliklerini belirlerken |
+| VALUE_PERCEPTION.md | Sonuç odaklı bileşen isimleri, kariyer yatırımı çerçeveleme | Satış sayfası güncellenirken |
+| BONUS_STACK.md | İtiraz kıran bonus yığını, TL değerleri, teslim zamanları | Kayıt paketi güncellenirken |
+| PRICING.md | 3 fiyat katmanı, değer çıpası, meşrulaştırma hikayesi | Fiyat konuşmalarında, satış görüşmesi hazırlığında |
+| OBJECTIONS.md | 8 itiraz için gizli inanç + inanç kayması + hazır yanıtlar | DM'de, satış görüşmesinde, SSS sayfasında |
+| PITCH.md | 30 sn, 2 dk, 5 dk pitch versiyonları + en güçlü CTA | Yüz yüze tanışmalarda, telefon görüşmelerinde |
+| HOOKS.md | 31 kanca, 10 kategoride, platform önerileri, top 5 | Instagram, Reels, DM ilk mesajında |
+| LANDING_PAGE.md | 10 bölümlük tam landing page metni, tasarımcı notları | Web sayfası ve reklam hedef sayfası yapılırken |
+
+---
+
+## Bir Sonraki Seans Giriş Noktası
+
+Bu playbook teklifin tamamını kurdu. Eksik kalan: sistematik müşteri edinim funneli. Öncelik, mevcut sosyal kanıtı (öğrenci hikayeleri) Instagram → DM → değerlendirme seansı → kayıt akışına dönüştürmek. Garanti belgesinin hukuki gözden geçirilmesi ve kayıt sözleşmesine entegre edilmesi de öncelikli.
+
+---
+
+## Bugün Kullanılacak Kanca
+
+Bu Instagram postunu bu hafta yayınlayın:
+
+> "Kaç yıldır İngilizce öğreniyorsun? Şimdi kendini bir yabancıya tanıtabilir misin?
+>
+> Eğer cevabın 'hayır' ise — sorun sen değilsin. Yıllarca gramer öğretildi, konuşma pratiği yaptırılmadı. Kimse konuşmadan konuşmayı öğrenemez.
+>
+> Biz farklı çalışıyoruz. %70 konuşma. 5 ayda sonuç. Garantili.
+>
+> Kaç yıldır bu engeli taşıyorsun? Yoruma yaz."
+

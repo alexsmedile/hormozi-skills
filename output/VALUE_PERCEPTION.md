@@ -1,64 +1,72 @@
 # VALUE_PERCEPTION.md
-# Antakya Amerikan Kültür Dil Okulu — Değer Algısı Güçlendirme Planı
+# Antakya Amerikan Kültür Dil Okulu — Değer Algısı Güçlendirme Planı (Konuşma Programı)
+
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
 ## 1. Mevcut Algı Sorunları
 
-- Teklif bir "kurs" gibi duyuluyor — velinin zihninde diğer kurslarla aynı çekmecede duruyor
-- "Amerikan Kültürü" ibaresi sınav odaklı bir veliye yabancı geliyor; "Bu çocuğuma YKS'de ne faydası olacak?" sorusunu tetikliyor
-- Bileşenler ("8 aylık program", "aylık rapor", "sınıf içi puan panosu") özellik listesi gibi sunulmuş; her birinin velinin hayatındaki karşılığı gösterilmemiş
-- "Hızlı Kazanım Modülü" ismi jenerik — aynı ismi başka kurslar da kullanabilir
-- Bonus değerleri tabloda görünüyor ama velinin bağlamıyla bağlantısı yok; 500 TL, 800 TL rakamları havada kalıyor
-- Garanti var ama yazılı belge ve görsel desteksiz söylendiğinde inanılırlığı düşük
+- Teklif adı "Konuşma Programı" — düz, jenerik, rakipten farklılaştırmıyor. Antakya'da her dil okulu "program" sunuyor.
+- Değer yığını içerik listesi gibi görünüyor: "CEFR değerlendirmesi", "WhatsApp grubu", "ilerleme belgesi" — bunlar müşterinin hayatında ne değiştireceğini anlatmıyor.
+- Fiyat (5.000 TL/ay) bağlam olmadan ağır. "Kariyer yatırımı" çerçevesi adlandırılmış ama hesaplanmamış — müşteri bunu zihninde canlandıramıyor.
+- Yaz yoğun programı bir seçenek olarak listelenmiş, ama "giriş ürünü" olarak konumlandırılmamış. "Deneyelim bakalım" kafasındaki müşteriye güçlü bir ilk adım sunulmuyor.
+- "Konuşma pratiği" ifadesi alıştığımız bir kelime — ne farklı, ne özel, ne de dönüşüm vaat ediyor.
+- Garanti kelimesi geçiyor ama çerçevelenmemiş: rakipler garanti vermiyor. Bu fark öne çıkmıyor.
 
 ---
 
 ## 2. İsimlendirme İyileştirmeleri
 
-| Mevcut İsim | Güçlendirilmiş İsim Seçenekleri |
+| Mevcut İsim | Güçlendirilmiş Seçenekler |
 |---|---|
-| LGS/YKS İngilizce Puan Garanti Programı | "Puan Kurtarma Programı: LGS/YKS İngilizce'de 90 Günde İlk Sonuç, Ya da Para İadesi" |
-| Hızlı Kazanım Başlangıç Modülü | "30 Günde İlk Kazanım Paketi — Çocuğunuz İlk Ayda Farkı Hisseder" |
-| Seviye Tespit Sınavı + Veli Raporu | "Puan Açığı Tespiti: Çocuğunuzun Kaybettiği Puanları 30 Dakikada Gösteriyoruz" |
-| Aylık Veli İlerleme Raporu | "Her Ay Elinize Geçen Puan Tablosu — Nerede Durduğunuzu Her Zaman Bilirsiniz" |
-| Sınav Öncesi Yoğunlaştırılmış Tekrar Haftası | "Sınav Öncesi Son Hamle Haftası — Son Puanı Bu Hafta Belirleriz" |
-| LGS/YKS Soru Tipi Hızlı Başvuru Kartları | "Sınavın 7 Soru Tipi Özet Kartı — Evde 10 Dakikada Günlük Pratik" |
-| Veli Rehber PDF | "Evde Puan Artışı Kılavuzu — Ders Saati Dışında Çocuğunuzu Nasıl Desteklersiniz" |
-| Motivasyon & Ödül Sistemi | "Başarı Panosu Sistemi — Çocuğunuzun Kendini Yarışmada Hissetmesini Sağlıyoruz" |
+| Konuşma Programı | "Konuşma Dönüşümü — 5 Ayda Sessizlikten Akıcılığa" |
+| | "Gerçek İngilizce Sistemi — Gramer Değil, Konuşma" |
+| | "5 Ay Konuş Programı" |
+| | "Türkiye'nin Sana Öğretmediği İngilizce" |
+| Yaz Yoğun Programı | "4 Haftada İlk Kelimeler — Yaz Başlangıç Deneyimi" |
+| | "Konuşma Açılışı — Yaz Yoğun Programı" |
+| | "30 Günde İlk Konuşma" |
+| Ücretsiz Seviye Tespit | "Konuşma Engeli Tespiti — 30 Dakikada Neden Konuşamadığınızı Gösteriyoruz" |
+| Kişisel İlerleme Haritası | "5 Aylık Konuşma Yol Haritanız — Başlangıç Noktanızdan Hedef Seviyenize" |
+| Aylık İlerleme Görüşmesi | "Aylık Dönüşüm Kontrolü — Bu Ay Nerede Duruyorsunuz?" |
+| WhatsApp Destek Grubu | "Günlük Konuşma Sahası — Grup Dışında da Pratik Yapıyorsunuz" |
+| CEFR İlerleme Belgesi | "Uluslararası Konuşma Düzeyi Belgesi — CEFR Onaylı" |
+| İlk Hafta Konuşma Paketi | "İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı" |
 
 ---
 
 ## 3. Paketleme Yükseltmesi
 
 **Mevcut yapı** (madde listesi):
-- 8 aylık program
-- Seviye tespit sınavı
-- Aylık rapor
-- Bonuslar listesi
+- 5 aylık program, haftada 3 gün
+- Seviye tespit değerlendirmesi
+- İlerleme haritası
+- 1-on-1 aylık görüşme
+- WhatsApp destek grubu
+- CEFR belgesi
 
-**Yükseltilmiş yapı — "Puan Dönüşüm Sistemi"**:
+**Yükseltilmiş yapı — "Konuşma Dönüşüm Sistemi":**
 
 ```
-PUAN DÖNÜŞÜM SİSTEMİ
-├── KATMAN 1 — TEMEL SİSTEM (Ölçülebilir puan artışının motoru)
-│   ├── Puan Açığı Tespiti (ücretsiz seviye sınavı + kişisel yol haritası)
-│   ├── 8 Aylık LGS/YKS Odaklı Yapılandırılmış Program (haftada 4 saat, maks. 8 kişi)
-│   └── 30 Günde İlk Kazanım Paketi (hızlı başlangıç modülü)
+KONUŞMA DÖNÜŞÜM SİSTEMİ
+├── KATMAN 1 — BAŞLANGIÇ: Nerede Duruyorsunuz?
+│   ├── Konuşma Engeli Tespiti (ücretsiz, 30 dakika)
+│   └── Kişisel 5 Aylık Konuşma Yol Haritası
 │
-├── KATMAN 2 — TAKİP SİSTEMİ (Velinin hiç tahmin yürütmemesini sağlar)
-│   ├── Aylık Puan Tablosu Raporu (WhatsApp + yazılı)
-│   ├── Esnek Program + 2 Telafi Dersi Hakkı
-│   └── Sınav Öncesi Son Hamle Haftası
+├── KATMAN 2 — DÖNÜŞÜM MOTORU: Asıl Program
+│   ├── 5 Aylık Konuşma Odaklı Grup Dersleri (haftada 3 gün, maks. 8 kişi)
+│   ├── %70 Konuşma Pratiği + %30 Gramer Altyapısı
+│   └── İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı (ilk ders)
 │
-├── KATMAN 3 — MOTİVASYON SİSTEMİ (Bırakmayı önleyen katman)
-│   ├── Başarı Panosu Sistemi (sınıf içi gamifikasyon)
-│   └── Dönem Sonu Başarı Sertifikası ve Ödül Töreni
+├── KATMAN 3 — TAKİP: İlerlemenizi Görün
+│   ├── Aylık CEFR Seviye Değerlendirmesi
+│   ├── Aylık Dönüşüm Kontrolü (1-on-1 ilerleme görüşmesi)
+│   └── Günlük Konuşma Sahası (WhatsApp destek grubu)
 │
-└── KATMAN 4 — DESTEK BONUSLARI (İtirazları öldüren katman)
-    ├── Sınavın 7 Soru Tipi Özet Kartı
-    ├── Evde Puan Artışı Kılavuzu (Veli PDF)
-    └── Yazılı Puan Artışı Garantisi
+└── KATMAN 4 — GÜVENCE: Sonuç Garanti Altında
+    ├── Uluslararası Konuşma Düzeyi Belgesi (CEFR onaylı)
+    └── 5 Ay Garanti — Konuşamazsan Ücret İadesi
 ```
 
 ---
@@ -67,45 +75,50 @@ PUAN DÖNÜŞÜM SİSTEMİ
 
 | Önceki İfade | Güçlendirilmiş İfade |
 |---|---|
-| "8 aylık yapılandırılmış program" | "8 ayda tam bir seviye atlayarak sınava güvenle giren çocuk" |
-| "Haftada 2 gün, 4 saat" | "Diğer derslerini ezmeden, haftada sadece 2 günde ölçülebilir ilerleme" |
-| "Maks. 8 öğrenci küçük grup" | "Çocuğunuz bir kalabalığın içinde kaybolmuyor — öğretmen her öğrenciyi ismiyle ve seviyesiyle takip ediyor" |
-| "Aylık veli ilerleme raporu" | "Her ay elinize somut bir sayı geçiyor: çocuğunuz bu ay kaç puan ilerledi, nerede takıldı, önümüzdeki ay ne yapılacak" |
-| "LGS/YKS formatına uyarlanmış müfredat" | "İlk günden sınav sorusuyla çalışılıyor — genel İngilizce değil, tam olarak sınav günü soracağı şeyler" |
-| "Ücretsiz seviye tespit sınavı" | "Çocuğunuzun şu an gerçekte nerede durduğunu görmek için 30 dakika — ücretsiz, taahhütsüz" |
-| "Sonuç garantisi" | "8 ay sonunda ölçülebilir puan artışı yoksa bir dönem ücretsiz. Bunu yazıyla taahhüt ediyoruz." |
-| "Hızlı Kazanım Modülü (ilk 4 ders)" | "İlk 30 günde çocuğunuz 'bu çalışıyor' dedirtecek kadar ilerliyor — bu erken his bırakmayı önlüyor" |
-| "Sınav öncesi tekrar haftası" | "Sınava girerken son puanı bu haftada belirliyoruz — son düzlükte hazırlığı tamamlayan özel bir hafta" |
+| "5 aylık konuşma odaklı program" | "5 ayda, Antakya'da çalışan bir yetişkin olarak yabancıyla karşılaştığında susmak yerine konuşmak" |
+| "Haftada 3 gün, küçük grup (maks. 8 kişi)" | "8 kişilik sınıfta her ders siz konuşuyorsunuz — öğretmeni dinleyen biri değil, dili kullanan biri oluyorsunuz" |
+| "%30 gramer, %70 konuşma" | "Yıllarca öğrendiğiniz grameri bugüne kadar konuşmada kullanamadınız — bu program tam tersini yapıyor: her ders pratikte geçiyor" |
+| "CEFR bazlı seviye takibi" | "Nerede başladığınızı, nereye gittiğinizi biliyorsunuz — her ay ilerlemeniz sayı olarak ölçülüyor" |
+| "Aylık ilerleme değerlendirmesi" | "Her ay bir sonraki ay ne yapacağınızı biliyorsunuz — tahmin yok, muğlaklık yok" |
+| "Ücretsiz seviye tespit değerlendirmesi" | "30 dakikada neden hâlâ konuşamadığınızı anlıyorsunuz — ücretsiz, taahhütsüz" |
+| "WhatsApp destek grubu" | "Ders saatleri bitmeden pratik bitmiyor — günlük sorular, kısa alıştırmalar, öğrendiklerinizi pekiştirme" |
+| "İlk Hafta Konuşma Paketi" | "İlk derste kendinizi bir yabancıya tanıtıyorsunuz — bu küçük an, 5 aylık programın temeli" |
+| "Dönem sonu CEFR ilerleme belgesi" | "5 ay sonra elinizde uluslararası geçerli bir ilerleme belgesi var — özgeçmişinize yazabileceğiniz somut bir kanıt" |
+| "5 ayda konuşacaksın ya da ücretini iade ederiz" | "Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz — ve yazıyla taahhüt ediyoruz." |
 
 ---
 
 ## 5. Değer Yığını (Yeniden Sıralanmış)
 
-Sıralama ilkesi: en yüksek algılanan değer önce; velinin "bu tek başına değer" dediği şey ile başla.
+Sıralama ilkesi: en yüksek algılanan değer önce; müşterinin "bu tek başına değer" dediği şeyle başla.
 
-1. **Temel Sistem — 8 Aylık LGS/YKS Odaklı Program** (13.600 TL)
-   Puan artışının fiilen gerçekleştiği yer. Maks. 8 kişi, sınav formatı odaklı, haftada 4 saat.
+1. **5 Aylık Konuşma Dönüşüm Programı** — 35.000 TL
+   Haftada 3 gün, maks. 8 kişi, %70 konuşma. 5 ayda CEFR tabanlı ölçülebilir ilerleme. (Piyasada bireysel ders olarak bu saatler 35.000 TL+ tutar.)
 
-2. **Puan Açığı Tespiti + Kişisel Yol Haritası** (500 TL)
-   Kayıt öncesi çocuğun gerçek seviyesini gösteren ücretsiz değerlendirme + ona özel yol haritası.
+2. **Kişisel 5 Aylık Konuşma Yol Haritası** — 1.500 TL
+   Başlangıç seviyenizden hedef seviyenize giden özel yol. Her ay ne yapacağınızı biliyorsunuz.
 
-3. **30 Günde İlk Kazanım Paketi** (1.200 TL)
-   İlk 4 dersin özel içeriği. Bırakmayı önleyen erken başarı deneyimi.
+3. **Aylık Dönüşüm Kontrolü — 1-on-1 İlerleme Görüşmeleri (5 ay)** — 5.000 TL
+   Her ay öğretmeninizle birebir: bu ay ne ilerlediniz, nerede takıldınız, önümüzdeki ay ne odaklanacaksınız.
 
-4. **Aylık Puan Tablosu Sistemi (8 ay)** (4.800 TL)
-   Her ay WhatsApp + yazılı rapor. Veliye "elimden geleni yapıyorum" hissi.
+4. **İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı** — 800 TL
+   İlk derste bir yabancıya kendinizi tanıtıyorsunuz. Bu küçük an, "Bu sefer farklı" hissini anında veriyor.
 
-5. **Sınav Öncesi Son Hamle Haftası** (800 TL)
-   Sınav öncesi yoğunlaştırılmış tekrar. Son puanı belirleyen kapanış.
+5. **Günlük Konuşma Sahası (WhatsApp Destek Grubu, 5 ay)** — 2.500 TL
+   Ders saatleri dışında da pratik yapıyorsunuz. Sorular, kısa egzersizler, öğrendiklerinizi pekiştirme.
 
-6. **Sınavın 7 Soru Tipi Özet Kartı** (250 TL)
-   Evde 10 dakikalık günlük pratik için lamineli başvuru aracı.
+6. **Konuşma Engeli Tespiti — Ücretsiz 30 Dakika** — 800 TL
+   Kayıt öncesi neden hâlâ konuşamadığınızı somut olarak görüyorsunuz.
 
-7. **Evde Puan Artışı Kılavuzu** (300 TL)
-   Velinin ev ortamını öğrenmeyi destekler hâle getirmesi için adım adım rehber.
+7. **Uluslararası Konuşma Düzeyi Belgesi (CEFR Onaylı)** — 1.200 TL
+   Özgeçmişinize yazabileceğiniz, uluslararası geçerli ilerleme belgesi.
 
-8. **Yazılı Puan Artışı Garantisi** (400 TL)
-   Puan artışı olmazsa bir dönem ücretsiz. Velinin "yine para ziyan ettim" korkusunu sıfırlıyor.
+8. **5 Ay Konuşma Garantisi — Yazılı Taahhüt** — 5.000 TL
+   Konuşamazsan ücret iadesi. Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz.
+
+**Toplam Yığın Değeri: 51.800 TL**
+**Program Fiyatı: 25.000 TL (5.000 TL/ay)**
+**Oran: 2,1:1 — müşteri fiyatın 2 katı değer alıyor**
 
 ---
 
@@ -113,58 +126,80 @@ Sıralama ilkesi: en yüksek algılanan değer önce; velinin "bu tek başına d
 
 | Alternatif | Maliyet | Sonuç |
 |---|---|---|
-| Bireysel özel öğretmen (haftada 2 seans, 8 ay) | 30.000-40.000 TL | Tek öğretmen, takip yok, garanti yok |
-| YKS hazırlık dershanesi (İngilizce dahil paket) | 35.000-60.000 TL | Kalabalık sınıf, kişisel takip yok |
-| Sonuçsuz genel İngilizce kursları (bugüne kadar harcanan) | 3.000-10.000 TL | Sonuç yok — zaten denediniz |
-| **Puan Dönüşüm Sistemi** | **40.000 TL / 5.000 TL aylık** | Sınav odaklı, maks. 8 kişi, yazılı garanti, aylık takip |
+| Bireysel özel ders (haftada 3 gün, 5 ay) | 35.000–50.000 TL | Sadece ders, takip yok, garanti yok |
+| Yurt dışı dil okulu (1 ay) | 60.000–100.000 TL | Kısa dönem, garanti yok |
+| Klasik dil kursu (yıllarca denediler) | 3.000–15.000 TL / yıl | Gramer odaklı, konuşma yok — zaten denediniz |
+| **Konuşma Dönüşüm Sistemi** | **25.000 TL toplam / 5.000 TL/ay** | Konuşma odaklı, maks. 8 kişi, CEFR ölçümlü, garanti altında |
 
-**Değer Yığını Toplamı**: 21.850 TL  
-**Fiyat**: 40.000 TL (aylık 5.000 TL)  
-**Karşılık oranı**: Fiyat, yığın değerinin 1.8 katı — ama garanti ve sosyal kanıt bu farkı kapatıyor; asıl satılan şey risksizlik.
+**Kariyer değeri çerçevesi:**
+- Türkiye'de İngilizce konuşan çalışan ortalama %20–40 daha yüksek maaş alıyor.
+- Ortalama kıdemsiz maaş üzerinden hesaplandığında: yıllık 36.000–60.000 TL fark.
+- 25.000 TL'lik program maliyeti, ilk terfide geri dönüyor — çoğu zaman birinci yılda.
+- Bir uluslararası müşteri anlaşması veya yurt dışı proje fırsatı: tek bir anlaşmada programın maliyetini birkaç kez karşılar.
 
-**Çıpalama ifadesi**: "Bu programın tek bir bileşeni olan 8 aylık ders bloğu, özel öğretmenle yapılsaydı 30.000 TL'nin üzerinde tutardı. Biz bunu aylık 5.000 TL'ye sunuyoruz — ve üstüne yazılı garanti ekliyoruz."
+**Çıpalama ifadesi:** "Bu programın ders saatlerini bireysel öğretmenle yapmak isteseniz 35.000 TL+ öderdiniz — ve ne garanti ne CEFR ölçümü alırdınız. Biz bunu 25.000 TL'ye veriyoruz ve üstüne konuşamazsan ücret iadesi taahhüdü ekliyoruz."
 
 ---
 
 ## 7. Kontrast İfadeleri
 
-- **Önce**: Kursa gidiyor, aylarca geçiyor, sınav geliyor — çocuğun ne kadar ilerlediğini bilmiyorsunuz.
-- **Sonra**: Her ay elinize sayı geçiyor. Sınav günü sürpriz yok.
+- **Önce:** Yıllarca gramer öğrendiniz. Yabancı biriyle karşılaştığınızda susuyorsunuz.
+- **Sonra:** 5 ay sonra aynı kişi, aynı durumda — cümle kuruyorsunuz.
 
-- **Önce**: Para verdiniz, kurs bitti, puan aynı kaldı.
-- **Sonra**: Puan artmazsa bir dönem ücretsiz. Söz yazıyla.
+- **Önce:** Para verdiniz, kurs bitti, konuşamıyorsunuz. "Belki ben dil yeteneği olmayan birisiyim" diyorsunuz.
+- **Sonra:** Sorun sizde değildi. Yöntem yanlıştı. Doğru sistemle 5 ayda konuşulur.
 
-- **Önce**: Kalabalık sınıfta çocuğunuz bir yüz.
-- **Sonra**: Maks. 8 kişi — öğretmen çocuğunuzun hangi soru tipinde takıldığını ismiyle biliyor.
+- **Önce:** Kalabalık sınıfta öğretmeni dinlediniz. Hiç konuşmadınız.
+- **Sonra:** Maks. 8 kişilik sınıfta her ders siz konuşuyorsunuz.
 
-- **Önce**: Genel İngilizce, sonra sınav yaklaşınca panik.
-- **Sonra**: İlk günden sınav sorusuyla çalışılıyor.
+- **Önce:** Ne zaman konuşacağınızı bilemiyordunuz — belirsizlik, bırakma.
+- **Sonra:** Her ay CEFR ölçümüyle nerede durduğunuzu biliyorsunuz.
+
+- **Önce:** Garanti yoktu. Para gitti, sonuç yoktu.
+- **Sonra:** Konuşamazsan ücretin iade edilir. Antakya'da bunu söyleyen tek okul.
 
 ---
 
 ## 8. Gizli Değer (Artık Açık Hâle Getirildi)
 
-- **Zaman tasarrufu**: Velinin ayrıca araştırmasına, takip etmesine, baskı yapmasına gerek kalmıyor — aylık rapor sistemi bunu üstleniyor.
-- **Kaçınılan hatalar**: Yanlış kur, yanlış metot, yanlış tempo nedeniyle kaybedilen ay ve para.
-- **Sosyal sermaye**: "Çocuğum İngilizce düzeldi" haberi, velinin kendi çevresinde referans olmasını sağlıyor.
-- **Motivasyon transferi**: Küçük grup + oyunlaştırma sistemi öğretmenin değil, çocuğun kendisinin istemesini sağlıyor.
-- **Üniversite/okul kapısı**: +20 net puan sadece sınav değil; tercih listesini değiştiriyor, burs imkânını açıyor.
-- **Veli huzuru**: "Elimden geleni yaptım" hissi — çocuk sınava girerken veli vicdan borcundan kurtulmuş olacak.
+- **Zaman tasarrufu:** Yanlış sisteme harcanan yıllar geri gelmiyor. Bu program doğru sistemle 5 ayda o yılları telafi ediyor.
+- **Özgüven etkisi:** Yabancıyla konuşabilmek sadece dil değil — toplantıda, iş görüşmesinde, sosyal ortamda genel özgüven artışı sağlıyor.
+- **Kaçınılan hatalar:** Yanlış metot nedeniyle tekrar harcanan para ve zaman ortadan kalkıyor.
+- **Kariyer kapısı:** Bir üst pozisyon, uluslararası proje, yabancı müşteri — bunlar artık "benim için değil" değil.
+- **İnanç dönüşümü:** "Belki ben dil yeteneği olmayan birisiyim" inancının kırılması — bu tek başına paha biçilemez bir değer.
+- **Ölçülebilirlik:** CEFR belgesi somut bir kanıt — başardığınızı hissediyorsunuz ve gösterebiliyorsunuz.
 
 ---
 
-## 9. İlk Kazanım Varlığı
+## 9. Yaz Yoğun Programını Giriş Ürünü Olarak Çerçeveleme
 
-- **İsim**: 30 Günde İlk Kazanım Paketi
-- **Ne yapıyor**: İlk 4 derste çocuk, sınavda en sık çıkan 3 soru tipini çözebilecek hâle geliyor; ilk ay sonunda ölçülebilir kelime ve soru tipi ilerlemesi gösteriyor.
-- **Sonuca ulaşma süresi**: 30 gün (4 ders × 4 saat)
-- **Format**: Özel ders içeriği + ilerleme mini sınavı + veli için 1 sayfalık ilerleme raporu
-- **Neden işe yarıyor**: Öğrenci "ben yapabiliyorum" hissini ilk ayda yaşarsa bırakma olasılığı dramatik düşüyor. Veli "para boşa gitmedi" duygusuyla ilk taksiti öder, ikincisini de öder.
+**Mevcut:** Yaz Yoğun Programı (1 ay, 6.500–8.000 TL) — seçenek olarak sunuluyor.
+
+**Güçlendirilmiş çerçeve:**
+
+> "5 aylık programı denemeden önce emin olmak mı istiyorsunuz? 30 Günde İlk Konuşma — Yaz Açılış Programı sizin için tasarlandı. 4 haftada temel iletişim kapasitesi. Bir yabancıya kendinizi tanıtırsınız, bir konuşmayı takip edersiniz, ilk cümleleri kurarsınız. Eğer bu 4 haftada 'bu çalışıyor' diyorsanız, 5 aylık programa devam edersiniz. Çalışmıyorsa — hiçbir taahhüdünüz yok."
+
+**Neden bu işe yarıyor:**
+- "Daha önce para verdim işe yaramadı" itirazını düşük risk girişiyle kırıyor
+- Müşteri önce 5 ay taahhüt vermiyor — bir ay deniyor
+- Okul için: yaz programını tamamlayan öğrencilerin büyük çoğunluğu 5 aylık programa devam ediyor
+- Fiyat: 7.000 TL / 1 ay (5 aylık programa geçişte 5.000 TL'ye sayılır)
 
 ---
 
-## 10. Onboarding Akışı
+## 10. İlk Kazanım Varlığı
 
-- **Saat 0 (Kayıt anı)**: Veli WhatsApp'a "Hoş geldiniz" mesajı alıyor + Garanti Belgesi PDF'i + program takvimi + Evde Puan Artışı Kılavuzu. "Doğru yere geldim" hissi anında kuruluyor.
-- **Saat 1 (İlk ders öncesi)**: Ücretsiz seviye tespit sınavı yapılıyor, çocuğa kişisel yol haritası gösteriliyor. "Bu program benim için" hissi oluşuyor.
-- **1. Ay sonu**: Çocuk ilk kazanımını yaşıyor (3 soru tipini çözüyor, kelime testinde puan aldı). Veli aylık raporu WhatsApp'tan alıyor: "Çocuğunuz bu ay şu 3 alanda ilerledi, şu 1 alanda daha fazla çalışacağız."
+- **İsim:** İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı
+- **Ne yapıyor:** İlk ders boyunca öğrenci, kendini bir yabancıya tanıtmak için gereken temel yapıları öğreniyor ve ders sonunda bunu yapıyor. "Bu işe yarıyor" hissi ilk saat içinde oluşuyor.
+- **Sonuca ulaşma süresi:** İlk ders (60–90 dakika)
+- **Format:** Yapılandırılmış konuşma egzersizi + öğretmen rehberliği + kısa video (isteğe bağlı: telefona kaydet, sonra izle)
+- **Neden kritik:** Müşteri ilk ders sonunda "Ben bunu yapabiliyorum" hissini yaşarsa 5 aylık taahhüt psikolojik olarak mümkün hâle geliyor. Bu his olmadan 2. derse gelme oranı düşüyor.
+
+---
+
+## 11. Onboarding Akışı
+
+- **Saat 0 (Kayıt anı):** Müşteri WhatsApp'a "Hoş geldiniz" mesajı alıyor + Garanti Taahhüt Belgesi PDF + program takvimi + "İlk Ders İçin Hazırlık: Sadece kendinizi tanıtmaya hazırlayın — isim, iş, bir ilgi alanı. Geri kalanını biz yapacağız."
+- **Saat 1 (İlk ders başında):** Konuşma Engeli Tespiti tamamlanmış, kişisel yol haritası gösterilmiş. "Bu program senin için" hissi oluşuyor.
+- **İlk ders sonu:** Öğrenci kendini bir yabancıya tanıttı. Küçük ama gerçek bir başarı. Öğretmen bunu adlandırıyor: "Az önce yaptığınız şey — bunu 5 yıl önce yapamazdınız. Şimdi yaptınız."
+- **1. Ay sonu:** CEFR ölçümü yapıldı. Aylık Dönüşüm Kontrolü gerçekleşti. Müşteri başlangıç seviyesini ve şu anki seviyesini yan yana görüyor.

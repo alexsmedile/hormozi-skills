@@ -1,24 +1,24 @@
 # BONUS_STACK.md
-# Antakya Amerikan Kültür Dil Okulu — İtiraz Öldüren Bonus Yığını
+# Antakya Amerikan Kültür Dil Okulu — İtiraz Öldüren Bonus Yığını (Konuşma Programı)
+
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
 ## 1. Teklifin Özeti
 
-- **Ne yapıyor**: LGS/YKS İngilizce bölümünde 8 ayda ölçülebilir puan artışı (+15 ila +30 net) sağlayan küçük grup programı
-- **Kimin için**: Sınava 3-8 ay kalmış, daha önce kurslara para verip sonuç alamamış, çocuğunun geleceği için kaygılanan Antakya velileri
+- **Ne yapıyor:** Yıllarca İngilizce okumuş ama konuşamayan yetişkinlere ve çocuklarına (8–14) 5 ayda ölçülebilir konuşma kapasitesi kazandıran küçük grup programı. %70 konuşma, %30 gramer. CEFR tabanlı. Garanti altında.
+- **Kimin için:** "Belki ben dil yeteneği olmayan birisiyim" inancıyla yaşayan, daha önce kurslara para verip sonuç alamayan, bir sonraki adımı atmaktan korkan Antakyalı yetişkin — ve çocuğunun gerçek konuşma becerisi kazanmasını isteyen ebeveyn.
 
 ---
 
 ## 2. Temel İtirazlar
 
-1. "Yine para ziyan edeceğiz — daha önce de kursa gönderdik, işe yaramadı."
-2. "Çocuğum kursa gidip bırakıyor, motivasyonu yok."
-3. "Sınav İngilizcesi mi öğretiyorsunuz, yoksa genel İngilizce mi? Sınava faydası olur mu?"
-4. "Fiyat çok yüksek, bu parayı veremeyiz."
-5. "Sınav tarihine yetişebilir miyiz? Çok geç kalmadık mı?"
-6. "Çocuğun seviyesine göre mi çalışacak, herkese aynı şeyi mi öğreteceksiniz?"
-7. "Evde de destek olmamız gerekirse ne yapacağız — biz İngilizce bilmiyoruz."
+1. "Daha önce para verdim işe yaramadı — bu sefer de aynı şey olacak."
+2. "Belki ben gerçekten dil yeteneği olmayan birisiyim."
+3. "Zaman yok — iş çok yoğun, haftada 3 gün çıkaramam."
+4. "5 ay uzun — ya yarıda kalırsam?"
+5. Ebeveyn: "Çocuğum sıkılır ve bırakır — başkalarında da böyle oldu."
 
 ---
 
@@ -26,71 +26,71 @@
 
 | # | Bonus Adı | Hangi İtirazı Öldürür | Format | Algılanan Değer |
 |---|---|---|---|---|
-| 1 | Yazılı Puan Artışı Garantisi | "Yine para ziyan ederiz" | Yazılı belge + sözleşme | 1.500 TL |
-| 2 | 30 Günde İlk Kazanım Paketi | "Çocuğum bırakacak" | Özel ilk 4 ders + mini sınav | 1.200 TL |
-| 3 | Puan Açığı Tespiti + Kişisel Yol Haritası | "Seviyesine göre mi?" | Yüz yüze değerlendirme + PDF yol haritası | 500 TL |
-| 4 | LGS/YKS Müfredat Şeffaflık Dökümanı | "Sınav İngilizcesi mi?" | 1 sayfalık müfredat özeti + örnek soru | 300 TL |
-| 5 | Evde Puan Artışı Kılavuzu | "Biz İngilizce bilmiyoruz" | PDF rehber + WhatsApp destek | 300 TL |
-| 6 | Sınavın 7 Soru Tipi Özet Kartı | "Çok geç kaldık mı?" | Lamineli kart seti (evde hızlı pratik) | 250 TL |
-| 7 | Erken Kayıt Saatlik Program Seçim Hakkı | "Fiyat çok yüksek" | Tercih edilen saat bloğu önceliği | 500 TL |
+| 1 | Konuşma Garantisi Belgesi | "Bu sefer de aynı olacak" | Yazılı taahhüt belgesi | 5.000 TL |
+| 2 | İlk 60 Dakikada Konuşun | "Belki ben yapamam" | İlk ders yapılandırılmış egzersizi | 800 TL |
+| 3 | Konuşma Engeli Tespiti | "Bu sefer de aynı olacak" | Ücretsiz 30 dk. değerlendirme + PDF rapor | 800 TL |
+| 4 | Esnek Saat + Telafi Dersi Hakkı (2 ders) | "Zaman yok, iş yoğun" | Program güvencesi | 1.000 TL |
+| 5 | Günlük Konuşma Sahası (WhatsApp, 5 ay) | "Zaman yok" + "Yarıda kalırım" | Canlı destek grubu | 2.500 TL |
+| 6 | Çocuk İçin Oyun Tabanlı Konuşma Başlangıç Kiti | "Çocuğum sıkılır, bırakır" | Fiziksel materyal seti | 600 TL |
+| 7 | Ebeveyn İzleme Kartı (aylık) | "Çocuğum sıkılır, bırakır" | Aylık WhatsApp ilerleme raporu | 1.200 TL |
 
 ---
 
 ## 4. Bonus Açıklamaları
 
-### Bonus 1: Yazılı Puan Artışı Garantisi
-- **Ne yapıyor**: 8 ay boyunca devam yükümlülüklerini yerine getiren (derslerin %80'ine katılım + haftalık pratik) öğrenci, 8. ay sonunda ölçülebilir puan artışı yaşamazsa bir sonraki dönemi ücretsiz alır. Bu taahhüt imzalı belgeyle verilir.
-- **Format**: Kayıt anında teslim edilen 1 sayfalık yazılı garanti sözleşmesi
-- **Neden işe yarıyor**: "Yine para ziyan edeceğiz" korkusu bu pazarda 1 numaralı engel. Garanti, okulun iddiasının arkasında durduğunu gösteriyor — eğer okul kendine güvenmeseydi bu garantiyi vermezdi. Velinin zihnindeki risk sıfıra iniyor.
-- **Sunum zamanı**: Satış görüşmesinin sonunda, fiyat açıklandıktan hemen sonra. "Ve üstüne şunu da veriyoruz..." ile geçiş yapılır.
+### Bonus 1: Konuşma Garantisi Belgesi
+- **Ne yapıyor:** "5 ayda konuşacaksın ya da ücretini iade ederiz" taahhüdünü yazılı, imzalı belgeye dönüştürüyor. Kayıt anında teslim ediliyor.
+- **Format:** 1 sayfalık yazılı garanti belgesi — koşullar net, dil sade (programın %80'ine katılım + haftalık pratik görevler).
+- **Neden işe yarıyor:** "Bu sefer de aynı olacak" ve "yine para ziyan edeceğim" korkusu bu müşteri segmentinde 1 numaralı engeldir. Garanti bir söz olmaktan çıkıp yazılı taahhüde dönüştüğünde müşterinin zihnindeki risk sıfırlanıyor. Rakipler garanti vermiyor. Bu tek fark bile teklifin içinden geçilebilir hâle getiriyor. Garanti belgesi aynı zamanda şunu da söylüyor: "Biz zaten çalıştığını biliyoruz. Bu kadar eminiz ki imzalıyoruz."
+- **Sunum zamanı:** Fiyat açıklandıktan hemen sonra. "Ve işte size garantimiz..." ile geçiş.
 
 ---
 
-### Bonus 2: 30 Günde İlk Kazanım Paketi
-- **Ne yapıyor**: İlk 4 dersin içeriği standart müfredattan farklı biçimde tasarlanmıştır. Öğrenci sınavda en sık çıkan 3 soru tipini çözebilecek düzeye ilk 30 günde ulaşır. Ay sonunda bir mini sınav yapılır; veli sonucu WhatsApp'tan alır.
-- **Format**: Özel ders materyali + ilerleme mini sınavı + 1 sayfalık veli ilerleme kartı
-- **Neden işe yarıyor**: "Çocuğum bırakıyor" itirazı genellikle erken hayal kırıklığından kaynaklanır. İlk ayda somut bir başarı deneyimi yaşayan çocuk, kursu bırakmak yerine devam etmek ister. Bu bonus aynı zamanda velinin "para boşa gitmedi" duygusuyla ikinci taksiti sorunsuz ödemesini sağlar.
-- **Sunum zamanı**: "Çocuğum daha önce bıraktı" itirazı geldiğinde cevap olarak sunulur.
+### Bonus 2: İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı
+- **Ne yapıyor:** İlk derste, ilk 60–90 dakika içinde öğrenci kendini bir yabancıya İngilizce tanıtıyor. İsim, meslek, bir ilgi alanı. Küçük ama gerçek. Öğretmen bunu adlandırıyor: "Az önce yaptınız."
+- **Format:** Yapılandırılmış ilk ders egzersizi. İsteğe bağlı: öğrenci telefona kendini kaydeder, ders sonunda dinler.
+- **Neden işe yarıyor:** "Belki ben yapamam — belki ben gerçekten dil yeteneği olmayan birisiyim" inancı bu müşterinin en derin korkusu. Bu inanç, ilk başarı deneyimiyle kırılır. Teorik kanıtla değil — yaşanmış anla. İlk ders sonunda "Bunu yaptım" hissini yaşayan öğrenci, 5 aylık taahhüdü psikolojik olarak kabul edebiliyor. Bu his olmadan 2. derse gelme oranı düşüyor.
+- **Sunum zamanı:** "Belki ben yapamam" itirazı geldiğinde. "İlk ders sonunda bize katılıp katılmadığınıza karar verin. Bir şeyi garanti ediyorum: ilk ders sonunda 'bu benim için değil' demeyeceksiniz."
 
 ---
 
-### Bonus 3: Puan Açığı Tespiti + Kişisel Yol Haritası
-- **Ne yapıyor**: Kayıttan önce çocuğun mevcut seviyesi 30 dakikalık ücretsiz sınav ile ölçülür. Sonuç, hedef puana olan mesafeyi ve bu mesafeyi kapatmak için gereken adımları gösteren 1 sayfalık kişisel yol haritasına dönüştürülür.
-- **Format**: Yüz yüze değerlendirme oturumu (30 dk) + PDF yol haritası
-- **Neden işe yarıyor**: "Herkese aynı şeyi mi öğretiyorsunuz?" ve "Seviyesine uygun mu?" itirazlarını doğrudan ortadan kaldırır. Veli, çocuğunun programa "kör" girmediğini görür. Aynı zamanda en güçlü ücretsiz değer öncesi adım — kayıt kararını kolaylaştıran ilk temas noktası.
-- **Sunum zamanı**: CTA'nın kendisi olarak kullanılır. "Şimdi kayıt yaptırın" yerine "Çocuğunuzun sınavda kaç puan kayıp verdiğini 30 dakikada gösterelim — ücretsiz."
+### Bonus 3: Konuşma Engeli Tespiti — Ücretsiz 30 Dakika
+- **Ne yapıyor:** Kayıt öncesi 30 dakikalık değerlendirme. "Neden hâlâ konuşamıyorum?" sorusunun cevabını somut olarak gösteriyor. Müşteriye özel: nereden başlaması gerektiği, hangi engellerle karşılaştığı, 5 ayda nereye gidebileceği. PDF rapor olarak teslim ediliyor.
+- **Format:** Yüz yüze veya online konuşma değerlendirme oturumu (30 dk) + 1 sayfalık kişisel rapor.
+- **Neden işe yarıyor:** "Bu sefer de aynı olacak" korkusu kısmen bilinmezlikten geliyor — müşteri kendini tanımıyor, nereden başlayacağını bilmiyor. Bu değerlendirme o bilinmezi kaldırıyor. Ayrıca en güçlü düşük riskli giriş noktası: müşteri kayıt olmadan önce değer alıyor, okulun yetkinliğini görüyor.
+- **Sunum zamanı:** CTA olarak kullanılır. "Şimdi kayıt olun" yerine: "Önce 30 dakikalık ücretsiz değerlendirmemize gelin — neden hâlâ konuşamadığınızı gösterelim. Sonra karar verin."
 
 ---
 
-### Bonus 4: LGS/YKS Müfredat Şeffaflık Dökümanı
-- **Ne yapıyor**: Programın LGS ve YKS sınav formatına tam olarak nasıl uyarlandığını gösteren 1 sayfalık belge. Hangi konu bloğunun sınavın hangi bölümüne karşılık geldiğini, çıkmış soru tiplerini ve örnek alıştırmaları içerir.
-- **Format**: 1 sayfalık PDF + WhatsApp'tan gönderilecek örnek ders videosu (2-3 dakika)
-- **Neden işe yarıyor**: "Amerikan Kültürü okulu LGS/YKS'ye mi hazırlıyor?" şüphesini kapı açılmadan kapatır. Veli müfredatı gözüyle görünce bu soru zihinden silinir.
-- **Sunum zamanı**: Satış görüşmesi öncesi ön bilgi paketi olarak WhatsApp'tan gönderilebilir; görüşmede de masaya konulabilir.
+### Bonus 4: Esnek Saat + 2 Telafi Dersi Hakkı
+- **Ne yapıyor:** Müşteri sabah, öğleden sonra veya akşam saat bloklarından tercih ediyor. Dönem boyunca kaçırılan dersler için 2 telafi dersi hakkı tanınıyor — önceden bildirme koşuluyla.
+- **Format:** Program tercihi formu (kayıt anında) + 2 ders telafi hakkı (yazılı onay).
+- **Neden işe yarıyor:** "Zaman yok, iş çok yoğun" itirazının özü şu: "Ya bir iş çıksa ve dersi kaçırsam?" Bu bonus o korkuyu kaldırıyor. Haftada 3 gün taahhüdü ağır hissettiren şey esneksizlik. Esneklik verildiğinde taahhüt hafifliyor.
+- **Sunum zamanı:** "Haftada 3 gün çıkarmak zor" itirazı geldiğinde. "Bazen çıkaramazsanız ne olacağını söyleyeyim..."
 
 ---
 
-### Bonus 5: Evde Puan Artışı Kılavuzu
-- **Ne yapıyor**: İngilizce bilmeyen velilerin çocuğuna evde nasıl destek olabileceğini anlatan adım adım rehber. Günde 10 dakikalık ev rutini, motivasyon teknikleri ve "öğretmene sormam gerekenler" listesi içerir.
-- **Format**: 8-10 sayfalık PDF + WhatsApp destek hattı (haftalık pratik soruları için)
-- **Neden işe yarıyor**: "Biz İngilizce bilmiyoruz, evde nasıl yardımcı olacağız?" itirazını kaldırır. Veli yetersizlik hissetmez; aksine programın bir parçası olur. Bu his, taahhüdü ve ödeme sürekliliğini artırır.
-- **Sunum zamanı**: Kayıt anında teslim edilir; WhatsApp hoş geldin paketinin parçası olarak gönderilir.
+### Bonus 5: Günlük Konuşma Sahası — WhatsApp Destek Grubu (5 Ay)
+- **Ne yapıyor:** Mevcut öğrenciler ve öğretmenin bulunduğu WhatsApp grubu. Günlük kısa sorular, pratik egzersizler, kelime tekrarları, motivasyon. Ders saatleri dışında da dil canlı kalıyor.
+- **Format:** WhatsApp grubu — günde 1–2 kısa içerik, öğretmen moderasyonu, öğrenci katılımı gönüllü.
+- **Neden işe yarıyor:** "Zaman yok" itirazını iki şekilde kırıyor: Birincisi, ders saatleri dışında da pratik yapılabiliyor — günde 5 dakika yeterli. İkincisi, grup dinamiği öğrencinin "yarıda bırakmak" kararını zorlaştırıyor — sosyal taahhüt etkisi. Aynı zamanda "Bu sefer de olmayacak" korkusunu haftalık küçük kazanımlarla sürekli kırıyor.
+- **Sunum zamanı:** Değer yığını açıklanırken. "Ve ders saatlerinin dışında da yanınızdayız..."
 
 ---
 
-### Bonus 6: Sınavın 7 Soru Tipi Özet Kartı
-- **Ne yapıyor**: LGS ve YKS İngilizce bölümünde çıkan 7 ana soru tipi için "nasıl yaklaşılır" formülünü gösteren lamineli kart seti. Çocuğun masasına veya çantasına asabileceği, dersi beklemeden pratik yapabileceği bir araç.
-- **Format**: Lamineli kart seti (7 kart), fiziksel teslimat
-- **Neden işe yarıyor**: "Çok geç kalmadık mı?" ve "Yetişebilir miyiz?" kaygısına ders saatleri dışında da ilerleme imkânı sunarak cevap verir. Fiziksel bir nesne olması, ailenin programı somut biçimde hissetmesini sağlar.
-- **Sunum zamanı**: İlk ders günü fiziksel olarak teslim edilir — "Bu sizin araçlarınız" anı olarak sahneye konur.
+### Bonus 6: Çocuk İçin Oyun Tabanlı Konuşma Başlangıç Kiti
+- **Ne yapıyor:** 8–14 yaş grubu için: ilk haftada kullanılan oyun kartları, konuşma zarları, kelime eşleştirme kartları. Ders materyali — ama oyun gibi görünen. Çocuk "ders yapıyorum" hissetmiyor, "oynuyorum" hissediyor.
+- **Format:** Fiziksel materyal seti — sınıfta kullanılıyor, bazı parçalar eve gidiyor.
+- **Neden işe yarıyor:** "Çocuğum sıkılır ve bırakır" itirazının kökü şu: ebeveyn daha önceki kursların çocuğu sıktığını gördü. Bu materyal, dersin sıkıcı olmayacağını somut olarak gösteriyor — ebeveyne değil, çocuğa. Çocuk eve bir şey götürdüğünde ebeveyn "Bu gerçekten farklı" hissini yaşıyor.
+- **Sunum zamanı:** Ebeveyn segmentinde, "Çocuğum bırakır" itirazından sonra. Mümkünse fiziksel olarak göstererek sunulur.
 
 ---
 
-### Bonus 7: Erken Kayıt Saatlik Program Seçim Hakkı
-- **Ne yapıyor**: Erken kaydeden aile, dönemin saat bloklarından (sabah / öğleden sonra / akşam) önce seçim yapar. Geç kaydeden aile kalan saatle yetinir.
-- **Format**: Öncelikli program seçim hakkı (dijital onay + takvim paylaşımı)
-- **Neden işe yarıyor**: Fiyata itiraz eden veliye "fiyat indiriminden" çok "öncelik avantajı" sunmak daha değerli hissettirir. Aynı zamanda aciliyet yaratır: "Şimdi kaydolmazsam istediğim saati kaybedebilirim."
-- **Sunum zamanı**: "Fiyat çok yüksek" veya "Biraz düşüneyim" itirazlarından sonra. "İndirim yapamam ama şunu yapabilirim..." geçişiyle sunulur.
+### Bonus 7: Ebeveyn Aylık İlerleme Kartı
+- **Ne yapıyor:** Her ay ebeveyn WhatsApp'tan 1 sayfalık ilerleme kartı alıyor: bu ay çocuğunuz hangi konuşma becerilerini kazandı, ne yapabilir artık, önümüzdeki ay ne üzerinde çalışacağız. Sayı ve somut beceri odaklı — "iyi gidiyor" değil, "artık kendini tanıtabiliyor."
+- **Format:** Aylık WhatsApp mesajı + 1 sayfalık PDF ilerleme kartı.
+- **Neden işe yarıyor:** "Çocuğum sıkılır ve bırakır" itirazının ikinci boyutu: ebeveyn ilerlemeyi göremezse motivasyonu düşüyor ve çocuğu göndermeyi bırakıyor. Bu kart, ebeveyni programın içine dahil ediyor — pasif ödeme yapan değil, ilerlemeyi gören biri hâline geliyor. Gören ebeveyn, devam ettiren ebeveyndir.
+- **Sunum zamanı:** Ebeveyn segmentinde her zaman. "Sizi de sürecin dışında bırakmıyoruz..."
 
 ---
 
@@ -98,38 +98,39 @@
 
 | Bileşen | Algılanan Değer |
 |---|---|
-| Yazılı Puan Artışı Garantisi | 1.500 TL |
-| 30 Günde İlk Kazanım Paketi | 1.200 TL |
-| Puan Açığı Tespiti + Kişisel Yol Haritası | 500 TL |
-| LGS/YKS Müfredat Şeffaflık Dökümanı | 300 TL |
-| Evde Puan Artışı Kılavuzu | 300 TL |
-| Sınavın 7 Soru Tipi Özet Kartı | 250 TL |
-| Erken Kayıt Program Seçim Hakkı | 500 TL |
-| **Toplam Bonus Değeri** | **4.550 TL** |
-| **Ana Program Değeri** | **21.850 TL** |
-| **Toplam Yığın Değeri** | **26.400 TL** |
-| **Fiyat** | **40.000 TL (aylık 5.000 TL)** |
-
-Not: "Fiyat > yığın değeri" çelişkisi görünüyor — bu bilerek böyle. Satılan şey içerik değil, risksizlik ve garantili sonuç. Garanti ve sosyal kanıt (vaka hikayeleri) bu farkı kapatıyor. Satış görüşmesinde vurgu her zaman "puan artışı olmasa ne kaybedersiniz?" sorusu üzerinden kurulmalı.
+| Konuşma Garantisi Belgesi | 5.000 TL |
+| İlk 60 Dakikada Konuşun | 800 TL |
+| Konuşma Engeli Tespiti (ücretsiz değerlendirme) | 800 TL |
+| Esnek Saat + 2 Telafi Dersi Hakkı | 1.000 TL |
+| Günlük Konuşma Sahası (5 ay WhatsApp) | 2.500 TL |
+| Çocuk İçin Oyun Tabanlı Başlangıç Kiti | 600 TL |
+| Ebeveyn Aylık İlerleme Kartı (5 ay) | 1.200 TL |
+| **Toplam Bonus Değeri** | **11.900 TL** |
+| **Ana Program Değeri** | **35.000 TL** |
+| **Toplam Yığın Değeri** | **46.900 TL** |
+| **Fiyat** | **25.000 TL (5.000 TL/ay)** |
+| **Oran** | **1,87:1 — müşteri fiyatın neredeyse 2 katı değer alıyor** |
 
 ---
 
 ## 6. Yığın Stratejisi
 
-**Neden bu sırayla**:
-- Bonus 1 (Garanti) en önce geliyor çünkü "yine para ziyan" bu pazardaki 1 numaralı itiraz. Garanti sunulmadan diğer hiçbir bonus yerini bulamaz.
-- Bonus 2 (30 Günde İlk Kazanım) ikinci geliyor çünkü velinin ikinci büyük korkusu "çocuğum bırakacak." Bu bonus hem çocuğu hem veli taahhüdünü ayakta tutuyor.
-- Bonus 3 (Yol Haritası) üçüncü geliyor — en güçlü ücretsiz CTA. Kayıt kararından önce değer yaratan tek bonus.
-- Bonuslar 4-7 sırayla kalan itirazları sıyırıyor; her biri tek bir şüpheyi ele alıyor.
+**Neden bu sırayla:**
 
-**Hangi itirazlar kaldırıldı**:
-1. "Yine para ziyan ederiz" → Bonus 1 (Garanti)
-2. "Çocuğum bırakacak" → Bonus 2 (İlk Kazanım)
-3. "Seviyesine göre mi?" → Bonus 3 (Yol Haritası)
-4. "Sınav İngilizcesi mi?" → Bonus 4 (Müfredat Şeffaflığı)
-5. "Evde nasıl yardımcı olacağız?" → Bonus 5 (Veli Kılavuzu)
-6. "Çok geç kaldık mı?" → Bonus 6 (Özet Kart)
-7. "Fiyat çok yüksek" → Bonus 7 (Erken Kayıt Önceliği)
+Bonus 1 (Garanti Belgesi) en önce geliyor çünkü bu müşteri segmentinin 1 numaralı engeli "yine para harcayıp sonuç alamayacağım" korkusu. Garanti sunulmadan diğer hiçbir bonus yerini bulamaz — müşteri hâlâ savunmada.
+
+Bonus 2 (İlk 60 Dakikada Konuşun) ikinci geliyor çünkü ikinci büyük korku "belki ben yapamam" inancı. Bu bonus soyut bir güvence değil — somut bir deneyim vaat ediyor. "İnandırıcı mı?" sorusu bu bonusla kapanıyor.
+
+Bonus 3 (Konuşma Engeli Tespiti) en güçlü ücretsiz CTA olarak hem bağımsız bir giriş noktası hem de satış öncesi değer sunucu olarak çalışıyor.
+
+Bonuslar 4–5 lojistik itirazları (zaman, esneklik) kaldırıyor. Bonuslar 6–7 ebeveyn segmentine özel itirazları hedefliyor.
+
+**Hangi itirazlar kaldırıldı:**
+1. "Daha önce para verdim, işe yaramadı / bu sefer de aynı olacak" → Bonus 1 (Garanti) + Bonus 3 (Tespit)
+2. "Belki ben dil yeteneği olmayan birisiyim" → Bonus 2 (İlk 60 Dakika)
+3. "Zaman yok, iş çok yoğun" → Bonus 4 (Esneklik) + Bonus 5 (WhatsApp)
+4. "5 ay uzun, yarıda kalırım" → Bonus 4 (Telafi) + Bonus 5 (Sosyal taahhüt)
+5. "Çocuğum sıkılır ve bırakır" → Bonus 6 (Oyun Kiti) + Bonus 7 (Ebeveyn Kartı)
 
 ---
 
@@ -137,10 +138,10 @@ Not: "Fiyat > yığın değeri" çelişkisi görünüyor — bu bilerek böyle. 
 
 | Adım | Sürtünme Noktası | Çözüm |
 |---|---|---|
-| Karar aşaması (kayıt öncesi) | "Neye güveneyim, nasıl karar vereyim?" | Puan Açığı Tespiti ücretsiz sunulur — karar öncesi somut veri |
-| Kayıt anı | "Tüm bu parayı peşin veremem" | Aylık ödeme seçeneği (5.000 TL/ay); ilk ay ödemesi yeterli |
-| İlk hafta (başlangıç sürtünmesi) | "Nereye gidecek, ne yapacak, ne getirmeli?" | Kayıt anında WhatsApp hoş geldin paketi: takvim + adres + ilk ders hazırlık listesi |
-| İlk ay (bırakma riski) | Öğrenci ilerleme göremezse motivasyon düşer | 30 Günde İlk Kazanım Paketi — erken başarı hissi |
-| Devam ayları (ödeme sürtünmesi) | "Gerçekten işe yarıyor mu?" şüphesi | Aylık Puan Tablosu Raporu — her ay somut sayı elinizde |
-| Ders saati dışı (ev boşluğu) | "Bu saatlerin dışında ne yapacak?" | Özet Kart + Veli Kılavuzu — ders saatlerini uzatıyor |
-| Sınav öncesi (son panik) | "Yetişebildik mi?" kaygısı | Son Hamle Haftası — sınav öncesi yoğun tekrar, güven kapanışı |
+| Karar öncesi (kayıt öncesi) | "Neye güveneyim, nasıl karar vereyim?" | Konuşma Engeli Tespiti ücretsiz sunulur — karar öncesi somut değer ve yetkinlik kanıtı |
+| Kayıt anı | "5 ay taahhüt vermek korkutucu" | Yaz Yoğun Programı giriş ürünü: önce 1 ay dene, sonra karar ver |
+| İlk ders | "Acaba yapabilecek miyim?" | İlk 60 Dakikada Konuşun egzersizi — ilk saat içinde "yapabiliyorum" hissi |
+| İlk ay | Program ağır hissettirirse bırakma riski | Esnek saat + Telafi hakkı + WhatsApp günlük destek |
+| Devam ayları | "Hâlâ ilerliyorum mu?" şüphesi | Aylık CEFR ölçümü + Dönüşüm Kontrolü görüşmesi |
+| Ebeveyn katılımı | "Çocuğum nasıl gidiyor bilmiyorum" | Aylık İlerleme Kartı — her ay somut beceri bildirimi |
+| Program sonu | "5 ay geçti, gerçekten ilerledi mi?" | CEFR Uluslararası İlerleme Belgesi — başlangıç vs. bitiş karşılaştırması |

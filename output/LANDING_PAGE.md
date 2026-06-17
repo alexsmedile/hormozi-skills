@@ -1,271 +1,296 @@
 # LANDING_PAGE.md
 # Antakya Amerikan Kültür Dil Okulu — Landing Page Metni
 
----
-
-## 1. Hero Bölümü
-
-**Ana Başlık**:
-Antakya'nın Tek LGS/YKS İngilizce Programı — 8 Ayda Ölçülebilir Puan Artışı, Ya da Bir Dönem Ücretsiz
-
-**Alt Başlık**:
-Daha önce kurslara para verdiniz ama puan artmadı. Bu sefer farklı: yazılı garanti, aylık ilerleme raporu ve LGS/YKS soru tiplerine özel müfredat — hepsi bir arada.
-
-**CTA Butonu**:
-Ücretsiz Seviye Tespit Sınavına Kayıt Ol — Taahhütsüz
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## 2. Problem Bölümü
+## Sayfa Yapısı ve Amaç
 
-### "Yine para ziyan ettik."
+Bu sayfa tek bir iş yapacak: yıllarca İngilizce okuyup hâlâ konuşamayan Antakyalı yetişkini (ve çocuğu için endişeli ebeveyni) ücretsiz değerlendirme seansına yönlendirmek.
 
-Bunu söylemek zorunda kalmak bu kadar ağır — çünkü hem parasal hem duygusal bir hayal kırıklığı.
-
-Çocuğunuzu düzenli kursa gönderdiniz. Belki birden fazla kursa. Belki özel derse. Belki YouTube'a, uygulamalara. Harcadınız, uğraştınız, takip ettiniz. Ama sınav puanı yerinde durdu.
-
-Ve şimdi sınav yaklaşıyor.
-
-LGS Haziran'da. YKS Haziran'da. Takvim değişmiyor.
-
-Bu noktada birçok aile üç şeyden birini yapıyor:
-
-- Aynı şeyi tekrar deniyor — ve aynı sonucu alıyor.
-- Hiçbir şey yapmıyor — ve pişmanlık birikiyor.
-- Doğru programı bulmaya çalışıyor — ama hangisi "doğru" olduğunu bilemiyor.
-
-Eğer bu satırları okuyorsanız, üçüncü grupta olduğunuzu düşünüyoruz. Ve iyi haber şu: cevap var.
-
-**Ama önce şunu anlamanız gerekiyor.**
-
-Daha önce gittiğiniz kurslar büyük ihtimalle şu üç hatadan en az birini yapıyordu:
-
-1. Genel İngilizce müfredatı — LGS/YKS soru tiplerine özel değil.
-2. Takip mekanizması yok — veli ne öğrenildiğini bilmiyor, öğrenci kaybolup gidiyor.
-3. Garanti yok — para ödendi, sonuç geldi mi gelmedi mi belirsiz.
-
-Bu üç eksikten biri bile yeterliydi sonucun görünmemesi için.
+Ton: Sistemi suçla, kişiyi asla. Güçlendirici, dürüst, pazarlamacı dili yok.
 
 ---
 
-## 3. Sonuç Bölümü
+## Bölüm 1: Hero
 
-### 8 Ay Sonra Nerede Olacaksınız?
+*Tasarımcıya not: Bu bölümün amacı — ilk 3 saniyede "bu beni anlıyor" hissini vermek ve kaydırmaya devam ettirmek.*
 
-Şu an LGS/YKS İngilizce bölümünden 15–20 net kaybeden bir çocuk, 8 ay sonra sınava güvenle girebilir.
+### Ana Başlık
 
-Bu sadece puan meselesi değil.
+**Yıllarca İngilizce Okudun. Hâlâ Konuşamıyorsun.**
+**Sorun Sen Değilsin.**
 
-Sınav gününden birkaç gün önce çocuğunuz sizi arayıp "Hazırım, gergin değilim" dediğinde — o hissin bedeli hiçbir şeyle ölçülemez.
+### Alt Başlık
 
-YKS'de 20 net puan farkı 10.000 ile 50.000 sıra farkı anlamına geliyor. Bu fark bazen bir insanın gideceği üniversiteyi, seçeceği bölümü, kuracağı kariyeri belirliyor.
+Türk eğitim sistemi seni gramer makinesi yaptı — konuşan insan değil. Biz farklı çalışıyoruz: her dersin %70'i konuşma pratiği. 5 ayda sonuç. Garantili.
 
-LGS'de iyi bir liseye girmek, 4 yıllık ortam, çevre ve özgüven farkı demek.
+### CTA Butonu
 
-Ve sizin için: "Doğru kararı verdim, elimden geleni yaptım" huzuru.
+**Ücretsiz CEFR Değerlendirmesini Rezerve Et — Taahhütsüz**
 
-Bunlar büyük cümleler. Ama 8 ay önce doğru bir karar vermiş ailelerin gerçek sonuçları.
-
----
-
-## 4. Çözüm Bölümü
-
-### LGS/YKS İngilizce Puan Garanti Programı Nasıl Çalışır?
-
-**Adım 1 — Çocuğunuzun Gerçek Puan Açığını Öğrenin (Ücretsiz)**
-
-Programa başlamadan önce 30 dakikalık ücretsiz seviye tespit sınavı yapıyoruz. Sonuç, çocuğunuzun hedef puana olan mesafesini ve bu mesafeyi kapatmak için gereken adımları gösteren kişisel yol haritasına dönüşüyor. Para taahhüdü yok — sadece somut bilgi.
-
-**Adım 2 — İlk 30 Günde Fark Görün**
-
-Program başlar başlamaz ilk 4 ders Hızlı Kazanım Modülü olarak çalışıyor. Bu derslerde çocuğunuz sınavda en sık çıkan 3 soru tipini öğreniyor ve test üzerinde görebiliyor. İlk ayda "işe yarıyor" hissini taşıyan çocuk bırakmıyor — devam ediyor.
-
-**Adım 3 — 8 Ay Boyunca Takip Edilmiş İlerleme**
-
-Her ay size WhatsApp üzerinden yazılı ilerleme raporu gönderiyoruz: o ay ne öğrenildi, nerede zorlanıldı, bir sonraki ay ne hedefleniyor. Telefon açmanıza gerek yok — bilgi size geliyor.
-
-**Adım 4 — Sınav Günü Hazır**
-
-Sınav öncesinde yoğunlaştırılmış tekrar haftasıyla son eksikleri kapatıyor, güvenle giriyorsunuz.
+*(Alt metin: 30 dakika. Şu an hangi seviyedesin, 5 ayda nereye gelebilirsin — birlikte görüyoruz.)*
 
 ---
 
-## 5. Mekanizma Bölümü
+## Bölüm 2: Acı Tanıma
 
-### Diğer Kurslardan Neden Farklı?
+*Tasarımcıya not: Bu bölümün amacı — müşteriyi "bu kesinlikle benim durumum" dedirtmek. Özsuçlama yok — sadece tanıma.*
 
-Antakya'daki büyük çoğunluk genel İngilizce kursu açıyor. Konuşma pratiği, günlük dil, genel kelime — bunların LGS/YKS'de puana dönüşmesi mümkün değil.
+### Başlık
 
-Bizim programımız doğrudan LGS ve YKS sınav formatına göre kurgulanmış. İlk günden itibaren sınav soru tipleri üzerinde çalışılıyor:
+**Bu durumlardan herhangi biri tanıdık mı?**
 
-- Okuma-anlama soruları
-- Dil bilgisi (grammar) soruları
-- Kelime tamamlama ve bağlam soruları
-- Paragraf tamamlama ve anlam bütünlüğü
+- Toplantıda yabancı biri oturunca sesin çıkmıyor — kafanda cümleyi kuruyorsun ama ağzından çıkmıyor
+- Özgeçmişine "iyi derecede İngilizce" yazıyorsun ama içinden "yarın sınasalar geçemem" diye düşünüyorsun
+- Yurt dışına gittiğinde ne yemek sipariş edeceğini google translate'le çözüyorsun
+- İş görüşmesinde "İngilizce biliyor musunuz?" sorusu gelince "yazılı anlıyorum" diyorsun
+- Bir daha kursa para vermeye korkuyorsun çünkü hep aynı son: gramer, gramer, gramer — konuşma yok
 
-Amerikan Kültürü yaklaşımımız dili ezbere değil, anlamlı bağlamlarla öğretiyor. Bu fark sınavda şöyle görünüyor: öğrenci soruyu "hatırlamaya" çalışmak yerine "anlayarak bulmak" için çözüyor — ve bu fark nette görünüyor.
-
-Ek olarak:
-
-- Maksimum 8 kişilik sınıf — öğretmen her öğrenciyi tanıyor, bireysel düzeltme yapabiliyor.
-- Sınav tarihine göre ters planlama — her ay hangi konunun bitmesi gerektiği önceden belli.
-- Aylık yazılı veli raporu — ne olduğunu her zaman biliyorsunuz.
-- Yazılı sonuç garantisi — çalışmazsa bir dönem ücretsiz.
+Eğer bunlardan en az biri tanıdık geliyorsa — devam et. Bu sayfa senin için.
 
 ---
 
-## 6. Değer Yığını Bölümü
+## Bölüm 3: Kırılma Anı — "Bu Senin Hatan Değil"
 
-### Bu Programa Kaydolduğunuzda Ne Alıyorsunuz?
+*Tasarımcıya not: Bu bölümün amacı — müşterinin içselleştirdiği "belki ben aptaldım" inancını kırmak. Bu kırılma olmadan hiçbir satış çalışmaz.*
 
-| Bileşen | Açıklama | Değer |
-|---|---|---|
-| 8 Aylık Yapılandırılmış Program | Haftada 2 gün, 4 saat, 34 hafta — LGS/YKS soru tiplerine özel müfredat | 13.600 TL |
-| Seviye Tespit Sınavı + Kişisel Yol Haritası | Başlangıç puan açığı ölçümü ve sınav tarihine göre kişisel plan | 500 TL |
-| Hızlı Kazanım Başlangıç Modülü | İlk 4 dersin özel içeriği — ilk 30 günde ölçülebilir ilerleme | 1.200 TL |
-| Aylık Veli İlerleme Raporu Sistemi | 8 ay boyunca her ay WhatsApp + yazılı ilerleme özeti | 4.800 TL |
-| Sınav Öncesi Tekrar Haftası | Sınavdan 2 hafta önce yoğunlaştırılmış konu tekrarı | 800 TL |
-| LGS/YKS 7 Soru Tipi Kart Seti (Lamineli) | Ders saatleri dışında hızlı pratik için evde kullanım aracı | 250 TL |
-| Evde Puan Artışı Veli Kılavuzu | İngilizce bilmeden evde destek olmanın adım adım yöntemi | 300 TL |
-| Motivasyon ve Ödül Sistemi | Puan panosu, aylık seremon, başarı sertifikası | 400 TL |
-| Yazılı Puan Artışı Garanti Sözleşmesi | Devam koşulları karşılanırsa puan artmazsa bir dönem ücretsiz | 1.500 TL |
-| **Toplam Değer** | | **23.350 TL** |
-| **Programın Fiyatı** | Aylık 5.000 TL — toplam değerin yüzde 23'ü | **5.000 TL/ay** |
+### Başlık
 
-Tüm bunları 5.000 TL/ay için alıyorsunuz.
+**Neden bu kadar yıl okudun ama konuşamıyorsun?**
 
-Aylık ödeme seçeneği mevcut — ilk ay ödemenizle başlayabilirsiniz.
+Türkçe'yi kaç yaşında öğrendin? İki, üç yaşında. Sana o zaman gramer tablosu gösterdiler mi? Hayır. Konuşarak öğrendin.
 
-**[Ücretsiz Seviye Tespit Sınavı İçin Kayıt Ol]**
+İngilizce derslerinde geçirdiğin yılların kaçında sahici konuşma pratiği yaptın? Büyük ihtimalle sıfır ya da sıfıra yakın. Zamanlar öğretildi. Kurallar ezber yaptırıldı. Test çözüldü. Ama konuşma olmadı.
+
+Kimse konuşmadan konuşmayı öğrenemez. Bu bir yetenek meselesi değil. Bu bir yöntem meselesi.
+
+**Sorun sen değildin. Sorun sistemdi. Ve sistem değişebilir.**
 
 ---
 
-## 7. Sosyal Kanıt Bölümü
+## Bölüm 4: Sosyal Kanıt
 
-### Gerçek Sonuçlar
+*Tasarımcıya not: Bu bölümün amacı — "bu gerçekten işe yarıyor mu?" şüphesini kırmak. Öğrenci hikayeleri için şablon.*
 
-*Bu bölüm, belgelenmiş öğrenci başarı hikayelerine ayrılmıştır. Aşağıdaki format kullanılmalıdır:*
+### Başlık
 
----
+**Sıfır reklam verdik. 100 öğrenciye ulaştık. Nasıl?**
 
-**[Öğrenci Adı, Sınıf — başarıyı sertifika veya not belgesiyle doğrulayın]**
-
-"[Veli ya da öğrencinin kendi sözleriyle deneyim — en az 2–3 cümle. Hangi seviyede başladı, ne değişti, sınav günü nasıl hissetti veya sonuç ne oldu.]"
+Öğrenciler arkadaşlarını getirdi. Çünkü konuştular.
 
 ---
 
-Mevcut öğrencilerden en az 10–15 belgelenmiş başarı vakası derlendiğinde bu bölüm dolacak. Veli video referansları (2 dakika, sınav sonucu odaklı) bu sayfaya yerleştirilmeli.
+**[Öğrenci Hikayesi Şablonu 1 — Yetişkin Kariyer]**
 
-Henüz video referansınız yoksa şu köprü metni kullanılabilir:
+*"[İsim], [yaş], [meslek].*
 
-"100'den fazla öğrencimizin LGS ve YKS sonuçlarına bakın. Aile görüşmeleri ve öncesi-sonrası puan karşılaştırmaları için WhatsApp'tan yazın — size doğrudan göndereceğiz."
+*Beş yıl önce bir iş görüşmesinde İngilizce sorusu geldi ve donup kaldım. O günden beri o pozisyona başvurmayı bıraktım.*
 
----
+*KonuşAmerika 5'te 5 ay geçirdim. Geçen ay aynı tür bir görüşmeye girdim. Bu sefer cevap verdim. İşi aldım.*
 
-## 8. İtiraz Yönetimi Bölümü
-
-**"Daha önce kurslara para verdik, işe yaramadı."**
-
-Bu yüzden bu sefer garanti sunuyoruz. Önceki programlar LGS/YKS soru tiplerine özel değildi, takip mekanizması yoktu, garanti yoktu. Bunların üçü olmadan sonuç beklemek şans işi. Biz bu üçünü birlikte sunuyoruz — ve arkasında yazılı sözleşme var.
+*Sorun ben değilmişim. Yöntem yanlışmış."*
 
 ---
 
-**"Fiyat çok yüksek."**
+**[Öğrenci Hikayesi Şablonu 2 — Ebeveyn]**
 
-5.000 TL/ay — bunu yüksek hissettiren şey, alışkın olmadığımız bir konumlandırma. Şunu soralım: çocuğunuz şu an İngilizce'den kaç puan kaybediyor? Bu kayıpla girdiği YKS'de hangi üniversiteye girebilir, hangi bölümü seçebilir? O farkın ömür boyu değeri nedir? Bir yıl daha beklemek 30.000–60.000 TL ek hazırlık masrafı anlamına geliyor. Bu programın 8 aylık bedeli 40.000 TL — ve sonuç garantisi var.
+*"[İsim], [yaş]'ındaki çocuğunun velisi.*
 
----
+*Ben de böyle büyüdüm — yıllarca İngilizce, hiç konuşamadım. Çocuğumun aynı yolu gitmesini istemiyordum.*
 
-**"Çocuğum kursa gidip bırakıyor."**
-
-Bırakmak motivasyon sorunu değil. İlk 30 günde somut bir başarı hissi yaşamayan öğrenci bırakıyor. Programımızın ilk 4 dersi bunun için özel tasarlandı. İlk ayda "işe yarıyor" hissini taşıyan çocuk devam ediyor — bunu defalarca gördük.
+*5 ay sonra çocuğum yabancıyla cümle kuruyor. Gramer defteri yok. Konuşma var."*
 
 ---
 
-**"Sınava yetişir mi?"**
+**[Rakamsal Kanıt Bloğu]**
 
-Bunu belirlemek için ücretsiz seviye tespit sınavı yapıyoruz. Çocuğunuzun gerçek puan açığını ve sınav tarihine göre bir yetişme planını 30 dakikada gösteriyoruz. "Yetişir mi?" sorusunun cevabı belirsizlik değil, plan eksikliği ürünüdür.
-
----
-
-**"Sınav İngilizcesi mi öğretiyorsunuz?"**
-
-Evet — ilk günden itibaren. Müfredatımız LGS ve YKS soru tiplerine göre kurgulandı. "Amerikan Kültürü" yaklaşımımız dili ezbere değil kalıcı öğretme yöntemimiz — ama çalıştığımız materyal ve format sınav odaklı. Müfredat dökümanını görmek ister misiniz? WhatsApp'tan yazın, hemen gönderelim.
+- 100+ aktif öğrenci — sıfır reklam ile
+- 500.000 TL/ay gelir — organik büyüme
+- 5 yıllık faaliyet — Antakya'da
+- Antakya'da yüzde yetmiş konuşma oranıyla tek okul
 
 ---
 
-**"Garanti gerçek mi? Gerçekten uygulayacak mısınız?"**
+## Bölüm 5: Program Detayı
 
-Kayıt anında imzaladığınız belgede yazıyor. Koşullar net: derslerin %80'ine devam + haftalık pratik. Bu karşılanırsa, 8. ay sonunda ölçülebilir puan artışı yoksa bir dönem tamamen ücretsiz. Belgeyi kaydolmadan önce okuyabilirsiniz.
+*Tasarımcıya not: Bu bölümün amacı — "peki tam olarak ne alıyorum?" sorusunu yanıtlamak.*
 
----
+### Başlık
 
-## 9. Garanti Bölümü
-
-### "Puan Artışı Garantisi" — Yazılı Sözleşmeyle
-
-Çocuğunuz 8 ay boyunca şu iki koşulu yerine getirirse:
-
-1. Derslerin %80'ine katılım (ayda en fazla 1–2 ders hakkı)
-2. Haftalık pratik alışkanlığı (evde en az günde 10 dakika)
-
-Ve 8. ay sonunda başlangıç seviye tespit sınavına kıyasla ölçülebilir puan artışı gerçekleşmezse — bir sonraki dönemi tamamen ücretsiz alırsınız.
-
-Bu taahhüt kayıt anında imzalanan belgede yer alır. Küçük yazı yok. Koşullar nettir.
-
-Risk sizde değil — bizde.
-
-**[Garantiyle Programa Katıl]**
+**İki Program. Farklı başlangıç noktaları. Aynı hedef: konuşmak.**
 
 ---
 
-## 10. CTA Bölümü
+### KonuşAmerika 5 — 5 Ayda Konuşma Sistemi
 
-### Sınav Tarihi Değişmiyor. Karar Tarihi Sizin Elinizde.
+**Kim için:** Kariyer veya günlük hayat için gerçek konuşma kapasitesi isteyen yetişkin. Ya da çocuğuna temel İngilizce konuşma becerisi kazandırmak isteyen ebeveyn.
 
-LGS Haziran'da. YKS Haziran'da. Bu tarihler kayıttan bağımsız olarak geliyor.
+**Neler dahil:**
+- 5 ay boyunca haftada 3 seans, 60 dakika
+- Her dersin %30'u gramer altyapısı, %70'i konuşma pratiği
+- 4–6 kişilik küçük grup (aynı CEFR başlangıç seviyesinden)
+- CEFR başlangıç değerlendirmesi + dönem sonu ilerleme ölçümü
+- Ayda 1 bireysel ilerleme görüşmesi (10–15 dakika)
+- WhatsApp destek grubu — haftalık pratik egzersizler
+- 4 telafi dersi hakkı
+- Dönem sonu CEFR ilerleme belgesi
 
-Bu program 8 ay sürüyor.
-
-Bugün başlamanın değeri, her geçen haftayla biraz daha küçülüyor.
-
-Birinci adım taahhütsüz: çocuğunuzun puan açığını ücretsiz seviye tespit sınavıyla öğrenin. 30 dakika, hiçbir kayıt zorunluluğu yok. Sınav sonuçlarına bakarak birlikte karar verin.
-
-Bu dönem için 8 kişilik kontenjanın 3'ü doldu. Kalan 5 yer için bu hafta aşağıdaki butona tıklayın.
-
-**[Ücretsiz Seviye Tespit Sınavı İçin WhatsApp'tan Yaz]**
-
-ya da
-
-**[Şimdi Ara: [Telefon Numarası]]**
+**Fiyat:** 5.500 TL/ay → 5 ay toplam
 
 ---
 
-## 11. SSS Bölümü
+### KonuşAmerika Yaz Sprint — 1 Ayda Başla
 
-**S: Ücretsiz seviye tespit sınavı ne zaman ve nerede yapılıyor?**
-C: Antakya Amerikan Kültür Dil Okulu'nda, randevuyla. 30 dakika sürüyor ve hiçbir kayıt taahhüdü gerektirmiyor. WhatsApp'tan yazarak veya telefonla randevu alabilirsiniz.
+**Kim için:** "Deneyelim bakalım" kafasında olan, uzun taahhütten çekinen, ya da hızlı bir başlangıç isteyen kişi.
 
-**S: Program kaç kişilik sınıfta yapılıyor?**
-C: Maksimum 8 öğrenci. Bu politika değiştirmiyor. 8 kişi dolduğunda yeni kayıt almıyoruz — bir sonraki dönemi bekliyoruz.
+**Neler dahil:**
+- 4 hafta yoğun format — haftada 5 seans, 45 dakika
+- İlk haftadan itibaren gerçek konuşma senaryoları
+- CEFR giriş değerlendirmesi
+- Ana programa geçiş için önerilen başlangıç noktası
 
-**S: Çocuğumun seviyesi çok düşükse ne olur?**
-C: Ücretsiz seviye tespit sınavı bu soruya cevap veriyor. Sınav sonrası size çocuğunuzun mevcut durumunu, sınav tarihine kadar ulaşılabilir hedefi ve bu hedefe ulaşmak için gereken planı gösteriyoruz. "Çok geç" olup olmadığını birlikte değerlendiriyoruz.
+**Fiyat:** 7.500 TL / 1 ay
 
-**S: Aylık ödeme mümkün mü?**
-C: Evet. Aylık 5.000 TL olarak ödeme yapılabiliyor. İlk ay ödemenizle programa başlayabilirsiniz.
+---
 
-**S: Garanti koşullarını karşılayamazsak ne olur?**
-C: Garanti devam koşullarına (derslerin %80'i + haftalık pratik) bağlı. Bu koşullar karşılanmadıysa garanti uygulanmıyor — bu açıkça belgede yazıyor. Koşullar karşılanırsa ve puan artmazsa, söz verdiğimiz gibi bir dönem ücretsiz.
+## Bölüm 6: Değer Yığını
 
-**S: Program sadece LGS öğrencilerine mi, YKS'ye de uygun mu?**
-C: Her ikisine de uygun. Müfredat LGS ve YKS soru tiplerini kapsıyor. Seviye tespit sınavı sırasında hangi sınav formatına odaklanacağınızı birlikte belirliyoruz.
+*Tasarımcıya not: Bu bölümün amacı — fiyatın küçük görünmesini sağlamak, değer algısını somutlaştırmak.*
 
-**S: Çocuğum ders kaçırırsa ne olur?**
-C: Dönem başına 2 telafi dersi hakkınız var. Kaçırılan dersler için telafi seansı planlanıyor.
+### Başlık
 
-**S: Antakya içinde ulaşım konusunda sorun yaşayabiliriz.**
-C: Program haftada yalnızca 2 gün. Sabah ve öğleden sonra saat seçenekleri var. Erken kaydeden ailelere önce saat tercihi hakkı tanıyoruz. Ayrıca WhatsApp rapor sistemi sayesinde her hafta okula gelmeden ne öğrenildiğini takip edebiliyorsunuz.
+**KonuşAmerika 5'te ne alıyorsun?**
 
-**S: Çocuğum daha önce kursu bırakmıştı. Bu sefer de bırakır mı?**
-C: İlk 30 gün bunu belirliyor. Programımızın ilk 4 dersi Hızlı Kazanım Modülü olarak özel tasarlandı: çocuğunuz ilk ayda sınavda en çok çıkan soruları çözebilir hale geliyor. Bu somut başarı hissi devam motivasyonunun temelidir. Daha önce bırakan öğrencilerin büyük çoğunluğu bu modülle devam etti.
+| Bileşen | Bağımsız Değer |
+|---|---|
+| 5 aylık konuşma odaklı program (~60 seans) | 18.000 TL |
+| CEFR başlangıç ve bitiş değerlendirmesi | 1.000 TL |
+| Kişisel konuşma ilerleme haritası | 800 TL |
+| 5 bireysel ilerleme görüşmesi (aylık) | 2.500 TL |
+| "İlk 60 Dakikada Konuşun" açılış paketi | 600 TL |
+| WhatsApp destek + haftalık egzersizler | 1.200 TL |
+| Dönem sonu CEFR ilerleme belgesi | 500 TL |
+| Yazılı Konuşma Garantisi Belgesi | Değeri ölçülemez |
+| **Toplam Yığın Değeri** | **~24.600 TL** |
+| **Gerçek Fiyat** | **5.500 TL/ay** |
+
+*Günlük çerçeveleme: 5 ay, 5.500 TL/ay = günde 183 TL. Bir öğle yemeği.*
+
+---
+
+## Bölüm 7: Garanti
+
+*Tasarımcıya not: Bu bölümün amacı — "bir daha para batarsa" korkusunu tamamen ortadan kaldırmak.*
+
+### Başlık
+
+**5 Ayda Konuşamazsan — Tüm Ücretini İade Ediyoruz**
+
+Bu bir pazarlama lafı değil. Yazılı sözleşme.
+
+**Koşullar:**
+- Derslerin %80'ine katılım (5 ayda 48/60 seans)
+- Haftalık pratik görevleri tamamlama
+- 5 ay sonunda CEFR değerlendirmesi
+
+Bu iki koşul sağlanır ve 5 ay sonunda konuşma kapasitesinde ölçülebilir ilerleme olmazsa — ücretin tamamı iade edilir.
+
+**Neden bu garantiyi verebiliyoruz?**
+
+Çünkü zaten çalışıyor. 100 öğrencimiz var. Öğrenciler arkadaşlarını getiriyor. Sonuç üretmeyen bir okul bu büyümeyi organik olarak yapamazdı.
+
+Bu garantiyi Antakya'da başka bir okul veriyor mu? Hayır. Biz veriyoruz. Çünkle arkasındayız.
+
+---
+
+## Bölüm 8: Fiyat
+
+*Tasarımcıya not: Bu bölümün amacı — fiyatı değer bağlamında sunmak, "çok pahalı" düşüncesinin gelmesini önlemek.*
+
+### Başlık
+
+**Yatırım — Kariyer Bağlamında**
+
+Türkiye'de İngilizce konuşabilen biri ile konuşamayan arasındaki yıllık maaş farkı ortalama 60.000 – 100.000 TL.
+
+Bu program toplam 27.500 TL. Tek bir kariyer adımı bu programı 3 ila 4 kat geri öder.
+
+---
+
+**KonuşAmerika Yaz Sprint**
+7.500 TL — 1 ay, taahhütsüz başlangıç
+
+**KonuşAmerika 5**
+5.500 TL/ay — 5 ay, garantili sonuç
+
+**Premium (Birebir + Küçük Grup)**
+9.500 TL/ay — tamamen kişiselleştirilmiş
+
+---
+
+*Aylık ödeme seçeneği mevcuttur. Erken kayıt için ilk 5 kişiye 5.000 TL/ay sabitleniyor.*
+
+---
+
+## Bölüm 9: SSS
+
+*Tasarımcıya not: Bu bölümün amacı — sayfa terk edilmeden son itirazları kırmak.*
+
+**S: "Daha önce kurslara para verdim, yine mi hayal kırıklığı yaşayacağım?"**
+
+C: Bu endişeyi anlıyoruz. Fark şu: daha önce gittiğin kurslarda her dersin kaçında gerçek konuşma pratiği yaptın? Büyük ihtimalle sıfır. Biz %70 zamanı konuşmaya harcıyoruz. CEFR ile başlangıcını ölçüyoruz, ilerlemeyi takip ediyoruz. Ve 5 ayda konuşamazsan ücret iade. Riski biz üstleniyoruz.
+
+**S: "Belki ben dil yeteneği olmayan birisiyim."**
+
+C: Türkçe'yi kaç yaşında öğrendin? Gramer kitabı okumadan. Konuşarak öğrendin. İngilizce de böyle öğrenilir — kullanarak. Türk eğitimi bunu hiç yaptırmadı. Sorun yetenek değil, maruz kalınan sistem. Mevcut öğrencilerimizin büyük çoğunluğu aynı düşünceyle geldi — 5 ay sonra aynı düşüncede değiller.
+
+**S: "Grup mu? Bireysel ilgi olmaz mı?"**
+
+C: Maksimum 4–6 kişi. 20-30 kişilik kalabalık sınıf değil. Öğretmen herkesi tanıyor. Her ay sana özel ilerleme görüşmesi var. Bu düzey kişiselleştirme çoğu özel ders programında dahi yok.
+
+**S: "Zamanım yok, programım yoğun."**
+
+C: Haftada 3 seans, 60 dakika. Sabah erken ve akşam üstü saat seçenekleri var. Kaçırılan dersler için 4 telafi hakkı var. Programını durdurmana gerek yok — bu program programının içine giriyor.
+
+**S: "Sınav hazırlığı yapıyor musunuz?"**
+
+C: Hayır. Bu okul LGS, YKS veya herhangi bir sınav hazırlığı yapmıyor. Eğer hedefin sınav puanı ise, başka bir okul daha uygun olabilir. Eğer hedefin gerçekten konuşmak, iş hayatında veya günlük hayatda İngilizce kullanmak ise — bu okul tam senin için.
+
+---
+
+## Bölüm 10: Final CTA
+
+*Tasarımcıya not: Bu bölümün amacı — son bir itki, korkusuz aksiyon.*
+
+### Başlık
+
+**Bu engeli kaç yıldır taşıyorsun?**
+
+Bırakmak 5 ay alıyor. Başlamak 30 dakika.
+
+Ücretsiz CEFR değerlendirmesinde şunları öğreniyorsun:
+- Şu an hangi seviyedesin
+- 5 ayda nereye gelebilirsin
+- KonuşAmerika 5 sana uygun mu
+
+Taahhüt yok. Para yok. Sadece 30 dakika.
+
+### CTA Butonu (Büyük, Görünür)
+
+**Ücretsiz Değerlendirmemi Rezerve Et**
+
+*(Alt metin: Kontenjan sınırlıdır — 4–6 kişilik gruplarda yer her zaman açık olmayabilir.)*
+
+---
+
+### Son Güven İmzası
+
+"Sıfır reklam verdik. 100 öğrenciye ulaştık. Çünkü öğrenciler arkadaşlarını getirdi. Çünkü konuştular."
+
+— Antakya American Culture Language School
+
+---
+
+*Kaynak: OFFER.md, OFFER_ANGLES.md, OBJECTIONS.md, PRICING.md*
