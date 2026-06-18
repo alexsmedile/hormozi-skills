@@ -1,147 +1,203 @@
 # BONUS_STACK.md
-# Antakya Amerikan Kültür Dil Okulu — İtiraz Öldüren Bonus Yığını (Konuşma Programı)
+## Antakya ADK — İtiraz Öldüren Bonus Yığınları
 
-*Oluşturulma tarihi: 17 Haziran 2026*
-
----
-
-## 1. Teklifin Özeti
-
-- **Ne yapıyor:** Yıllarca İngilizce okumuş ama konuşamayan yetişkinlere ve çocuklarına (8–14) 5 ayda ölçülebilir konuşma kapasitesi kazandıran küçük grup programı. %70 konuşma, %30 gramer. CEFR tabanlı. Garanti altında.
-- **Kimin için:** "Belki ben dil yeteneği olmayan birisiyim" inancıyla yaşayan, daha önce kurslara para verip sonuç alamayan, bir sonraki adımı atmaktan korkan Antakyalı yetişkin — ve çocuğunun gerçek konuşma becerisi kazanmasını isteyen ebeveyn.
+*Güncelleme tarihi: 18 Haziran 2026*
 
 ---
 
-## 2. Temel İtirazlar
-
-1. "Daha önce para verdim işe yaramadı — bu sefer de aynı şey olacak."
-2. "Belki ben gerçekten dil yeteneği olmayan birisiyim."
-3. "Zaman yok — iş çok yoğun, haftada 3 gün çıkaramam."
-4. "5 ay uzun — ya yarıda kalırsam?"
-5. Ebeveyn: "Çocuğum sıkılır ve bırakır — başkalarında da böyle oldu."
+# PİRAMİT 1: YETİŞKİN — "Bariyersiz Akıcılık Paketi"
 
 ---
 
-## 3. Bonus Yığını
+## Çekirdek Teklif
 
-| # | Bonus Adı | Hangi İtirazı Öldürür | Format | Algılanan Değer |
-|---|---|---|---|---|
-| 1 | Konuşma Garantisi Belgesi | "Bu sefer de aynı olacak" | Yazılı taahhüt belgesi | 5.000 TL |
-| 2 | İlk 60 Dakikada Konuşun | "Belki ben yapamam" | İlk ders yapılandırılmış egzersizi | 800 TL |
-| 3 | Konuşma Engeli Tespiti | "Bu sefer de aynı olacak" | Ücretsiz 30 dk. değerlendirme + PDF rapor | 800 TL |
-| 4 | Esnek Saat + Telafi Dersi Hakkı (2 ders) | "Zaman yok, iş yoğun" | Program güvencesi | 1.000 TL |
-| 5 | Günlük Konuşma Sahası (WhatsApp, 5 ay) | "Zaman yok" + "Yarıda kalırım" | Canlı destek grubu | 2.500 TL |
-| 6 | Çocuk İçin Oyun Tabanlı Konuşma Başlangıç Kiti | "Çocuğum sıkılır, bırakır" | Fiziksel materyal seti | 600 TL |
-| 7 | Ebeveyn İzleme Kartı (aylık) | "Çocuğum sıkılır, bırakır" | Aylık WhatsApp ilerleme raporu | 1.200 TL |
+- **Ne yapar:** 90 günde gerçek iş senaryolarında konuşma kapasitesi kazandırır. %70 konuşma / %30 gramer, CEFR bazlı, maks 12 kişi küçük grup
+- **Kime:** Yıllarca gramer öğrenip hâlâ konuşamayan, kariyer fırsatlarını kaçıran 22–45 yaş Antakyalı profesyonel
+- **Fiyat:** 20.000 TL / 1 kur (60 saat)
 
 ---
 
-## 4. Bonus Açıklamaları
+## Temel İtirazlar — Yetişkin Segmenti
 
-### Bonus 1: Konuşma Garantisi Belgesi
-- **Ne yapıyor:** "5 ayda konuşacaksın ya da ücretini iade ederiz" taahhüdünü yazılı, imzalı belgeye dönüştürüyor. Kayıt anında teslim ediliyor.
-- **Format:** 1 sayfalık yazılı garanti belgesi — koşullar net, dil sade (programın %80'ine katılım + haftalık pratik görevler).
-- **Neden işe yarıyor:** "Bu sefer de aynı olacak" ve "yine para ziyan edeceğim" korkusu bu müşteri segmentinde 1 numaralı engeldir. Garanti bir söz olmaktan çıkıp yazılı taahhüde dönüştüğünde müşterinin zihnindeki risk sıfırlanıyor. Rakipler garanti vermiyor. Bu tek fark bile teklifin içinden geçilebilir hâle getiriyor. Garanti belgesi aynı zamanda şunu da söylüyor: "Biz zaten çalıştığını biliyoruz. Bu kadar eminiz ki imzalıyoruz."
-- **Sunum zamanı:** Fiyat açıklandıktan hemen sonra. "Ve işte size garantimiz..." ile geçiş.
-
----
-
-### Bonus 2: İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı
-- **Ne yapıyor:** İlk derste, ilk 60–90 dakika içinde öğrenci kendini bir yabancıya İngilizce tanıtıyor. İsim, meslek, bir ilgi alanı. Küçük ama gerçek. Öğretmen bunu adlandırıyor: "Az önce yaptınız."
-- **Format:** Yapılandırılmış ilk ders egzersizi. İsteğe bağlı: öğrenci telefona kendini kaydeder, ders sonunda dinler.
-- **Neden işe yarıyor:** "Belki ben yapamam — belki ben gerçekten dil yeteneği olmayan birisiyim" inancı bu müşterinin en derin korkusu. Bu inanç, ilk başarı deneyimiyle kırılır. Teorik kanıtla değil — yaşanmış anla. İlk ders sonunda "Bunu yaptım" hissini yaşayan öğrenci, 5 aylık taahhüdü psikolojik olarak kabul edebiliyor. Bu his olmadan 2. derse gelme oranı düşüyor.
-- **Sunum zamanı:** "Belki ben yapamam" itirazı geldiğinde. "İlk ders sonunda bize katılıp katılmadığınıza karar verin. Bir şeyi garanti ediyorum: ilk ders sonunda 'bu benim için değil' demeyeceksiniz."
+1. "Şehir merkezine ulaşmak zor, program saatleri bana uymayabilir" (lojistik / zaman)
+2. "20.000 TL çok fazla — karşılığını bulur muyum?" (fiyat)
+3. "Daha önce kursa gittim, işe yaramadı — yine aynı olacak" (geçmiş hayal kırıklığı)
+4. "Bu yaştan sonra dil öğrenilir mi, çok geç mi kaldım?" (yaş kaygısı)
+5. "Kursu bitirince unutacağım — kalıcı olacak mı?" (sürdürülebilirlik şüphesi)
+6. "Fiyatın karşılığı var mı — belgeler gerçekten işe yarıyor mu?" (sertifika güven sorunu)
 
 ---
 
-### Bonus 3: Konuşma Engeli Tespiti — Ücretsiz 30 Dakika
-- **Ne yapıyor:** Kayıt öncesi 30 dakikalık değerlendirme. "Neden hâlâ konuşamıyorum?" sorusunun cevabını somut olarak gösteriyor. Müşteriye özel: nereden başlaması gerektiği, hangi engellerle karşılaştığı, 5 ayda nereye gidebileceği. PDF rapor olarak teslim ediliyor.
-- **Format:** Yüz yüze veya online konuşma değerlendirme oturumu (30 dk) + 1 sayfalık kişisel rapor.
-- **Neden işe yarıyor:** "Bu sefer de aynı olacak" korkusu kısmen bilinmezlikten geliyor — müşteri kendini tanımıyor, nereden başlayacağını bilmiyor. Bu değerlendirme o bilinmezi kaldırıyor. Ayrıca en güçlü düşük riskli giriş noktası: müşteri kayıt olmadan önce değer alıyor, okulun yetkinliğini görüyor.
-- **Sunum zamanı:** CTA olarak kullanılır. "Şimdi kayıt olun" yerine: "Önce 30 dakikalık ücretsiz değerlendirmemize gelin — neden hâlâ konuşamadığınızı gösterelim. Sonra karar verin."
+## Bonus Yığını Tablosu — Yetişkin
+
+| # | Bonus İsmi | Hangi İtirazı Öldürür | Format | Algılanan Değer | Sunum Zamanı |
+|---|---|---|---|---|---|
+| 1 | Kişisel Program Tasarım Hakkı (3 Ay) | Lojistik / zaman kısıtlaması | Esnek saat seçimi sistemi — sabah / öğle / akşam 3 seçenek | 4.500 TL | Kayıt sırasında |
+| 2 | 2 Kişisel Kurtarma Seansı | Fiyat / boşa gitme korkusu | 1:1 özel ders — kaçırılan seans veya zorlandığı konu için | 6.000 TL | Kayıt sırasında |
+| 3 | Yargısız Özgüven Atölyesi (Ömür Boyu Erişim) | "Bu yaştan sonra" / hata korkusu | Haftalık küçük grup pratik oturumları — kurs dışı, yargısız ortam, kurs bitince de devam ediyor | 6.000 TL | Kurs başında aktif |
+| 4 | Devlet Onaylı Mesleki Akıcılık Sicili (eDevlet) | Sertifika güven sorunu | eDevlet'e işlenen resmi yetkinlik belgesi — işveren adınızı aratıp görebilir | 8.000 TL | Son kur tamamlanınca |
+| 5 | Sertifika Destekli Kariyer Portfolyo Kiti | Fiyatın karşılığı / ROI şüphesi | Europass + eDevlet + doldurulmuş CV şablonu — o gün iş başvurusuna hazır | 5.000 TL | Son kur tamamlanınca |
 
 ---
 
-### Bonus 4: Esnek Saat + 2 Telafi Dersi Hakkı
-- **Ne yapıyor:** Müşteri sabah, öğleden sonra veya akşam saat bloklarından tercih ediyor. Dönem boyunca kaçırılan dersler için 2 telafi dersi hakkı tanınıyor — önceden bildirme koşuluyla.
-- **Format:** Program tercihi formu (kayıt anında) + 2 ders telafi hakkı (yazılı onay).
-- **Neden işe yarıyor:** "Zaman yok, iş çok yoğun" itirazının özü şu: "Ya bir iş çıksa ve dersi kaçırsam?" Bu bonus o korkuyu kaldırıyor. Haftada 3 gün taahhüdü ağır hissettiren şey esneksizlik. Esneklik verildiğinde taahhüt hafifliyor.
-- **Sunum zamanı:** "Haftada 3 gün çıkarmak zor" itirazı geldiğinde. "Bazen çıkaramazsanız ne olacağını söyleyeyim..."
+## Bonus Açıklamaları — Yetişkin
+
+### Bonus 1: Kişisel Program Tasarım Hakkı (3 Ay)
+- **Ne sağlar:** Sabah, öğle veya akşam saatlerinden birini seçerek programını kendi çalışma takvimine göre düzenleme hakkı. 3 ay boyunca program saati değiştirilebilir.
+- **Format:** Esneklik sistemi — haftalık program parametresi + kayıt sırasında tercih formu
+- **Hangi itirazı öldürür:** "Program saatleri bana uymayabilir" — en sık duyulan lojistik engeli tamamen kaldırır. Kayıt kararını ertelemek için gerekçe bırakmaz.
+
+### Bonus 2: 2 Kişisel Kurtarma Seansı
+- **Ne sağlar:** Program boyunca herhangi 2 seansta 1:1 özel ders desteği. Kaçırılan seans yerine kullanılabilir veya zorlandığı bir konu için talep edilebilir.
+- **Format:** 60 dakika 1:1 özel ders, randevu sistemiyle
+- **Hangi itirazı öldürür:** "20.000 TL'yi harcayıp boşa giderse?" korkusu. Her seansın kurtarılabilir olduğunu gösteriyor — yatırım korunuyor.
+
+### Bonus 3: Yargısız Özgüven Atölyesi (Ömür Boyu Erişim)
+- **Ne sağlar:** Kurs dışı, haftalık küçük grup konuşma pratik oturumları. Kurs bittikten sonra da erişim devam ediyor. Sınıfta tanıdığı kişilerle pratik yapma fırsatı.
+- **Format:** Haftalık 60–90 dakika grup oturumu, 6–8 kişi, WhatsApp topluluğu desteği
+- **Hangi itirazı öldürür:** "Bu yaştan sonra dil öğrenilir mi" ve "hata yaparsam ne olur" kaygısı. Yargısız ortam ve "ömür boyu" erişim kaygıyı iki katmanda kırıyor.
+
+### Bonus 4: Devlet Onaylı Mesleki Akıcılık Sicili (eDevlet)
+- **Ne sağlar:** Türkiye Cumhuriyeti'nin eDevlet sistemine işlenen resmi yetkinlik belgesi. İşveren adınızı aratıp dil seviyenizi görebilir. CV'ye, LinkedIn'e eklenebilir dijital formatta teslim edilir.
+- **Format:** Dijital belge + eDevlet aktivasyonu canlı gösterim
+- **Hangi itirazı öldürür:** "Sertifika gerçekten işe yarıyor mu?" güven sorunu. "Kursu bitirdim" yerine "devlet sisteminde görünüyorum" — tartışılmaz bir kanıt.
+
+### Bonus 5: Sertifika Destekli Kariyer Portfolyo Kiti
+- **Ne sağlar:** Son kur tamamlandığında Europass belgesi, eDevlet çıktısı ve sertifika bilgileriyle doldurulmuş hazır CV şablonu bir arada teslim edilir. O gün iş başvurusuna hazır.
+- **Format:** Dijital kit — 3 bileşen bir arada (Europass PDF, eDevlet çıktısı, CV Word/PDF)
+- **Hangi itirazı öldürür:** "Fiyatın karşılığı var mı?" ROI şüphesi. Somut çıktı teslim edildiğinde yatırım görünür hale geliyor.
 
 ---
 
-### Bonus 5: Günlük Konuşma Sahası — WhatsApp Destek Grubu (5 Ay)
-- **Ne yapıyor:** Mevcut öğrenciler ve öğretmenin bulunduğu WhatsApp grubu. Günlük kısa sorular, pratik egzersizler, kelime tekrarları, motivasyon. Ders saatleri dışında da dil canlı kalıyor.
-- **Format:** WhatsApp grubu — günde 1–2 kısa içerik, öğretmen moderasyonu, öğrenci katılımı gönüllü.
-- **Neden işe yarıyor:** "Zaman yok" itirazını iki şekilde kırıyor: Birincisi, ders saatleri dışında da pratik yapılabiliyor — günde 5 dakika yeterli. İkincisi, grup dinamiği öğrencinin "yarıda bırakmak" kararını zorlaştırıyor — sosyal taahhüt etkisi. Aynı zamanda "Bu sefer de olmayacak" korkusunu haftalık küçük kazanımlarla sürekli kırıyor.
-- **Sunum zamanı:** Değer yığını açıklanırken. "Ve ders saatlerinin dışında da yanınızdayız..."
+## Yetişkin Yığın Özeti
 
----
-
-### Bonus 6: Çocuk İçin Oyun Tabanlı Konuşma Başlangıç Kiti
-- **Ne yapıyor:** 8–14 yaş grubu için: ilk haftada kullanılan oyun kartları, konuşma zarları, kelime eşleştirme kartları. Ders materyali — ama oyun gibi görünen. Çocuk "ders yapıyorum" hissetmiyor, "oynuyorum" hissediyor.
-- **Format:** Fiziksel materyal seti — sınıfta kullanılıyor, bazı parçalar eve gidiyor.
-- **Neden işe yarıyor:** "Çocuğum sıkılır ve bırakır" itirazının kökü şu: ebeveyn daha önceki kursların çocuğu sıktığını gördü. Bu materyal, dersin sıkıcı olmayacağını somut olarak gösteriyor — ebeveyne değil, çocuğa. Çocuk eve bir şey götürdüğünde ebeveyn "Bu gerçekten farklı" hissini yaşıyor.
-- **Sunum zamanı:** Ebeveyn segmentinde, "Çocuğum bırakır" itirazından sonra. Mümkünse fiziksel olarak göstererek sunulur.
-
----
-
-### Bonus 7: Ebeveyn Aylık İlerleme Kartı
-- **Ne yapıyor:** Her ay ebeveyn WhatsApp'tan 1 sayfalık ilerleme kartı alıyor: bu ay çocuğunuz hangi konuşma becerilerini kazandı, ne yapabilir artık, önümüzdeki ay ne üzerinde çalışacağız. Sayı ve somut beceri odaklı — "iyi gidiyor" değil, "artık kendini tanıtabiliyor."
-- **Format:** Aylık WhatsApp mesajı + 1 sayfalık PDF ilerleme kartı.
-- **Neden işe yarıyor:** "Çocuğum sıkılır ve bırakır" itirazının ikinci boyutu: ebeveyn ilerlemeyi göremezse motivasyonu düşüyor ve çocuğu göndermeyi bırakıyor. Bu kart, ebeveyni programın içine dahil ediyor — pasif ödeme yapan değil, ilerlemeyi gören biri hâline geliyor. Gören ebeveyn, devam ettiren ebeveyndir.
-- **Sunum zamanı:** Ebeveyn segmentinde her zaman. "Sizi de sürecin dışında bırakmıyoruz..."
-
----
-
-## 5. Yığın Değeri
-
-| Bileşen | Algılanan Değer |
+| Kalem | Değer |
 |---|---|
-| Konuşma Garantisi Belgesi | 5.000 TL |
-| İlk 60 Dakikada Konuşun | 800 TL |
-| Konuşma Engeli Tespiti (ücretsiz değerlendirme) | 800 TL |
-| Esnek Saat + 2 Telafi Dersi Hakkı | 1.000 TL |
-| Günlük Konuşma Sahası (5 ay WhatsApp) | 2.500 TL |
-| Çocuk İçin Oyun Tabanlı Başlangıç Kiti | 600 TL |
-| Ebeveyn Aylık İlerleme Kartı (5 ay) | 1.200 TL |
-| **Toplam Bonus Değeri** | **11.900 TL** |
-| **Ana Program Değeri** | **35.000 TL** |
-| **Toplam Yığın Değeri** | **46.900 TL** |
-| **Fiyat** | **25.000 TL (5.000 TL/ay)** |
-| **Oran** | **1,87:1 — müşteri fiyatın neredeyse 2 katı değer alıyor** |
+| Gerçek Senaryo Konuşma Laboratuvarı (60 saat) | 20.000 TL |
+| Bonus 1: Kişisel Program Tasarım Hakkı | 4.500 TL |
+| Bonus 2: 2 Kişisel Kurtarma Seansı | 6.000 TL |
+| Bonus 3: Yargısız Özgüven Atölyesi (Ömür Boyu) | 6.000 TL |
+| Bonus 4: Europass Uluslararası Yetkinlik Belgesi | 6.000 TL |
+| Bonus 5: Devlet Onaylı Mesleki Akıcılık Sicili (eDevlet) | 8.000 TL |
+| Bonus 6: Sertifika Destekli Kariyer Portfolyo Kiti | 5.000 TL |
+| **Toplam Algılanan Değer** | **55.500 TL** |
+| **Gerçek Fiyat (1 kur)** | **20.000 TL** |
+| **Değer-Fiyat Oranı** | **2,8x** |
+
+**Yığın Stratejisi:**
+Bonus 1 (zaman engeli) ve Bonus 2 (yatırım koruma) kayıt sırasında sunulur — satın alma kararını hızlandırır. Bonus 3 (özgüven / yaş kaygısı) kurs başında aktive edilir — erken terki önler. Bonus 4 ve 5 (sertifika ve kariyer) program sonunda teslim edilir — taahhüdü ödüllendiriyor ve referans döngüsünü başlatıyor.
 
 ---
 
-## 6. Yığın Stratejisi
-
-**Neden bu sırayla:**
-
-Bonus 1 (Garanti Belgesi) en önce geliyor çünkü bu müşteri segmentinin 1 numaralı engeli "yine para harcayıp sonuç alamayacağım" korkusu. Garanti sunulmadan diğer hiçbir bonus yerini bulamaz — müşteri hâlâ savunmada.
-
-Bonus 2 (İlk 60 Dakikada Konuşun) ikinci geliyor çünkü ikinci büyük korku "belki ben yapamam" inancı. Bu bonus soyut bir güvence değil — somut bir deneyim vaat ediyor. "İnandırıcı mı?" sorusu bu bonusla kapanıyor.
-
-Bonus 3 (Konuşma Engeli Tespiti) en güçlü ücretsiz CTA olarak hem bağımsız bir giriş noktası hem de satış öncesi değer sunucu olarak çalışıyor.
-
-Bonuslar 4–5 lojistik itirazları (zaman, esneklik) kaldırıyor. Bonuslar 6–7 ebeveyn segmentine özel itirazları hedefliyor.
-
-**Hangi itirazlar kaldırıldı:**
-1. "Daha önce para verdim, işe yaramadı / bu sefer de aynı olacak" → Bonus 1 (Garanti) + Bonus 3 (Tespit)
-2. "Belki ben dil yeteneği olmayan birisiyim" → Bonus 2 (İlk 60 Dakika)
-3. "Zaman yok, iş çok yoğun" → Bonus 4 (Esneklik) + Bonus 5 (WhatsApp)
-4. "5 ay uzun, yarıda kalırım" → Bonus 4 (Telafi) + Bonus 5 (Sosyal taahhüt)
-5. "Çocuğum sıkılır ve bırakır" → Bonus 6 (Oyun Kiti) + Bonus 7 (Ebeveyn Kartı)
-
----
-
-## 7. Çaba Azaltma Haritası
+## Efor Azaltma Haritası — Yetişkin
 
 | Adım | Sürtünme Noktası | Çözüm |
 |---|---|---|
-| Karar öncesi (kayıt öncesi) | "Neye güveneyim, nasıl karar vereyim?" | Konuşma Engeli Tespiti ücretsiz sunulur — karar öncesi somut değer ve yetkinlik kanıtı |
-| Kayıt anı | "5 ay taahhüt vermek korkutucu" | Yaz Yoğun Programı giriş ürünü: önce 1 ay dene, sonra karar ver |
-| İlk ders | "Acaba yapabilecek miyim?" | İlk 60 Dakikada Konuşun egzersizi — ilk saat içinde "yapabiliyorum" hissi |
-| İlk ay | Program ağır hissettirirse bırakma riski | Esnek saat + Telafi hakkı + WhatsApp günlük destek |
-| Devam ayları | "Hâlâ ilerliyorum mu?" şüphesi | Aylık CEFR ölçümü + Dönüşüm Kontrolü görüşmesi |
-| Ebeveyn katılımı | "Çocuğum nasıl gidiyor bilmiyorum" | Aylık İlerleme Kartı — her ay somut beceri bildirimi |
-| Program sonu | "5 ay geçti, gerçekten ilerledi mi?" | CEFR Uluslararası İlerleme Belgesi — başlangıç vs. bitiş karşılaştırması |
+| Kayıt kararı | "Program saatleri bana uyar mı?" | Bonus 1: Kişisel Program Tasarım Hakkı — kayıt anında seçim yapılıyor |
+| İlk seans | "Yine hayal kırıklığı yaşarsam?" | "İlk 30 Dakika: Kendinizi Tanıtın" egzersizi — ilk seansta somut üretim |
+| Program ortası | "Bir seans kaçırdım, geri dönemem" | Bonus 2: 2 Kurtarma Seansı — kayıp telafi edilebilir |
+| Evde pratik | "Kiminle konuşacağım?" | Yapay Zeka Konuşma Partneri — 7/24 asenkron pratik |
+| Hata yapma korkusu | "Aptal gibi görünürüm" | Bonus 3: Yargısız Özgüven Atölyesi — güvenli ortam |
+| Son kur | "Belge ne işe yarayacak?" | Bonus 4–5: eDevlet + Europass + Kariyer Kiti — anında değer hissettirme |
+
+---
+
+---
+
+# PİRAMİT 2: ÇOCUK / EBEVEYN — "Doğal Konuşan Çocuklar Paketi"
+
+---
+
+## Çekirdek Teklif
+
+- **Ne yapar:** 60 günde çocuğun yabancıyla doğal ortamda kendiliğinden cümle kurmasını sağlar. %70 konuşma aktiviteleri (oyun, senaryo, drama), CEFR bazlı ölçüm
+- **Kime:** 8–16 yaş çocuğu olan, çocuğunun gerçek konuşma becerisi kazanmasını isteyen Antakyalı anne
+- **Fiyat:** 15.000 TL (Yaz Kampı, 1 ay), 5.000 TL/ay (Kış Programı)
+
+---
+
+## Temel İtirazlar — Ebeveyn / Çocuk Segmenti
+
+1. "Ulaşım zor, yaz tatilinde lojistik sorun" (lojistik / ulaşım)
+2. "15.000 TL çok fazla — değer mi?" (fiyat)
+3. "Her kurs aynı şeyi söylüyor — bu da gramer öğretir" (geçmiş hayal kırıklığı)
+4. "Çocuğum bırakır, zorlamak istemiyorum" (çocuğun motivasyonu)
+5. "Bu yaştan sonra / yaz tatilinde kurs mu?" (zamanlama direnci)
+6. "60 günde gerçekten olur mu?" (sonuç şüphesi)
+
+---
+
+## Bonus Yığını Tablosu — Çocuk / Ebeveyn
+
+| # | Bonus İsmi | Hangi İtirazı Öldürür | Format | Algılanan Değer | Sunum Zamanı |
+|---|---|---|---|---|---|
+| 1 | Ücretsiz Deneme Dersi + Metodoloji Oturumu | Geçmiş hayal kırıklığı / "yine aynı" | 1 saat deneme ders + 30 dk ebeveyn bilgilendirme | 1.500 TL | Kayıt öncesi |
+| 2 | Anne-Baba Haftalık Dönüşüm Raporu | Fiyat / boşa gitme korkusu | WhatsApp üzerinden haftalık 5 dk ilerleme özeti | 4.000 TL | Kurs başından itibaren her hafta |
+| 3 | Evde Konuşma Aktivasyon Sistemi | Çocuğun evde pratiği / kalıcılık | Günlük 10 dk video egzersiz seti + alıştırma kartları | 3.500 TL | Kurs başında teslim |
+| 4 | Evde Konuşma Başlatıcı Rehber (Türkçe) | "Evde nasıl destekleyeceğimi bilmiyorum" | Türkçe ebeveyn rehberi — evde konuşma aktivasyon kartları | 2.000 TL | Kayıt sırasında teslim |
+| 5 | Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi | Sonuç şüphesi / yatırım değeri | Kamp sonu CEFR belgesi + başlangıç-bitiş karşılaştırma raporu | 6.000 TL | Kamp sonu törende |
+
+---
+
+## Bonus Açıklamaları — Çocuk / Ebeveyn
+
+### Bonus 1: Ücretsiz Deneme Dersi + Metodoloji Oturumu
+- **Ne sağlar:** Kayıt kararı öncesinde çocuk 1 saatlik gerçek seans katılır. Ebeveyn aynı anda 30 dakikalık bilgilendirme oturumuna katılır — metodoloji, neden farklı, ne beklemeli.
+- **Format:** 1 saat çocuk dersi (mevcut gruba katılım) + 30 dk ebeveyn sunumu
+- **Hangi itirazı öldürür:** "Her kurs aynı şeyi söylüyor" inancı. Farkı anlatmak yerine hissettiriyor — ve riski sıfıra indiriyor.
+
+### Bonus 2: Anne-Baba Haftalık Dönüşüm Raporu
+- **Ne sağlar:** Her hafta sonu, o haftaki ilerlemeyi özetleyen WhatsApp mesajı — çocuğun öğrendiği 3–5 ifade, o hafta ne yaptığı, bir sonraki haftanın hedefi.
+- **Format:** WhatsApp metin + haftalık "Bu Hafta Öğrendiklerim" kartı
+- **Hangi itirazı öldürür:** "Para boşa gidiyormuş gibi hissediyorum" en temel ebeveyn acısı. Haftalık somut ilerleme kanıtı bu hissi keser.
+
+### Bonus 3: Evde Konuşma Aktivasyon Sistemi
+- **Ne sağlar:** Kamps boyunca öğrenilenlerin evde 10 dakikayla pekiştirilmesi için video rehber seti, kart alıştırmaları, dinleme dosyaları.
+- **Format:** Mobil uyumlu dijital kit — video + kart + ses
+- **Hangi itirazı öldürür:** "Kurs bitince unutacak" kalıcılık şüphesi. Günlük 10 dakika evde aktivasyon, sınıf dışında da öğrenme devam ediyor.
+
+### Bonus 4: Evde Konuşma Başlatıcı Rehber (Türkçe)
+- **Ne sağlar:** Anne veya baba İngilizce bilmese de çocuğunu her gün 5 dakika destekleyebilsin diye hazırlanmış Türkçe açıklamalı kılavuz. "Bugün ne öğrendin? Bana göster" aktivasyon soruları ve kart oyunları içeriyor.
+- **Format:** A5 boyutunda fiziksel kart seti veya dijital PDF
+- **Hangi itirazı öldürür:** "Evde nasıl destekleyeceğimi bilmiyorum / İngilizcemi yok ki" engeli. Türkçe kılavuz ebeveynin sürece dahil olmasını sağlıyor.
+
+### Bonus 5: Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi
+- **Ne sağlar:** Kamp sonunda CEFR bazlı değerlendirme + Europass dijital belgesi + başlangıç-bitiş karşılaştırmalı ilerleme raporu. Ebeveyne törenle teslim edilir.
+- **Format:** Dijital Europass belgesi + yazılı ilerleme raporu (A4, imzalı)
+- **Hangi itirazı öldürür:** "60 günde gerçekten olur mu?" şüphesi. Belgeli, sayısal, uluslararası geçerli — "oldu mu?" tartışması kapanıyor. Aynı zamanda "yatırımın değeri var mıydı?" sorusunu da kapatıyor.
+
+---
+
+## Çocuk / Ebeveyn Yığın Özeti
+
+| Kalem | Değer |
+|---|---|
+| Doğal Konuşma Atılım Programı (64 saat) | 15.000 TL |
+| Bonus 1: Ücretsiz Deneme Dersi + Metodoloji Oturumu | 1.500 TL |
+| Bonus 2: Anne-Baba Haftalık Dönüşüm Raporu | 4.000 TL |
+| Bonus 3: Evde Konuşma Aktivasyon Sistemi | 3.500 TL |
+| Bonus 4: Evde Konuşma Başlatıcı Rehber (Türkçe) | 2.000 TL |
+| Bonus 5: Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi | 6.000 TL |
+| **Toplam Algılanan Değer** | **32.000 TL** |
+| **Gerçek Fiyat (Yaz Kampı)** | **15.000 TL** |
+| **Değer-Fiyat Oranı** | **2,1x** |
+
+**Yığın Stratejisi:**
+Bonus 1 (deneme dersi) kayıt öncesi sunulur — düşük riskli ilk adım, dönüşüm oranını artırır. Bonus 4 (Türkçe kılavuz) ve Bonus 2 (haftalık rapor) kayıt ve kurs başında aktive edilir — annenin "takip edebiliyorum" güvenini erken kurar. Bonus 3 (evde aktivasyon) kurs boyunca sürer. Bonus 5 (Europass) kamp sonunda teslim edilir — yatırımın görünür teslimi ve referans döngüsünün tetikleyicisi.
+
+---
+
+## Efor Azaltma Haritası — Çocuk / Ebeveyn
+
+| Adım | Sürtünme Noktası | Çözüm |
+|---|---|---|
+| Kayıt kararı | "Aynı kurslardan biri mi?" şüphesi | Bonus 1: Ücretsiz deneme dersi — görmeden inanmak yok |
+| Lojistik | "Yaz tatilinde nasıl götüreceğim?" | Program saatleri yoğun ama kısa — 4 saat x 4 gün, sabah başlayıp öğleden önce bitiyor |
+| Ev aktivasyonu | "Öğretecek İngilizcemiz yok" | Bonus 4: Türkçe kılavuz — ebeveyn İngilizce bilmeden de dahil olabiliyor |
+| İlerleme takibi | "Ne öğreniyor bilmiyorum" | Bonus 2: Haftalık rapor — ebeveyn dahil, şeffaf, kaygı yok |
+| Kalıcılık | "Kurs biter, unutur" | Bonus 3: Evde aktivasyon sistemi — öğrenme eve taşınıyor |
+| Yatırım meşrulaştırma | "15.000 TL değer mi?" | Bonus 5: Europass + karşılaştırmalı rapor — somut, belgelenmiş, ölçülmüş sonuç |
+
+---
+
+*Güncelleme tarihi: 18 Haziran 2026*
