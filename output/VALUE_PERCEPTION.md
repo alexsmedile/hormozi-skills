@@ -1,205 +1,210 @@
 # VALUE_PERCEPTION.md
-# Antakya Amerikan Kültür Dil Okulu — Değer Algısı Güçlendirme Planı (Konuşma Programı)
+## Antakya ADK — Değer Algısı Güçlendirme Planı
 
-*Oluşturulma tarihi: 17 Haziran 2026*
-
----
-
-## 1. Mevcut Algı Sorunları
-
-- Teklif adı "Konuşma Programı" — düz, jenerik, rakipten farklılaştırmıyor. Antakya'da her dil okulu "program" sunuyor.
-- Değer yığını içerik listesi gibi görünüyor: "CEFR değerlendirmesi", "WhatsApp grubu", "ilerleme belgesi" — bunlar müşterinin hayatında ne değiştireceğini anlatmıyor.
-- Fiyat (5.000 TL/ay) bağlam olmadan ağır. "Kariyer yatırımı" çerçevesi adlandırılmış ama hesaplanmamış — müşteri bunu zihninde canlandıramıyor.
-- Yaz yoğun programı bir seçenek olarak listelenmiş, ama "giriş ürünü" olarak konumlandırılmamış. "Deneyelim bakalım" kafasındaki müşteriye güçlü bir ilk adım sunulmuyor.
-- "Konuşma pratiği" ifadesi alıştığımız bir kelime — ne farklı, ne özel, ne de dönüşüm vaat ediyor.
-- Garanti kelimesi geçiyor ama çerçevelenmemiş: rakipler garanti vermiyor. Bu fark öne çıkmıyor.
+*Güncelleme tarihi: 18 Haziran 2026*
 
 ---
 
-## 2. İsimlendirme İyileştirmeleri
-
-| Mevcut İsim | Güçlendirilmiş Seçenekler |
-|---|---|
-| Konuşma Programı | "Konuşma Dönüşümü — 5 Ayda Sessizlikten Akıcılığa" |
-| | "Gerçek İngilizce Sistemi — Gramer Değil, Konuşma" |
-| | "5 Ay Konuş Programı" |
-| | "Türkiye'nin Sana Öğretmediği İngilizce" |
-| Yaz Yoğun Programı | "4 Haftada İlk Kelimeler — Yaz Başlangıç Deneyimi" |
-| | "Konuşma Açılışı — Yaz Yoğun Programı" |
-| | "30 Günde İlk Konuşma" |
-| Ücretsiz Seviye Tespit | "Konuşma Engeli Tespiti — 30 Dakikada Neden Konuşamadığınızı Gösteriyoruz" |
-| Kişisel İlerleme Haritası | "5 Aylık Konuşma Yol Haritanız — Başlangıç Noktanızdan Hedef Seviyenize" |
-| Aylık İlerleme Görüşmesi | "Aylık Dönüşüm Kontrolü — Bu Ay Nerede Duruyorsunuz?" |
-| WhatsApp Destek Grubu | "Günlük Konuşma Sahası — Grup Dışında da Pratik Yapıyorsunuz" |
-| CEFR İlerleme Belgesi | "Uluslararası Konuşma Düzeyi Belgesi — CEFR Onaylı" |
-| İlk Hafta Konuşma Paketi | "İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı" |
+# BÖLÜM 1: YETİŞKİN SEGMENTİ — "Unmute Profesyonel Akıcılık Simülasyonu"
 
 ---
 
-## 3. Paketleme Yükseltmesi
+## 1a. Mevcut Algı Sorunları
 
-**Mevcut yapı** (madde listesi):
-- 5 aylık program, haftada 3 gün
-- Seviye tespit değerlendirmesi
-- İlerleme haritası
-- 1-on-1 aylık görüşme
-- WhatsApp destek grubu
-- CEFR belgesi
-
-**Yükseltilmiş yapı — "Konuşma Dönüşüm Sistemi":**
-
-```
-KONUŞMA DÖNÜŞÜM SİSTEMİ
-├── KATMAN 1 — BAŞLANGIÇ: Nerede Duruyorsunuz?
-│   ├── Konuşma Engeli Tespiti (ücretsiz, 30 dakika)
-│   └── Kişisel 5 Aylık Konuşma Yol Haritası
-│
-├── KATMAN 2 — DÖNÜŞÜM MOTORU: Asıl Program
-│   ├── 5 Aylık Konuşma Odaklı Grup Dersleri (haftada 3 gün, maks. 8 kişi)
-│   ├── %70 Konuşma Pratiği + %30 Gramer Altyapısı
-│   └── İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı (ilk ders)
-│
-├── KATMAN 3 — TAKİP: İlerlemenizi Görün
-│   ├── Aylık CEFR Seviye Değerlendirmesi
-│   ├── Aylık Dönüşüm Kontrolü (1-on-1 ilerleme görüşmesi)
-│   └── Günlük Konuşma Sahası (WhatsApp destek grubu)
-│
-└── KATMAN 4 — GÜVENCE: Sonuç Garanti Altında
-    ├── Uluslararası Konuşma Düzeyi Belgesi (CEFR onaylı)
-    └── 5 Ay Garanti — Konuşamazsan Ücret İadesi
-```
+- Teklif adındaki "simülasyon" kelimesi güçlü ama yeterince dramatize edilmiyor; "kurs" hafızasıyla üst üste geliyor
+- eDevlet bileşeni Europass ile tek kalem — bu özgün özellik görünmez kalıyor
+- Değer yığını bileşenlerinin isimleri işlevsel; "ne yapıyor" anlatıyor ama "ne hissettiriyor" anlatmıyor
+- Kariyer CV Şablonu gibi bileşenler düşük değerli, tamamlayıcı bir araç gibi duruyor
 
 ---
 
-## 4. Değer Çerçeveleme (Özellik → Sonuç)
+## 1b. Değer Yığını Tablosu — Yetişkin
 
-| Önceki İfade | Güçlendirilmiş İfade |
-|---|---|
-| "5 aylık konuşma odaklı program" | "5 ayda, Antakya'da çalışan bir yetişkin olarak yabancıyla karşılaştığında susmak yerine konuşmak" |
-| "Haftada 3 gün, küçük grup (maks. 8 kişi)" | "8 kişilik sınıfta her ders siz konuşuyorsunuz — öğretmeni dinleyen biri değil, dili kullanan biri oluyorsunuz" |
-| "%30 gramer, %70 konuşma" | "Yıllarca öğrendiğiniz grameri bugüne kadar konuşmada kullanamadınız — bu program tam tersini yapıyor: her ders pratikte geçiyor" |
-| "CEFR bazlı seviye takibi" | "Nerede başladığınızı, nereye gittiğinizi biliyorsunuz — her ay ilerlemeniz sayı olarak ölçülüyor" |
-| "Aylık ilerleme değerlendirmesi" | "Her ay bir sonraki ay ne yapacağınızı biliyorsunuz — tahmin yok, muğlaklık yok" |
-| "Ücretsiz seviye tespit değerlendirmesi" | "30 dakikada neden hâlâ konuşamadığınızı anlıyorsunuz — ücretsiz, taahhütsüz" |
-| "WhatsApp destek grubu" | "Ders saatleri bitmeden pratik bitmiyor — günlük sorular, kısa alıştırmalar, öğrendiklerinizi pekiştirme" |
-| "İlk Hafta Konuşma Paketi" | "İlk derste kendinizi bir yabancıya tanıtıyorsunuz — bu küçük an, 5 aylık programın temeli" |
-| "Dönem sonu CEFR ilerleme belgesi" | "5 ay sonra elinizde uluslararası geçerli bir ilerleme belgesi var — özgeçmişinize yazabileceğiniz somut bir kanıt" |
-| "5 ayda konuşacaksın ya da ücretini iade ederiz" | "Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz — ve yazıyla taahhüt ediyoruz." |
+| Mevcut İsim | Yeni (Yüksek Değer Algılı) İsim | Tahmini Algılanan Değer | Neden Daha Güçlü |
+|---|---|---|---|
+| 60 saatlik konuşma simülasyon seansları | Gerçek Senaryo Konuşma Laboratuvarı (60 Saat) | 20.000 TL | "Laboratuvar" metodoloji ciddiyetini, "gerçek senaryo" sonuç odaklılığını anlatıyor |
+| 3 Aylık Esnek Saat Seçimi | Kişisel Program Tasarım Hakkı (3 Ay) | 4.500 TL | "Hak" kelimesi sahiplik hissi veriyor; çalışanın en büyük engeli olan zaman kısıtlamasını doğrudan karşılıyor |
+| 2 Telafi Özel Dersi | 2 Kişisel Kurtarma Seansı | 6.000 TL | "Kurtarma" dramatik ve koruyucu — bir şeyi kurtarıyorsun, boşa gitmiyor; değer 2x1.000 TL yerine 2x3.000 TL özel ders fiyatıyla çerçeveleniyor |
+| Europass Sertifikası | Europass Uluslararası Yetkinlik Belgesi | 6.000 TL | "Uluslararası Yetkinlik" sertifikanın ne anlama geldiğini söylüyor — sadece kağıt değil, dünyaya açılan kapı |
+| eDevlet Yetkinlik Belgesi | Devlet Onaylı Mesleki Akıcılık Sicili (eDevlet) | 8.000 TL | "Sicil" kelimesi kalıcılık ve resmiyet anlatıyor — işverenin adınızı aratıp görebileceği tek dil belgesi; hiçbir rakip sunmuyor |
+| Kariyer CV Şablonu | Sertifika Destekli Kariyer Portfolyo Kiti | 3.000 TL | "Portfolyo Kiti" tek bir şablon yerine hazır bir sistemi çağrıştırıyor; Europass ve eDevlet ile entegre kullanımı görünür kılıyor |
+| Güvenli Bölge Konuşma Kulübü | Yargısız Özgüven Atölyesi (Ömür Boyu Erişim) | 6.000 TL | "Ömür Boyu Erişim" kurs bitince kapanmıyor sinyali — kalıcı değer; "Yargısız" en büyük engeli (hata korkusu) doğrudan karşılıyor |
 
----
-
-## 5. Değer Yığını (Yeniden Sıralanmış)
-
-Sıralama ilkesi: en yüksek algılanan değer önce; müşterinin "bu tek başına değer" dediği şeyle başla.
-
-1. **5 Aylık Konuşma Dönüşüm Programı** — 35.000 TL
-   Haftada 3 gün, maks. 8 kişi, %70 konuşma. 5 ayda CEFR tabanlı ölçülebilir ilerleme. (Piyasada bireysel ders olarak bu saatler 35.000 TL+ tutar.)
-
-2. **Kişisel 5 Aylık Konuşma Yol Haritası** — 1.500 TL
-   Başlangıç seviyenizden hedef seviyenize giden özel yol. Her ay ne yapacağınızı biliyorsunuz.
-
-3. **Aylık Dönüşüm Kontrolü — 1-on-1 İlerleme Görüşmeleri (5 ay)** — 5.000 TL
-   Her ay öğretmeninizle birebir: bu ay ne ilerlediniz, nerede takıldınız, önümüzdeki ay ne odaklanacaksınız.
-
-4. **İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı** — 800 TL
-   İlk derste bir yabancıya kendinizi tanıtıyorsunuz. Bu küçük an, "Bu sefer farklı" hissini anında veriyor.
-
-5. **Günlük Konuşma Sahası (WhatsApp Destek Grubu, 5 ay)** — 2.500 TL
-   Ders saatleri dışında da pratik yapıyorsunuz. Sorular, kısa egzersizler, öğrendiklerinizi pekiştirme.
-
-6. **Konuşma Engeli Tespiti — Ücretsiz 30 Dakika** — 800 TL
-   Kayıt öncesi neden hâlâ konuşamadığınızı somut olarak görüyorsunuz.
-
-7. **Uluslararası Konuşma Düzeyi Belgesi (CEFR Onaylı)** — 1.200 TL
-   Özgeçmişinize yazabileceğiniz, uluslararası geçerli ilerleme belgesi.
-
-8. **5 Ay Konuşma Garantisi — Yazılı Taahhüt** — 5.000 TL
-   Konuşamazsan ücret iadesi. Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz.
-
-**Toplam Yığın Değeri: 51.800 TL**
-**Program Fiyatı: 25.000 TL (5.000 TL/ay)**
-**Oran: 2,1:1 — müşteri fiyatın 2 katı değer alıyor**
+**Revize Edilmiş Yığın Toplamı: 53.500 TL**
+**Gerçek Fiyat (1 kur): 20.000 TL**
+**Değer-Fiyat Oranı: 2,7x**
 
 ---
 
-## 6. Fiyat Çıpaları ve Kıyaslama
+## 1c. Europass + eDevlet Çerçeveleme — Yetişkin Segmenti
 
-| Alternatif | Maliyet | Sonuç |
-|---|---|---|
-| Bireysel özel ders (haftada 3 gün, 5 ay) | 35.000–50.000 TL | Sadece ders, takip yok, garanti yok |
-| Yurt dışı dil okulu (1 ay) | 60.000–100.000 TL | Kısa dönem, garanti yok |
-| Klasik dil kursu (yıllarca denediler) | 3.000–15.000 TL / yıl | Gramer odaklı, konuşma yok — zaten denediniz |
-| **Konuşma Dönüşüm Sistemi** | **25.000 TL toplam / 5.000 TL/ay** | Konuşma odaklı, maks. 8 kişi, CEFR ölçümlü, garanti altında |
+### Kariyer Çerçevelemesi (Segment A için)
 
-**Kariyer değeri çerçevesi:**
-- Türkiye'de İngilizce konuşan çalışan ortalama %20–40 daha yüksek maaş alıyor.
-- Ortalama kıdemsiz maaş üzerinden hesaplandığında: yıllık 36.000–60.000 TL fark.
-- 25.000 TL'lik program maliyeti, ilk terfide geri dönüyor — çoğu zaman birinci yılda.
-- Bir uluslararası müşteri anlaşması veya yurt dışı proje fırsatı: tek bir anlaşmada programın maliyetini birkaç kez karşılar.
+**Satış Kopyası:**
+Türkiye'de her şirket "İngilizce biliyorum" diyen yüzlerce adayla karşılaşıyor. Ama hepsinin dediği aynı şey — ve hiçbirinin bunu kanıtlayan resmi bir belgesi yok. eDevlet'e işlenen yetkinlik belgesi farklı: işvereniniz adınızı sisteme girip seviyelendirilmiş İngilizce yetkinliğinizi görebilir. Bu kağıt üzerinde bir sertifika değil — işe alım sürecinde "bu kişi gerçekten biliyor" kapısını açan resmi sicil.
 
-**Çıpalama ifadesi:** "Bu programın ders saatlerini bireysel öğretmenle yapmak isteseniz 35.000 TL+ öderdiniz — ve ne garanti ne CEFR ölçümü alırdınız. Biz bunu 25.000 TL'ye veriyoruz ve üstüne konuşamazsan ücret iadesi taahhüdü ekliyoruz."
+**Hook (Sosyal Medya):**
+"CV'nize İngilizce yazdınız. İşvereniniz bunu eDevlet'te görebiliyor mu? Bizim öğrencilerimizin görebiliyor."
 
 ---
 
-## 7. Kontrast İfadeleri
+### Üniversite Çerçevelemesi (Segment B — Çocuk/Ebeveyn için)
 
-- **Önce:** Yıllarca gramer öğrendiniz. Yabancı biriyle karşılaştığınızda susuyorsunuz.
-- **Sonra:** 5 ay sonra aynı kişi, aynı durumda — cümle kuruyorsunuz.
+**Satış Kopyası:**
+Europass, Avrupa Birliği'nin standartlaştırdığı dil yetkinlik belgesi. Türkiye'deki üniversitelerin uluslararası bölümleri, Erasmus başvuruları ve Avrupa'daki lisansüstü programlar bu belgeyi tanıyor. Çocuğunuz bugün kazandığı Europass belgesiyle yıl sonra hazır — her üniversite başvurusu, her uluslararası sınav için bir adım önde başlıyor.
 
-- **Önce:** Para verdiniz, kurs bitti, konuşamıyorsunuz. "Belki ben dil yeteneği olmayan birisiyim" diyorsunuz.
-- **Sonra:** Sorun sizde değildi. Yöntem yanlıştı. Doğru sistemle 5 ayda konuşulur.
-
-- **Önce:** Kalabalık sınıfta öğretmeni dinlediniz. Hiç konuşmadınız.
-- **Sonra:** Maks. 8 kişilik sınıfta her ders siz konuşuyorsunuz.
-
-- **Önce:** Ne zaman konuşacağınızı bilemiyordunuz — belirsizlik, bırakma.
-- **Sonra:** Her ay CEFR ölçümüyle nerede durduğunuzu biliyorsunuz.
-
-- **Önce:** Garanti yoktu. Para gitti, sonuç yoktu.
-- **Sonra:** Konuşamazsan ücretin iade edilir. Antakya'da bunu söyleyen tek okul.
+**Hook (Sosyal Medya):**
+"Çocuğunuz kurs bitirme belgesi mi aldı, üniversiteye girecek Europass mı? Fark önemli."
 
 ---
 
-## 8. Gizli Değer (Artık Açık Hâle Getirildi)
+### Güven / Doğrulama Çerçevelemesi (Her İkisi İçin)
 
-- **Zaman tasarrufu:** Yanlış sisteme harcanan yıllar geri gelmiyor. Bu program doğru sistemle 5 ayda o yılları telafi ediyor.
-- **Özgüven etkisi:** Yabancıyla konuşabilmek sadece dil değil — toplantıda, iş görüşmesinde, sosyal ortamda genel özgüven artışı sağlıyor.
-- **Kaçınılan hatalar:** Yanlış metot nedeniyle tekrar harcanan para ve zaman ortadan kalkıyor.
-- **Kariyer kapısı:** Bir üst pozisyon, uluslararası proje, yabancı müşteri — bunlar artık "benim için değil" değil.
-- **İnanç dönüşümü:** "Belki ben dil yeteneği olmayan birisiyim" inancının kırılması — bu tek başına paha biçilemez bir değer.
-- **Ölçülebilirlik:** CEFR belgesi somut bir kanıt — başardığınızı hissediyorsunuz ve gösterebiliyorsunuz.
+**Satış Kopyası:**
+Dil kursundan aldığınız sertifika yalnızca o kursun onayını taşır. Kimse onu doğrulayamaz, kimse ne anlama geldiğini bilemez. Europass, AB standartlarına göre düzenlenmiş uluslararası tanınırlık taşır. eDevlet belgesi Türkiye Cumhuriyeti'nin resmi sistemine işlenmiştir. İkisi bir arada sunulduğunda hem ulusal hem uluslararası alanda kanıtlanmış bir yetkinlik belgesi elinizde oluyor. Bu sadece kursu tamamladınız demek değil — o seviyede konuşabilirsiniz demek.
 
----
-
-## 9. Yaz Yoğun Programını Giriş Ürünü Olarak Çerçeveleme
-
-**Mevcut:** Yaz Yoğun Programı (1 ay, 6.500–8.000 TL) — seçenek olarak sunuluyor.
-
-**Güçlendirilmiş çerçeve:**
-
-> "5 aylık programı denemeden önce emin olmak mı istiyorsunuz? 30 Günde İlk Konuşma — Yaz Açılış Programı sizin için tasarlandı. 4 haftada temel iletişim kapasitesi. Bir yabancıya kendinizi tanıtırsınız, bir konuşmayı takip edersiniz, ilk cümleleri kurarsınız. Eğer bu 4 haftada 'bu çalışıyor' diyorsanız, 5 aylık programa devam edersiniz. Çalışmıyorsa — hiçbir taahhüdünüz yok."
-
-**Neden bu işe yarıyor:**
-- "Daha önce para verdim işe yaramadı" itirazını düşük risk girişiyle kırıyor
-- Müşteri önce 5 ay taahhüt vermiyor — bir ay deniyor
-- Okul için: yaz programını tamamlayan öğrencilerin büyük çoğunluğu 5 aylık programa devam ediyor
-- Fiyat: 7.000 TL / 1 ay (5 aylık programa geçişte 5.000 TL'ye sayılır)
+**Hook (Sosyal Medya):**
+"Aynı İngilizce, iki farklı belge — biri çantada, biri devlet sisteminde. ADK ikisini birden veriyor."
 
 ---
 
-## 10. İlk Kazanım Varlığı
+## 1d. Ambalaj ve Sunum Tavsiyeleri — Yetişkin
 
-- **İsim:** İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı
-- **Ne yapıyor:** İlk ders boyunca öğrenci, kendini bir yabancıya tanıtmak için gereken temel yapıları öğreniyor ve ders sonunda bunu yapıyor. "Bu işe yarıyor" hissi ilk saat içinde oluşuyor.
-- **Sonuca ulaşma süresi:** İlk ders (60–90 dakika)
-- **Format:** Yapılandırılmış konuşma egzersizi + öğretmen rehberliği + kısa video (isteğe bağlı: telefona kaydet, sonra izle)
-- **Neden kritik:** Müşteri ilk ders sonunda "Ben bunu yapabiliyorum" hissini yaşarsa 5 aylık taahhüt psikolojik olarak mümkün hâle geliyor. Bu his olmadan 2. derse gelme oranı düşüyor.
+**Sertifika Töreni:**
+Her kur sonunda küçük bir "geçiş seremonisi" düzenlenmeli. Dijital değil, fiziksel — Europass belgesi çerçeveyle teslim edilmeli. eDevlet aktivasyonu o gün canlı gösterilmeli: öğrenci kendi telefon veya bilgisayarından eDevlet hesabına girerek belgesinin sisteme işlendiğini görüyor. Bu görsel an sosyal medya paylaşımı için güçlü bir içerik ve ağızdan ağıza yayılımın tetikleyicisi.
+
+**Dijital Karşılama Paketi (Kayıt Anında Teslim):**
+Kayıt sırasında fiziksel ya da dijital bir "Hoş Geldiniz Kiti" teslim edilmeli:
+- "Bu Programda Ne Olacak" 1 sayfalık yol haritası
+- İlk hafta kazanım kılavuzu
+- Özel program takvimi
+- "ADK Yanında Kalma Taahhüdü" kartı (garanti belgesi)
+- "Sertifika Hedefi" kişisel takip kartı (hangi kurda hangi CEFR seviyesi hedefleniyor)
+
+**Kariyer Portfolyo Teslimi (Son Kur):**
+Son kur tamamlandığında yalnızca sertifika değil, tüm kariyer portfolyo kiti teslim edilmeli: Europass dijital, eDevlet çıktısı, sertifika destekli CV şablonu doldurulmuş halde. Öğrenci o gün iş başvurusuna hazır hissettirmeli.
 
 ---
 
-## 11. Onboarding Akışı
+## 1e. İlk Kazanım Varlığı — Yetişkin
 
-- **Saat 0 (Kayıt anı):** Müşteri WhatsApp'a "Hoş geldiniz" mesajı alıyor + Garanti Taahhüt Belgesi PDF + program takvimi + "İlk Ders İçin Hazırlık: Sadece kendinizi tanıtmaya hazırlayın — isim, iş, bir ilgi alanı. Geri kalanını biz yapacağız."
-- **Saat 1 (İlk ders başında):** Konuşma Engeli Tespiti tamamlanmış, kişisel yol haritası gösterilmiş. "Bu program senin için" hissi oluşuyor.
-- **İlk ders sonu:** Öğrenci kendini bir yabancıya tanıttı. Küçük ama gerçek bir başarı. Öğretmen bunu adlandırıyor: "Az önce yaptığınız şey — bunu 5 yıl önce yapamazdınız. Şimdi yaptınız."
-- **1. Ay sonu:** CEFR ölçümü yapıldı. Aylık Dönüşüm Kontrolü gerçekleşti. Müşteri başlangıç seviyesini ve şu anki seviyesini yan yana görüyor.
+**İsim:** "İlk 30 Dakika: Kendinizi Tanıtın" Hızlı Başlangıç Seansı
+
+**Ne Yapar:** İlk seansın ilk 30 dakikasında öğrenci kendi bağlamında — mesleğini, nerede çalıştığını, ne istediğini — İngilizce olarak anlatır. Gramer değerlendirmesi yoktur; yalnızca cesaret ve akış. Seans sonunda öğrenci "bunu yapabiliyorum" hissini yaşar.
+
+**Neden Çalışır:** 5 yıl kursa gitmiş, sonuç görmemiş birinin en büyük korkusu "yine aynı şey olacak." İlk 30 dakikada somut bir üretim yaşatmak bu korkuyu kırar.
+
+**Zaman:** İlk seans, ilk 30 dakika
+
+**Format:** Yönlendirilmiş konuşma egzersizi — şablon cümle başlangıçları, öğretmen koçluğu, yargısız ortam
+
+---
+
+## 1f. Yetişkin Onboarding Akışı
+
+- **Saat 0 (Kayıt Anı):** Hoş Geldiniz Kiti teslim edilir. "ADK Yanında Kalma Taahhüdü" kartı imzalanır. Kişisel CEFR giriş testi yapılır.
+- **Saat 1 (İlk Seans):** "İlk 30 Dakika: Kendinizi Tanıtın" egzersizi. Öğrenci ilk üretimi yapar. Öğretmen "sen zaten bunları biliyorsun, sadece aktif hale getiriyoruz" çerçevesini kurar.
+- **Gün 1 Sonu:** Öğrenci evde şunu düşünüyor: "Beklenmedik bir şeydi. Konuştum. Olmayacak sanıyordum, oldu."
+
+---
+
+---
+
+# BÖLÜM 2: ÇOCUK / EBEVEYN SEGMENTİ — "60 Günlük Doğal İngilizce Konuşma Kampı"
+
+---
+
+## 2a. Mevcut Algı Sorunları
+
+- "60 Günlük Doğal İngilizce Konuşma Kampı" ismi tanımlayıcı ama duygusal değil; annenin korkusunu ya da umudunu yansıtmıyor
+- Ebeveyn Takip Sistemi değerli bir bileşen ama teklif içinde "ekstra" gibi görünüyor; aslında annenin en büyük acısını (ne öğrendiğini bilmeme) karşıladığı için çekirdeğe taşınmalı
+- Anneler için Sıfır Stres Paketi ismindeki "sıfır stres" vaadi güçlü ama içeriği belirsiz — ne yapıyor somut olarak?
+- Europass belgesi çocuk için neden önemli sorusu cevaplanmamış — anneye bu değer anlatılmıyor
+
+---
+
+## 2b. Değer Yığını Tablosu — Çocuk / Ebeveyn
+
+| Mevcut İsim | Yeni (Yüksek Değer Algılı) İsim | Tahmini Algılanan Değer | Neden Daha Güçlü |
+|---|---|---|---|
+| 64 saatlik konuşma kampı | Doğal Konuşma Atılım Programı (64 Saat Yoğun) | 15.000 TL | "Atılım" dönüşümü çağrıştırıyor; "Yoğun" hızlı sonuç sinyali veriyor |
+| Dijital Alıştırma Kiti | Evde Konuşma Aktivasyon Sistemi (Günlük 10 Dakika) | 3.500 TL | "Aktivasyon" öğrendiklerinin kaybolmamasını garantiliyor; "Günlük 10 Dakika" eforu minimal gösteriyor |
+| Ebeveyn Takip Sistemi | Anne-Baba Haftalık Dönüşüm Raporu | 4.000 TL | "Dönüşüm Raporu" boşa gitmeme güvencesi; annenin "ne öğreniyor?" acısını doğrudan karşılıyor |
+| Anneler için Sıfır Stres Paketi | Evde Konuşma Başlatıcı Rehber (Türkçe) | 2.000 TL | "Başlatıcı" eylemi ima ediyor — anne pasif izleyici değil, katılımcı; "Türkçe" annenin kendi İngilizcesi olmasa bile kullanabildiğini söylüyor |
+| Kamp Sonu Europass Belgesi | Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi | 6.000 TL | Europass'ın ne anlama geldiğini açıklıyor — "kurs belgesi" değil, "uluslararası tanınırlık"; üniversite başvurularındaki değeri öne çıkıyor |
+
+**Revize Edilmiş Yığın Toplamı: 30.500 TL**
+**Gerçek Fiyat (Yaz Kampı): 15.000 TL**
+**Değer-Fiyat Oranı: 2x**
+
+---
+
+## 2c. Europass + eDevlet Çerçeveleme — Çocuk / Ebeveyn Segmenti
+
+### Kariyer Çerçevelemesi (Segment A Referansı — Annenin Uzun Vadeli Yatırım Bakışı)
+
+**Satış Kopyası:**
+Bugün çocuğunuza ne verirseniz, 10 yıl sonra geri dönüyor. Europass, Avrupa Birliği'nin standart dil yetkinlik belgesidir — Türk üniversitelerinin uluslararası bölümleri, Erasmus programları ve Avrupa'daki master başvuruları bu belgeyi kabul eder. Çocuğunuz kamp sonunda hem konuşma becerisini hem de bu belgeyi birlikte kazanıyor. Diğer kurslar bitiş belgesi veriyor. Biz üniversite portfolyosuna giren belge veriyoruz.
+
+**Hook (Sosyal Medya):**
+"Çocuğunuz yaz kampında İngilizce öğrendi mi, Europass kazandı mı? Fark 10 yıl sonra ortaya çıkıyor."
+
+---
+
+### Üniversite Çerçevelemesi (Segment B için — Annenin En Güçlü Kaygısı)
+
+**Satış Kopyası:**
+Her anne "çocuğum üniversiteye girecek, İngilizcesi olsun" diye düşünüyor. Ama o gün geldiğinde elinde ne olacak? Kursa gittiğini söyleyen bir not mu, yoksa Europass belgesi mi? Europass, uluslararası alanda geçerli, AB standartlı, düzeylendirilmiş bir yetkinlik belgesidir. Üniversite başvurularında, değişim programlarında, yurt dışı başvurularında doğrudan kullanılır. Çocuğunuz şimdi 10 yaşında bile olsa, bu belge portfolyosunun ilk taşı.
+
+**Hook (Sosyal Medya):**
+"8 yaşında Europass alınır mı? Bizde alınıyor. Ve üniversitede işe yarıyor."
+
+---
+
+### Güven / Doğrulama Çerçevelemesi (Her İkisi İçin)
+
+**Satış Kopyası:**
+"Çocuğum ilerledi mi?" sorusunun tek gerçek cevabı ölçümdür. Biz her öğrenciye kamp başında CEFR giriş testi, kamp sonunda çıkış testi uyguluyoruz. Sonunda elinizde yazılı bir karşılaştırma raporu var: A1'den A2'ye geçti, ya da A2'yi pekiştirdi. Bu sezgi değil, ölçüm. Ve bu ilerleme Europass belgesiyle resmi hale geliyor.
+
+**Hook (Sosyal Medya):**
+"'İyi gidiyor' demiyoruz. Başlangıç testi, bitiş testi, ilerleme raporu — sayıyla gösteriyoruz."
+
+---
+
+## 2d. Ambalaj ve Sunum Tavsiyeleri — Çocuk / Ebeveyn
+
+**Kamp Sonu Sertifika Töreni:**
+Son gün ebeveynler de davet edilerek küçük bir "mezuniyet" etkinliği düzenlenmeli. Çocuklar o gün İngilizce kısa bir konuşma yapar — ebeveynin önünde, kameralar açık. Bu an hem duygusal bir kanıt (annenin "gerçekten konuşuyor" anı) hem de güçlü bir sosyal medya içeriği. Europass belgesi törende fiziksel olarak teslim edilir; CEFR karşılaştırma raporu da o gün sunulur.
+
+**Ebeveyn Bilgilendirme Paketi (Kayıt Anında):**
+- "Çocuğunuz 60 günde ne öğrenecek" 1 sayfalık görsel yol haritası
+- "Evde nasıl desteklersiniz" Türkçe kılavuz
+- Haftalık rapor sistemi nasıl çalışır — WhatsApp talimatı
+- Giriş CEFR testi sonuç kartı (ilk gün yapılır, ebeveyne teslim edilir)
+
+**Haftalık "Küçük İlerleme" Kutlaması:**
+Her hafta sonu öğrencilerin hafta boyunca öğrendikleri 3–5 ifadeyi içeren bir "Bu Hafta Öğrendiklerim" kartı ebeveyne WhatsApp üzerinden iletilmeli. Anne çocuğa bu ifadeleri evde soruyor — çocuk cevap veriyor. Bu an hem aktivasyon hem de annenin "para boşa gitmiyor" güvencesi.
+
+---
+
+## 2e. İlk Kazanım Varlığı — Çocuk / Ebeveyn
+
+**İsim:** "İlk Gün Kartı: 5 İfadeyle Kendini Tanıt"
+
+**Ne Yapar:** Kamp ilk gününde her çocuğa kişisel bir "Tanışma Kartı" verilir. Kart üzerinde 5 temel ifade kalıbı var (isim, yaş, sevdiği şeyler, bir hayal). Ders sonunda her çocuk bu kartı kullanarak kendini tanıtır — birbirleriyle, öğretmenle, sonunda bir "yabancı misafir" senaryosunda.
+
+**Neden Çalışır:** Çocuk eve gittiğinde anneye "bugün İngilizce kendimi tanıttım" diyebilir. Somut ve hızlı. Anne de ilk günden "bu farklı bir şey" hisseder.
+
+**Format:** Fiziksel kart + sınıf içi uygulama — ebeveyne kopyası gönderilir
+
+---
+
+## 2f. Çocuk / Ebeveyn Onboarding Akışı
+
+- **Saat 0 (Kayıt Anı):** Ebeveyn Bilgilendirme Paketi teslim edilir. CEFR giriş testi yapılır, sonucu ebeveyne verilir. "Bu Kampta Ne Olacak" kısa oturum yapılır.
+- **Saat 1 (İlk Seans):** "İlk Gün Kartı: 5 İfadeyle Kendini Tanıt" egzersizi. Çocuk eve döndüğünde anneye "bugün şunu söyledim" diyebilecek bir şeyle geliyor.
+- **Gün 1 Sonu:** Anne çocuktan "ne öğrendiniz?" diye soruyor — çocuk cevap veriyor. Bu an "bu kurs farklı" inancını kuruyor.
+
+---
+
+*Güncelleme tarihi: 18 Haziran 2026*
