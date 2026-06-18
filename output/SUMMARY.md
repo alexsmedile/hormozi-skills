@@ -1,13 +1,28 @@
-# SUMMARY.md
-# Antakya American Culture Language School — Oyun Planı Özeti
+# Antakya Amerikan Kültür Dil Okulu — Oyun Planı Özeti
+# Antakya ADK Dönüşüm Kılavuzu: Saat Satarken Rekabetten Emekten, Sonuç Satarak Tekelleşmeye
 
-*Oluşturulma tarihi: 17 Haziran 2026*
+*Oluşturulma tarihi: 18 Haziran 2026*
 
 ---
 
 ## Teklifiniz Tek Paragrafta
 
-Antakya American Culture Language School, yıllarca İngilizce okuyup hâlâ konuşamayan yetişkinlere ve çocukları için aynı tuzağa düşmek istemeyen ebeveynlere, Antakya'da başka hiçbir okulun yapmadığı şeyi sunuyor: her dersin %70'ini konuşma pratiğine harcayan, CEFR ile ilerlemeyi ölçen ve 5 ayda konuşma kapasitesi üretemezsek tüm ücreti iade eden garantili bir program. Sorun müşteride değil — Türk eğitim sisteminin gramer öğretip konuşma öğretmemesinde. Bu okul o sistemi tersine çeviriyor.
+Antakya Amerikan Kültür Dil Okulu, yıllarca İngilizce okuyup hâlâ konuşamayan yetişkinlere ve çocukları için aynı tuzağa düşmek istemeyen ebeveynlere, Antakya'da başka hiçbir okulun yapmadığı şeyi sunuyor: her dersin %70'ini konuşma pratiğine harcayan, CEFR ile ilerlemeyi ölçen, Europass ve eDevlet ile belgeleyen ve hedefi tutturamayan öğrenciye ücretsiz özel ders desteğiyle devam eden garantili bir program. Sorun müşteride değil — Türk eğitim sisteminin gramer öğretip konuşma öğretmemesinde. Bu okul o sistemi tersine çeviriyor.
+
+---
+
+## Paradigma Değişimi
+
+| Odak Noktası | Eski Çerçeve (Kırmızı Okyanus) | Yeni Çerçeve (Mavi Okyanus) |
+|---|---|---|
+| Ürün Tanımı | Ders Saati ve Paketler | Hedeflenen Sonuç ve Resmi Belge |
+| Kids Yaklaşımı | Çocuklar için İngilizce kursu | Üniversite başvurularında Europass onaylı portfolyo |
+| Yetişkin Yaklaşımı | Yetişkin için seviye kursu | 3 Aylık Konuşma Güvencesi + Europass Sertifikası |
+| Fiyatlandırma Mantığı | Kıyaslanabilir saat ücreti | Kıyaslanamaz; değere dayalı "Sertifika Yolu" yatırımı |
+| Öğretim Modeli | Gramer ağırlıklı (%70–80) | Konuşma ağırlıklı (%70 speaking) |
+| Çıktı | Kur bitirme belgesi | Europass + eDevlet Mesleki Akıcılık Sicili |
+| Garanti | Yok | 3 Adımlı Koşullu Efor Garantisi |
+| Rekabet | Yerel kurslarla karşılaştırılabilir | Karşılaştırılamaz — kategorisinde tek |
 
 ---
 
@@ -15,17 +30,32 @@ Antakya American Culture Language School, yıllarca İngilizce okuyup hâlâ kon
 
 | Karar | Seçim | Gerekçe |
 |---|---|---|
-| Birincil müşteri | Kariyerinde İngilizce engeli yaşayan Antakyalı yetişkin (22–40) | En yüksek acı yoğunluğu (9/10) + en yüksek satın alma gücü |
-| Eş zamanlı ikincil müşteri | Çocuğu (8–14) için konuşma İngilizcesi isteyen ebeveyn | İkinci en yüksek niş skoru (34/40) |
-| Temel sorun | Gramer odaklı eğitim sistemi konuşma kapasitesi üretmiyor | Tüm Antakya rakipleri aynı hatayı yapıyor |
-| Hedef sonuç | 5 ayda CEFR tabanlı ölçülebilir konuşma kapasitesi | Somut, belgeli, ölçülebilir |
-| Teslimat modeli | DWY — 4–6 kişilik küçük grup, yüz yüze | Konuşma pratiği sosyal bağlam gerektirir |
-| Ana program fiyatı | 5.500 TL/ay (toplam 27.500 TL / 5 ay) | Garanti + CEFR + küçük grup — meşru fark |
-| Giriş ürünü fiyatı | 7.500 TL / 1 ay (Yaz Sprint) | Düşük taahhüt, ana programa köprü |
-| Program adı | KonuşAmerika 5 + KonuşAmerika Yaz Sprint | Konuşmayı merkeze alıyor |
-| Garanti | 5 ayda konuşamazsan tam ücret iade — yazılı sözleşme | Rakipler garanti vermiyor |
-| Temel mesaj | "Sorun sen değildin. Sistem yanlıştı. Biz farklıyız." | Müşterinin en derin inancını kırıyor |
-| Sınav hazırlığı | YOK | Bu okulun kimliği: gerçek iletişim, sınav puanı değil |
+| Birincil müşteri | Kariyer tıkanmış Antakyalı yetişkin (22–45) | Acı yoğunluğu 9/10, tetikleyici olay anlık karar yaratıyor |
+| İkincil müşteri | Gelecek kaygısı taşıyan anne (22–45) | Çocuk için harcama duygusal meşruiyet taşıyor |
+| Temel sorun | Gramer sistemi konuşma kapasitesi üretmiyor | Tüm rakipler aynı hatayı yapıyor |
+| Yetişkin ürün adı | Unmute Profesyonel Akıcılık Simülasyonu | Kurs değil, simülasyon — kariyer çerçevesi |
+| Kids ürün adı | 60 Günlük Doğal İngilizce Konuşma Kampı | Ezberci değil, doğal konuşma çerçevesi |
+| Sertifika (herkes) | Europass | Avrupa standardı, üniversite ve iş başvurularında geçerli |
+| Sertifika (yetişkin) | eDevlet Mesleki Akıcılık Sicili | Türkiye'de devlet sistemine işlenen tek dil belgesi |
+| Yetişkin fiyat giriş | 1 Kur: 20.000 TL | Kapı açıcı; satış hedefi 3–4 kura yönlendirme |
+| Yetişkin fiyat hedef | 3 Kur (Europass Paketi): 50.000 TL | En iyi değer/taahhüt dengesi |
+| Kids Kış fiyatı | 5.000 TL/ay | Aylık öngörülü gelir |
+| Kids Yaz fiyatı | 15.000 TL | Giriş ürünü, ana programa köprü |
+| Garanti | 3 Adımlı Koşullu Efor | Rakipsiz — Antakya'da başka okul garanti vermiyor |
+| Sınav hazırlığı | YOK | Kimlik: gerçek iletişim, sınav puanı değil |
+
+---
+
+## Yetişkin Kur Paketi Tablosu
+
+| Paket | Fiyat | Tasarruf | Önerilen Hedef |
+|---|---|---|---|
+| 1 Kur | 20.000 TL | — | Kapı açıcı |
+| 2 Kur (%10 indirim) | 38.000 TL | 2.000 TL | — |
+| 3 Kur — Europass Paketi | 50.000 TL | 10.000 TL | ✅ Öncelikli satış hedefi |
+| 4 Kur — Tam Dönüşüm | 60.000 TL | 20.000 TL | ✅ Premium hedef |
+| 5 Kur | 80.000 TL | 20.000 TL | — |
+| 6 Kur (%10 + 1 bedava) | 90.000 TL | 30.000 TL | Kurumsal |
 
 ---
 
@@ -33,71 +63,44 @@ Antakya American Culture Language School, yıllarca İngilizce okuyup hâlâ kon
 
 ### 1. Sosyal Kanıt Videolarını Bu Hafta Çekin
 
-Mevcut 5–10 öğrenciden (hem yetişkin hem ebeveyn) 60–90 saniyelik video alın.
+5–10 mevcut öğrenciden 60–90 sn video:
+- "Bu okula gelmeden önce nasıl hissediyordunuz?"
+- "Ne değişti? Somut bir an var mı?"
+- "Neden öneriirdiniz?"
 
-Soru şablonu:
-- "Bu okula gelmeden önce İngilizce konusunda nasıl hissediyordunuz?"
-- "5 ay sonunda ne değişti?"
-- "Başkasına neden öneriyor olurdunuz?"
-
-Bu videolar Instagram ve Facebook'a yükleniyor. Sosyal kanıt olmadan hiçbir satış materyali tam gücünde çalışmaz. En güçlü satış aracı başkasının ağzından çıkan hikaye.
-
+Yetişkinlerden: kariyer/iş anı. Ebeveynlerden: çocuğun evde İngilizce konuştuğu an.
 **Beklenen sonuç:** İlk 30 günde DM ve başvuru artışı.
 
-### 2. Garanti Belgesini Yazılı Hale Getirin
+### 2. Europass + eDevlet'i Her Cümleye Ekle
 
-"5 ayda konuşacaksın ya da ücret iade" söz olarak değil, kayıtta imzalanan belge olarak uygulanmalı. Belge içeriği: başlangıç CEFR seviyesi, 5 ay sonunda minimum ilerleme kriteri, devam koşulları (%80 katılım + haftalık pratik), iade prosedürü.
+Şu an bu sertifikalar görünmez. Tüm materyallerde öne çıkar:
+- Instagram bio: "Europass & eDevlet Onaylı Program"
+- WhatsApp karşılama mesajı: ilk cümlede sertifikadan bahset
+- Satış görüşmesi: fiyattan önce sertifika değerini göster
+**Beklenen sonuç:** "Bu diğer kurslardan ne farkı var?" itirazı ortadan kalkar.
 
-**Beklenen sonuç:** "Garanti gerçek mi?" itirazı ortadan kalkar, dönüşüm oranı artar.
+### 3. İlk Instagram Reels'ini Bu Hafta Yayınla
 
-### 3. Instagram'da Haftalık İçerik Ritmi Kurun
+> *"12 yıl İngilizce okudunuz. Neden hâlâ bir toplantıda söz alamıyorsunuz? Sorun siz değildiniz — yöntem yanlıştı. Biz farklı yapıyoruz: %70 konuşma, Europass belgesi, 3 adımlı garanti."*
 
-HOOKS.md'deki 31 kanca 6–8 haftalık içerik takvimini karşılıyor.
-
-Başlangıç formatı:
-- Pazartesi: Sistem suçu kancası (H13, H14, H15)
-- Çarşamba: Gece düşüncesi kancası (H7, H8, H9)
-- Cuma: Öğrenci hikayesi veya sosyal kanıt
-
-İlk Reel için: H4 sorusu ("Kaç yıldır öğreniyorsun? Şimdi tanıtabilir misin?") — yorum → DM → kayıt akışını başlatır.
-
+Yorum → DM → Ücretsiz Değerlendirme → Kayıt akışını başlatır.
 **Beklenen sonuç:** 4–6 haftada organik DM akışı.
 
 ---
 
-## Ne Üretildi — Dosya Dizini
+## Dosya Dizini
 
 | Dosya | İçerik | Ne Zaman Kullanılır |
 |---|---|---|
-| MARKET_RESEARCH.md | Niş skorları, acı haritası, talep değerlendirmesi | Segment veya ürün kararlarında |
-| OFFER.md | KonuşAmerika 5 ve Yaz Sprint tam yapısı, değer yığını, garanti | Satış görüşmesinde, ekip brifinginde |
-| OFFER_ANGLES.md | 8 konumlandırma açısı, top 3, kanal önerileri | İçerik üretiminde, reklam metninde |
-| OFFER_AUDIT.md | 7 boyutta teklif puanlaması, en kritik 3 düzeltme | Teklifi güçlendirme önceliklerini belirlerken |
-| VALUE_PERCEPTION.md | Sonuç odaklı bileşen isimleri, kariyer yatırımı çerçeveleme | Satış sayfası güncellenirken |
-| BONUS_STACK.md | İtiraz kıran bonus yığını, TL değerleri, teslim zamanları | Kayıt paketi güncellenirken |
-| PRICING.md | 3 fiyat katmanı, değer çıpası, meşrulaştırma hikayesi | Fiyat konuşmalarında, satış görüşmesi hazırlığında |
-| OBJECTIONS.md | 8 itiraz için gizli inanç + inanç kayması + hazır yanıtlar | DM'de, satış görüşmesinde, SSS sayfasında |
-| PITCH.md | 30 sn, 2 dk, 5 dk pitch versiyonları + en güçlü CTA | Yüz yüze tanışmalarda, telefon görüşmelerinde |
-| HOOKS.md | 31 kanca, 10 kategoride, platform önerileri, top 5 | Instagram, Reels, DM ilk mesajında |
-| LANDING_PAGE.md | 10 bölümlük tam landing page metni, tasarımcı notları | Web sayfası ve reklam hedef sayfası yapılırken |
-
----
-
-## Bir Sonraki Seans Giriş Noktası
-
-Bu playbook teklifin tamamını kurdu. Eksik kalan: sistematik müşteri edinim funneli. Öncelik, mevcut sosyal kanıtı (öğrenci hikayeleri) Instagram → DM → değerlendirme seansı → kayıt akışına dönüştürmek. Garanti belgesinin hukuki gözden geçirilmesi ve kayıt sözleşmesine entegre edilmesi de öncelikli.
-
----
-
-## Bugün Kullanılacak Kanca
-
-Bu Instagram postunu bu hafta yayınlayın:
-
-> "Kaç yıldır İngilizce öğreniyorsun? Şimdi kendini bir yabancıya tanıtabilir misin?
->
-> Eğer cevabın 'hayır' ise — sorun sen değilsin. Yıllarca gramer öğretildi, konuşma pratiği yaptırılmadı. Kimse konuşmadan konuşmayı öğrenemez.
->
-> Biz farklı çalışıyoruz. %70 konuşma. 5 ayda sonuç. Garantili.
->
-> Kaç yıldır bu engeli taşıyorsun? Yoruma yaz."
-
+| MARKET_RESEARCH.md | Paradigma tablosu, iki segment psikolojisi, talep analizi | Segment veya ürün kararlarında |
+| OFFER.md | İki ayrı teklif mimarisi: Unmute + 60 Gün Kampı, değer yığınları | Satış görüşmesinde, ekip brifinginde |
+| OFFER_ANGLES.md | 8 konumlandırma açısı, top 3 | İçerik üretiminde, reklam metninde |
+| OFFER_AUDIT.md | 73/100 denetim skoru, kritik düzeltmeler | Teklifi güçlendirme önceliklerinde |
+| VALUE_PERCEPTION.md | Europass/eDevlet değer çerçevelemesi, isimlendirme | Satış sayfası güncellenirken |
+| BONUS_STACK.md | İki ayrı bonus piramidi: Bariyersiz Akıcılık + Doğal Konuşan Çocuklar | Kayıt paketi sunumunda |
+| PRICING.md | TL Kur Kalkanı modeli, kur bazlı paketler, kariyer ROI karşılaştırması | Fiyat konuşmalarında |
+| OBJECTIONS.md | 6 Savaş Kartı: itiraz + gizli inanç + karşı saldı + hazır yanıt | Satış görüşmesinde, DM'de |
+| PITCH.md | 2 ayrı pitch: Yetişkin + Ebeveyn, 30sn/2dk/5dk versiyonlar | Yüz yüze tanışmalarda |
+| HOOKS.md | 35+ kanca, 8 kategori, Europass dahil | Instagram, Reels, DM |
+| LANDING_PAGE.md | 2 tam satış sayfası: Unmute + 60 Gün Kampı | Web sitesi, reklam hedef sayfası |
+| CHECKLIST.md | 99 maddelik uygulama listesi | Haftalık takip için |

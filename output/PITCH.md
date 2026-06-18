@@ -1,225 +1,265 @@
 # PITCH.md
-# Antakya Amerikan Kültür Dil Okulu — KonuşAmerika 5 Satış Pitchi
+## Antakya Amerikan Kültür Dil Okulu — Satış Konuşmaları
 
-*Oluşturulma tarihi: 17 Haziran 2026*
-
----
-
-## 1. Teklif Özeti
-
-- **Kimler için:** 12+ yıl İngilizce okumuş, grameri bilen ama konuşamayan Antakyalı yetişkin (22–40). Ve: çocuğunun (8–14) gerçek konuşma İngilizcesi öğrenmesini isteyen ebeveyn.
-- **Ne vaat ediyor:** 5 ayda CEFR tabanlı, belgelenmiş konuşma kapasitesi. İş görüşmesinde, toplantıda, yurt dışında kullanabileceğin gerçek iletişim İngilizcesi.
-- **Nasıl çalışıyor:** Haftada 3 gün, maks. 6 kişilik küçük grup, yüz yüze. Her dersin %70'i konuşma pratiği, %30'u gramer altyapısı. Aylık CEFR ölçümü. 5 ayda konuşma kapasitesi kazanmazsan tam ücret iadesi — yazılı sözleşmeyle.
+*Oluşturulma tarihi: 18 Haziran 2026*
 
 ---
 
-## 2. Değer Denklemi Değerlendirmesi
-
-| Boyut | Durum | Not |
-|---|---|---|
-| Hayal Edilen Sonuç | Güçlü | "İş görüşmesinde donmak yerine cümle kurmak" — somut, canlı sahne. Kariyer ve özgüven etkisi bir arada. |
-| Başarı Algısı | Orta-Güçlü | 100 öğrenci / sıfır reklam kanıtı mevcut. Bireysel tanıklıklar henüz görünür değil — en büyük büyüme fırsatı burada. |
-| Zaman Gecikmesi | Güçlü | İlk ders sonunda "İlk 60 Dakikada Konuşun" kazanımı. 5 ay uzun görünmüyor çünkü ilk an çabuk geliyor. |
-| Efor ve Fedakarlık | Güçlü | Haftada 3 seans, esnek saat, 4 telafi dersi hakkı. "Başlarsam bırakırım" korkusunu yapısal olarak kaldıran sistem. |
-
-**Yapılan iyileştirmeler:** Değer yığını fiyatın 2 katına çıkarıldı (53.800 TL değer / 27.500 TL fiyat). İlk kazanım anı ("İlk 60 Dakikada Konuşun") teklif diline eklendi. Sistem suçu çerçevesi tüm copy'de tutarlı şekilde uygulandı. Kariyer değeri hesabı fiyat meşrulaştırmasına eklendi.
+# BÖLÜM A: YETİŞKİN PİTCHİ — Unmute Profesyonel Akıcılık Simülasyonu
 
 ---
 
-## 3. Teklif Adı Seçenekleri
+## Teklif Özeti
 
-1. **KonuşAmerika 5** — Mevcut isim. Sade, akılda kalıcı, "5 ay" taahhüdünü içeriyor. Marka kimliği oluşturmak için güçlü. **(Önerilen — ana program)**
-2. **KonuşAmerika Yaz Sprint** — Yaz giriş ürünü için. "Sprint" hız ve eylemi çağrıştırıyor. Doğru konumda. **(Önerilen — giriş ürünü)**
-3. **Konuşma Dönüşüm Sistemi** — Kurumsal ton. Değer yığını sunumunda ve satış görüşmelerinde güçlü. Alternatif olarak kullanılabilir.
-4. **Sessizlikten Cümleye — 5 Ay** — Duygusal önce/sonra çerçevesi. Instagram içerikleri ve kancalarda işe yarıyor.
-5. **Antakya'nın Konuşma Okulu** — Lokasyon kimliği. Organik içerikte ve tavsiye kültüründe güçlü.
-
-**Sonuç:** KonuşAmerika 5 ve KonuşAmerika Yaz Sprint adları korunmalı.
+- **Kime:** Yıllarca gramer öğrenip hâlâ konuşamayan, kariyer fırsatlarını kaçıran 22–45 yaş arası Antakyalı profesyonel
+- **Ne başarır:** 90 günde gerçek iş senaryolarında konuşma kapasitesi + Europass uluslararası sertifikası + eDevlet'e işlenen Devlet Onaylı Mesleki Akıcılık Sicili
+- **Nasıl çalışır:** %70 konuşma / %30 gramer, CEFR bazlı, maks 12 kişi küçük grup — kurs değil simülasyon
 
 ---
 
-## 4. Ana Teklif
+## Değer Denklemi Değerlendirmesi
 
-**KonuşAmerika 5 — Ana Program:**
-- Haftada 3 seans x 60 dakika, toplam ~60 seans / 5 ay
-- Her dersin %70'i konuşma pratiği, %30'u gramer altyapısı
-- Maks. 6 kişilik küçük, aynı CEFR başlangıç seviyesinden homojen grup
-- Aylık CEFR tabanlı ilerleme değerlendirmesi
-- Ayda 1 bireysel koçluk seansı (10-15 dk) — Aylık Dönüşüm Kontrolü
-- WhatsApp Günlük Konuşma Sahası — 5 ay boyunca ders dışı destek
-- 4 telafi dersi hakkı
-- 5 Ay Konuşma Garantisi — yazılı sözleşme
-
-**KonuşAmerika Yaz Sprint — Giriş Ürünü:**
-- Haftada 5 seans x 45 dakika, 1 aylık yoğun format
-- 4 haftada temel konuşma kapasitesi
-- 5 aylık ana programa öncelikli geçiş hakkı
-- Fiyat: 7.500 TL
-
-**Format:** Sınıf içi, Antakya, küçük gruplar
-**Model:** DWY (Done With You) — öğretmen rehberliğinde, aktif katılım odaklı
+- **Rüya Sonuç:** Çok güçlü — "kariyer belgesi + konuşma özgüveni" kombinasyonu somut ve ölçülebilir
+- **Algılanan Olasılık:** Güçlü — CEFR ölçümü, 3 Adım Garanti ve 100 aktif öğrenci referansıyla destekleniyor
+- **Zaman Gecikmesi:** Olumlu — 2. haftada ilk somut kazanım, 90 günde temel dönüşüm
+- **Çaba ve Fedakarlık:** Haftada 2 gün, 3 saat — esnek saat seçimi ile mevcut hayata entegre edilebilir
 
 ---
 
-## 5. Değer Yığını
+## Değer Yığını — Yetişkin (1 Kur)
 
 | Bileşen | Değer |
 |---|---|
-| 5 Aylık Konuşma Dönüşüm Programı (~60 seans, %70 konuşma) | 35.000 TL |
-| Kişisel 5 Aylık Konuşma Yol Haritası | 1.500 TL |
-| Aylık Dönüşüm Kontrolü — 1-on-1 İlerleme Görüşmesi (5 ay) | 5.000 TL |
-| İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı | 800 TL |
-| Günlük Konuşma Sahası (WhatsApp Destek Grubu, 5 ay) | 2.500 TL |
-| Konuşma Engeli Tespiti — Ücretsiz 30 Dakika + PDF Rapor | 800 TL |
-| Uluslararası Konuşma Düzeyi Belgesi (CEFR Onaylı) | 1.200 TL |
-| 5 Ay Konuşma Garantisi — Yazılı Taahhüt Belgesi | 5.000 TL |
-| Esnek Saat Seçeneği + 4 Telafi Dersi Hakkı | 2.000 TL |
-| **Toplam Değer** | **53.800 TL** |
-| **Program Fiyatı** | **27.500 TL (5.500 TL/ay x 5 ay)** |
-| **Oran** | **~2:1 — müşteri fiyatın 2 katı değer alıyor** |
+| Gerçek Senaryo Konuşma Laboratuvarı (60 Saat) | 20.000 TL |
+| Kişisel Program Tasarım Hakkı (3 Ay) | 4.500 TL |
+| 2 Kişisel Kurtarma Seansı | 6.000 TL |
+| Yargısız Özgüven Atölyesi (Ömür Boyu Erişim) | 6.000 TL |
+| Europass Uluslararası Yetkinlik Belgesi | 6.000 TL |
+| Devlet Onaylı Mesleki Akıcılık Sicili (eDevlet) | 8.000 TL |
+| Sertifika Destekli Kariyer Portfolyo Kiti | 5.000 TL |
+| **Toplam Algılanan Değer** | **55.500 TL** |
+| **Gerçek Fiyat — 1 Kur** | **20.000 TL** |
+| **6 Kur Tam Paket (Europass + eDevlet)** | **90.000 TL** |
 
 ---
 
-## 6. Garanti
+## Garanti — Yetişkin
 
-**Seçenek 1 — Koşulsuz:**
-"14 gün içinde programdan memnun kalmazsan, hiçbir soru sormadan ücretini iade ederiz."
+**3 Adım Koşullu Efor Garantisi**
 
-**Seçenek 2 — Koşullu (Eylem Bazlı):**
-"5 ay boyunca seansların %80'ine katıl, haftalık pratik görevleri tamamla. Eğer CEFR seviyende ölçülebilir ilerleme olmazsa son ayı iade ederiz."
-
-**Seçenek 3 — Sonuç Bazlı Tam Garanti:**
-"5 ayda konuşma kapasitesi kazanamazsan, ödediğinin tamamını iade ederiz. Koşul: seansların %80'ine katılmak ve haftalık pratik görevleri tamamlamak. Garanti yazılı sözleşmeyle."
-
-**Önerilen: Seçenek 3.**
-
-Tam garanti metni:
-
-"KonuşAmerika 5 programına katıl. Seansların %80'ine devam et, haftalık pratik görevlerini tamamla. 5 ayın sonunda İngilizce konuşma kapasitesi kazanamamışsan — ödediğinin tamamını iade ediyoruz. Bu taahhüt kayıt anında imzalanan belgeyle güvence altındadır. Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz çünkü sistemimizin çalıştığını biliyoruz — 100 öğrenci, sıfır reklam, bunun kanıtı."
+"Derslerin %80'ine katılın, verdiğimiz pratikleri yapın ve hedef İngilizce seviyenize ulaşamazsanız — sizi orada bırakmıyoruz. Ek ücret ödemeden, esnek özel ders desteğiyle programa devam ediyorsunuz. Çünkü sorun yöntemde değilse, biz yanınızdayız."
 
 ---
 
-## 7. Kıtlık ve Aciliyet
+## Yetişkin Pitch — 30 Saniye
 
-- **Mekanizma:** Gerçek kontenjan kısıtı — her grupta maks. 6 kişi, aynı CEFR seviyesinden. "Bu dönem X grupta Y yer kaldı" — gerçekse kullan.
-- **Yaz Sprint Penceresi:** Başlangıç tarihi sabittir. Grup dolunca kayıt kapanır.
-- **Erken kayıt avantajı:** İlk 5 kayıt için 5.000 TL/ay, sonrası 5.500 TL — yeni kayıtları hızlandırmak için kullanılabilir.
-- Yapay aciliyet kullanılmaz. Okulun organik büyümesi gerçek talebi zaten kanıtlıyor.
+12 yıl İngilizce okudunuz, hâlâ bir toplantıda söz alamıyorsunuz. Sorun siz değildiniz — size gramer öğretildi, konuşturulmadınız. Unmute Profesyonel Akıcılık Simülasyonu'nda 90 günde gerçek senaryolarda konuşuyorsunuz. Kurs sonu Europass sertifikası elinizde, eDevlet sicilinde görünüyorsunuz. Bunu Antakya'da başka kim veriyor?
+
+**CTA:** Ücretsiz oryantasyon için WhatsApp'tan yazın — 30 dakikada mevcut seviyenizi birlikte ölçüyoruz.
 
 ---
 
-## 8. İtiraz Yönetimi
+## Yetişkin Pitch — 2 Dakika
 
-| İtiraz | Yanıt |
+Şu an İngilizce bilen bir meslektaşınız sizin yerinize bir fırsata gidiyor. Terfi, proje, yabancı müşteri toplantısı — ve siz susup izliyorsunuz. Ama sorun yeteneksizlik değil. Türk eğitim sistemi size on yıldır gramer öğretti, hiç konuşturmadı. %90 gramer, %10 konuşma. Bu yüzden biliyorsunuz ama konuşamıyorsunuz.
+
+Biz bunu değiştiriyoruz.
+
+Unmute Profesyonel Akıcılık Simülasyonu'nda her dersin %70'i gerçek senaryo konuşması. Toplantı İngilizcesi, iş görüşmesi İngilizcesi, müşteri İngilizcesi — gerçek senaryolarla, yargısız bir ortamda. Haftada 2 gün, seans başı 3 saat, sabah veya akşam bloklarından size uygun olanı seçiyorsunuz.
+
+90 günün sonunda elinizde iki belge var. Europass — Avrupa Birliği standardında, uluslararası geçerli yetkinlik sertifikası. Ve eDevlet'e işlenen Devlet Onaylı Mesleki Akıcılık Sicili — işvereniniz adınızı aratıp İngilizce seviyenizi görebilir. Bunu Antakya'da başka hiçbir kurs vermiyor.
+
+Derslerin %80'ine katıldınız, pratikleri yaptınız ve hedefe ulaşamadıysanız — ek ücret ödemeden devam ediyorsunuz. Risk tamamen bizde.
+
+1 kur 20.000 TL. Antakya'da İngilizce bilen çalışan yılda ortalama 96.000 TL daha fazla kazanıyor. Bu program, kaçırdığınız tek bir fırsatın değerinin beşte biri.
+
+**CTA:** Ücretsiz oryantasyon seansı için şimdi WhatsApp'tan yazın. 30 dakikada mevcut seviyenizi ölçüyoruz, doğru programı birlikte belirliyoruz.
+
+---
+
+## Yetişkin Pitch — 5 Dakika (Tam Satış Konuşması)
+
+**[CALLOUT]**
+
+Bu, yıllarca İngilizce alan ama hâlâ bir toplantıda söz alamayan, özgeçmişine "iyi derecede İngilizce" yazıp yabancı biri gelince susanlar için.
+
+**[ACİ AMPLİFİKASYONU]**
+
+Şu sahneyi tanıyor musunuz?
+
+Zoom toplantısında yabancı bir katılımcı var. Siz bir şey söylemek istiyorsunuz — ama cümleyi kafanızda kurarken konuşma geçiyor. "Sonra mail atarım" diyorsunuz. Mail atmıyorsunuz.
+
+Ya da iş ilanında "İngilizce konuşma şartı" yazıyor. Başvurmuyorsunuz bile.
+
+Ya da o terfi. "Dil olsa kesinlikle sen olurdun" diyor amiriniz. Dil var aslında — ama aktif değil.
+
+Ve içten içte şunu düşünüyorsunuz: "On iki yıl ders aldım. Özel ders aldım. Uygulama kullandım. Neden olmadı? Belki ben dil yeteneği olmayan birisiyim."
+
+Değilsiniz. Sorun siz değildiniz.
+
+**[SİSTEM SUÇU]**
+
+Türk eğitim sistemi onlarca yıldır aynı hatayı yapıyor: %90 gramer, %10 konuşma. Sınıfta oturuyorsunuz, kural öğreniyorsunuz, test çözüyorsunuz. Ama dil böyle öğrenilmez. Türkçe'yi nasıl öğrendiniz? Gramer tablosuyla mı? Hayır — konuşarak, duyarak, hata yaparak. İngilizce de böyle öğrenilir. Sorun siz değildiniz. Size yanlış yöntem uygulandı. Yıllarca.
+
+**[ÇÖZÜM]**
+
+Unmute Profesyonel Akıcılık Simülasyonu bunu tersine çeviriyor.
+
+Her dersin %70'i gerçek senaryo konuşması. Toplantı İngilizcesi, telefon görüşmesi, müşteri sunumu, iş görüşmesi — gerçek hayattan alınmış senaryolarla. Gramer öğretilmiyor, aktif hale getiriliyor. Sınıfta maksimum 12 kişi — kaybolmuyorsunuz. Haftada 2 gün, seans başı 3 saat — sabah, öğle veya akşam seçeneğiyle. 2. haftada kendinizi tanıtıyorsunuz, temel toplantı ifadelerini kullanıyorsunuz. 90 günün sonunda gerçek iş senaryolarında konuşabiliyorsunuz.
+
+**[DEĞER YIĞINI]**
+
+1 kurda şunları alıyorsunuz:
+
+60 saatlik Gerçek Senaryo Konuşma Laboratuvarı — tek başına 20.000 TL değerinde.
+
+Kişisel Program Tasarım Hakkı — sabah, öğle veya akşam, size uygun bloğu seçiyorsunuz, 3 ay boyunca değiştirilebilir. 4.500 TL değerinde.
+
+2 Kişisel Kurtarma Seansı — bir seans kaçırdınız ya da bir konuda takıldınız, 1:1 özel destekle telafi ediyorsunuz. 6.000 TL değerinde.
+
+Yargısız Özgüven Atölyesi, Ömür Boyu Erişim — kurs dışı haftalık küçük grup pratik oturumları, kurs bittikten sonra da devam ediyor. 6.000 TL değerinde.
+
+Europass Uluslararası Yetkinlik Belgesi — AB standardında, dünyada geçerli, CV'ye ve LinkedIn'e ekleniyor. 6.000 TL değerinde.
+
+Devlet Onaylı Mesleki Akıcılık Sicili — eDevlet'e işleniyor, işvereniniz adınızı aratıp İngilizce seviyenizi görebilir. Antakya'da bunu başka kim veriyor? 8.000 TL değerinde.
+
+Sertifika Destekli Kariyer Portfolyo Kiti — Europass, eDevlet çıktısı ve doldurulmuş CV şablonu bir arada, o gün iş başvurusuna hazır. 5.000 TL değerinde.
+
+Toplam: 55.500 TL. Sizden istediğimiz: 20.000 TL.
+
+**[GARANTİ]**
+
+Derslerin %80'ine katılın, pratikleri yapın, hedefe ulaşamazsanız — ek ücret ödemeden, özel ders desteğiyle devam ediyorsunuz. Hedefinize ulaşana kadar yanınızdayız.
+
+**[ACİLİYET]**
+
+Antakya'da uluslararası projeler, yeniden yapım süreçleri, yabancı firmalar — İngilizce bilen profesyonele talep hiç bu kadar yüksek olmamıştı. Her ay beklemenin maliyeti var.
+
+**[CTA]**
+
+Şimdi WhatsApp'tan yazın. Ücretsiz oryantasyon seansı ayarlıyoruz — 30 dakikada mevcut seviyenizi birlikte ölçüyoruz, hangi paketin size uygun olduğunu belirliyoruz. "Unmute olmak istiyorum" yazın — gerisini biz halledelim.
+
+---
+---
+
+# BÖLÜM B: EBEVEYN / ÇOCUK PİTCHİ — 60 Günlük Doğal İngilizce Konuşma Kampı
+
+---
+
+## Teklif Özeti
+
+- **Kime:** 8–16 yaş çocuğu olan, çocuğunun gerçek konuşma becerisi kazanmasını isteyen Antakyalı anne
+- **Ne başarır:** 60 günde CEFR ile ölçülen doğal konuşma becerisi + Europass uluslararası yetkinlik belgesi + haftalık ebeveyn ilerleme raporu
+- **Nasıl çalışır:** %70 oyun ve senaryo tabanlı konuşma aktiviteleri, maks 10 çocuk küçük grup, CEFR giriş-çıkış ölçümü
+
+---
+
+## Değer Yığını — Çocuk / Yaz Kampı
+
+| Bileşen | Değer |
 |---|---|
-| "Daha önce para verdim işe yaramadı" | "Sorun sen değildin. O kurslar grameri öğretti, konuşmayı değil. Biz tam tersini yapıyoruz: %70 konuşma. Ve 5 ayda konuşmazsan — ücret iade." |
-| "Belki ben dil yeteneği olmayan birisiyim" | "Türkçe'yi kaç yaşında öğrendin? Gramer kitabı okumadan, sadece konuşarak. İngilizce de aynı şekilde öğrenilir — doğru yöntemle." |
-| "Zamanım yok, iş çok yoğun" | "Haftada 3 gün, 60 dakika. Esnek saat seçenekleri var. 4 telafi dersi hakkın var. Bir iş toplantısına gittiğin kadar zaman." |
-| "Çok pahalı" | "Şu ana kadar sonuç vermeyen kurslara ne kadar para harcadın? Bu program 5.500 TL/ay — ama 5 ayda konuşmazsan paranı geri alırsın. Risk sende değil, bizde." |
-| "Bu okul diğerlerinden ne farkı var?" | "Sıfır reklam, 100 öğrenci. Öğrenciler arkadaşlarını getiriyor. Bu olmayan bir şeyin reklamı değil — gerçek sonucun kanıtı." |
-| "Kaç yaşında öğreneceğim artık?" | "Sorun yaş değil — yöntem. 30-40 yaş öğrencilerimiz 5 ayda sonuç aldı. Yetişkinlerin avantajı var: neden öğrendiğini net olarak biliyorsun." |
-| "Çocuğum sıkılır, bırakır" | "Bırakmak motivasyon sorunu değil — başarı hissi yaşamamak sorunudur. İlk 4 dersimiz 'yapabiliyorum' hissini kurmak için tasarlandı. Grup küçük — kimse kaybolmuyor." |
+| Doğal Konuşma Atılım Programı (64 Saat Yoğun) | 15.000 TL |
+| Ücretsiz Deneme Dersi + Metodoloji Oturumu | 1.500 TL |
+| Anne-Baba Haftalık Dönüşüm Raporu | 4.000 TL |
+| Evde Konuşma Aktivasyon Sistemi (Günlük 10 Dakika) | 3.500 TL |
+| Evde Konuşma Başlatıcı Rehber (Türkçe) | 2.000 TL |
+| Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi | 6.000 TL |
+| **Toplam Algılanan Değer** | **32.000 TL** |
+| **Gerçek Fiyat — Yaz Kampı** | **15.000 TL** |
+| **Kış Programı** | **5.000 TL/ay** |
 
 ---
 
-## 9. Pitch
+## Garanti — Çocuk Programı
 
-### Kısa Versiyon — 30 saniye / Sosyal medya biyografisi
+**3 Adım Koşullu Efor Garantisi — Çocuk Uyarlaması**
 
-12 yıl İngilizce okudun. Hâlâ konuşamıyorsun. Bu senin sorunun değil — yöntemin sorunuydu. KonuşAmerika 5'te her dersin %70'i konuşma pratiği. 5 ayda konuşamazsan paranı iade ediyoruz. Antakya'nın ilk sonuç garantili konuşma okulu.
-
----
-
-### Orta Versiyon — 2 dakika / Yüz yüze tanıtım, ağ etkinliği
-
-Antakya'da çok sık karşılaştığım bir şeyi anlatayım. Özgeçmişine "iyi derecede İngilizce" yazan, ama yabancı biri geldiğinde başka odaya geçen insanlar. 12 yıl ders aldılar. Hâlâ bir cümle kuramıyorlar. İçlerinden şunu geçiriyorlar: "Belki ben gerçekten dil yeteneği olmayan birisiyim."
-
-Bu his gerçek. Ama açıklama tamamen yanlış.
-
-Sorun yetenek değil — sistem. Türkiye'deki İngilizce eğitimi gramer öğretti. Konuşma pratiği olmadı. Konuşma pratiği olmadan dil aktive olmuyor.
-
-KonuşAmerika'da her dersin %70'i konuşmaya harcanıyor. Maks. 6 kişilik sınıf — herkes konuşuyor. CEFR ölçümü — ilerlemeyi sayıyla görüyorsun. Sıfır reklam ile 100 öğrenciye ulaştık çünkü öğrenciler arkadaşını getiriyor.
-
-5 ay. Haftada 3 gün. 5 ayda konuşamazsan — ücretin tamamı iade. Yazılı sözleşmeyle.
-
-Başlamak için ücretsiz bir adım var: 30 dakikalık Konuşma Engeli Tespiti. Neden hâlâ konuşamadığını somut olarak gösteriyoruz — taahhüt yok, ücret yok.
+"Çocuğunuz kampa düzenli katıldı, evde aktivasyon setini kullandı ve CEFR giriş seviyesini geçemediyse — sizi ve çocuğunuzu orada bırakmıyoruz. Ek ücret ödemeden, destekli programla devam ediyoruz. Çünkü sorun çocuğunuzda değil — bizim görevimiz sistemi doğru kurmak."
 
 ---
 
-### Uzun Versiyon — 5 dakika / Satış görüşmesi ve bilgilendirme toplantısı
+## Ebeveyn Pitch — 30 Saniye
 
-Bir soru ile başlayalım.
+Çocuğunuz kursa gidiyor ama evde İngilizce konuşmuyor. Sorun çocuğunuz değil — yöntem yanlış. Her kurs gramer ezberletiyor. Biz %70 konuşma yapıyoruz. 60 Günlük Doğal İngilizce Konuşma Kampı'nda çocuğunuz oyun ve senaryo yoluyla konuşuyor. Kamp sonu Europass belgesi elinizde, ilerleme sayıyla ölçülüyor, siz her hafta haberdar oluyorsunuz.
 
-Toplantıda veya iş görüşmesinde yabancı biriyle karşılaştığında ne oluyor? Kafanda cümle var — ama ağzından çıkmıyor. Susuyorsun. Sonra gece yatarken içinden şunu söylüyorsun: "Belki ben gerçekten öğrenemiyorum. Belki bende bir şey eksik."
-
-Bu his gerçek. Ama açıklama tamamen yanlış.
-
-Sorun sende değildi. Sorun sistemde.
-
-8 ila 12 yıl İngilizce okudun. Zamanlar var, bağlaçlar var, edilgen yapılar var. Gramer biliyorsun. Ama hiçbir zaman gerçekten konuşturmadılar seni. Türkiye'deki dil eğitimi İngilizce'yi gramer sınavından geçirmek için tasarlandı — hayatta kullanmak için değil. O sistem tam olarak çalıştı: gramer öğrendin. Ve tam olarak çalışmadı: konuşamıyorsun.
-
-Bebek Türkçe'yi nasıl öğrendi? Gramer kitabıyla değil — konuşarak. Dil çıktı gerektiriyor. Konuşma olmadan dil aktive olmuyor. Senin sorunun yetenek değil — maruz kaldığın yöntem.
-
-KonuşAmerika 5'te ne yapıyoruz?
-
-Her dersin %70'i konuşma pratiği. Rakipler gramere %70-80 zaman harcıyor. Biz tam tersini yapıyoruz.
-
-Maks. 6 kişilik küçük grup — aynı CEFR başlangıç seviyesinden. Kalabalık sınıfta kimse konuşmuyor. Küçük grupta herkes konuşuyor, herkes geri bildirim alıyor.
-
-Aylık CEFR ölçümü — başladığın yeri, şu an nerede olduğunu sayıyla görüyorsun. Muğlaklık yok — veri var.
-
-Ve ilk ders sonunda küçük ama gerçek bir şey oluyor: kendinizi bir yabancıya İngilizce olarak tanıtıyorsunuz. Bu küçük an, "Bu işe yarıyor" hissinin başlangıcı.
-
-Kanıt nerede?
-
-Sıfır reklam verdik. Bugün 100 aktif öğrencimiz var. Bu nasıl oldu? Öğrenci konuşmaya başlıyor — bunu işyerinde, aile çevresinde anlatınca arkadaşını getiriyor. Pazarlama değil, gerçek sonuç.
-
-Ne alıyorsunuz?
-
-KonuşAmerika 5 programına katıldığınızda şunları alıyorsunuz:
-
-5 Aylık Konuşma Dönüşüm Programı — 60 seans, %70 konuşma odaklı. Piyasada bireysel derste bu saatler 35.000 TL tutar.
-
-Kişisel 5 Aylık Konuşma Yol Haritası — başlangıç seviyenizden hedef seviyenize giden özel yol — 1.500 TL değer.
-
-Aylık Dönüşüm Kontrolü — her ay birebir ilerleme görüşmesi, 5 seans — 5.000 TL değer.
-
-İlk 60 Dakikada Konuşun — ilk ders sonunda yabancıya kendinizi tanıtıyorsunuz — 800 TL değer.
-
-Günlük Konuşma Sahası — 5 ay boyunca WhatsApp destek, ders dışı pratik — 2.500 TL değer.
-
-Konuşma Engeli Tespiti — kayıt öncesi ücretsiz 30 dakikalık değerlendirme ve PDF rapor — 800 TL değer.
-
-Uluslararası Konuşma Düzeyi Belgesi — CEFR onaylı, özgeçmişinize yazabileceğiniz somut kanıt — 1.200 TL değer.
-
-5 Ay Konuşma Garantisi — yazılı sözleşme — 5.000 TL değerinde güvence.
-
-Esnek saat ve 4 telafi dersi hakkı — 2.000 TL değer.
-
-Toplam yığın değeri: 53.800 TL.
-
-Fiyat nedir?
-
-Bu programın fiyatı 5.500 TL/ay. 5 ay = 27.500 TL.
-
-Bir şeyle kıyaslayalım: Türkiye'de İngilizce konuşan bir çalışan ile konuşamayan arasındaki yıllık maaş farkı 60.000 ile 100.000 TL arasında. Bu programın maliyeti tek bir kariyer adımıyla ilk yılda geri dönüyor.
-
-Şu ana kadar İngilizce kurslarına ne kadar harcadın? Sonuç vermeyen kurslara? O para gitti. Bu sefer fark şu: çalışmazsa paranı geri alırsın.
-
-Garanti:
-
-5 ay boyunca seansların %80'ine katıl. Haftalık pratik görevlerini tamamla. 5 ayın sonunda konuşma kapasitesi kazanamamışsan — ödediğinin tamamını iade ediyoruz. Yazılı sözleşmeyle. Antakya'da bunu söyleyen başka okul yok. Biz söylüyoruz çünkü sistemin çalıştığını biliyoruz.
-
-Bir sonraki adım:
-
-Kayıt yapmak zorunda değilsin şu an. Ücretsiz 30 dakikalık Konuşma Engeli Tespiti'ne gel. Neden hâlâ konuşamadığını somut olarak gösteriyoruz — taahhüt yok, ücret yok. Sonra karar verirsin.
+**CTA:** Ücretsiz deneme dersi için şimdi yazın — çocuğunuz bir gün giriyor, farkı kendiniz görüyorsunuz.
 
 ---
 
-## 10. En Güçlü CTA Cümlesi
+## Ebeveyn Pitch — 2 Dakika
 
-"Ücretsiz Konuşma Engeli Tespiti'ne gel — 30 dakikada neden hâlâ konuşamadığını öğren, sonra karar ver. Risk yok, taahhüt yok."
+Çocuğunuz aylardır kursa gidiyor. Ama evde İngilizce konuştuğunu hiç duydunuz mu? "Bugün ne öğrendin?" diye soruyorsunuz — "bilmiyorum" ya da omuz silkme alıyorsunuz. Para gidiyor, zaman gidiyor, somut bir şey göremiyorsunuz.
+
+Sorun çocuğunuz değil. Her kurs gramer ezberletiyor. %90 kural, %10 konuşma. Çocuklar bunu sıkıcı buluyor, motive olmuyor, ilerleyemiyor. Sistem yanlış.
+
+60 Günlük Doğal İngilizce Konuşma Kampı'nda her şey tersine çevriliyor. %70 oyun, senaryo, drama aktiviteleri. Maksimum 10 çocuk — kimse kaybolmuyor. İlk haftada çocuğunuz 20'den fazla temel ifadeyle kendini tanıtıyor.
+
+Ve siz her adımı görüyorsunuz. Her hafta WhatsApp üzerinden 5 dakikalık ilerleme raporu alıyorsunuz — çocuğunuzun o hafta ne öğrendiği, nerede takıldığı, ne yapılacağı.
+
+Kamp sonunda elinizde somut bir şey var: başlangıç ve bitiş CEFR karşılaştırma raporu. Ve Europass Yetkinlik Belgesi — uluslararası geçerli, üniversite başvurusuna ekleniyor.
+
+15.000 TL. Çocuğunuzun hazırlık okulu yükümlülüğü olsa, bu 40.000–80.000 TL eder. Bu yaz yapılan 15.000 TL yatırım, üniversite kapısında çok daha büyük bir külfeti önleyebilir.
+
+**CTA:** Ücretsiz deneme dersi için şimdi yazın. Çocuğunuz bir gün sınıfa giriyor, metodoloji oturumunda siz de yerinizi alıyorsunuz. Farkı kendiniz görün.
 
 ---
 
-*Kaynak: OFFER.md, OFFER_AUDIT.md, BONUS_STACK.md, PRICING.md, VALUE_PERCEPTION.md, OBJECTIONS.md*
+## Ebeveyn Pitch — 5 Dakika (Tam Satış Konuşması)
+
+**[CALLOUT]**
+
+Bu, çocuğunu kursa gönderip "ama neden konuşamıyor?" diye soran anneler için.
+
+**[ACİ AMPLİFİKASYONU]**
+
+Bir sahne tarif edeyim.
+
+Komşunuzun çocuğu bir yabancıyla karşılaşıyor — rahat, akıcı, gülümseyerek konuşuyor. Sizin çocuğunuz bakıp susuyur. Siz de içten içe düşünüyorsunuz: "Neden bizimki konuşamıyor? Yıllardır kurs ödüyorum."
+
+Ya da şunu: çocuğunuz aylarca kursa gitti. "Bugün ne öğrendiniz?" diye soruyorsunuz. "Bilmiyorum" alıyorsunuz. Kurs öğretmeni "iyiydi bu ay" diyor — ama somut bir şey göremiyorsunuz. Para ve zaman akıp gidiyor, elinizde hiçbir şey yok.
+
+Ve bazen geceleyin şunu düşünüyorsunuz: "Çocuğum da benim gibi büyüyecek. Ne kadar ders alsa konuşamayacak. Diğer çocuklar zaten konuşuyor — benim çocuğum geride kalacak."
+
+Sorun çocuğunuz değil.
+
+**[SİSTEM SUÇU]**
+
+Tüm kurslar aynı şeyi yapıyor. Kural anlat, alıştırma yaptır, test çözdür. %90 gramer, %10 konuşma. Çocuklar sıkılıyor çünkü hiçbir şeyin değişmediğini hissediyorlar. Ebeveynler hayal kırıklığına uğruyor çünkü somut sonuç alamıyorlar. Sorun çocuğunuzun motivasyonu değil. Sorun sistem. Ve sistem her yerde aynı.
+
+**[ÇÖZÜM]**
+
+60 Günlük Doğal İngilizce Konuşma Kampı'nda metodoloji tamamen farklı.
+
+Her seansın %70'i konuşma aktiviteleri — oyun, senaryo, drama, rol yapma. Gramer kural olarak değil, iletişim ihtiyacı olarak öğreniliyor. Sınıfta maksimum 10 çocuk — herkes görülüyor, herkes konuşuyor. 8–11 yaş ve 12–16 yaş ayrı gruplar, ayrı müfredat. İlk haftada çocuğunuz 20'den fazla temel iletişim ifadesiyle kendini tanıtıyor. Çocuklar bunu oyun gibi hissediyor — çünkü zaten oyun.
+
+Kamp giriş günü CEFR testi, kamp son günü tekrar ölçüm. Elinizde yazılı karşılaştırma raporu — A1'den A2'ye geçti, rakamla görüyorsunuz. Bu sezgi değil, ölçüm.
+
+**[DEĞER YIĞINI]**
+
+Yaz Kampı'nda şunları alıyorsunuz:
+
+64 saatlik Doğal Konuşma Atılım Programı — 15.000 TL değerinde.
+
+Ücretsiz Deneme Dersi — çocuğunuz kayıt öncesinde gerçek seans katılıyor, siz metodoloji oturumunda farkı görüyorsunuz. Risk sıfır. 1.500 TL değerinde.
+
+Anne-Baba Haftalık Dönüşüm Raporu — her hafta WhatsApp'tan ilerleme özeti. "Ne öğreniyor bilmiyorum" kaygısı bitiyor. 4.000 TL değerinde.
+
+Evde Konuşma Aktivasyon Sistemi — günlük 10 dakika, video rehber ve alıştırma kartlarıyla evde pekiştirme. 3.500 TL değerinde.
+
+Evde Konuşma Başlatıcı Rehber, Türkçe — İngilizce bilmeseniz bile çocuğunuzu her gün 5 dakika destekleyebiliyorsunuz. 2.000 TL değerinde.
+
+Ve kamp sonunda törenle teslim edilen Uluslararası Tanınırlıklı Europass Yetkinlik Belgesi — AB standardında, üniversite başvurularına ekleniyor. 6.000 TL değerinde.
+
+Toplam: 32.000 TL. Sizden istediğimiz: 15.000 TL.
+
+**[GARANTİ]**
+
+Çocuğunuz kampa düzenli katıldı, evde aktivasyon setini kullandı, giriş seviyesini geçemediyse — ek ücret ödemeden devam ediyoruz. Sorun çocuğunuzda değil, bizim görevimiz sistemi doğru kurmak.
+
+**[ACİLİYET]**
+
+Kamp kontenjanı maksimum 10 çocuk. İlk 15 kayıtta erken kayıt avantajı var. Diğer çocuklar bu yaz ilerliyor — bir yaz daha "başka zaman" derseniz fark açılıyor. Üniversite başvurusu yaklaşıyor, Europass belgesi için zaman gerekiyor.
+
+**[CTA]**
+
+Şimdi WhatsApp'tan yazın. "Deneme dersi istiyorum" yazın — çocuğunuza ücretsiz ilk seans ayarlıyoruz. Siz metodoloji oturumuna katılıyorsunuz, çocuğunuz sınıfı görüyor. Farkı kendiniz görün, sonra karar verin. İlk ders bize ait.

@@ -1,135 +1,125 @@
 # HOOKS.md
-# Antakya Amerikan Kültür Dil Okulu — KonuşAmerika Kanca Sistemi
+## Antakya Amerikan Kültür Dil Okulu — Kanca Sistemi
 
-*Oluşturulma tarihi: 17 Haziran 2026*
-
----
-
-## 1. Temel Mesaj
-
-- **Hedef kitle:** 12+ yıl İngilizce okumuş, hâlâ konuşamayan Antakyalı yetişkin (22–40). İkincil: çocuğunun gerçek konuşma kapasitesi kazanmasını isteyen ebeveyn.
-- **Sonuç:** 5 ayda gerçek konuşma kapasitesi — iş görüşmesinde, toplantıda, yurt dışında kullanabileceğin İngilizce.
-- **Acı:** 12 yıl gramer öğrendiler. Hâlâ konuşamıyorlar. İçlerinde "belki ben aptalım" inancı var.
-- **Hız:** İlk ders sonunda ilk kazanım. 5 ayda CEFR belgeli sonuç.
-- **Kolaylık:** Haftada 3 gün, esnek saat, telafi hakkı, küçük grup.
-- **Kaldırılan itiraz:** "Daha önce denedim, olmadı." — Sorun sen değildin. Sistem yanlıştı.
+*Oluşturulma tarihi: 18 Haziran 2026*
 
 ---
 
-## 2. Kanca Kategorileri
+## Çekirdek Mesaj
+
+- **Yetişkin Kitlesi:** Kariyer tıkanmış, konuşamayan profesyonel
+- **Ebeveyn Kitlesi:** Çocuğun ilerlemediğini gören, sonuç bekleyen anne
+- **Sonuç (Yetişkin):** 90 günde konuşma + Europass + eDevlet belgesi
+- **Sonuç (Çocuk):** 60 günde doğal konuşma + Europass belgesi
+- **Acı:** Yıllarca gramer, sıfır konuşma — para boşa gitti
+- **Hız:** 2. haftada ilk somut kazanım
+- **Kolaylık:** Haftada 2 gün, esnek saat
+- **Kaldırılan İtiraz:** "Daha önce denedim, olmadı" — sistem yanlıştı, siz değildiniz
 
 ---
 
-### Kategori 1: İstatistik / Şok Kancaları
+## 1. KARİYER KANCALARI (Yetişkin)
 
-- 12 yıl İngilizce dersi. Hâlâ bir cümle kurulamıyor. Bu Türkiye'deki 30 milyon insanın hikayesi — ve senin de olabilir. | **En uygun:** Instagram görseli, Facebook post
-- Türkiye'de İngilizce konuşan çalışan ortalama %30 daha fazla kazanıyor. Fark bir yeteneğe değil — bir sisteme erişmeye bağlı. | **En uygun:** LinkedIn, Facebook, billboard
-- Antakya'da sıfır reklam ile 100 öğrenci. Reklam mı? Hiç vermedik. Öğrenciler arkadaşını getirdi. Çünkü gerçekten konuştular. | **En uygun:** Instagram Reel, Facebook video
-- Bir dil kursunun ortalama ömrü: 3 ay. Bırakma nedeni: ilerleme görülmüyor. KonuşAmerika'da ilk ders sonunda ilerleme hissediliyor — bu yüzden 5 aya kadar gidiliyor. | **En uygun:** Instagram, DM takibi
-
----
-
-### Kategori 2: Soru Kancaları
-
-- Yabancı biri İngilizce konuştuğunda ne yapıyorsun? | **En uygun:** Instagram Reel açılışı, Facebook post
-- Kaç yıldır İngilizce öğreniyorsun — ve hâlâ konuşamıyor musun? | **En uygun:** Instagram hikaye, DM
-- Son kaç tane İngilizce kursuna para verdin? Ve hangisi seni konuşturdu? | **En uygun:** Facebook post, Instagram carousel
-- "Belki ben dil yeteneği olmayan birisiyim" diye düşündün mü hiç? | **En uygun:** Instagram Reel, DM açılışı
+- 12 yıl İngilizce okudunuz. Neden hâlâ bir toplantıda söz alamıyorsunuz?
+- İngilizce engeliniz yüzünden kaç terfi kaçırdınız bu yıl?
+- Özgeçmişinizde "İngilizce: iyi düzey" yazıyor. Bunu kanıtlayan bir belgeniz var mı?
+- Aynı pozisyon için aday gösterilemediniz mi? Büyük ihtimalle sorun İngilizce.
+- 90 günde toplantı İngilizcesi, iş görüşmesi İngilizcesi, müşteri İngilizcesi. Kurs değil, simülasyon.
+- Zoom'da yabancı katılımcı varken "sessiz kal" moduna geçiyorsanız — bu bir yetenek sorunu değil. Yöntem sorunu.
+- CV'nize İngilizce yazdınız. İşvereniniz bunu eDevlet'te görebiliyor mu? Bizim öğrencilerimizin görebiliyor.
+- Antakya'da uluslararası projeler büyüyor. İngilizce bilen nadir, talep yüksek. Sıranız mı bu fırsatı kaçırmak?
+- "Bu işe başvursam İngilizce sınav var" diye başvurmaktan kaçındınız mı? Sorun yetenek değildi. Yöntemdi.
+- Bir meslektaşınız sizin yerinize o projeyi aldı. İngilizce yüzünden. Bu bir daha olmak zorunda değil.
 
 ---
 
-### Kategori 3: Gece Düşüncesi Kancaları — İç Sesi Seslendir
+## 2. EBEVEYN KANCALARI
 
-- "Toplantıda sustum. Yine. Yabancı panel sorunca dondum. Kimse anlamadı — ama ben anladım." | **En uygun:** Instagram Reel, Facebook hikaye formatı
-- Gece yatarken içinden geçiyor: "Zaten ben bu yaştan sonra öğrenemem." Bu düşünce yanlış. Ama yıllarca yanlış sisteme maruz kaldıktan sonra gelmesi kaçınılmaz. | **En uygun:** Instagram caption, Facebook post
-- "Bir daha para versem yine hayal kırıklığı yaşarım" diye kaç kez düşündün? Haklısın — ama yanlış sistemle. Doğru sistemle bu kez farklı. | **En uygun:** Instagram Reel, Facebook DM
-- Yurt dışı seyahatinde otel resepsiyonuyla konuşmak için yanındakini iter misin? Bu hissi biliyoruz. 5 ayda bu biter. | **En uygun:** Instagram hikaye, Reel
-
----
-
-### Kategori 4: Kimlik Kancaları
-
-- Zeki birisin. Grameri biliyorsun. Konuşamıyorsun. Bu çelişki senin sorunun değil — yöntemin sonucu. | **En uygun:** Instagram caption, Facebook post
-- Sen 12 yıl çalıştın. Sistem seni çalıştırmadı. Fark bu. | **En uygun:** Instagram, DM, billboard
-- "İngilizce bilen" ile "İngilizce konuşan" arasındaki fark bir yetenek farkı değil. Bir sistem farkı. Biz o sistemi değiştiriyoruz. | **En uygun:** Facebook post, Instagram carousel
-- Kariyer basamağına çıkmak istiyorsun. İngilizce tek engel. Bu engel senin değil — yıllar önce sana yanlış öğretilmiş bir dil yönteminin. | **En uygun:** LinkedIn, Instagram
+- Çocuğunuz aylardır kursa gidiyor. Ama evde İngilizce konuştuğunu hiç duydunuz mu?
+- "Bugün ne öğrendiniz?" sorusuna "bilmiyorum" cevabı almaktan yoruldunuz mu?
+- Komşunuzun çocuğu yabancıyla rahat konuşuyor. Sizinkini bir sorun mu var? Hayır. Sistem sorunu var.
+- Çocuğunuz test çözüyor. Peki konuşabiliyor mu? Bu iki şey tamamen farklı.
+- Aylık kurs ücreti ödüyorsunuz. Kamp sonunda elinizde ne kalıyor? Kağıt belge mi, Europass mu?
+- 60 günde çocuğunuz doğal olarak cümle kuruyor. CEFR ile ölçülüyor. Europass belgesiyle belgeleniyor.
+- Çocuğunuzun "kursa gitmek istemiyorum" demesinin sebebi tembellik değil. Sıkıcı sistem.
+- Çocuğunuz bugün Europass alırsa, üniversite başvurusunda bir adım önde başlıyor.
+- Her hafta WhatsApp'tan "çocuğunuz bu hafta bunları öğrendi" mesajı almak ister misiniz?
+- Çocuğunuz bu yaz dinlensin — ya da konuşmayı öğrensin ve 60 gün sonra uluslararası belgesiyle dönsün. İkisi aynı anda mümkün.
 
 ---
 
-### Kategori 5: Sistem Suçu Kancaları
+## 3. EUROPASS / SERTİFİKA KANCALARI
 
-- Türk eğitim sistemi sana 12 yıl gramer öğretti. Konuşmayı değil. Bu senin başarısızlığın değil — sistemin tasarımı. | **En uygun:** Instagram Reel, Facebook video, billboard
-- "Neden konuşamıyorum?" sorusunun cevabı basit: hiç konuşturmadılar. Okul zamanların %90'ını gramer anlatmaya harcadı. Konuşmayı öğretmedi. | **En uygun:** Instagram carousel, Facebook post
-- Sistemi suçla, kendini değil. 12 yıl yanlış sisteme maruz kaldın. 5 ay doğru sisteme gireceksin. Fark burada. | **En uygun:** Instagram, DM
-- Bebek Türkçe'yi nasıl öğrendi? Gramer kitabıyla değil — konuşarak. Sana İngilizce'yi tam tersi yöntemle öğrettiler. Şimdi doğru yöntem var. | **En uygun:** Instagram Reel, Facebook video
-
----
-
-### Kategori 6: Sonuç / Before-After Kancaları
-
-- Önce: Toplantıda yabancı biri soru sorunca susuyorsun. Sonra: Aynı durumda cümle kuruyorsun. Fark 5 ay ve doğru yöntem. | **En uygun:** Instagram Reel, Facebook video
-- Önce: "İngilizce biliyorum ama konuşamıyorum." Sonra: "Geçen hafta yabancı bir müşteriyle toplantı yaptım." Bu dönüşüm gerçek. 100 öğrencimiz yaşadı. | **En uygun:** Instagram, Facebook testimonial formatı
-- 12 yıl öncesindeki sen İngilizce öğrenmeye başladı. 5 ay sonrasındaki sen İngilizce konuşuyor. İkisi arasındaki fark yöntem. | **En uygun:** Instagram carousel, DM
-- Yurt dışı seyahatinde artık eşini iter misin? 5 ay sonra — hayır. Çünkü sen konuşuyorsun. | **En uygun:** Instagram Reel, hikaye
+- Kurs sertifikası ile Europass aynı şey değil. Fark 10 yıl sonra ortaya çıkıyor.
+- eDevlet'e işlenen İngilizce belgesi — işvereniniz adınızı aratıp doğrulayabiliyor. Bunu Antakya'da başka kim veriyor?
+- Çocuğunuz 8 yaşında Europass belgesi alabilir. Ve üniversitede işe yarıyor.
+- CV'nize İngilizce yazdınız. LinkedIn'de bir sertifikanız yok. Bu nasıl gözüküyor?
+- Uluslararası geçerli dil belgesi almak için yurt dışına gitmenize gerek yok. Antakya'da yapılıyor.
+- Europass, AB'nin standart dil yetkinlik belgesi. Erasmus başvurusu. Üniversite başvurusu. Yurt dışı iş başvurusu. Hepsinde geçerli.
+- "Kursu bitirdim" ile "devlet sisteminde görünüyorum" arasındaki fark kariyerinizi değiştirebilir.
 
 ---
 
-### Kategori 7: Garanti Kancaları
+## 4. SİSTEM SUÇU KANCALARI
 
-- 5 ayda konuşamazsan — tüm parayı iade ediyoruz. Antakya'da bunu söyleyen başka okul var mı? | **En uygun:** Instagram, Facebook, billboard, DM
-- Garanti verdik. Yazıyla. Çünkü sistemin çalıştığını biliyoruz. 100 öğrenci bunun kanıtı. | **En uygun:** Instagram post, Facebook
-- Risk yok. 5 ayda konuşursan — kariyer kapısı açılıyor. Konuşamazsan — paranı alıyorsun. Kaybedecek hiçbir şeyin yok. | **En uygun:** Instagram Reel, DM, Facebook
-- "Bir daha para harcamak istemiyorum" diyorsun. Anlıyoruz. Bu yüzden garantiyle geliyoruz. Çalışmazsa — ücret iade. | **En uygun:** DM açılışı, Instagram hikaye
-
----
-
-### Kategori 8: Sosyal Kanıt Kancaları
-
-- Sıfır reklam verdik. 100 öğrencimiz var. Bu olmayan bir şeyin reklamı değil — gerçek sonucun kanıtı. | **En uygun:** Instagram, Facebook, billboard
-- Antakya'da öğrencilerimiz arkadaşlarını getiriyor. Çünkü gerçekten konuşmaya başladılar. Bu tek tanıtım yaptığımız şey. | **En uygun:** Instagram Reel, Facebook post
-- 100 kişi sıfır pazarlama ile geldi. Bir öğrencimiz şöyle dedi: "İlk kez bir cümle kurduğumda inanamadım. Bu benim yapabileceğim bir şeymiş." Sıradaki sen olabilirsin. | **En uygun:** Instagram testimonial formatı, Facebook
-- Antakya'da bu okuldan bahsettiğinde tanıyanlar çıkıyor. Çünkü sonuç üretiyor. Reklamdan değil — ağızdan ağıza büyüdük. | **En uygun:** Instagram, DM
+- Sorun sen değildin. Sana yanlış öğretildi.
+- Gramer bilmek İngilizce konuşmak değil. Bu yüzden 12 yıl sonra hâlâ konuşamıyorsunuz.
+- Türk dil eğitimi 40 yıldır aynı hatayı yapıyor: %90 gramer, %10 konuşma. Sonuç ortada.
+- Daha önce denedim olmadı diyorsanız — o kurslarda haftada kaç saat gerçekten konuşma pratiği yaptınız? Sıfır. Sorun orada.
+- Her kurs "farklıyız" diyor. Ama hepsi aynı şeyi yapıyor: gramer anlat, test çözdür, kurs bitir. Biz bunu yapmıyoruz.
+- Çocuğunuz kurstan sıkılıyor çünkü hiçbir şeyin değişmediğini hissediyor. Bu motivasyon sorunu değil. Sistem sorunu.
+- Okul İngilizcesi sizi hazırladı — sınava. Hayata değil. Biz hayata hazırlıyoruz.
 
 ---
 
-### Kategori 9: Kariyer / Aciliyet Kancaları
+## 5. GARANTİ KANCALARI
 
-- Terfin için İngilizce gerekiyor. Bunu biliyorsun. Her geçen ay bir ay daha erteleniyor. 5 ay içinde bu biter — ya da bitmez. Karar senin. | **En uygun:** LinkedIn, Instagram, Facebook
-- İş görüşmesinde yabancı panel üyesi soruyor. Sen susuyorsun. Pozisyon gidiyor. Kaç kez bu olmak zorunda? | **En uygun:** Instagram Reel, Facebook video
-- Bu yıl uluslararası bir proje fırsatı kaçırdın mı? İngilizce yüzünden? Bu yıl sonunda aynı pozisyonda olmak istiyor musun? | **En uygun:** LinkedIn, Facebook, Instagram
-- Antakya'da İngilizce konuşan az. Bu bir dezavantaj değil — fırsat. 5 ayda konuşmaya başlarsan, çevrendeki o "az" içinde öne çıkıyorsun. | **En uygun:** Instagram, Facebook, billboard
-
----
-
-### Kategori 10: Ebeveyn Segmenti Kancaları
-
-- Çocuğun 8 yıl İngilizce öğrenecek. Sana oldu gibi mi olacak — yoksa gerçekten konuşacak mı? | **En uygun:** Facebook, Instagram, DM
-- "Çocuğum sıkıldı ve bıraktı" diyorsun. Bırakma motivasyon sorunu değil — başarı hissi yaşamamak sorunu. İlk 4 dersimiz bu his için tasarlandı. | **En uygun:** Facebook post, DM
-- Kendi çektiğin İngilizce acısının çocuğunda tekrar etmesini istemiyorsun. Biz de istemiyoruz. 5 ayda bu değişebilir. | **En uygun:** Facebook, Instagram hikaye
-- Çocuğun sınıfın en rahat konuşan öğrencisi olabilir. Gramer notu değil — gerçek konuşma. 5 ayda. Garanti altında. | **En uygun:** Facebook, Instagram, DM
+- Derslerin %80'ine katılın, pratikleri yapın, hedefe ulaşamazsanız — ek ücret ödemeden devam ediyorsunuz. Risk bizde.
+- 100 aktif öğrencimiz var. Hepsi referansla geldi. Sıfır reklam. Bu, işe yaradığının kanıtı.
+- Sonuç göremezsek yanınızda olmaya devam ediyoruz. Bitirip "iyi şanslar" demiyoruz.
+- Para harcayıp yine hayal kırıklığı mı? 3 Adım Garanti bu riski kaldırıyor.
+- "Ya yine olmadı?" sorusunun cevabı şu: bırakmıyoruz. Hedefine ulaşana kadar devam ediyoruz.
 
 ---
 
-## 3. Hibrit Kancalar — En Yüksek Performanslı
+## 6. SOSYAL KANIT KANCALARI
 
-- Antakyalı yetişkinler için: 12 yıl gramer okuduktan sonra 5 ayda konuşma kapasitesi — reklamsız büyüyen tek konuşma okulu ile. | **En uygun:** Instagram, Facebook, billboard
-- Yıllarca "İngilizce biliyorum ama konuşamıyorum" diyenler için: 5 ayda bu cümle değişiyor — ya da ücret iade. | **En uygun:** Instagram Reel, Facebook video, DM
-- Eğer 12 yıl İngilizce dersi aldıysan ve hâlâ konuşamıyorsan — bu senin sorunun değil. Ama 5 ay içinde senin çözümün olabilir. | **En uygun:** Instagram, Facebook, billboard
-- Toplantıda donmadan, yurt dışında sormaktan çekinmeden, iş görüşmesinde gülümseyerek — 5 ayda. Garanti altında. | **En uygun:** Instagram Reel, billboard, Facebook
-- Antakya'nın tek %70 konuşma odaklı, CEFR ölçümlü, tam iade garantili İngilizce okulu — 100 öğrenci, sıfır reklam. | **En uygun:** Instagram bio, Facebook kapak, website hero
+- 100 öğrenci. Sıfır reklam. Hepsi birbirini gördü ve gönderdi.
+- Antakya'da Europass + eDevlet belgesi birlikte veren tek okul. Bu tesadüf değil.
+- CEFR ile başlangıç ve bitiş ölçümü. "İyi gidiyor" demiyoruz. Rakamla gösteriyoruz.
+- Mevcut öğrencilerimiz: kurs değil diyorlar. Kariyer değişikliği diyorlar.
+- Öğrencilerimizin çocukları ilk haftada "bugün İngilizce kendimi tanıttım" diyerek eve geliyor.
 
 ---
 
-## 4. Top 5 Kanca
+## 7. GECE DÜŞÜNCESİ KANCALARI (Duygusal Tetikleyici)
 
-| Sıra | Kanca | Neden Güçlü | En İyi Kullanım |
+- Gece "bu işe başvursam İngilizce sınav var — yine geçemeyeceğim" diye düşündüğünüz oldu mu?
+- "Diğer çocuklar konuşuyor, benim çocuğum geride kalacak" diye uykuya dalıyor musunuz?
+- "On iki yıl ders aldım, belki dil yeteneğim yok" inancıyla yaşamak zorunda değilsiniz.
+- Para harcadınız, zaman harcadınız, sonuç göremediniz. Bir daha denemek istemiyorsunuz. Anlıyoruz. Ama sorun yöntemdi.
+- "Çocuğumu zorlamak istemiyorum ama geride kalmasını da istemiyorum." Bu ikilemden çıkmanın yolu var.
+- Yaş mı geç kaldınız? Türkçe'yi kaç yaşında öğrendiniz? Gramer tablosuyla mı? Hayır. Dil böyle öğrenilir.
+
+---
+
+## 8. ACİLİYET KANCALARI
+
+- Yaz kampı kontenjanı doluyor. Maksimum 10 çocuk. Yer ayırtın.
+- Bu yaz ilerlemezse, diğer çocuklar ilerliyor. Fark açılıyor.
+- Üniversite başvurusuna iki yıl kala Europass süreci başlamalı. Şimdi en doğru an.
+- İlk 15 kayıt erken kayıt avantajı kapsamında. Sonrası normal fiyat.
+- Antakya'da İngilizce bilen profesyonele talep rekor seviyede. Bu pencere kapanmadan harekete geçin.
+- Her ay beklemenin maliyeti var. Kaçırdığınız fırsat geri gelmiyor.
+
+---
+
+## En İyi Kancalar — Top 5 Tablosu
+
+| Sıra | Kanca | Neden Güçlü | En Uygun Platform |
 |---|---|---|---|
-| 1 | "12 yıl İngilizce okudun. Hâlâ konuşamıyorsun. Bu senin sorunun değil — yöntemin sorunuydu. 5 ayda konuşamazsan paranı iade ediyoruz." | Sistem suçu + garanti bir arada. Hedef kitleyi tam ortasından vuruyor. Tek cümlede tüm itirazları kırıyor. | Instagram Reel, Facebook video, billboard |
-| 2 | "Sıfır reklam verdik. 100 öğrencimiz var. Çünkü öğrenciler arkadaşını getiriyor — gerçekten konuştular da ondan." | Sosyal kanıt ve merak bir arada. "Bu okulun farkı ne?" sorusunu önceden yanıtlıyor. Spesifik ve doğrulanabilir. | Instagram post, Facebook, billboard |
-| 3 | "Toplantıda yabancı biri soru sorunca donuyorsun. Bunu değiştirmek için 5 ayın var. Ya da bir ömür. Karar senin." | Acı görüntüsü net, aciliyet gerçek, karar müşteriye bırakılıyor. Baskı değil — gerçeklik. | Instagram Reel, Facebook video |
-| 4 | "Kendi çektiğin İngilizce acısının çocuğunda tekrar etmesini istemiyorsun. Biz de istemiyoruz. 5 ayda bu değişebilir." | Ebeveyn segmentinin en derin acısına dokunuyor: kendi deneyiminin yinelemesi korkusu. Duygusal ve güçlendirici. | Facebook, Instagram |
-| 5 | "Risk yok. 5 ayda konuşursan kariyer kapısı açılıyor. Konuşamazsan paranı alıyorsun. Kaybedecek hiçbir şeyin yok." | Fırsat maliyeti + garanti çerçevesi. "Yine para harcamak istemiyorum" itirazını tek cümlede çözüyor. | DM, Instagram hikaye, Facebook |
-
----
-
-*Kaynak: OFFER.md, OFFER_AUDIT.md, OBJECTIONS.md, MARKET_RESEARCH.md*
+| 1 | "12 yıl İngilizce okudunuz. Neden hâlâ bir toplantıda söz alamıyorsunuz? Sorun siz değildiniz — yöntem yanlıştı." | Avatar'ı direkt çağırıyor, utancı kaldırıyor, merak açıyor | Instagram Reels, Facebook, DM açılışı, landing page hero |
+| 2 | "Çocuğunuz aylardır kursa gidiyor. Ama evde İngilizce konuştuğunu hiç duydunuz mu?" | Annenin tam duygusal acısını vurguluyor, yargılamıyor, soru formatı katılımı artırıyor | Instagram story, Facebook post, WhatsApp grubu, landing page problem bölümü |
+| 3 | "CV'nize İngilizce yazdınız. İşvereniniz bunu eDevlet'te görebiliyor mu? Bizim öğrencilerimizin görebiliyor." | Rakipsiz farklılaştırıcıyı tek cümlede sunuyor, sosyal kanıt içeriyor | LinkedIn, Instagram, email konu satırı |
+| 4 | "Daha önce kursa gittim olmadı diyorsanız — o kurslarda haftada kaç saat gerçekten konuşma pratiği yaptınız? Sıfır. Sorun orada." | En yaygın itirazı kanca olarak kullanıyor, sistem suçlama çerçevesini kuruyor | Organik içerik, DM yanıtı, satış görüşmesi açılışı |
+| 5 | "60 günde çocuğunuz doğal olarak cümle kuruyor. CEFR ile ölçülüyor. Europass belgesiyle belgeleniyor. Garantiyle." | Sonuç + ölçüm + belge + garanti dört unsuru tek cümlede — karşı argüman bırakmıyor | Landing page hero, reklam başlığı, WhatsApp satış mesajı |
