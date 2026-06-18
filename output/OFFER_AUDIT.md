@@ -1,77 +1,76 @@
 # OFFER_AUDIT.md
-# Antakya Amerikan Kültür Dil Okulu — Teklif Denetimi (Konuşma Odaklı Program)
+## Antakya ADK — Teklif Denetimi
 
-*Oluşturulma tarihi: 17 Haziran 2026*
+*Güncelleme tarihi: 18 Haziran 2026*
 
 ---
 
 ## 1. Teklif Özeti
 
-- **Kimler için:** Yıllarca İngilizce okumuş, grameri bilen ama konuşamayan Antakyalı yetişkin (22–40). Ve: çocuğunun (8–14) gerçek konuşma becerisi kazanmasını isteyen ebeveyn.
-- **Ne vaat ediyor:** 5 ayda ölçülebilir konuşma kapasitesi. CEFR tabanlı, garanti altında. Sınav değil — gerçek iletişim.
-- **Nasıl çalışıyor:** Haftada 3 gün, maksimum 8 kişilik küçük grup, yüz yüze. %30 gramer altyapısı, %70 konuşma pratiği. Aylık CEFR ilerleme değerlendirmesi.
-- **Fiyat:** 5.000 TL/ay (5 ay = 25.000 TL toplam)
-- **Garanti:** 5 ayda konuşacaksın ya da ücretin iade edilir. Koşul: programa %80 katılım ve haftalık pratik görevleri.
+- **Kime:** İki ayrı segment — (A) 22–45 yaş kariyer tıkanmış yetişkin; (B) 8–16 yaş çocuğu olan, somut sonuç isteyen ebeveyn (öncelikle anne)
+- **Ne vaat ediyor:** (A) 90 günde gerçek iş senaryolarında konuşma + Europass & eDevlet sertifikası; (B) 60 günde çocuk doğal cümle kuruyor + Europass belgesi
+- **Nasıl çalışıyor:** DWY modeli — maks 10–12 kişilik küçük grup, %70 konuşma / %30 gramer, CEFR bazlı ilerleme, kur sonu sertifika
+- **Fiyat:** Yetişkin 20.000 TL / kur (6 kura kadar kademeli paketler: 2 kur 38.000 TL, 3 kur 50.000 TL, 4 kur 60.000 TL, 5 kur 80.000 TL, 6 kur 90.000 TL); Çocuk Yaz Kampı 15.000 TL, Kış Programı 5.000 TL/ay
 
 ---
 
 ## 2. Genel Tanı
 
-**Güçlü yönler:**
-- Antakya'da benzeri olmayan güçlü bir farklılaştırıcı: %70 konuşma, rakiplerin tam tersi
-- "Sorun sen değilsin, sistem yanlıştı" çerçevesi — müşteriyle derin duygusal bağ kuruyor
-- CEFR tabanlı ölçülebilirlik — "ilerlediğimi görebiliyorum" güvencesi
-- Sıfır pazarlama ile 100 aktif öğrenci — organik sosyal kanıtın en güçlü biçimi
-- Antakya'da başka hiçbir okulun vermediği bir garanti var
+**Güçlü Yönler:**
+- Piyasada doldurulan gerçek bir boşluk: Europass + eDevlet kombinasyonu Antakya'da rakipsiz
+- "Sorun sen değildin, sistem yanlıştı" çerçevesi segmentin duvarını doğrudan kırıyor
+- 100 aktif öğrenci, sıfır reklam — güçlü sosyal kanıt temeli mevcut; satış sistemine entegre edilmesi gerekiyor
 
-**Kritik zayıflıklar:**
-- Değer yığınındaki hesap tutarsızlığı kritik: yığın değeri (17.900 TL) fiyatın (25.000 TL) altında görünüyor
-- İlk hızlı kazanım anı tanımlanmamış — "5 ayda sonuç" vaat ediliyor, ama ilk haftada ne olacağı belirsiz
-- Teklif adı ("Konuşma Programı") düz ve rekabette öne çıkmıyor
-- Sosyal kanıt mevcut ama görünür değil: 100 öğrenci var, hiçbir belgelenmiş hikaye yok
-- Ebeveyn segmenti için ayrı konuşma dili geliştirilmemiş
+**Kritik Zayıflıklar:**
+- eDevlet bileşeni Europass ile tek kalem altında gömülü kalıyor; bu özgün farklılaştırıcı yeterince dramatize edilmiyor
+- Değer yığını bileşenlerinin TL değerleri piyasa gerçeğinin altında; "hissettirilen değer / fiyat" oranı güçlendirilmeli
+- Garanti adı ("Koşullu Efor") hukuki bir kloza gibi duyuluyor; yeniden çerçevelenmesi gerekiyor
 
 ---
 
 ## 3. Değer Denklemi Analizi
 
-| Boyut | Puan | Temel Sorun | Düzeltme |
+| Boyut | Puan | Neyin İyi Çalıştığı | Somut İyileştirme Önerisi |
 |---|---|---|---|
-| Dream Outcome (Hayal Edilen Sonuç) | 8/10 | Sonuç net, ama "5 ayda konuşmak" soyut kalabiliyor. Somut yaşam sahnesi yeterince güçlü değil. | "Yabancı meslektaşınla toplantıda rahatça konuşmak" gibi tek, canlı sahne öne çıkar. |
-| Perceived Likelihood (Başarı Algısı) | 5/10 | 100 öğrenci kanıtı var ama görünür değil. Hiçbir testimonial, isim, vaka yok. | Mevcut öğrencilerden 3–5 kısa öncesi/sonrası hikayesi derle, her materyale ekle. |
-| Time Delay (Zaman Gecikmesi) | 5/10 | "5 ayda" söyleniyor, ama ilk haftada ne olacağı belirsiz. Müşteri ne zaman ilk kazanımı hissedecek? | İlk derste bir "hızlı kazanım anı" tasarla ve bunu teklif dilinde öne çıkar. |
-| Effort & Sacrifice (Efor Algısı) | 7/10 | Haftada 3 gün esnek, küçük grup — bunlar iyi. Ama "yoğun program" hissi oluşabiliyor. | "Haftada sadece 3 ders — geri kalanını biz hallederiz" gibi efor-azaltıcı dil kullan. |
-| Market Fit (Pazar Uyumu) | 9/10 | Hedef segment çok net, acı yoğun, tetikleyiciler somut. Güçlü. | Ebeveyn segmenti için ayrı, özel konuşma dili geliştir. |
-| Offer Structure (Teklif Yapısı) | 5/10 | Değer yığınındaki hesap tutarsızlığı (17.900 TL yığın, 25.000 TL fiyat) ciddi bir algı sorunu. | Yığını yeniden hesapla: fiyatın en az 3 katı olmalı (75.000 TL+). |
-| Value Stack (Değer Yığını) | 5/10 | Bonuslar listelenmiş ama her birinin neden değerli olduğu açıklanmamış. Algılanan değer düşük. | Her bileşeni itiraz öldürücü olarak yeniden çerçevele, değerleri güçlü ver. |
-| Pricing (Fiyatlandırma) | 7/10 | 5.000 TL/ay Antakya için yüksek algılanabilir. Kariyer yatırımı çerçevesi var ama yeterince güçlü değil. | Karşılaştırma kur: terfi zammı ortalama kaç TL? Bir uluslararası iş anlaşması kaç TL? |
-| Messaging (Mesaj) | 8/10 | "Sorun sen değilsin, sistem yanlıştı" güçlü. Alt başlıklar birden fazla seçenek sunuyor ama en güçlüsü seçilmemiş. | Tek, keskin bir alt başlık seç ve tüm materyallerde kilitle. |
-| Objections & Trust (İtirazlar ve Güven) | 6/10 | Garanti güçlü, ama itiraz karşılıkları materyalde görünür değil. | Her ana itirazı teklif sayfasında açıkça karşıla: SSS, referans, garanti belgesi. |
+| **Rüya Sonuç Netliği** | 8/10 | "90 günde toplantıda konuşma + Europass + eDevlet" somut ve ölçülebilir. Çocuk segmenti için "60 günde doğal cümle" belirli. | Yetişkin için bir "sonuç fotoğrafı" ekle: "Elinizde Europass var, eDevlet'te adınız yazıyor, LinkedIn'de paylaştınız, toplantıda söz aldınız." Duygu katmanını daha erken göster. |
+| **Acı Teşhisi Gücü** | 9/10 | "Toplantı paniği", "terfi kaybı", "12 yıl okuyup konuşamama" acıları gerçek ve keskin. Ebeveyn tarafında "para boşa gidiyor" hissi net. | Yetişkin için tek bir "tetikleyici an" sahnesi seçip ön plana taşı — en güçlüsü "toplantıda susma." Çocuk segmentinde "diğer çocuklar konuşuyor, benimki susuyordu" sahnesi daha sık kullanılabilir. |
+| **Algılanan Değer (Value Stack)** | 6/10 | Bileşenler listelenmiş, toplam değer gösteriliyor (33.500 TL vs 20.000 TL yetişkin). | Bileşen değerleri düşük yazılmış — piyasa karşılaştırmasına göre revize edilmeli. eDevlet bileşeni ayrı kalem olarak öne çıkarılmıyor; Europass ile birleşik gösterilmesi her ikisinin gücünü düşürüyor. |
+| **Garanti Gücü** | 7/10 | Koşullu Efor Garantisi mantıklı ve sürdürülebilir. Öğrencinin taahhüdünü de talep etmesi "ciddi öğrenci" filtrelemesi sağlıyor. | "Koşullu Efor" etiketi hukuki bir kloza benziyor. İsim değiştir: "ADK Yanında Kalma Taahhüdü." Üç koşulu görsel bir kart olarak sun, "öğrenci yükümlülükleri" değil "bu taahhüdü hak etme yolu" olarak çerçevele. |
+| **Zaman Çerçevesi Netliği** | 8/10 | 90 gün (yetişkin) ve 60 gün (çocuk) belirli. İlk kazanım haftası tanımlanmış. | "2. haftada ilk kazanım" vaadini daha görünür yap — bu hızlı ilk kazanım çerçevesi satın alma kararını hızlandırır. Çocuk segmentinde "1. haftanın sonunda 20 ifade" vaadini ön plana taşı. |
+| **Sertifika Konumlandırması** | 7/10 | Europass + eDevlet kombinasyonu rekabette gerçek bir boş alan. İki sertifikanın ayrı faydası tanımlanmış. | eDevlet yeterince dramatize edilmiyor. "Türkiye'de devlet sistemine işlenen, işverenin adınızı aratıp görebileceği resmi yetkinlik belgesi — bunu sunan Antakya'da başka okul yok" çerçevesi eksik. Europass için "Avrupa'da iş başvurusunda kabul görür" somut senaryosu eklenmeli. |
+| **Engel Kaldırma** | 7/10 | Esnek saat, 2 telafi özel dersi, Güvenli Bölge Kulübü, Ebeveyn Takip Sistemi — her engele karşılık bir araç var. | Çocuk segmentinde "ulaşım ve lojistik" engeli karşılanmıyor. Yetişkin segmentinde yapay zeka konuşma partneri çözümü teklif içinde yeterince görünür değil. |
+| **Fiyat-Değer Uyumu** | 7/10 | Değer yığını fiyatın üzerinde. Kademeli paket yapısı çoklu kur satın alımını teşvik ediyor; 3 kur için %50 indirim (50.000 TL) güçlü bir taahhüt bonusu. | Değer yığınını görsel bir karşılaştırma tablosuyla sun — "toplamda 47.500 TL değerinde, bugün 20.000 TL" çerçevesi sayfada yer almalı. Kariyer maliyeti karşılaştırması ekle: "1 terfi fırsatını kaçırmanın maliyeti ne?" |
+| **Mesajlaşma** | 8/10 | Kancalar güçlü ve özgün. "Unmute" ismi akılda kalıcı. "Sorun sen değildin" çerçevesi segment duvarını kırıyor. | Çocuk paketi adı "60 Günlük Doğal İngilizce Konuşma Kampı" işlevsel ama duygusuz. Annenin duygusunu yansıtan bir isme ihtiyaç var. |
+| **İtirazlar ve Güven** | 6/10 | Ana itirazlar (fiyat, süre, "yine olmaz") karşılanmış. 100 öğrenci, sıfır reklam kanıtı güçlü. | Somut vaka hikayesi yok — "3 ay önce toplantıda susuyordu, şimdi..." formatında referans cümlesi olmadan bu güven sinyali zayıf kalıyor. Video referans planı var ama henüz materyale işlenmemiş. |
 
-**Toplam Puan: 65/100**
-
----
-
-## 4. En Kritik 3 Düzeltme
-
-**1. Değer yığınını yeniden inşa et — bu birincil öncelik**
-
-Mevcut yığın değeri (17.900 TL) fiyatın (25.000 TL) altında. Bu tek başına teklifin inandırıcılığını zedeliyor. Hormozi'nin temel kuralı: algılanan değer, fiyatın en az 3–4 katı hissettirmeli. Yığın, 75.000 TL+ olacak şekilde yeniden tasarlanmalı. Bunu yapmak için "kariyer değeri" hesabını ekle: ortalama İngilizce bilen çalışanın maaş farkı, terfi değeri, uluslararası proje değeri. Bunlar yığının en üstüne çıkmalı.
-
-**2. İlk hızlı kazanım anını tasarla ve teklif diline taşı**
-
-5 aylık bir program uzun görünüyor. Müşteri satın aldıktan sonra ilk anlamlı "Bu işe yarıyor" hissini ne zaman, nerede yaşayacak? İlk ders sonunda somut bir kazanım olmalı — adı konulmuş, vaat edilmiş, teslim edilmiş. Örnek: "İlk Derste Kendinizi Tanıtın — 60 dakikada ilk yabancıya kendinizi İngilizce tanıtacaksınız." Bu küçük kazanım, 5 aylık taahhüdü psikolojik olarak mümkün kılıyor.
-
-**3. Sosyal kanıtı belgele ve görünür kıl**
-
-100 aktif öğrenci altın değerinde bir kanıt ama hiçbir materyal bunu somutlaştırmıyor. İddia tek başına yeterli değil. 3–5 öğrenci hikayesi gerekiyor: öncesi/sonrası, ne değişti, hangi somut fırsat açıldı. İsim, yüz, ses — bunlar olmadan garanti bile inanılır hissettirmiyor. Bu kanıtlar olmadan "5 ayda konuşacaksın" vaadi boş bir ses.
+**Genel Puan: 73/100**
 
 ---
 
-## 5. Hızlı Kazanımlar (Hemen Uygula)
+## 4. Top 3 Acil İyileştirme
 
-- En güçlü alt başlığı kilitle ve her yerde kullan: "Yıllarca ders aldın, hâlâ konuşamıyorsun. Sorun sen değildin."
-- Değer yığınına kariyer değeri hesabı ekle: "Ortalama İngilizce bilen çalışan yılda X TL fazla kazanıyor — 5 aylık yatırımın geri dönüşü ilk terfide çıkıyor."
-- İlk ders için "Kendinizi Tanıtın" egzersizi tasarla ve bunu teklif dilinde bir kazanım olarak sun
-- Mevcut en tatmin öğrencilerden en az 3 yazılı referans al, WhatsApp mesajına ve Instagram bio'ya ekle
-- "Ücretsiz Seviye Tespit + 1 Deneme Dersi" giriş teklifini aktif hale getir — düşük risk girişi müşterinin ilk adımı atmasını kolaylaştırır
+**1. eDevlet bileşenini ayrıştır ve dramatize et**
+
+Şu an Europass ile tek kalem altında görünüyor. Türkiye'de devlet sistemine işlenen resmi yetkinlik belgesi sunabilmek nadir bir özelliktir — bu özelliği sunan Antakya'da başka okul yoktur. "İşvereniniz adınızı eDevlet'te arayabilir ve yetkinliğinizi görebilir" cümlesi tek başına bu bileşenin değerini iki katına çıkarır. Bu ifade teklif sayfasının üst bölümünde ayrı bir blok olarak yer almalıdır.
+
+**2. Değer yığını TL rakamlarını piyasa gerçeğine çek**
+
+Mevcut değer yığını toplamı 33.500 TL yetişkin için — fiyatın 1,67 katı. Bu "değer hissettirme" için yeterli değil; oran en az 3 kat olmalı. Bunun için iki yol: bileşen değerlerini gerçekçi piyasa referanslarıyla güncelle ve kariyer yatırımı karşılaştırması ekle ("İngilizce bilen çalışanın yıllık maaş farkı ortalama X TL — bu programın maliyeti ilk terfide karşılanıyor"). Özellikle eDevlet + Europass kalemini birleşik 8.000–10.000 TL olarak yeniden değerlendir.
+
+**3. "Koşullu Efor Garantisi" ismini ve görselini yenile**
+
+"Koşullu Efor" kelimesi müşteriyi satın almadan önce zihnen bir avukata danışmaya yönlendiriyor. Yeni isim önerisi: "ADK Yanında Kalma Taahhüdü" veya "Hedefine Ulaşana Kadar Bırakmıyoruz." Üç koşul madde madde bir kart olarak basılmalı — kayıt sırasında müşteriye teslim edilmeli. Bu hem güven kurar hem "ciddi öğrenci" sinyali alır.
+
+---
+
+## 5. Top 3 Güçlü Yön
+
+1. **Rekabette gerçek boş alan:** Europass + eDevlet kombinasyonunu Antakya'da sunan başka okul yok. Bu savunulabilir bir rekabet avantajı — ADK fiyatla değil, kategorinin tek sahibi olarak konumlanabiliyor.
+
+2. **Mevcut sosyal kanıt:** 100 aktif öğrenci, sıfır reklam, tamamı referansla. Piyasada ispatlanmış ürün sinyali. Satış sürecinde bu gerçek en güçlü güven aracıdır — belgeleninceye kadar sözlü olarak bile kuvvetle kullanılabilir.
+
+3. **İki segmentte ayrı piramit yapısı:** Yetişkin ve çocuk segmentleri aynı çatı altında ama tamamen farklı teklifler, mesajlar ve bileşenlerle konumlanmış. Bu hem çapraz satış fırsatı yaratıyor (aynı aile iki paketi alıyor), hem de her segmentte odak ve netlik sağlıyor.
+
+---
+
+*Güncelleme tarihi: 18 Haziran 2026*
