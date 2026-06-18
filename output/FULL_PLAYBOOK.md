@@ -106,122 +106,391 @@ Bu Instagram postunu bu hafta yayınlayın:
 ---
 
 # MARKET_RESEARCH.md
-# Antakya Amerikan Kültür Dil Okulu — Pazar Araştırması
+## Antakya Amerikan Kültür Dil Okulu (Antakya ADK)
+### Pazar Araştırması ve Strateji Belgesi
 
 ---
 
-## 1. Değerlendirilen Mikro-Nişler
+## 1. PAZAR KONUMU VE PARADİGMA DEĞİŞİMİ
 
-| Niş | Acı Yoğunluğu | Satın Alma Gücü | Erişilebilirlik | Büyüme | Toplam |
-|---|---|---|---|---|---|
-| Kariyerinde İngilizce engeline takılan yetişkinler (22–40) | 9/10 | 8/10 | 8/10 | 9/10 | 34/40 |
-| Yurt dışına gitmek isteyen veya giden yetişkinler | 8/10 | 7/10 | 7/10 | 8/10 | 30/40 |
-| Çocuğu (8–14) arkadaşlarından önde olsun isteyen ebeveynler | 8/10 | 9/10 | 9/10 | 8/10 | 34/40 |
-| Sosyal özgüveni düşük, konuşamayan gençler (15–18) | 7/10 | 5/10 | 6/10 | 7/10 | 25/40 |
-| Yıllarca İngilizce okuyan ama konuşamayan üniversite mezunları | 9/10 | 7/10 | 8/10 | 8/10 | 32/40 |
+### Kırmızı Okyanus vs Mavi Okyanus Tablosu
 
----
+| Boyut | Kırmızı Okyanus (Eski Çerçeve) | Mavi Okyanus (Yeni Çerçeve — ADK) |
+|---|---|---|
+| **Ürün Tanımı** | Ders saati ve paket satışı | Hedeflenen sonuç ve resmi belge yolu |
+| **Çocuk Segmenti** | Çocuklar için genel İngilizce kursu | Üniversite başvurularında geçerli Europass + eDevlet onaylı portfolyo |
+| **Yetişkin Segmenti** | Yetişkinler için genel konuşma kursu | 3 Aylık Konuşma Güvencesi: Europass Sertifikası ile belgelenen konuşma yetkinliği |
+| **Fiyatlandırma Mantığı** | Kıyaslanabilir saat ücreti (rakiple karşılaştırılır) | Kıyaslanamaz; değere dayalı "Sertifika Yolu" yatırımı |
+| **Rekabet Ekseni** | Fiyat, konum, öğretmen sayısı | Sonuç garantisi, resmi belgeleme, konuşma odağı |
+| **Müşteri Zihniyeti** | "Bu ay kaç saat aldım?" | "Bu quarter'da hangi belgeyi kazandım?" |
+| **Öğretim Modeli** | %70 gramer, %30 konuşma (sektör standardı) | %30 gramer, %70 konuşma (CEFR tabanlı) |
+| **Çıktı** | Kurs bitirme belgesi (kağıt üzerinde anlamsız) | Europass (uluslararası geçerli) + eDevlet (yetişkinlere Türkiye resmi) |
+| **Mesaj** | "Kaliteli eğitim veriyoruz" | "Sorun sen değildin. Sistem yanlıştı. Biz farklıyız." |
+| **Konumlandırma** | İngilizce kursu (kalabalık kategori) | Konuşma Güvencesi + Resmi Belge (boş kategori) |
 
-## 2. Seçilen Niş
-
-**Birincil odak:** Kariyerinde İngilizce engeline takılan, yıllarca İngilizce okuduğu halde iş görüşmesinde, toplantıda veya yabancıyla karşılaştığında konuşamayan Antakyalı yetişkin (22–40).
-
-**Eş zamanlı ikincil niş:** Çocuğunun okul İngilizce'sinin çok ötesine geçmesini, sınıftaki en iyi konuşan öğrenci olmasını isteyen ebeveyn.
-
-**Neden bu ikisi:** Her ikisi de aynı anda yüksek acı yoğunluğu ve satın alma gücü taşıyor. Ebeveyn nişi özellikle güçlü — çocuğu için harcama duygusal olarak daha kolay meşrulaştırılır; satın alma kararını veren ebeveyn, acıyı yaşayan ise çocuktur — bu iki katmanlı motivasyon satın alma eşiğini düşürür. Yetişkin kariyer nişi ise en yüksek kişisel acıyı ve en acil "şimdi çözmem lazım" duygusunu barındırıyor.
-
----
-
-## 3. Müşteri Acı Haritası
-
-### A. Yetişkin Kariyer Segmenti
-
-#### Yüzey Acısı (Dışarıya Söyledikleri)
-- "İngilizce biliyorum aslında, sadece konuşmakta zorlanıyorum"
-- "Yıllarca ders aldım ama iş yerinde kullanamıyorum"
-- "Toplantıda bir yabancı gelince susuyorum, utanıyorum"
-- "Özgeçmişime 'iyi derecede İngilizce' yazıyorum ama aslında sadece yazılı anlıyorum"
-
-#### Derin Acı (Arkasında Yatan)
-- Türk eğitim sisteminin verdiği hasarlı inançla yaşıyorlar: "Belki ben dil yeteneği olmayan birisiyim"
-- Kariyerde tavan hissediyorlar — o bir üst pozisyon, o uluslararası proje, o terfi; hepsi İngilizce bilen birine gidiyor
-- Kendini yetersiz hissettiren durumların tekrar etmemesi için fırsatlardan kaçınıyorlar
-- Yıllarca harcanan emek ve paranın boşa gittiğini düşünüyorlar: "Ne kadar ders alsam olmaz" inancı oluşmuş
-
-#### Gizli Acı (Hiç Dile Getirmedikleri)
-- Türk eğitim sisteminin kendilerini mahvettiğini düşünüyorlar ama bunu söylemek istemiyorlar — sistemi sorgulamak kendi geçmişlerini sorgulamak gibi hissettiriyor
-- "Belki ben aptalım" korkusu var — çünkü yıllarca okuyup öğrenemediler ve mantıklı tek açıklama bu gibi geliyor
-- Başkalarının ne kadar kolay konuştuğunu gördükçe (diziler, sosyal medya) daha da küçülüyorlar
-
-#### Gece Yarısı Düşünceleri
-- "Bu işe başvursam İngilizce sınav var — yine geçemeyeceğim."
-- "On iki yıl İngilizce dersi aldım, hâlâ bir cümle kuramıyorum. Bu benim sorunum değil, sistemin sorunu — ama bunu kimse dinlemez."
-- "Yabancı bir müşteri gelirse ne yapacağım? Yine mi kaçacağım?"
-- "Bir daha para ve zaman harcasam, yine aynı şeyi mi öğreterek vakit geçirecekler?"
-- "Kaç yaşında öğreneceğim artık? Geç mi kaldım?"
+**Stratejik Özet:** ADK, sektördeki tüm oyuncuların yarıştığı "ders saati" oyunundan çıkarak "kanıtlanabilir sonuç" oyununu kuruyor. Bu geçiş yalnızca mesaj değişikliği değil — tamamen farklı bir ürün kategorisi yaratmak demek.
 
 ---
 
-### B. Ebeveyn Segmenti (Çocuk: 8–14)
-
-#### Yüzey Acısı
-- "Okul İngilizce'si çok zayıf kalıyor, özel ders aldırmak istiyorum"
-- "Testlerde iyi not alıyor ama konuşamıyor"
-- "Yurt dışına gittiğinde hiçbir şey anlatamıyor"
-
-#### Derin Acı
-- Kendi çektikleri acının — yukarıdaki yetişkin acısı — çocuklarında tekrar etmesini istemiyorlar
-- Çocuklarının gelecekte iş dünyasında ve dünyada geri kalmasından korkuyorlar
-- "Biz böyle büyüdük, çocuğum daha iyi olsun" motivasyonu güçlü bir itici güç
-
-#### Gizli Acı
-- Başka çocukların İngilizce konuştuğunu gördüklerinde içten içe rekabetçi bir korku uyanıyor
-- "İyi bir ebeveyn olarak çocuğuma en iyisini sunmak benim görevim" baskısı hissediyorlar
-
-#### Gece Yarısı Düşünceleri
-- "Çocuğum da benim gibi büyüyecek — ne kadar ders alsa konuşamayacak."
-- "Diğer çocuklar zaten konuşuyor. Benim çocuğum geride kalacak."
-- "Sınav geçirttiren kurs mu, gerçekten konuşturan kurs mu — ikisini nasıl ayırt edeceğim?"
+## 2. İKİ SEGMENT PSİKOLOJİSİ
 
 ---
 
-## 4. Talep Değerlendirmesi
+### SEGMENT A: Kariyer Tıkanmış Yetişkin
 
-**Alıcılar mı, Gezginler mi:**
-Her iki segmentte de aktif alıcılar var. Ebeveynler halihazırda özel ders ve kurslara para harcıyor — bu kesin alıcı davranışı. Yetişkin kariyer segmenti ise daha önce hayal kırıklığıyla sonuçlanan deneyimler nedeniyle "gezgin" moduna geçmiş olabilir; ancak "sorun sen değilsin, sorun yöntem" çerçevelemesiyle hızla alıcıya dönüşebilir. Okulun sıfır pazarlama ile 100 aktif öğrenciye ulaşmış olması, talep kanıtının en güçlü işareti.
-
-**Aciliyet Skoru:** 8/10
-İngilizce konuşamama sorunu her gün hissediliyor — iş yerinde, sosyal medyada, içerik tüketirken, seyahat planlarken. Kronik ama düşük yoğunluklu bir acıdır; ancak tetikleyici olay (iş görüşmesi, yurt dışı seyahati, çocuğun sınıf arkadaşının konuştuğunu görmek) onu ani ve yüksek yoğunluklu hale getiriyor.
-
-**Ödeme İsteği:** 8/10
-Ebeveynler çocukları için zaten ödüyor. Yetişkinler kariyer yatırımı olarak çerçevelendiğinde ödemeye hazır. Mevcut 500.000 TL aylık gelir, ödeme gücünün var olduğunu kanıtlıyor.
-
-**Rekabet Sinyali:**
-Antakya'da rakipler mevcut — ama tamamı gramer odaklı. Bu, para zaten bu pazarda dönüyor demek. Rakiplerin varlığı talebi kanıtlıyor; diferansiyasyon boşluğu ise net: kimse konuşma odaklı değil. Rakipler, farkında olmadan bu okulun en büyük satış argümanını üretiyor — hayal kırıklığı yaşayan eski öğrenciler.
-
-**Genel Talep Değerlendirmesi: GÜÇLÜ**
-Para zaten bu pazarda dönüyor, acı günlük yaşanıyor, konuşma odaklı rakip yok ve okul sıfır pazarlama ile 100 öğrenciye ulaştı — bu organik çekim güçlü talebin kanıtı.
+**Profil:** 22–45 yaş, çalışan ya da iş arayan. Lise ve üniversitede İngilizce aldı. Gramer kurallarını biliyor ama yabancı bir müdür, müşteri veya mülakat paneli karşısına geçince dili tutuluyor.
 
 ---
 
-## 5. Doğrulama Testleri
+#### Mevcut Durum
 
-**Test 1 — Sosyal Kanıt İçeriği (Ebeveyn Segmenti önce):**
-Mevcut öğrencilerin ebeveynlerinden 3–5 kısa video toplanır. Odak sorusu: "Kursa başlamadan önce ne bekliyordunuz, şimdi ne görüyorsunuz?" Bu videolar Instagram ve Facebook'ta yayınlanır. Hangi segmentin (çocuk ebeveynleri mi, yetişkinler mi) daha fazla DM ve soru gönderdiği izlenir — bu, hangi segmentin önce hedefleneceğini gösterir.
-
-**Test 2 — "Gramer Tuzağı" Kancası (Yetişkin Segmenti İçerik Testi):**
-Şu tür bir içerik paylaşılır: "Türk eğitim sisteminde 12 yıl İngilizce okudunuz. Peki kendinizi bir yabancıya tanıtabilir misiniz?" — bir ankete veya yorum sorusuna bağlanır. Etkileşim ve DM hacmi ölçülür. Bu içerik hem organik talep yaratır hem de potansiyel öğrenci listesi oluşturur.
-
-**Test 3 — Kurumsal Direkt Erişim:**
-Antakya'daki esnaf dernekleri, genç girişimci ağları veya şirket İK departmanlarına ulaşılır. "Çalışanlarınız İngilizce biliyor ama konuşamıyor mu?" çerçevesiyle kurumsal grup paketi sunulur. Bir ya da iki kurumsal anlaşma hem gelir hem de güçlü sosyal kanıt (şirket adıyla referans) sağlar.
+- İngilizce bilgisi var ama aktif değil. Pasif anlıyor, aktif konuşamıyor.
+- Geçmişte bir ya da birden fazla kursa gitmiş, bırakmış. "Zaman olmadı", "sıkıcıydı", "işe yaramadı" diyerek kapandı.
+- İş hayatında İngilizce bilen meslektaşlarını geçiştiriyor. Terfi fırsatlarını kaçırıyor ya da kendini dışarıda tutuyor.
+- CV'sinde "İngilizce: Orta" yazıyor ama bunun hiçbir işe yaramadığını biliyor.
+- Elinde resmi, geçerli hiçbir dil belgesi yok.
 
 ---
 
-## 6. Offer Building için Temel İçgörü
+#### Acı Noktaları (Spesifik, Sahadan)
 
-Antakya'daki en büyük fırsat, rakiplerin yarattığı hayal kırıklığıdır — yıllarca gramer kursu alıp hâlâ konuşamayan yüzlerce insan var ve bu kişiler aktif olarak "başka bir şey" arıyor. Pazarlama mesajının çekirdeği şu olmalı: **"Sorun sen değilsin — sorun yöntem."** Bu çerçeve hem yetişkin hem de ebeveyn segmentine aynı anda hitap eder, çünkü her ikisi de Türk eğitim sistemine duyulan kronik güvensizlikle bağlantılı. Yaz yoğun programı (1 ayda konuşmaya başlamak) ise düşük taahhüt ve yüksek somut sonuç kombinasyonuyla güçlü bir giriş ürünü görevi görür — pazarlama sistemi henüz kurulmamışken en hızlı kanıtlanabilir sonucu üretecek araç da budur.
+1. **Toplantı paniği:** Zoom toplantısında yabancı katılımcı varken susup oturuyor. "Sonra mail atarım" diyor. Mail atmıyor.
+2. **Terfi kaybı:** İngilizce gerektiren pozisyon için aday gösterilemiyor. "Dil olsa kesinlikle o olurdu" cümlesi kulağında kalıyor.
+3. **Mülakat korkusu:** Yurt dışı firmaya ya da çok uluslu şirkete başvurmuyor bile. "Engelim var" diyor.
+4. **Belgesizlik:** LinkedIn'de bir sertifika yok. İşveren "Ne kadar biliyorsun?" sorusunu soruyor, yanıt verilemiyor.
+5. **Zaman ve para israfı duygusu:** Önceki kurslara harcanan para ve zaman zihinsel yük. "Tekrar deneyip boşa gidersem?" korkusu yeni girişimi engelliyor.
+6. **Kendine ihanet hissi:** "Bunu halletmeliyim" diye düşünüyor yıllardır. Hâlâ halletmemiş. Bu sessiz bir utanç kaynağı.
 
 ---
+
+#### Rüya Sonucu
+
+- **Kısa vadeli (90 gün):** Bir toplantıda ya da telefonda İngilizce cümle kurabilmek. Panik olmadan.
+- **Orta vadeli (6 ay):** Elinde Europass sertifikası var. eDevlet'te görünüyor. CV'ye koyuyor. LinkedIn'de paylaşıyor.
+- **Uzun vadeli:** Terfi aldı. Ya da daha iyi teklif aldı. Ya da Avrupa'da iş başvurusu yaptı. "İngilizce engelim yoktu" diyebiliyor.
+
+---
+
+#### Satın Alma Tetikleyicileri
+
+| Tetikleyici | Açıklama |
+|---|---|
+| **Dışsal baskı olayı** | Mülakat kaybı, terfi geri tepmesi, yabancı müşteri toplantısı — ani acı |
+| **Belge ihtiyacı** | İş ilanında "B2 belgesi şart" görüyor. İlk kez somut hedef oluşuyor. |
+| **Referans güveni** | Tanıdığı birinin ADK'ya gittiğini ve konuştuğunu görüyor. |
+| **Garanti algısı** | "3 ay içinde konuşamazsanız ücret iade" — riski ortadan kaldırıyor. |
+| **Zaman baskısı** | Hedefi var: 3 ay sonra mülakat, 4 ay sonra yurt dışı. Tarih netleşince harekete geçiyor. |
+
+---
+
+#### Bu Segmente Satış Dili
+
+"Gramer biliyorsun zaten. Sorun sen değildin — sana yanlış öğretildi. Biz seni sıfırdan başlatmıyoruz. Sende olanı aktif hale getiriyoruz. 90 gün sonra elinde uluslararası geçerli Europass sertifikası var, eDevlet'te görünüyor. Bu CV'ye giriyor, LinkedIn'e giriyor."
+
+---
+
+### SEGMENT B: Gelecek Kaygısı Taşıyan Anne
+
+**Profil:** 25–45 yaş, anne (bazen baba). Çocuk 7–16 yaş arası. Çocuk hâlihazırda bir kursa gidiyor ya da gönderildi, gönderilecek. Ana karar verici annedir.
+
+---
+
+#### Mevcut Durum
+
+- Çocuk kursa gidiyor ama evde İngilizce konuşmuyor. Test sorusu çözüyor, yabancı biriyle konuşamıyor.
+- "Öğrendi mi?" sorusuna yanıt alınamıyor. Öğretmen "iyiydi bu ay" diyor, somut bir şey yok.
+- Aylık ücret ödeniyor. Kayda değer bir ilerleme yok. Para ve zaman gidiyormuş gibi hissettiriyor.
+- Çocuk kurstan sıkılmış. "Gitmek istemiyorum" diyor.
+- Anne rakip kurslara bakıyor ama hepsi aynı görünüyor. Neye göre seçeceğini bilmiyor.
+
+---
+
+#### Acı Noktaları (Spesifik, Sahadan)
+
+1. **Sonuç görememe:** Aylarca kurs, hiçbir değişiklik. "Nerede öğreniyor bu çocuk?" sorusu yanıtsız.
+2. **Para boşa gitme korkusu:** Yatırım yapıyor ama getirisi yok. Aylık ödeme sürdükçe stres artıyor.
+3. **Çocuğun motivasyon kaybı:** Çocuk kurstan sıkılınca zorlamak zorunda kalıyor. Evde gerginlik.
+4. **Üniversite gelecek kaygısı:** "Çocuğum üniversiteye girecek. İngilizce şart. Şimdiden halletmezse geç kalır."
+5. **Kıyaslama acısı:** Başka çocuklar İngilizce konuşuyor. "Neden bizimki konuşamıyor?" sorusu rahatsız ediyor.
+6. **Belgesizlik:** Yıllarca kursa gönderdi, elinde hiçbir resmi, geçerli belge yok. Üniversite başvurusunda işe yaramayacak.
+
+---
+
+#### Rüya Sonucu
+
+- **Kısa vadeli (60 gün):** Çocuk evde basit İngilizce cümleler kuruyor. Spontane. Zorlanmadan.
+- **Orta vadeli (6 ay):** Elinde Europass sertifikası var. Uluslararası geçerli. Üniversite başvurusuna eklenebilir.
+- **Uzun vadeli:** Çocuk özgüvenle yabancıyla konuşabiliyor. Üniversite başvurularında dil belgesi hazır. "İyi yatırım yaptım" hissi.
+
+---
+
+#### Satın Alma Tetikleyicileri
+
+| Tetikleyici | Açıklama |
+|---|---|
+| **Görünür ilerleme vaadi** | "60 günde cümle kurulur" somut, ölçülebilir — inanılabilir. |
+| **Belge somutluğu** | Europass sertifikası somut bir çıktı. Üniversite başvurusunda işe yarıyor. |
+| **Diğer anne referansı** | Komşu ya da okul arkadaşının annesi söylüyor. En güçlü tetikleyici. |
+| **Çocuğun istekli olması** | Yöntem farklı, çocuk sıkılmıyor — anne direnci kırılıyor. |
+| **Eşin onayı** | "Boşa para gitmeyecek mi?" sorusuna somut cevap: belge, garanti. |
+
+---
+
+#### Bu Segmente Satış Dili
+
+"Çocuğunuz kursta gramer ezberliyor ama konuşamıyor. Sorun çocuğunuz değil — yöntem yanlış. Biz %70 konuşma üzerine kuruluyuz. 60 günde cümleler kurulmaya başlar. 6 ayda Europass sertifikası var — bu üniversite başvurularında geçerli. Paralı yatırım, somut belge."
+
+---
+
+## 3. REKABETİN YAPISAL SORUNU: GRAMER TUZAĞI
+
+### Türk Dil Eğitimi Pazarının Kronik Hastalığı
+
+Türkiye'de dil eğitimi sektörü onlarca yıldır aynı hatayı tekrarlıyor: **gramer odaklı, test odaklı, konuşma körü eğitim.**
+
+Bu yapı tesadüf değil — sistematik.
+
+**Neden böyle oldu?**
+
+1. **Okul müfredatı şekillendirdi:** Türk ortaokul ve lise İngilizcesi tamamen YKS ve LGS formatına optimize edildi. Öğrenciler gramer kuralı çözüyor, okuma parçası anlıyor ama konuşma pratiği yok.
+2. **Dil kursları okulu taklit etti:** Özel kurslar "biz okula devam ediyoruz, sadece daha iyi" modeline girdi. Aynı yöntemi, daha küçük sınıfta yaptı.
+3. **Öğretmen profili gramer odaklı:** Çoğu dil öğretmeni gramer ve yazılı sınav üzerinden yetişti. Konuşma koçluğu ayrı bir beceri — ve çoğu kursta bu beceri yok.
+4. **Ölçüm zorluğu:** "Ne kadar konuşabiliyorsunuz?" sorusu ölçülemiyor gibi görünüyor. Ama test puanı ölçülüyor. Kurslar ölçülebilir şeyi (test) sattı.
+
+**Sonuç: Sistem Her Yerde Aynı**
+
+Antakya'daki bir kursu İstanbul'daki büyük zincirle karşılaştırdığınızda temel fark yok:
+- Yazılı testler: var
+- Gramer anlatımı: var
+- Kelime ezber: var
+- Konuşma pratiği: yok ya da minimal
+- Resmi geçerli sertifika: yok
+
+**ADK'nın Yapısal Avantajı**
+
+ADK bu tuzaktan tamamen çıkıyor:
+- CEFR tabanlı seviyelendirme — uluslararası standart
+- %70 konuşma ağırlıklı metodoloji
+- Europass (uluslararası geçerli) + eDevlet (yetişkinlere Türkiye resmi) sertifika
+- Sınav hazırlığı yok — hayat ve kariyer odağı
+
+Bu bir "daha iyi kurs" değil. Bu farklı bir kategori.
+
+### Yerel Rekabet Haritası (Antakya)
+
+| Rakip Tipi | Güçlü Yönleri | Zayıf Yönleri |
+|---|---|---|
+| Büyük zincir kurslar | Marka bilinirliği, pazarlama bütçesi | Standart gramer odaklı müfredat, konuşma yok, sertifika boş |
+| Yerel küçük kurslar | Düşük fiyat, yakın ilişki | Metodoloji yok, belge yok, sonuç yok |
+| Okul İngilizcesi | Zorunlu | Test odaklı, konuşma körü |
+| Online platformlar (Duolingo vb.) | Erişilebilirlik, ücretsiz | Konuşma pratiği yok, motivasyon düşük, belge yok |
+
+**ADK'nın Rakip Olmadığı Alan:** Resmi sertifika (Europass + eDevlet) + %70 konuşma metodolojisi kombinasyonunu Antakya'da sunan başka bir oyuncu yok. Bu boş alan.
+
+---
+
+## 4. TALEP ANALİZİ: ANTAKYA'DA SEGMENT BÜYÜKLÜĞÜ
+
+### Antakya Demografik Bağlamı
+
+Antakya (Hatay'ın merkezi), 2023 depremi sonrası toparlanma sürecinde. Nüfus yaklaşık 220.000–250.000 (şehir merkezi). Yeniden yapılanma, uluslararası yardım kuruluşları ve proje ortaklıkları dolayısıyla İngilizce bilen profesyonele talep artmış durumda.
+
+Bu bağlam Segment A için güçlü bir tetikleyici: **"Burada İngilizce bilen nadir, talep yüksek."**
+
+---
+
+### Segment A Büyüklüğü: Kariyer Tıkanmış Yetişkin
+
+**Tahmin Metodolojisi:**
+- Antakya çalışan nüfusu (20–45 yaş): ~60.000–70.000
+- İngilizce öğrenmek isteyen ama sisteme girmemiş ya da girip çıkmış oran: ~%15
+- Potansiyel segment: ~9.000–10.500 kişi
+
+**Aktif Pazar (Mevcut 12 Ayda Hareket Edebilecek):**
+- Yakın dönemde dışsal tetikleyici yaşayan (iş değişikliği, terfi, yurt dışı planı): ~%10–15 = 900–1.500 kişi
+- ADK için ulaşılabilir hedef (12 ay): 50–80 yeni yetişkin öğrenci
+
+**Gelir Potansiyeli (Segment A):**
+- Ortalama 3 aylık paket: 3.000–5.000 TL (değere dayalı fiyatlandırma ile yukarı revize edilebilir)
+- 60 yetişkin öğrenci x 3.500 TL = 210.000 TL/yıl (tek kanaldan)
+
+---
+
+### Segment B Büyüklüğü: Gelecek Kaygısı Taşıyan Anne
+
+**Tahmin Metodolojisi:**
+- Antakya ilköğretim + ortaöğretim öğrenci sayısı: ~40.000–50.000
+- Aile içinde kursa yatırım yapabilecek (sosyoekonomik profil): ~%30 = 12.000–15.000 aile
+- Aktif olarak kurs arayan ya da mevcut kurstan memnun olmayan: ~%20 = 2.400–3.000 aile
+
+**Aktif Pazar (Mevcut 12 Ayda Hareket Edebilecek):**
+- ADK metodolojisiyle ikna olabilecek (belge + konuşma odağı): ~%15–20 = 360–600 aile
+- ADK için ulaşılabilir hedef (12 ay): 40–70 yeni çocuk öğrenci
+
+**Gelir Potansiyeli (Segment B):**
+- Ortalama aylık ücret: 1.500–2.500 TL/öğrenci
+- 55 çocuk öğrenci x 2.000 TL x 12 ay = 1.320.000 TL/yıl
+
+---
+
+### Toplam Adreslenebilir Pazar (Antakya, ADK İçin)
+
+| Metrik | Tahmin |
+|---|---|
+| Segment A potansiyel | 9.000–10.500 kişi |
+| Segment B potansiyel (aile) | 2.400–3.000 aile |
+| ADK için 12 aylık ulaşılabilir hedef | 90–150 toplam öğrenci |
+| Tahmini yıllık gelir (100 öğrenci) | 1.500.000–2.000.000 TL |
+
+**Not:** ADK hâlihazırda 100 aktif öğrenciye sıfır reklam harcaması ile ulaşmış. Bu, referans kanalının zaten çalıştığını gösteriyor. Sistematik satış mesajı eklendiğinde büyüme hızlanacak.
+
+---
+
+### Ulaşılabilirlik Analizi
+
+| Kanal | Segment A | Segment B | Öncelik |
+|---|---|---|---|
+| Referans / Ağız kanalı | Çok güçlü (mevcut çalışıyor) | Çok güçlü (en güçlü) | 1 |
+| LinkedIn (yerel) | Çok güçlü | Zayıf | 2A |
+| WhatsApp okul grupları | Zayıf | Çok güçlü | 2B |
+| Instagram (hikaye / reels) | Güçlü | Güçlü | 3 |
+| Yerel işverenlerle ortaklık | Çok güçlü | Zayıf | 4 |
+| Okul yönetimleriyle ilişki | Zayıf | Güçlü | 5 |
+
+---
+
+## 5. MAVİ OKYANUS FIRSATI: SERTİFİKA + KONUŞMA BOŞLUĞU
+
+### Boşluk Nerede?
+
+Türkiye'de dil eğitimi pazarında **resmi geçerli sertifika + konuşma odaklı metodoloji** kombinasyonu sunan yerel kurs sayısı son derece sınırlı — ve Antakya'da sıfır (ADK hariç).
+
+Bu boşluk iki katmanlı:
+
+**Katman 1 — Metodoloji Boşluğu:**
+Tüm rakipler gramer ağırlıklı. ADK %70 konuşma ile zaten farklı. Ama bu henüz yeterince pazarlanmıyor.
+
+**Katman 2 — Sertifika Boşluğu (Gerçek Mavi Okyanus):**
+- Europass sertifikası: AB ülkelerinde ve uluslararası işverenler tarafından tanınan, standartlaşmış CV formatı. Türkiye'deki çoğu öğrenci ne olduğunu bilmiyor. ADK bunu sunuyor ve açıklıyor.
+- eDevlet entegrasyonu (yetişkinlere): Türkiye Cumhuriyeti resmi kanalında görünen sertifika. CV'ye, LinkedIn'e, işveren doğrulamasına eklenebilir. Bu özelliği sunan yerel kurs sayısı son derece az.
+
+**Bu İkisini Birlikte Sunan Antakya'da Başka Bir Oyuncu Var mı?**
+Hayır. Bu, ADK'nın savunulabilir rekabet avantajı.
+
+---
+
+### Neden Bu Boşluk Kalıcı?
+
+1. **Sertifika altyapısı kurmak zaman ve para istiyor.** Küçük kurslar başvurmuyor.
+2. **eDevlet entegrasyonu bürokratik.** Rakipler bu yola girmiyor.
+3. **Metodoloji değişikliği öğretmen yeniden eğitimi gerektiriyor.** Rakiplerin mevcut öğretmenleri direniyor.
+
+ADK bu avantajı bir kez kurdu. Taklit edilmesi zor. Mesajın açıkça iletilmesi yeterli.
+
+---
+
+### Sertifika Boşluğunu Monetize Etmek
+
+| Fırsat | Açıklama |
+|---|---|
+| Premium fiyatlandırma | "Sertifika dahil" paketi, saatlik karşılaştırmayı anlamsız kılıyor |
+| Üniversite aileleri hedefi | Europass üniversite başvurularına ekleniyor — somut ekonomik değer |
+| Kurumsal satış | Yerel işverenler çalışanları için ADK'ya yönlendirilebilir |
+| Referans döngüsü | Sertifika alan öğrenci paylaşıyor → organik büyüme |
+
+---
+
+## 6. PAZAR MESAJI STRATEJİSİ
+
+### Ana Mesaj: "Sorun sen değildin. Sistem yanlıştı. Biz farklıyız."
+
+Bu cümle üç kritik işlevi yerine getiriyor:
+
+1. **Suçlamayı kaldırıyor:** "Sorun sen değildin" — öğrencinin öz eleştiri duvarını yıkıyor. "Ben dil öğrenemem" inancını doğrudan hedef alıyor.
+2. **Sistemi suçluyor:** "Sistem yanlıştı" — tüm rakipleri otomatik olarak "eski sistem"e dahil ediyor.
+3. **Alternatif açıyor:** "Biz farklıyız" — merakı tetikliyor. "Nasıl farklı?" sorusunu doğuruyor.
+
+---
+
+### Segment Bazlı Mesaj Uyarlaması
+
+**Segment A (Yetişkin) için:**
+
+> "Yıllarca İngilizce aldın, hâlâ konuşamıyorsun. Sorun sen değildin. Sana yanlış öğretildi: %90 gramer, %10 konuşma. Biz tersini yapıyoruz. 3 ayda konuşuyorsun. Elinde Europass sertifikası var, eDevlet'te görünüyor. Bu CV'ye giriyor."
+
+**Segment B (Anne) için:**
+
+> "Çocuğun kursa gidiyor ama evde İngilizce konuşmuyor. Sorun çocuğun değil — yöntem yanlış. Her kurs gramer ezberletiyor. Biz %70 konuşma yapıyoruz. 60 günde cümleler kurulmaya başlıyor. 6 ayda elinde Europass sertifikası var — üniversite başvurularına ekleniyor."
+
+---
+
+### Mesaj Katmanları (Satış Konuşması Sıralaması)
+
+Satış ekibi şu sırayla ilerlemeli:
+
+**1. Acıyı tanı (empati):**
+> "Şu an nasıl bir durumdasınız? Daha önce kurs denediniz mi?"
+
+**2. Sistemin suçluluğunu göster (çerçeveleme):**
+> "Çoğu kurs %80 gramer anlatıyor. Gramer bilmek İngilizce konuşmak değil. Bu yüzden yıllarca kurs gidilip sonuç alınamıyor. Sorun öğrenci değil — yöntem."
+
+**3. Farkı ortaya koy (diferansiyasyon):**
+> "Biz CEFR tabanlı çalışıyoruz. %70 konuşma. Sıfırdan ezber yok. Zaten bildiklerinizi aktifleştiriyoruz."
+
+**4. Sonucu somutlaştır (değer kanıtı):**
+> "3 ayda konuşma. Elinde Europass sertifikası — bu Avrupa'da geçerli. Yetişkinler için eDevlet'e de işleniyor."
+
+**5. Riski kaldır (garanti):**
+> "100 aktif öğrencimiz var, sıfır reklam. Hepsi referansla geldi. Bu sonuç gösteriyor."
+
+---
+
+### İtiraz Haritası ve Yanıtlar
+
+| İtiraz | Yanıt |
+|---|---|
+| "Diğer kurslardan ne farkı var?" | "Fark metodoloji: biz %70 konuşma. Ve Europass + eDevlet sertifikası — bunu Antakya'da başka kim veriyor?" |
+| "Pahalı mı?" | "Bir paket sertifika + garantili sonuç. Saatlik kıyaslama yapmak elma ile armutu karşılaştırmak. Somut çıktıya yatırım yapıyorsunuz." |
+| "Çocuğum önceki kurstan sıkıldı." | "Çünkü gramer ezberletildi. Biz konuşturuyoruz — çocuklar bundan keyif alıyor. Metodoloji farkı bu." |
+| "Emin değilim, düşüneyim." | "100 öğrencimiz var, hepsi referansla geldi. Bir deneme dersi alalım, göresiniz." |
+| "Başka zaman belki." | "Kariyer beklemiyor / Üniversite başvurusu yaklaşıyor. En uygun zaman şimdi." |
+
+---
+
+### Mesajın Yayılım Kanalları (2 Kişilik Satış Ekibi İçin)
+
+**Öncelik 1 — Mevcut Öğrenci Referans Programı:**
+- Her memnun öğrenciden 2 referans istemek standart süreç haline getirilmeli.
+- Referans veren öğrenciye somut teşvik (ek ders, indirim, sertifika katkısı).
+- "100 öğrencimiz var, hiç reklam yapmadık" hikayesi bu kanalın gücünü kanıtlıyor.
+
+**Öncelik 2A — Yetişkin Kanalı (Segment A):**
+- LinkedIn: Kariyer hikayeleri ("3 ayda terfi fırsatı yakaladım" formatında öğrenci hikayeleri)
+- Yerel işverenlerle ortaklık: "Çalışanlarınız için toplu paket" teklifi
+- WhatsApp iş grupları: Hedefli mesaj, referans zinciri
+
+**Öncelik 2B — Anne Kanalı (Segment B):**
+- Okul WhatsApp grupları: "Çocuğunuzu test edin" mini içerik
+- Veli toplantısı sonrası networking
+- Instagram: Çocuk konuşma videoları (izin alınmış), "60 günde bu noktaya geldi" formatı
+
+**Öncelik 3 — İçerik Kanalı (İkisi İçin):**
+- Haftalık 1 Instagram / LinkedIn içerik: "Sistem yanlıştı" temalı eğitici kısa içerik
+- Europass ve eDevlet sertifikanın ne anlama geldiğini anlatan bilgilendirme içeriği
+- Öğrenci başarı hikayeleri (kısa, somut, sayısal)
+
+---
+
+## ÖZET: ADK'NIN PAZAR POZİSYONU
+
+ADK Antakya'da bir dil kursunu değil, **kanıtlanabilir sonuç ve resmi belge** satıyor. Bu, sektördeki tüm oyuncuların dışında bir kategori. 100 aktif öğrenci, sıfır reklam harcaması ile bu kategoriyi sessizce kurdu. Şimdi yapılması gereken bu kategoriye isim vermek, sahiplenmek ve sistematik olarak anlatmak.
+
+**Tek cümle pazar mesajı:**
+> "Antakya'da İngilizce öğrenmek isteyenlere: 3 ayda konuşma, elinizde Europass sertifikası — bunu veren başkası yok."
+
+---
+
+*Bu belge ADK satış ekibi (2 kişi) için hazırlanmıştır. Tüm segmentler, mesajlar ve kanallar Antakya bağlamına özgüdür. Güncelleme için öğrenci geri bildirimlerini ve yeni referans kaynaklarını izleyiniz.*
 
 *Oluşturulma tarihi: 17 Haziran 2026*
 
@@ -229,300 +498,440 @@ Antakya'daki en büyük fırsat, rakiplerin yarattığı hayal kırıklığıdı
 ---
 
 # OFFER.md
-# Antakya Amerikan Kültür Dil Okulu — Grand Slam Teklif Belgesi
+# Antakya Amerikan Kültür Dil Okulu — Teklif Mimarisi
 
 *Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## 1. İşletme Özeti
+## 1. İşletme Anlık Görünümü
 
-- **Ne yapıyor:** Antakya'da konuşma odaklı İngilizce eğitimi — yetişkin ve çocuk programları
-- **Ne satıyor:** KonuşAmerika 5 (5 aylık birincil program) + KonuşAmerika Yaz Sprint (1 aylık giriş ürünü)
-- **Mevcut aşama:** Aşama B — çalışan okul, teklif netleştirilip güçlendirilecek
-- **Ana kanal:** Organik büyüme — sıfır pazarlama ile 100 aktif öğrenci, 500.000 TL/ay gelir
-
----
-
-## 2. Hedef Pazar
-
-- **Pazar:** Türkiye'de İngilizce dil eğitimi (yetişkin + çocuk)
-- **Birincil segment:** Kariyerinde İngilizce engeline takılan, yıllarca ders alıp hâlâ konuşamayan Antakyalı yetişkin (22–40) — Acı skoru: 9/10, Satın alma gücü: 8/10
-- **İkincil segment:** Çocuğunun (8–14) gerçek konuşma İngilizcesi öğrenmesini isteyen ebeveyn — Acı skoru: 8/10, Satın alma gücü: 9/10
-- **Neden bu ikisi:** Her ikisi de 34/40 ile niş skorlama tablosunun en tepesinde (MARKET_RESEARCH.md). Rakipler bu iki segmentte kronik hayal kırıklığı yarattı — bu kişiler aktif olarak "başka bir şey" arıyor. Okul zaten sıfır pazarlama ile bu kitleyi çekiyor; talep kanıtlanmış.
+- **İşletme nedir:** Antakya'da konuşma odaklı, CEFR bazlı İngilizce eğitimi sunan dil okulu
+- **Ne satılıyor:** İki ayrı paket — yetişkinler için akıcılık simülasyonu, çocuklar/gençler için doğal konuşma kampı
+- **Mevcut aşama:** B — teklif var, yeniden inşa ediliyor
+- **Ana kanal:** Doğrudan satış (sahip + 1 satış personeli), organik sosyal medya
 
 ---
 
-## 3. İdeal Müşteri Avatarı
+## 2. Hedef Pazar — İki Ayrı Piramit
 
-### Birincil Avatar — Kariyer Yetişkini
+### Piramit 1: Yetişkin Segmenti
+- **Pazar:** Antakya'daki çalışan ve kariyer hedefli yetişkinler (22–45)
+- **Segment:** Yıllarca İngilizce okuyup hâlâ konuşamayan, iş dünyasında bunu fırsat kaybı olarak yaşayan bireyler
+- **Neden bu segment:** En yüksek kişisel acı yoğunluğu (9/10); tetikleyici olay (iş görüşmesi, toplantı, yabancı müşteri) anlık satın alma kararına dönüşüyor
 
-**Tek cümlelik avatar:** 12 yıl İngilizce okumuş, iş görüşmesinde yabancı soru sorunca donup kalan, bunun kendi yetersizliği olduğunu düşünen ama aslında yanlış sistemin kurbanı olan 28–38 yaşındaki Antakyalı profesyonel.
-
-**Mevcut durumu:**
-- Özgeçmişine "iyi derecede İngilizce" yazıyor ama yabancı bir müşteri gelince başka bir odaya geçiyor
-- Bir üst pozisyon, uluslararası proje, terfi — hepsi İngilizce bilene gidiyor
-- "Bir daha para harcasam yine aynı şeyi mi öğretecekler?" diye düşünüp yeni kurslardan uzak duruyor
-
-**En derin acısı (geceleri uyutmayan):**
-12 yıl hem zaman hem para harcadı. Hâlâ bir cümle kuramıyor. Mantıklı gelen tek açıklama: "Belki ben dil yeteneği olmayan birisiyim." Bu inanç her fırsattan kaçmasına, her başvurudan geri çekilmesine neden oluyor. (Not: Bu inanç tamamen yanlış. Sorun sistemde.)
-
-**Daha önce denedikleri:**
-- Okul İngilizcesi — 8 ila 12 yıl, gramer + test + not
-- Özel ders — kısa süreli, yapısız, bırakıldı
-- Mobil uygulamalar — Duolingo vb., bırakıldı
-- Belki bir dil kursu — yine gramer ağırlıklı
-
-**Hayal ettikleri sonuç:**
-İş görüşmesine giriyor. Yabancı panel üyesi İngilizce soruyor. Bu sefer donmuyor. Net, güvenli, anlaşılır cevap veriyor. Akıcı olmak zorunda değil — sadece iletişim kuruyor. O gece yatarken "Sonunda oldu" diyor.
+### Piramit 2: Ebeveyn / Çocuk Segmenti
+- **Pazar:** 8–16 yaş arası çocuğu olan Antakyalı ebeveynler (özellikle anneler, 22–45)
+- **Segment:** Okul İngilizcesinin çocuğunu yetersiz bıraktığını, sınav geçme dışında konuşma becerisi kazandırmadığını gören ebeveynler
+- **Neden bu segment:** Çocuk için harcama duygusal olarak kolay meşrulaştırılır; kararı veren ebeveyn, acıyı yaşayan çocuk — iki katmanlı motivasyon satın alma eşiğini düşürür
 
 ---
 
-### İkincil Avatar — Ebeveyn
+## 3. İdeal Müşteri Avatarları
 
-**Tek cümlelik avatar:** Kendi çektiği İngilizce acısının çocuğunda tekrar etmesini istemeyen, çocuğunun sınıfın en iyi konuşan öğrencisi olmasını isteyen Antakyalı ebeveyn.
+### Avatar A — Kariyer Tıkanmış Yetişkin
 
-**Mevcut durumu:**
-- Çocuğu okul sınavlarından not alıyor ama "What's your name?" dışında cümle kuramıyor
-- Başka çocukların İngilizce konuştuğunu görünce içten içe sıkışıyor
-- Sınav geçirttiren kurs ile gerçekten konuşturan kurs arasındaki farkı bilmiyor
+**Tek cümle:** Yıllarca gramer öğrenip hâlâ bir toplantıda söz alamamaktan utanan, kariyerinde tavanı kırmak için son bir kez daha denemek isteyen Antakyalı profesyonel.
 
-**En derin acısı:**
-"Benim gibi büyümesin." Kendi yaşadığı hayal kırıklığının — yıllarca ders, sonuç yok — çocuğunda tekrar etme korkusu. İyi ebeveyn olma baskısı ve rekabetçi korku bir arada.
+**Mevcut durum:**
+- Özgeçmişine "iyi derecede İngilizce" yazıyor ama bir yabancı gelince susuyor
+- Kariyerde bir üst pozisyon, uluslararası proje veya terfi hep İngilizce bilen birine gidiyor
+- "Belki ben dil yeteneği olmayan birisiyim" inancıyla yaşıyor; para ve zaman harcadı ama sonuç göremedi
 
----
+**Gece yarısı düşüncesi:** "Bu işe başvursam İngilizce sınav var — yine geçemeyeceğim. On iki yıl ders aldım, yine mi başlasam?"
 
-## 4. Hayal Edilen Sonuç
+**Daha önce denedikler:** Gramer odaklı kurslar, özel dersler, uygulama abonelikleri, online platformlar — hepsinde gramer öğrendi, konuşmayı hiç pratik etmedi.
 
-- **Birincil sonuç (somut, ölçülebilir):** 5 ayda CEFR A2→B1 veya B1→B2 geçişi. Yabancıyla kendini tanıtabilmek, iş toplantısında temel sorulara cevap verebilmek, yurt dışında günlük iletişimi yönetebilmek.
-
-- **Duygusal sonuç:** "Bu benim sorunum değil" gerçeğini içselleştirmiş, yabancı gelince kaçmak yerine öne çıkan, kendine güvenen biri hissi.
-
-- **Statü değişimi:** İş yerinde "o İngilizce bilen kişi" olmak. Ebeveyn için: "Çocuğumun kursu farklı — gerçekten konuşuyor" diyebilmek.
-
-- **Sonuç cümlesi:** "Yıllarca yanlış sisteme maruz kaldıktan sonra, 5 ayda gerçek konuşma kapasitesine ulaşmak — sınav için değil, hayat için."
+**Rüya sonuç:** 90 günde doğal ve özgüvenli konuşma + Europass ve eDevlet'e yüklenen resmi sertifika = kariyer kapıları açılıyor.
 
 ---
 
-## 5. Engeller (12 Kritik Engel)
+### Avatar B — Gelecek Kaygısı Taşıyan Anne
 
-1. Geçmiş başarısızlık korkusu — "Bir daha para ve zaman harcarsam yine hayal kırıklığı yaşarım"
-2. İçselleştirilmiş yetenek inancı — "Ben dil yeteneği olmayan birisiyim"
-3. Güvenli konuşma ortamı yok — hata yapmaktan, küçük düşmekten utanma
-4. Pasif gramer aktivasyon sorunu — bilgi var ama konuşmaya dönüşmüyor
-5. Zaman kısıtı — çalışan yetişkin için düzenli derse gelmek imkânsız görünüyor
-6. Lokasyon / program uyumu — Antakya içinde bile ulaşım ve saat çakışması engeli
-7. Alternatif şüphesi — "Başka bir kurs daha ne fark eder?"
-8. Aksan ve hız korkusu — gerçek bir yabancıyla karşılaşınca panik
-9. Kelime hazinesi boşluğu — "Söylemek istiyorum ama kelime aklıma gelmiyor"
-10. İlerlemeyi görememe — aylarca ders alıp nerede olduğunu bilememek, motivasyon çöküşü
-11. Sosyal baskı — sınıf arkadaşları önünde hata yapmak, yargılanmak korkusu
-12. Sürdürme güçlüğü — iş/aile baskısıyla programdan kopmak ve geri dönememek
+**Tek cümle:** Çocuğu zaten ders alıyor ama test geçmekten öteye geçemiyorken, çocuğunun gerçekten konuşan, dünyayla bağlantı kuran biri olmasını isteyen anne.
+
+**Mevcut durum:**
+- Çocuğu okul İngilizcesi alıyor, belki özel ders de alıyor — ama konuşamıyor
+- Diğer çocukların akıcılığını görünce içten içe kaygılanıyor
+- Para ve zaman harcıyor, somut dönüşüm göremediği için hayal kırıklığı ve suçluluk birikiyor
+
+**Gece yarısı düşüncesi:** "Çocuğum da benim gibi büyüyecek — ne kadar ders alsa konuşamayacak. Diğer çocuklar zaten konuşuyor, benim çocuğum geride kalacak."
+
+**Daha önce denedikler:** Okul İngilizce dersleri, bireysel özel dersler, sınav odaklı kurslar — hepsinde gramer çalıştı, doğal konuşma pratiği hiç olmadı.
+
+**Rüya sonuç:** 60 günde çocuk yabancıyla rahatça konuşuyor + gelişim anne tarafından takip edilebiliyor + Europass sertifikasıyla belgeleniyor.
 
 ---
 
-## 6. Engel → Çözüm → Teslimat Haritası
+## 4. Rüya Sonuçlar
 
-| Engel | Çözüm | Teslimat Yöntemi |
+### Yetişkin Paketi
+
+- **Birincil sonuç:** 90 günde, gerçek iş senaryolarında (toplantı, görüşme, müşteri, sunum) özgüvenle ve akıcı şekilde İngilizce konuşmak
+- **Duygusal sonuç:** "Sistem beni mahvetmedi, doğru yöntemi bulmamıştım" — utancın yerini özgüven alıyor
+- **Statü değişimi:** Artık "İngilizce bilirim ama konuşamam" diyen biri değil, Europass + eDevlet belgesiyle kariyer CV'sinde kanıtlanmış akıcı konuşmacı
+- **Sonuç cümlesi:** "Yıllarca süren sessizlikten 90 günde belgelenmiş mesleki akıcılığa."
+
+### Çocuk / Gençler Paketi
+
+- **Birincil sonuç:** 60 günde çocuk, yabancıyla doğal ortamda kendiliğinden cümle kuruyor ve sürdürüyor
+- **Duygusal sonuç:** Anne "para ve zaman boşa gitti" kaygısından "çocuğumun dönüşümünü gördüm" güvenine geçiyor
+- **Statü değişimi:** Çocuk sınıfta "gerçekten konuşan" öğrenci oluyor; Europass belgesiyle bu ilerleme resmi hale geliyor
+- **Sonuç cümlesi:** "Ezberciliğe zorla katılmaktan 60 günde doğal ve özgüvenli İngilizce konuşmacıya."
+
+---
+
+## 5. Engel Haritası
+
+### Yetişkin Segmenti Engelleri
+
+1. Hata yapmaktan korkuyor — "Aptal gibi görünürüm"
+2. Geçmişte denedi ve hayal kırıklığı yaşadı — "Yine aynı şey olacak"
+3. Vakti yok — iş, aile, yorgunluk
+4. Gramer biliyor ama konuşmaya geçemiyor — bilgi ile performans arasındaki uçurum
+5. Evde ya da çevresinde pratik yapacak kimse yok
+6. Öğrendiğini kurs bitince unutacağına inanıyor
+7. Yaş konusunda "geç mi kaldım?" kaygısı taşıyor
+8. Sertifikanın gerçekten işe yarayıp yaramayacağından emin değil
+9. Topluluk önünde konuşma korkusu — yargılanma
+10. Fiyatın karşılığını bulup bulmayacağından emin değil — önceki yatırımları boşa gitti
+
+### Ebeveyn / Çocuk Segmenti Engelleri
+
+1. "Bu da diğer kurslar gibi gramer öğretir" inancı
+2. "Çocuğumu sıkmak istemiyorum — eğlensin ama öğrensin de" ikilemi
+3. Çocuğun ilgisini canlı tutacak yeterli motivasyon olmayabilir
+4. Evde alıştırma yapacak İngilizce bilen biri yok
+5. Kurs bittikten sonra kazanımların kaybolacağı endişesi
+6. Yaz döneminde zaman ve ulaşım kısıtlaması
+7. "60 günde gerçekten konuşur mu?" şüphesi — abartılı vaat algısı
+8. Ebeveyn çocuğun gelişimini takip edemiyor, katılım belirsiz kalıyor
+9. Sertifikanın çocuk için erken bir yaşta ne işe yarayacağını bilmiyor
+10. Diğer kurslarla arasındaki somut farkı görememe riski
+
+---
+
+## 6. Çözüm Haritası (DWY Modeli)
+
+### Yetişkin Segmenti
+
+| Engel | Çözüm | Teslim Yöntemi |
 |---|---|---|
-| Geçmiş başarısızlık korkusu | Sistem suçu çerçevesi + 100 öğrenci sosyal kanıtı + tam iade garantisi | Onboarding seansı + video tanıklıklar |
-| "Yetenek olmayan birisiyim" inancı | İlk 2 haftada küçük ve gerçek bir konuşma zaferi üretmek | Yapılandırılmış Hızlı Kazanç açılış modülü |
-| Hata yapmaktan utanma | 4–6 kişilik küçük, homojen grup; yargılamayan sınıf kültürü | Öğretmen protokolü + güvenli alan kuralları |
-| Pasif gramer, aktivasyon yok | Her dersin %70'i konuşma — output odaklı egzersizler | Canlı diyalog pratiği, gerçek senaryo simülasyonları |
-| Zaman kısıtı | Esnek saat seçenekleri + 5 ayda 4 telafi dersi hakkı | Haftalık program takvimi + telafi sistemi |
-| İlerlemeyi görememe | CEFR tabanlı aylık değerlendirme — başlangıç ve bitiş skoru | Dijital ilerleme kartı + aylık bireysel geri bildirim |
-| Kelime hazinesi boşluğu | Bağlam bazlı öğretim — liste değil, konuşma senaryosu | Tema bazlı kelime + anında aktivasyon egzersizleri |
-| Aksan ve hız korkusu | Kademeli gerçek konuşma maruziyeti, Amerikan aksanı alıştırmaları | Simüle diyaloglar + dinleme egzersizleri |
-| Sosyal baskı | Aynı başlangıç seviyesinden homojen grup oluşturma | Giriş CEFR testine göre sınıf yerleştirme |
-| Alternatif şüphesi | CEFR ölçümü + %70 konuşma + garanti — üçlü fark | Teklif sayfası + ücretsiz deneme seansı |
-| Sürdürme güçlüğü | Telafi dersi + WhatsApp destek grubu + aylık koçluk | Asenkron destek + bireysel kontrol noktaları |
+| Hata yapmaktan korkuyor | Yargısız "Güvenli Bölge" Konuşma Kulüpleri | Küçük grup simülasyon seansları (maks 8 kişi) |
+| Geçmişte hayal kırıklığı | "Sorun sen değildin, sistem yanlıştı" çerçevesi + ilk seans garantisi | Oryantasyon dersi + açıklama videosu |
+| Vakti yok | Esnek Saat Seçimi ve 2 Telafi Özel Dersi Hakkı | Haftalık program parametresi + özel ders rezervasyonu |
+| Bilgi-performans uçurumu | 70/30 konuşma-gramer denge metodolojisi | Her seansta yapılandırılmış konuşma senaryoları |
+| Evde pratik yapacak kimse yok | 7/24 Yapay Zeka Konuşma Partneri | Uygulama tabanlı asenkron konuşma pratiği |
+| Öğrendiklerini unutacak | Ömür Boyu Akıcılık Atölyeleri ve Akran Kulüpleri | Kurs sonrası aylık workshop + WhatsApp topluluğu |
+| Yaş kaygısı | Yetişkin öğrenme metodolojisi + başarı hikayeleri | Referans videoları + onboarding materyali |
+| Sertifika güvenilirliği | Europass (uluslararası) + eDevlet (ulusal) entegrasyonu | Kur sonu CEFR sınavı + dijital belge teslimi |
+| Topluluk önü konuşma korkusu | Kademeli güven inşa senaryoları (1:1 → küçük grup → gerçek durum) | Haftalık ilerleyen senaryo zorlukları |
+| ROI şüphesi | 3 Adım Koşullu Efor Garantisi | Yazılı garanti belgesi + takip sistemi |
 
----
+### Ebeveyn / Çocuk Segmenti
 
-## 7. Ana Teklif
-
-### Birincil Program: KonuşAmerika 5 — Beş Ayda Konuşma Sistemi
-
-**Teklif adı:** KonuşAmerika 5
-**Alt başlık:** "Sorun sen değildin. Sorun yöntemdi. Artık değişiyor."
-
-**Dahil olanlar:**
-- Haftada 3 seans × 60 dakika — toplam ~60 seans / 5 ay
-- Her dersin %30'u yapı (gerektiğinde gramer altyapısı), %70'i konuşma pratiği
-- 4–6 kişilik küçük, aynı CEFR başlangıç seviyesinden grup
-- CEFR tabanlı aylık değerlendirme — somut, belgelenmiş skor değişimi
-- Ayda 1 bireysel koçluk seansı (10–15 dk) — hedef belirleme + kişisel geri bildirim
-- Kaçırılan dersler için seans kaydı erişimi
-- Öğrenci WhatsApp destek grubu — pratik sorular, haftalık mini egzersizler
-
-**Format:** Sınıf içi, Antakya lokasyonu, küçük gruplar
-**Teslimat modeli:** DWY (Done With You) — öğretmen yönetiminde, aktif katılım odaklı
-**İlk kazanç süresi:** 2. haftada öğrenci en az 3 gerçek yaşam senaryosunu konuşmuş olacak (kendini tanıtmak, yönleri tarif etmek, temel iş/okul iletişimi)
-**Fiyat:** 5.000 TL/ay — toplam 25.000 TL / 5 ay
-
----
-
-### Giriş Ürünü: KonuşAmerika Yaz Sprint — 1 Ayda Konuşmaya Başla
-
-**Teklif adı:** KonuşAmerika Yaz Sprint
-**Alt başlık:** "Deneyelim bakalım — 4 haftada cümle kuruyorsun veya ücret iade."
-
-**Dahil olanlar:**
-- Haftada 5 seans × 45 dakika — yoğunlaştırılmış 1 aylık format
-- Odak: temel konuşma kapasitesi — kendini tanıtmak, yönleri sormak, basit günlük iletişim
-- Aynı seviyeden 4–6 kişilik grup
-- Program sonu mini CEFR değerlendirmesi
-- 5 aylık programa geçiş için öncelikli kayıt hakkı
-
-**Neden giriş ürünü olarak güçlü:** Düşük taahhüt (1 ay), yüksek somut sonuç, düşük karar eşiği. "Bir daha para harcamak istemiyorum" diyen kişi için deney ortamı. Aylık tam programa köprü.
-**Fiyat:** 6.500–8.000 TL / 1 ay
-
----
-
-## 8. Bonus Yığını
-
-| Bonus | Amacı | Tahmini Standalone Değeri |
+| Engel | Çözüm | Teslim Yöntemi |
 |---|---|---|
-| CEFR Başlangıç Seviye Testi + Kişisel Sonuç Raporu | "Ben yetersizim" inancını kırar — somut başlangıç noktası verir | 500 TL |
-| İlk 7 Günde Kullanabileceğin 20 Konuşma Cümlesi (Kart Seti) | Hızlı kazanç — ilk haftadan elinde somut araç olur | 200 TL |
-| "Yabancıyla Tanışma" Simülasyon Seansı (1. ay sonu) | Gerçek dünya pratiği, kontrollü ortamda güven inşası | 750 TL |
-| Aylık "Neredeyim?" İlerleme Skoru Raporu | Görünür ilerleme motivasyonu canlı tutar — 5 ay boyunca | 1.000 TL |
-| Telafi Dersi Hakkı (5 ayda 4 derse kadar) | Zaman kısıtı engelini ortadan kaldırır — hayat seni koparsa geri dönebilirsin | 2.000 TL |
-
-**Toplam bonus değeri:** 4.450 TL
+| "Diğer kurslar gibi olacak" inancı | İlk ders ücretsiz + metodoloji açıklama toplantısı | Demo ders + ebeveyn bilgilendirme oturumu |
+| Çocuğun motivasyonu | Oyun tabanlı konuşma aktiviteleri + haftalık ilerleme rozeti sistemi | Sınıf içi rozet panosu + haftalık küçük ödüller |
+| Evde pratik yok | Dijital Alıştırma Kiti — günlük 10 dakika video egzersizleri | Mobil uyumlu alıştırma seti + kısa video rehberler |
+| Kurs bitti, unutacak | Akran Kulüpleri + kurs sonrası aylık aktivasyon etkinlikleri | Mezun öğrenci topluluğu + WhatsApp akran grubu |
+| Ebeveyn takibi | Ebeveyn Takip Sistemi — haftalık WhatsApp ilerleme özeti | Haftalık 5 dakikalık video rapor |
+| "60 günde olmaz" şüphesi | CEFR bazlı başlangıç-bitiş ölçümü + karşılaştırmalı sonuç raporu | Giriş testi + çıkış testi + yazılı ilerleme belgesi |
+| Sertifika değeri | Europass ile uluslararası tanınırlık açıklaması | Sertifika töreni + dijital Europass belgesi |
+| Yaz programı yoğunluğu kaygısı | Animasyonlu, tema bazlı müfredat — öğrenme oyun gibi hissettiriyor | Günlük tema + senaryo bazlı konuşma günlükleri |
 
 ---
 
-## 9. Değer Yığını
+## 7. Teslimat Takvimi
 
-| Bileşen | Standalone Değeri |
+### Yetişkin — Düzenli Program
+- **Format:** Haftada 2 gün, seans başı 3 saat
+- **Süre:** 10 hafta = 1 kur (60 saat toplam)
+- **Fiyat:** 20.000 TL / kur
+
+### Yetişkin — Yaz Yoğun Programı
+- **Format:** Haftada 4 gün, günde 4 saat
+- **Süre:** 1 ay = 1 kur (64 saat)
+- **Fiyat:** 20.000 TL (eşdeğer içerik, daha kısa sürede)
+
+### Çocuk / Gençler — Kış Programı
+- **Format:** Haftada 2 gün, günde 2 saat (4 saat/hafta)
+- **Süre:** 8 ay = 4 kur
+- **Fiyat:** 5.000 TL/ay
+
+### Çocuk / Gençler — Yaz Kampı (Birincil Giriş Ürünü)
+- **Format:** Haftada 4 gün, günde 4 saat
+- **Süre:** 1 ay = 2 kur yoğunlaştırılmış
+- **Fiyat:** 15.000 TL
+
+### Özel Ders (Tüm Segmentler)
+- Saatlik veya blok paket olarak sunulur
+- Yetişkin paketinde 2 telafi özel dersi dahil gelir
+
+---
+
+## 8. Çekirdek Teklif Yapıları
+
+---
+
+### PIRAMİT 1 — YETİŞKİN PAKETİ
+## "Bariyersiz Akıcılık" — Unmute Profesyonel Akıcılık Simülasyonu
+
+**Teklif adı:** Unmute Profesyonel Akıcılık Simülasyonu
+
+**Slogan:** Kurs değil, simülasyon. 90 günlük özgüven toplantısı ve kariyer belgeleme programı.
+
+#### Çekirdek İçerik
+- **Format:** Haftada 2 gün, seans başı 3 saat — toplam 60 saat / kur
+- **Yapı:** %30 işlevsel gramer, %70 gerçek senaryo konuşma simülasyonu
+- **Sınıf büyüklüğü:** Maksimum 12 kişi
+- **İlk kazanım:** 2. haftada kendini tanıtma, temel toplantı ifadeleri, yabancıyla ilk iletişim
+
+#### CEFR Bazlı İlerleme Yapısı
+| Kur | Seviye Hedefi | Süre | Odak |
+|---|---|---|---|
+| 1. kur | A1 → A2 | 10 hafta | Temel ifadeler, özgüven inşası |
+| 2. kur | A2 → B1 | 10 hafta | Günlük ve iş hayatı konuşması |
+| 3. kur | B1 → B1+ | 10 hafta | Europass başvurusu için hazırlık |
+| 4. kur | B1+ → B2 | 10 hafta | İleri mesleki konuşma |
+| 5. kur | B2 | 10 hafta | Akıcılık pekiştirme |
+| 6. kur | B2+ | 10 hafta | eDevlet belgesi + kariyer hazırlığı |
+
+#### Europass + eDevlet Sertifika Entegrasyonu
+- Her kur sonunda CEFR bazlı kur tamamlama sertifikası
+- 3 kur (30 hafta) tamamlanınca Europass sertifikası başvurusu başlatılır
+- 6 kur (60 hafta) tamamlanınca eDevlet'e yüklenen resmi yetkinlik belgesi
+- Sertifikalar CV'ye doğrudan eklenebilir dijital formatta teslim edilir
+
+---
+
+### PIRAMİT 2 — ÇOCUK / GENÇLER PAKETİ
+## "Doğal Konuşan Çocuklar" — 60 Günlük Doğal İngilizce Konuşma Kampı
+
+**Teklif adı:** 60 Günlük Doğal İngilizce Konuşma Kampı
+
+**Slogan:** Ezberciliğe ilanname. "Yaz okulu" değil, doğal yönden konuşturan kalıcı atılım kampı.
+
+#### Çekirdek İçerik
+- **Format:** Haftada 4 gün, günde 4 saat — toplam 64 saat
+- **Yapı:** %30 organik yapı öğrenimi, %70 doğal konuşma aktiviteleri (oyun, senaryo, drama, rol yapma)
+- **Yaş grupları:** 8–11 (Kids grubu), 12–16 (Teens grubu) — ayrı sınıflar, ayrı müfredat
+- **Sınıf büyüklüğü:** Maksimum 10 çocuk
+- **İlk kazanım:** 1. haftada 20+ temel iletişim ifadesiyle yabancıya kendini tanıtma
+
+#### CEFR Bazlı İlerleme Yapısı
+| Aşama | Süre | Odak |
+|---|---|---|
+| Giriş testi | 1. gün | Mevcut seviye tespiti |
+| Hafta 1 | Temel ifadeler + özgüven oyunları | |
+| Hafta 2 | Kısa diyaloglar + senaryo pratiği | |
+| Hafta 3 | Serbest konuşma + sınıf oyunları | |
+| Hafta 4 | Sunumlar + çıkış değerlendirmesi | |
+| Çıkış testi | Son gün | CEFR seviye belgesi |
+
+#### Europass Sertifika Entegrasyonu (Çocuklar için)
+- Kamp sonu CEFR değerlendirmesi
+- Europass dijital sertifikası (uluslararası tanınırlık) ebeveyne teslim
+- Başlangıç-bitiş karşılaştırmalı ilerleme raporu
+
+---
+
+## 9. Bonus Yığınları
+
+### Yetişkin Paketi — Bariyersiz Akıcılık Bonus Seti
+
+| Bonus | Amacı | Tahmini Tek Başına Değeri |
+|---|---|---|
+| Bonus 1: 3 Aylık Esnek Saat Seçimi | Çalışma saatlerine göre program adapte ediliyor — sabah, öğle veya akşam seçeneği | 3.000 TL |
+| Bonus 2: 2 Telafi Özel Dersi | Kaçırılan seans veya zorlandığı konu için kişisel 1:1 destek | 4.000 TL |
+| Bonus 3: Europass + eDevlet Sertifika Paketi | CV'ye doğrudan eklenen uluslararası + ulusal resmi yetkinlik belgesi | 2.000 TL |
+| Bonus 4: Kariyer CV İngilizce Şablonu | Sertifika ile birlikte kullanıma hazır, sektöre özel İngilizce CV formatı | 1.500 TL |
+| Bonus 5: Güvenli Bölge Konuşma Kulübü Erişimi | Yargısız küçük grup pratik oturumları — kurs dışı, haftalık | 3.000 TL |
+
+### Çocuk / Gençler Paketi — Doğal Konuşan Çocuklar Bonus Seti
+
+| Bonus | Amacı | Tahmini Tek Başına Değeri |
+|---|---|---|
+| Bonus 1: Dijital Alıştırma Kiti | Evde günlük 10 dakika pratik — video rehber + egzersiz kartları + dinleme setleri | 2.000 TL |
+| Bonus 2: Ebeveyn Takip Sistemi | WhatsApp üzerinden haftalık 5 dakikalık ilerleme özeti videosu — anne her adımı takip ediyor | 1.500 TL |
+| Bonus 3: Anneler için Sıfır Stres Paketi | "Çocuğuma evde ne sorabilirim?" rehberi + evde konuşma aktivasyon kartları (Türkçe açıklamalı) | 1.000 TL |
+| Bonus 4: Kamp Sonu Europass Belgesi | Uluslararası tanınırlık sertifikası + başlangıç-bitiş CEFR karşılaştırması | 2.000 TL |
+
+---
+
+## 10. Değer Yığını ve Fiyat Hipotezi
+
+### Yetişkin Paketi
+
+| Bileşen | Tahmini Tek Başına Değeri |
 |---|---|
-| 5 Aylık Konuşma Programı (~60 seans) | 30.000 TL |
-| Aylık Bireysel Koçluk (5 seans × 200 TL) | 5.000 TL |
-| CEFR Başlangıç Testi + Rapor | 500 TL |
-| Hızlı Başlangıç Kart Seti | 200 TL |
-| Yabancıyla Tanışma Simülasyon Seansı | 750 TL |
-| Aylık İlerleme Raporu (5 ay) | 1.000 TL |
-| Telafi Dersi Hakkı (4 ders) | 2.000 TL |
-| WhatsApp Destek Grubu Erişimi | 500 TL |
-| **Toplam yığın değeri:** | **39.950 TL** |
-| **Fiyat hipotezi:** | **25.000 TL (5.000 TL/ay × 5 ay)** |
+| Unmute Profesyonel Akıcılık Simülasyonu (1 kur, 60 saat) | 20.000 TL |
+| 3 Aylık Esnek Saat Seçimi | 3.000 TL |
+| 2 Telafi Özel Dersi | 4.000 TL |
+| Europass + eDevlet Sertifika Paketi | 2.000 TL |
+| Kariyer CV İngilizce Şablonu | 1.500 TL |
+| Güvenli Bölge Konuşma Kulübü Erişimi | 3.000 TL |
+| **Toplam yığın değeri:** | **33.500 TL** |
+| **Fiyat — 1 kur:** | **20.000 TL** |
+| **Fiyat — 6 kur paketi:** | **90.000 TL** |
 
-Algılanan değer / fiyat oranı: ~1,6x. Garanti eklendi mi? Risk yokluğu bu oranı psikolojik olarak çok daha yükseğe taşır.
+**Paket Kademeleri:**
+| Paket | Fiyat | İndirim |
+|---|---|---|
+| 1 kur | 20.000 TL | — |
+| 2 kur | 36.000 TL | %10 |
+| 3 kur | 51.000 TL | %15 |
+| 6 kur (tam Europass + eDevlet) | 90.000 TL | %25 |
 
----
+### Çocuk / Gençler Paketi
 
-## 10. Garanti
-
-**Seçenek 1 — Koşulsuz:**
-"14 gün içinde istediğin için iade ederiz, soru sormadan."
-(Düşük kayıp riski, yüksek kayıt erişimi — ama güven mesajı zayıf)
-
-**Seçenek 2 — Koşullu (Eylem Bazlı):**
-"5 ay boyunca seansların %80'ine katıl, ödevleri tamamla — CEFR seviyende ölçülebilir ilerleme olmazsa son ayı iade ederiz."
-(Orta güç — müşteri taahhüt verir, garanti koşullu)
-
-**Seçenek 3 — Sonuç Bazlı (Marka Garantisi):**
-"5 ayda konuşamazsan — tüm 5 aylık ücreti iade ederiz."
-(En güçlü — risk tamamen okuldadır)
-
-**Tavsiye edilen: Seçenek 3.**
-
-Neden: Bu segmentin birincil itirazı "bir daha para ve zaman harcamak istemiyorum" (MARKET_RESEARCH.md). Tam iade garantisi bu itirazı tek cümlede kırar ve risk müşteriden okula transfer olur. Mevcut 100 öğrenci ve organik büyüme sistemin çalıştığını kanıtlıyor — bu garantiyi vermek düşük riskli. Rakipler sonuç üretmediği için garanti veremiyor; bu okul verdiğinde orantısız güven avantajı doğar.
-
-**Garanti metni:**
-"5 ay KonuşAmerika sistemine katıl. Konuşamazsan, tüm ödediğini iade ederiz. Bu sefer fark yöntem — ve biz arkasındayız."
+| Bileşen | Tahmini Tek Başına Değeri |
+|---|---|
+| 60 Günlük Doğal Konuşma Kampı (64 saat yoğun program) | 15.000 TL |
+| Dijital Alıştırma Kiti | 2.000 TL |
+| Ebeveyn Takip Sistemi | 1.500 TL |
+| Anneler için Sıfır Stres Paketi | 1.000 TL |
+| Kamp Sonu Europass Belgesi | 2.000 TL |
+| **Toplam yığın değeri:** | **21.500 TL** |
+| **Fiyat — Yaz Kampı:** | **15.000 TL** |
+| **Fiyat — Kış Programı:** | **5.000 TL/ay** |
 
 ---
 
-## 11. Konumlandırma
+## 11. Garanti — 3 Adım Koşullu Efor Garantisi
 
-**Kimler için:**
-- 12+ yıl İngilizce okuyup hâlâ konuşamayan yetişkinler (22–40)
-- Kariyerde, toplantıda, seyahatte İngilizce'yi gerçekten kullanmak isteyenler
-- Çocuğunun (8–14) gerçek konuşma kapasitesi geliştirmesini isteyen ebeveynler
-- "Daha önce denedim, olmadı — ama bir kez daha doğru olanla denemek istiyorum" diyenler
+### Seçenek 1 — Koşulsuz (30 Gün)
+Programa başladıktan sonraki 30 gün içinde herhangi bir gerekçe sunmadan tam iade. Risk tamamen okuldadır. Güven sinyali yüksek, ancak kötü niyetli taleplere açıktır.
 
-**Kimler için DEĞİL:**
-- LGS / YKS / IELTS / TOEFL sınav hazırlığı arayanlar — bu programda sınav stratejisi yok
-- "Gramer mükemmel olsun" diyenler — burada dil araçtır, amaç değil
-- Düzenli katılım taahhüdü vermek istemeyenler — sistem devam ister
+### Seçenek 2 — 3 Adım Koşullu Efor Garantisi (Önerilen)
+1. Adım: Derslerin %80'ine eksiksiz katılım sağlanır
+2. Adım: Verilen tüm pratikler yapılır — ve hedef konuşma seviyesine ulaşılamaz
+3. Adım: Ek ücret ödenmeden, esnek özel ders destekli programa devam edilir; öğrenci hedefe ulaşana kadar
 
-**Benzersiz açı:** Antakya'nın tek %70 konuşma odaklı, CEFR tabanlı ölçülebilir ilerleme sunan ve tam iade garantisi veren dil okulu.
+### Seçenek 3 — Sonuç Garantisi
+"90 gün sonunda CEFR değerlendirmesinde hedef seviyeye ulaşamazsanız, sonraki kuru ücretsiz alırsınız." Minimum %75 katılım şartına bağlıdır.
 
-**Konumlandırma cümlesi:**
-"Yıllarca gramer ezberlediniz. Biz konuşmayı öğretiyoruz — ve 5 ayda sonuç almazsanız paranızı geri veriyoruz."
+### Önerilen: Seçenek 2
 
-**Kategori:** Performans bazlı konuşma İngilizcesi okulu — sınav kursu değil, iletişim okulu.
+**Gerekçe:** Koşulsuz iade okulun üretim kapasitesini tüketir ve niyetsiz kayıtlara açık olur. Sonuç garantisi ise öğrenci katılımının dışındaki değişkenleri (öğrencinin kişisel eforu) kontrol etme riski taşır. Koşullu Efor Garantisi hem öğrencinin ciddi bağlılığını ödüllendiriyor, hem risk algısını sıfırlıyor, hem de okul açısından sürdürülebilir bir taahhüt üretiyor.
 
----
-
-## 12. Teslimat Modeli
-
-**Model:** DWY (Done With You) — Guided, küçük grup, sınıf içi
-
-**Neden bu model:**
-- Yetişkin kariyer segmenti yapı ve hesap verebilirlik istiyor — DIY'de kayboluyorlar
-- Konuşma pratiği sosyal bağlam gerektirir — tekil çalışmayla dil aktive olmuyor
-- DFY bu iş modelinde anlamsız — öğrencinin aktif katılımı olmadan dil gelişmiyor
-- 4–6 kişilik küçük grup hem konuşma sıklığını maksimuma çıkarıyor hem ekonomik sürdürülebilirlik sağlıyor
-- Mevcut 100 öğrenci zaten bu modelle geldi ve kalmaya devam ediyor — sistem çalışıyor
+**Kullanıma hazır garanti metni:**
+"Derslerin %80'ine katılın, verdiğimiz pratikleri yapın ve hedef İngilizce seviyenize ulaşamazsanız — sizi orada bırakmıyoruz. Ek ücret ödemeden, esnek özel ders desteğiyle programa devam ediyorsunuz. Çünkü sorun yöntemde değilse, biz yanınızdayız."
 
 ---
 
-## 13. Mesajlaşma
+## 12. Konumlandırma
 
-### Kancalar (Hooks) — En Güçlüden Sıralı
+### Yetişkin Paketi
 
-1. **[Sistem suçu + garanti]** "12 yıl İngilizce okudun. Hâlâ konuşamıyorsun. Bu senin sorunun değil — yöntemin sorunuydu. 5 ayda konuşmazsan, paranı iade ediyoruz."
-2. **[Sosyal kanıt + merak]** "Antakya'da 100 kişi, sıfır reklam ile öğrendi. Fark ne? %70 zamanı konuşmaya harcıyoruz — diğerleri gramere."
-3. **[Acı dile getirme]** "Toplantıda susuyorsun. İş görüşmesinden kaçıyorsun. İçinden şunu geçiriyorsun: 'Belki ben hiç öğrenemeyeceğim.' Bu yalan. 5 ayda bu biter."
-4. **[Fark + ölçüm]** "Gramer bilgin var. Konuşma yok. Biz tam da bunu çözüyoruz — CEFR belgelenmiş ilerlemeyle."
-5. **[Ebeveyn için]** "Çocuğunun 'İngilizce bilmiyorum' demesine ne kadar daha katlanacaksın? 5 ayda bu değişiyor — ya da ücret iade."
+- **Kime:** Yıllarca gramer okuyan ama hâlâ konuşamayan, kariyer fırsatlarını kaçıran 22–45 yaş arası Antakyalı çalışan ve profesyonellere
+- **Kime değil:** Sınav hazırlığı (IELTS, TOEFL, YDS) isteyenlere; gramer sertifikası hedefleyenlere; "zaten iyi konuşuyorum, sadece belge istiyorum" profillere
+- **Tek cümle konumlandırma:** Antakya'nın tek konuşma simülasyonu — gramer değil akıcılık, kurs değil kariyer belgesi.
+- **Temel farklılaştırıcı:** Rakipler gramer öğretiyor; biz konuşma pratiği yaptırıyoruz. Rakipler kur sertifikası veriyor; biz Europass + eDevlet yetkinlik belgesi veriyoruz. Rakipler "dersi bitir, gidin" diyor; biz hedef seviyeye ulaşana kadar yanınızdayız.
+
+### Çocuk / Gençler Paketi
+
+- **Kime:** Çocuğunun sınav puanından değil, gerçek konuşma becerisinden somut sonuç almak isteyen 22–45 yaş arası ebeveynlere, özellikle annelere
+- **Kime değil:** Ödev yaptırma hizmeti isteyenlere; okul sınavına hazırlık isteyenlere; yalnızca "çocuğu meşgul etme" arayan ebeveynlere
+- **Tek cümle konumlandırma:** Ezberciliğe son — 60 günde çocuğunuz gerçekten konuşuyor, Europass belgesiyle.
+- **Temel farklılaştırıcı:** Rakipler test hazırlığı yapıyor; biz doğal konuşma alışkanlığı yerleştiriyoruz. Ebeveyn rakiplerde çocuğunun ne öğrendiğini göremez; bizde haftalık takip sistemiyle her adımı izliyor.
+
+---
+
+## 13. Teslim Modeli
+
+**Model:** DWY (Done With You — Birlikte Yap)
+
+**Neden DWY:**
+- Küçük grup formatı (maks 10–12 kişi) kişisel ilgi sağlıyor
+- Öğretmen aktif rehber rolünde — öğrenci pasif dinleyici değil, aktif konuşucu
+- 2 telafi özel dersi ve Güvenli Bölge Kulüpleri DWY'nin kişisel derinliğini artırıyor
+- Konuşma pratiği yapay bir ortamda değil, gerçek grup dinamiklerinde gelişiyor
+- Sahip + 1 satış personeli ile bu model sürdürülebilir — ölçek yerine kalite ve derinlik öncelikli
+- Kurumsal paket için ileride DFY katmanına geçiş zemini bu modelle hazırlanıyor
+
+---
+
+## 14. Mesajlaşma
+
+### Kancalar — Yetişkin Paketi
+
+1. "12 yıl İngilizce okudunuz. Neden hâlâ bir toplantıda söz alamıyorsunuz? Sorun siz değildiniz — yöntem yanlıştı."
+2. "Gramer bilmek yetmez. 90 günde konuşmayı öğrenin, Europass ve eDevlet belgesiyle kariyer CV'nize ekleyin."
+3. "İngilizce bildiğinizi herkes biliyor — ama kimse sizi konuşurken duymuyor. Unmute olun."
+4. "Dil kursu değil, kariyer simülasyonu. 90 günde toplantı İngilizcesi, iş görüşmesi İngilizcesi, müşteri İngilizcesi."
+5. "Daha önce para harcadınız, zaman harcadınız, sonuç görmediniz. Bunu biz garantiyle değiştiriyoruz."
+
+### Kancalar — Çocuk / Gençler Paketi
+
+1. "Çocuğunuz sınıfta İngilizce notu iyi — ama bir yabancıyla karşılaşınca susuyorsa, doğru sistemi denediniz mi?"
+2. "60 günde çocuğunuz gerçekten konuşuyor. Europass belgesiyle. Garantiyle."
+3. "Diğer çocuklar neden daha rahat konuşuyor? Çünkü onlar gramer değil, konuşma öğrendi."
+4. "Yaz okulu değil, atılım kampı. 4 haftada çocuğunuzun İngilizcesi kalıcı dönüşüm yaşıyor."
+5. "Siz çocuğunuz için en iyisini istiyorsunuz — biz bunu 60 günde, belgesiyle sunuyoruz."
 
 ### Sonuç Odaklı Maddeler
 
-- 5 ayda CEFR tabanlı, belgelenmiş seviye atlama — gramer notu değil, gerçek iletişim kapasitesi
-- Küçük grupta, güvenli ortamda, hata yaparak öğren — Antakya'da bunu başka hiçbir kurs sunmuyor
-- Sonuç gelmezse tam iade — çünkü 5 ayda konuşmaya başlayan 100 öğrencimiz zaten burada
+**Yetişkin:**
+- 90 günde gerçek iş senaryolarında konuşma pratiği — toplantı, görüşme, müşteri, sunum
+- Europass + eDevlet sertifikası ile CV'nize taşınan, uluslararası geçerlilikte akıcılık belgesi
+- Hata yapmaktan korkmadan pratik yapabileceğiniz Güvenli Bölge Konuşma Kulüpleri
+
+**Ebeveyn/Çocuk:**
+- 60 günde CEFR ile ölçülen, başlangıç-bitiş karşılaştırmalı somut ilerleme raporu
+- Haftalık ebeveyn takip sistemi ile çocuğunuzun her adımını anlık izleyin
+- Kamp sonu Europass belgesi ile çocuğunuzun dönüşümü resmi ve kalıcı hale geliyor
 
 ### İtiraz Karşılama Maddeleri
 
-- **"Daha önce denedim, olmadı"** → "Evet. Çünkü sistem yanlıştı. Gramer ezberletip konuşmayı bekliyorlardı. Biz tam tersini yapıyoruz — %70 konuşma, garantiyle."
-- **"Bu kadar para harcamaya değer mi?"** → "5 ayda konuşmazsan, ödediğinin tamamını geri veriyoruz. Risk yok — sadece fırsat var."
-- **"Zamanım yok"** → "Haftada 3 gün, 60 dakika. Kaçırdığın dersi telafi edebilirsin. Programı senin hayatına göre tasarladık."
+**Yetişkin:**
+- "Daha önce denedim, olmadı" → Sorun gramer metoduydu. Biz %70 konuşma pratiğiyle tamamen farklı bir sistem uyguluyoruz.
+- "Vaktim yok" → Haftada 2 gün, seans başı 3 saat. Esnek saat seçimi. 2 telafi dersi hakkınız paketinizde dahil.
+- "Bu kadar pahalı mı?" → 1 kur 20.000 TL — ama tek bir kariyer fırsatını kaçırmanın maliyeti çok daha yüksek.
 
-### Kısa Teklif Açıklaması
+**Ebeveyn/Çocuk:**
+- "60 günde gerçekten konuşur mu?" → Başlangıç ve bitiş CEFR testiyle ölçüyoruz — gelişimi sayıyla göreceksiniz.
+- "Çocuğumu sıkmak istemiyorum" → %100 oyun ve senaryo tabanlı aktiviteler — ders gibi değil, oyun gibi hissettiriyor.
+- "Diğer kurslardan ne farkı var?" → Diğerleri gramer öğretiyor; biz konuşma alışkanlığı ve özgüven inşa ediyoruz.
 
-KonuşAmerika, Antakya'nın tek konuşma odaklı İngilizce okulu. Gramer ezberlemek yerine gerçek diyalog pratiği yapıyorsunuz — her dersin %70'i konuşma. 5 ay sonunda CEFR belgelenmiş ilerlemeniz var ya da tüm ücretinizi iade ediyoruz.
+### Harekete Geçirici Mesajlar (CTA)
 
-### CTA (Harekete Geçirici Çağrı)
+**Yetişkin:**
+"Ücretsiz oryantasyon seansı — 30 dakikada mevcut İngilizce konuşma seviyenizi ölçüyoruz ve doğru programı birlikte belirliyoruz. Randevu için WhatsApp'tan yazın: [numara]"
 
-"Ücretsiz CEFR seviye testine kayıt ol — nerede olduğunu gör, 5 ayda nereye gelebileceğini öğren. Risk yok."
-
----
-
-## 14. Lansman Notları
-
-**En iyi kanal:** Instagram + Facebook (Antakya yerel hedefleme) — "Gramer Tuzağı" içerik serisi; WhatsApp DM kapısı. Mevcut 100 öğrenciden 3–5 video tanıklık toplamak birinci öncelik.
-
-**Satış açısı:** Sistem suçlama + garanti kombinasyonu. "Sorun sen değildin, yöntemdi — ve bu sefer garantimiz var."
-
-**Öncelikli itirazlar ve yanıtlar:**
-1. "Bir daha para harcamak istemiyorum" → Tam iade garantisi
-2. "Zamanım yok" → Esnek seans + telafi hakkı
-3. "Başka kurslardan ne farkı var" → CEFR ölçümü + %70 konuşma + garanti üçlüsü
-
-**Sonraki 5 adım:**
-1. Mevcut öğrencilerden 3–5 video tanıklık topla (ebeveyn + yetişkin, odak sorusu: "Öncesi ve sonrası ne değişti?")
-2. "Gramer Tuzağı" içerik serisini başlat — Instagram/Facebook, organik
-3. Ücretsiz CEFR seviye testi ile lead yakalamayı aç
-4. KonuşAmerika Yaz Sprint'i ilk funnel girişi olarak pazara sun
-5. Garanti metnini teklif sayfasında, WhatsApp otomasyonunda ve her satış görüşmesinde öne çıkar
+**Çocuk/Gençler:**
+"Çocuğunuz için ücretsiz deneme dersi — ilk seans bize ait. Farkı kendiniz görün. Yer ayırtmak için: [WhatsApp/telefon]"
 
 ---
 
-*Kaynak: MARKET_RESEARCH.md içgörüleri + iş brifingi + Grand Slam Offer çerçevesi*
+## 15. Lansman Notları
+
+### En İyi Kanal
+- Instagram + Facebook — öğrenci ilerleme videoları, ebeveyn referansları, "Gramer Tuzağı" içerikleri
+- WhatsApp doğrudan satış — mevcut 100 öğrenci network'ü en güçlü referans kaynağı
+- Ağızdan ağıza — mevcut öğrencilerden 5 kısa video referans (ebeveyn + yetişkin)
+- Kurumsal erişim — Antakya esnaf dernekleri, genç girişimci ağları, şirket İK departmanları
+
+### Satış Açısı
+- Yetişkin: Kariyer yatırımı çerçevesi — "Bu bir gider değil, kariyerinize yapılmış tek seferlik yatırım."
+- Ebeveyn: Duygusal geleceğin korunması + pratik sonuç — "Çocuğunuza bugün vereceğiniz en değerli şey konuşma özgüveni."
+
+### Öncelikli Ele Alınacak İtirazlar
+1. "Daha önce dil kursuna gittim, işe yaramadı" — Sistem farkını net ve somut örneklerle açıkla
+2. "Bu kadar pahalı mı olur?" — Değer yığınını göster, kariyer yatırımı olarak çerçevele
+3. "60/90 günde gerçekten olur mu?" — CEFR ölçümü + garanti birlikte bu itirazı kapatır
+
+### Sonraki Adımlar
+1. Mevcut 100 öğrenciden 5 video referans toplanır (ebeveyn + yetişkin, her iki segment)
+2. "Gramer Tuzağı" içerik testi başlatılır (Instagram/Facebook organik)
+3. Yaz kampı için ilk 15 kayıt "erken kayıt" kapsamında değerlendirilebilir
+4. Kurumsal erişim: 2 pilot şirket veya dernek ile ilk görüşme planlanır
+5. WhatsApp Business hesabı aktif edilir — otomatik karşılama mesajı, CTA ve sık sorulan sorular hazırlanır
+
+---
+
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 
 ---
@@ -534,163 +943,195 @@ KonuşAmerika, Antakya'nın tek konuşma odaklı İngilizce okulu. Gramer ezberl
 
 ---
 
-## Temel Teklif (Referans)
+## Temel Teklif
 
-- **Kim:** Yıllarca İngilizce okumuş, gramer biliyor ama konuşamayan Antakyalı yetişkin (22–40) + çocuğunun gerçek konuşma becerisi kazanmasını isteyen ebeveyn
-- **Ne:** KonuşAmerika 5 — 5 ayda ölçülebilir konuşma kapasitesi (%70 konuşma, %30 gramer, CEFR tabanlı)
-- **Garanti:** 5 ayda konuşamazsan tüm ücret iade
-- **Mevcut konumlandırma:** Organik, ağızdan ağıza — henüz sistematik mesaj yok
-
----
-
-## 8 Teklif Açısı
+- **Yetişkin için:** Unmute Profesyonel Akıcılık Simülasyonu — 90 günde gerçek iş senaryolarında konuşma özgüveni + Europass/eDevlet sertifikası
+- **Çocuk/Gençler için:** 60 Günlük Doğal İngilizce Konuşma Kampı — ezberciliğe son, 60 günde doğal konuşma + Europass belgesi
+- **Mevcut konumlandırma:** "Saat satarken emekten, sonuç satarak tekelleşme"
 
 ---
 
-### Açı 1: Sistem Karşıtı (Anti-Sistem)
-
-Türk eğitim sistemini suçla — kişiyi asla değil. Bu okulun temel çerçevesi.
-
-**V1 — Doğrudan çerçeve:**
-"12 yıl İngilizce okudun, hâlâ konuşamıyorsun. Bu senin hatan değil — sistem sana gramer öğretti, konuşmayı öğretmedi. Biz farklı çalışıyoruz: %70 zamanı konuşmaya harcıyoruz."
-
-**V2 — Empati ile açılış:**
-"Belki 'dil yeteneğim yok' diye düşünüyorsun. Yıllarca ders aldın, sonuç çıkmadı — bu sonuç mantıklı geliyor. Ama şunu söyleyelim: Türkçeyi de mi öğrenemezdim? Sistem sana yanlış şeyi öğretti. Biz doğrusunu öğretiyoruz."
-
-**Neden güçlü:** Müşterinin içinde taşıdığı en büyük bloğu — "belki ben aptaldım" inancını — kırar. Tüm diğer açılar bu inanç kırılmadan etkisiz kalır. Her mesajın altında bu çerçeve olmalı.
+## Üretilen Açılar
 
 ---
 
-### Açı 2: Önce / Sonra (Before/After)
+### Açı 1: Sonuç Odaklı (Outcome-Specific)
 
-Konuşmadan önce ve sonrasındaki hayatı görsel olarak karşılaştır.
+**Segment:** Her iki segment
 
-**V1 — Yetişkin için:**
-"Yabancı birisi toplantıya girince sandalyeye gömülüyordun. 5 ay sonra sen söze giriyorsun. CEFR belgelenmiş. Garantili."
+**Yetişkin V1:**
+"90 günün sonunda iş görüşmesinde İngilizce soruya tereddütsüz cevap veriyorsunuz — gramer kitabı değil, Europass belgesiyle."
 
-**V2 — Ebeveyn için:**
-"Çocuğun 'İngilizce bilmiyorum' diyordu — sınavdan geçse bile. 5 ay sonra yabancıyla cümle kuruyor. Gramer defteri yok. Konuşma var."
+**Yetişkin V2:**
+"Bu programı bitirdiğinizde: toplantılarda söz alıyorsunuz, yabancı müşteriyle görüşüyorsunuz ve CV'nize uluslararası geçerli bir akıcılık belgesi ekliyorsunuz."
 
-**Neden güçlü:** Somut, görsel, duygusal. Müşterinin zihninde filmi çalıştırır. Karşılaştırma hem acıyı hem umudu aynı anda aktive eder — satın alma kararının duygusal yakıtı bu.
+**Çocuk V1:**
+"60. günün sonunda çocuğunuz sınıfta yabancı biriyle doğal diyalog kuruyor — not için değil, gerçekten konuşmak için."
 
----
+**Çocuk V2:**
+"Kamp biterken çocuğunuzun elinde CEFR bazlı Europass belgesi, sizin elinizde ise başlangıç-bitiş karşılaştırmalı ilerleme raporu var."
 
-### Açı 3: Acı Odaklı (Derin Acıya Dokun)
-
-Müşterinin gece kafasında dönen ama dışarıya söylemediği düşünceyi seslendir.
-
-**V1 — Yetişkin gece düşüncesi:**
-"On iki yıl İngilizce dersi aldın. Bir yabancıyla karşılaştığında hâlâ donup kalıyorsun. Ve içinden şunu geçiriyorsun: 'Belki ben hiç öğrenemeyeceğim.' Bu yalan. Sorun sen değildin — sorun yöntemdi. Bunu 5 ayda kanıtlıyoruz."
-
-**V2 — Ebeveyn gece düşüncesi:**
-"Çocuğun da senin gibi mi büyüyecek — yıllarca ders, sınavlardan geçiyor, ama yabancıyla bir kelime edemiyor? Bu sefer farklı bir sistem var. Ve işe yaramazsa ücret iade."
-
-**Neden güçlü:** Gizli acıyı yüzeye çıkarır. Müşteri "bu beni anlıyor" der — güven kapısı açılır. Satıştan önce bağ kurulur.
+**Neden işe yarar:** Somut, ölçülebilir ve görselleştirilebilir sonuçlar satın alma kararını kolaylaştırır. "Bir şeyler öğreneceksiniz" belirsizliği yerine "işte bu olacak" netliği güven kurar.
 
 ---
 
-### Açı 4: Garanti Odaklı
+### Açı 2: Zaman Odaklı (Time-Based)
 
-Garantiyi merkeze al — risk tamamen okuldadır, müşteride değil.
+**Segment:** Her iki segment
 
-**V1 — Güçlü iddialı:**
-"5 ayda konuşacaksın ya da paranı iade ederiz. Antakya'da bunu söyleyen başka bir okul var mı? Biz söylüyoruz — çünkü arkasındayız."
+**Yetişkin V1:**
+"Haftada 6 saat. 90 gün. Bir kariyer değişikliği."
 
-**V2 — Soru formatı:**
-"Hiç bir dil kursu sana şunu söyledi mi: 'Sonuç yoksa tüm ücretini iade ederiz'? Biz söylüyoruz. Çünkü 100 öğrencimiz zaten konuşuyor — ve sen de konuşacaksın."
+**Yetişkin V2:**
+"10 haftada, haftada iki gün — yıllarca birikmiş konuşma engelini aşıyorsunuz."
 
-**Neden güçlü:** "Daha önce para verdim, işe yaramadı" itirazını tek cümlede kırar. Risk müşteriden okula transfer olur — karar verme eşiği anında düşer.
+**Çocuk V1:**
+"Sadece 4 hafta, 4 gün/hafta. Çocuğunuzun İngilizcesi sonsuza kadar değişiyor."
 
----
+**Çocuk V2:**
+"1 yaz. 60 gün. Çocuğunuzun dil hayatını yeniden yazacak dönüm noktası."
 
-### Açı 5: Kimlik Değişimi
-
-Müşterinin olmak istediği kimliği hedefe koy — ürün değil, dönüşüm sat.
-
-**V1 — Yetişkin için:**
-"İş yerinde İngilizce bilen kişi olmak için üniversiteye geri dönmene gerek yok. 5 ay yeter — eğer doğru sistemdeysen. Bu sistem Antakya'da."
-
-**V2 — Ebeveyn için:**
-"Çocuğun sınıfın en iyi konuşan öğrencisi olabilir — gramer ezberlemeden. 5 ayda. Garantili."
-
-**Neden güçlü:** İnsanlar ürün satın almaz, kim olacaklarını satın alırlar. Kimlik çerçevesi motivasyonu kışkırtır ve mesajı kişiselleştirir.
+**Neden işe yarar:** Net bir zaman çerçevesi belirsizlik korkusunu kaldırır. "Ne kadar sürecek?" itirazının önüne geçer ve taahhüdü somutlaştırır.
 
 ---
 
-### Açı 6: Rakip Karşıtı (Rakibi Adresle, İsimsiz)
+### Açı 3: Acı Odaklı (Pain-Based) ⭐ ÖNERİLEN
 
-Diğer kursların neden işe yaramadığını açıkla — müşterinin geçmiş başarısızlığını mantıklı hale getir.
+**Segment:** Öncelikle Yetişkin, ikincil olarak Ebeveyn
 
-**V1 — Karşılaştırmalı:**
-"Antakya'daki diğer İngilizce kursları ne öğretiyor? Gramer. Zamanlar. Fill-in-the-blank. Peki hiç birinde cümle kurdurun mu seni? Biz her dersin %70'ini konuşmaya harcıyoruz. Diğerleri %70'i gramere. Bu fark, beş yılın farkıdır."
+**Yetişkin V1:**
+"12 yıl İngilizce okudunuz. Hâlâ bir yabancı gelince susuyorsunuz. Bu sizin suçunuz değil — gramer sistemi sizi konuşmaya hazırlamadı."
 
-**V2 — Empati ile başla:**
-"O kadar kurs dendin, o kadar para harcadın — hiçbiri işe yaramadı. Seni suçlamıyoruz. Sistemi suçluyoruz. Gramer ezberletiyor, konuşmayı bekliyorlar. Biz önce konuşturuyoruz. Fark bu."
+**Yetişkin V2:**
+"O terfi yine İngilizce bilene gitti. O toplantıda yine sussunuz. Bir dahaki seferde farklı olmak istiyorsanız — yöntemi değiştirme zamanı."
 
-**Neden güçlü:** Müşteri zaten hayal kırıklığı yaşadı — "neden olmadı" sorusunu cevaplamak güven inşa eder ve bu okulu sürüden ayırır.
+**Ebeveyn V1:**
+"Çocuğunuz her yıl İngilizce alıyor, para ve zaman harcıyorsunuz — ama hâlâ konuşamıyorsa, sistem onu da mahvediyor."
 
----
+**Ebeveyn V2:**
+"Diğer çocuklar konuşuyor. Sizin çocuğunuz test geçiyor. Bu fark büyümeden kapatılabilir — ama gramerle değil."
 
-### Açı 7: Niş Spesifik (Kariyer Odaklı Alt Segment)
-
-Kariyer engeli yaşayan çalışan yetişkini doğrudan hedefle.
-
-**V1 — Terfi açısı:**
-"O terfi. O uluslararası proje. O müşteri görüşmesi. Hep İngilizce bilene gitti. 5 ay sonra bu değişiyor — ya da tüm ücret iade."
-
-**V2 — İş görüşmesi tetikleyicisi:**
-"İş görüşmesinde İngilizce sorusu gelince ne yapıyorsun? 'Yazılı anlıyorum' mı diyorsun? Sonraki görüşmeden önce 5 ay var. Bu 5 ay yeter."
-
-**Neden güçlü:** Tetikleyici olayı (iş görüşmesi, terfi fırsatı) doğrudan hedefler. Aciliyeti yükseltir, karar anını öne çeker.
+**Neden işe yarar:** Antakya pazarındaki en güçlü tetikleyici duygu bu açıda. Yıllar içinde birikmiş hayal kırıklığı ve öfke, "sorun sen değildin" çerçevesiyle birleşince anlık satın alma kararı üretiyor. Pazar araştırması bu acının 9/10 yoğunlukta olduğunu doğruluyor.
 
 ---
 
-### Açı 8: Merak / Provokasyon (Öz Farkındalık Tetikleyici)
+### Açı 4: Kimlik Odaklı (Identity-Based) ⭐ ÖNERİLEN
 
-Müşteriyi düşündüren, savunmaya geçirmeden kendi durumunu fark ettiren soru.
+**Segment:** Yetişkin — özellikle kariyer hedefli
 
-**V1 — Kendine yöneltilen soru:**
-"Kaç yıldır İngilizce öğreniyorsun? Şimdi kendini bir yabancıya tanıtabilir misin? Eğer cevabın 'hayır' ise — sorun sen değilsin. Ama değişmez de, eğer aynı şeyi yapmaya devam edersen."
+**V1:**
+"Gramer bilen biri değil, dünyayla konuşan biri olmak istiyorsunuz. Unmute, tam olarak bunu inşa ediyor."
 
-**V2 — İstatistiksel kanca:**
-"Türkiye'de insanlar ortalama 8–12 yıl İngilizce okuyor. Kaçı gerçekten konuşabiliyor? Sorun yetenek değil — sorun yöntem. Ve bunu değiştiren Antakya'da bir okul var."
+**V2:**
+"'İngilizce biliyorum ama konuşamıyorum' cümlesi artık sizi tanımlamasın. 90 günde yeni kimliğinizi inşa edin — belgesiyle."
 
-**Neden güçlü:** Müşteri kendisi söyler — okul söylemez. İçselleştirme sağlar, savunma refleksini bypass eder. Organik içerik için ideal format.
-
----
-
-## Top 3 Açı
-
-### 1. Açı 1: Sistem Karşıtı — "Bu senin hatan değil"
-
-**Neden birinci:** Bu açı, müşterinin satın alma kararının önündeki en büyük psikolojik bloğu — "belki ben aptaldım, bir daha para harcamak istemiyorum" inancını — doğrudan kırar. Tüm diğer açılar bu inanç kırılmadan yüzeyde kalır. Her kanal, her format, her mesajın altında bu çerçeve olmalı. Hem yetişkin hem ebeveyn segmenti için eşit güçte çalışıyor.
-
-### 2. Açı 3: Acı Odaklı — "Gece düşünceleri"
-
-**Neden ikinci:** Müşteri "bu beni anlıyor" dediğinde okula güvenir — bu güven satıştan önce gelir. Derin acıyı seslendirmek (özellikle gizli acıyı — "belki ben hiç öğrenemeyeceğim") okul ile müşteri arasında duygusal bağ kurar. Bu bağ olmadan garanti bile yeterli değildir. Organik içerikte en yüksek etkileşimi bu açı üretir.
-
-### 3. Açı 4: Garanti Odaklı — "Ya da paranı iade ederiz"
-
-**Neden üçüncü:** "Daha önce para verdim işe yaramadı" itirazı bu pazardaki en büyük satış engelidir (MARKET_RESEARCH.md — aciliyet skoru 8/10 ama geçmiş hayal kırıklığı nedeniyle gezgin moduna geçmiş potansiyel müşteriler var). Garanti bu engeli tek cümlede kırar. Sistem suçu (Açı 1) + acı tanıma (Açı 3) + garanti (Açı 4) üçlüsü birlikte çalışınca — güven + anlayış + risk yokluğu — satışa en doğrudan yol oluşur.
+**Neden işe yarar:** Yetişkin kariyer segmenti bir beceri değil, bir kimlik dönüşümü satın alıyor. "Özgüvenli konuşan profesyonel" kimliğiyle özdeşleşme motivasyonu, fiyat direncini aşıyor.
 
 ---
 
-## Kanal Bazlı Kullanım Önerileri
+### Açı 5: Çaba Odaklı (Effort-Based)
 
-| Kanal | Önerilen Açı | Neden |
-|---|---|---|
-| Instagram organik içerik | Açı 8 (Merak) + Açı 3 (Acı) | Yorum ve paylaşım tetikler, organik erişim yüksek |
-| Instagram / Facebook reklamı | Açı 1 (Sistem Suçu) + Açı 4 (Garanti) | Hızlı güven + risk yokluğu = tıklama ve DM |
-| Landing page başlığı | Açı 1 (Sistem Suçu) | İlk 3 saniyede inanç kırılır |
-| Landing page güven bölümü | Açı 7 (Sosyal Kanıt + Kariyer) | 100 öğrenci referansı + sonuç kanıtı |
-| WhatsApp / DM satış konuşması | Açı 3 (Acı) + Açı 4 (Garanti) | Kişisel, empati önce, risk sonra kaldırılır |
-| Ebeveyn segmenti | Açı 2 (Önce/Sonra) + Açı 5 (Kimlik) | Duygusal + statü motivasyonu güçlü |
-| Yetişkin kariyer segmenti | Açı 6 (Rakip Karşıtı) + Açı 7 (Niş Spesifik) | Geçmiş başarısızlık mantıklandırılır + aciliyet tetiklenir |
-| Yüksek bilet satış görüşmesi | Açı 1 + Açı 4 + Açı 7 | Sistem suçu + garanti + kariyer sonucu üçlüsü |
+**Segment:** Her iki segment — özellikle "vaktim yok" itirazı taşıyanlar
+
+**Yetişkin V1:**
+"Gramer ezberlemek yok. Kelime listesi yok. Sadece konuşuyorsunuz — ve her seans sizi bir adım daha ileriye taşıyor."
+
+**Yetişkin V2:**
+"Hata yapmaktan korkmadan, yargılanmadan pratik yapabileceğiniz tek ortam. Konuşmak bu kadar kolay olmamıştı."
+
+**Çocuk V1:**
+"Çocuğunuz ders yapmıyor — oynuyor, rol yapıyor, eğleniyor. Ve bu süreçte İngilizce konuşmayı öğreniyor."
+
+**Çocuk V2:**
+"Evde kitap açtırmanıza gerek yok. Günlük 10 dakikalık Dijital Alıştırma Kiti ile kamp dışında da ilerleme devam ediyor."
+
+**Neden işe yarar:** "Zaten çok şey denedim, yoruldum" profili için çaba engeli kritik bir itiraz noktası. Kolaylık ve düşük sürtünme vurgusu bu profili harekete geçirir.
 
 ---
 
-*Kaynak: MARKET_RESEARCH.md içgörüleri + iş brifingi + Grand Slam Offer çerçevesi*
+### Açı 6: Hız Odaklı (Speed-Based) ⭐ ÖNERİLEN
+
+**Segment:** Her iki segment
+
+**Yetişkin V1:**
+"Yıllarca beklemeye gerek yok. 90 günde — iş görüşmesinde, toplantıda, müşteri görüşmesinde konuşacaksınız."
+
+**Yetişkin V2:**
+"Diğer kurslar size yıllık program öneriyor. Biz 90 günde kariyer seviyesi konuşma özgüveni ve belgesi veriyoruz."
+
+**Çocuk V1:**
+"1 yaz. Çocuğunuzun İngilizcesindeki dönüşümü kendiniz göreceksiniz — sonbaharda okula döndüğünde herkes fark edecek."
+
+**Çocuk V2:**
+"60 günde CEFR belgesi. Diğer çocuklar yıllarca bekledi — sizin çocuğunuz bu yaz başlıyor."
+
+**Neden işe yarar:** Yaz kampı için hız açısı en güçlü tetikleyicidir — çünkü yaz kısıtlı bir zaman penceresidir ve "şimdi karar ver ya da bir yıl daha bekle" aciliyeti doğal olarak oluşur.
+
+---
+
+### Açı 7: Niş Odaklı (Niche-Specific)
+
+**Segment:** Alt segmentlere özel
+
+**Antakyalı Esnaf / Küçük İşletme Sahibi V1:**
+"Yabancı müşteriniz geliyor, siz tercüman arıyorsunuz. Unmute ile 90 günde kendi müşterinizle konuşun — iş fırsatlarını başkasına bırakmayın."
+
+**Antakyalı Esnaf / Küçük İşletme Sahibi V2:**
+"Antakya'nın turizm potansiyeli büyüyor. Yabancı misafirinize kendiniz rehberlik edebiliyor musunuz? 90 günde evet diyebilirsiniz."
+
+**Yurt Dışı Hayali Olan Genç Yetişkin V1:**
+"Yurt dışı başvurusu, vize görüşmesi, yurt dışında çalışma mülakatı — hepsi İngilizce. 90 günde hazır olun."
+
+**Yurt Dışı Hayali Olan Genç Yetişkin V2:**
+"Europass ve eDevlet belgesi ile CV'niz artık Türkiye sınırlarını aşıyor. Uluslararası iş başvurusu için fark yaratın."
+
+**Neden işe yarar:** Antakya'nın özgül ekonomik ve sosyal dinamiklerine dokunuyor — turizm büyümesi, yurt dışı göçü, küçük işletme rekabeti. Genel mesaj yerine "bu senin için" hissi yaratıyor.
+
+---
+
+### Açı 8: Karşı Açı / Anti-Angle
+
+**Segment:** Her iki segment — özellikle şüpheci profil
+
+**Yetişkin V1:**
+"Daha fazla gramer öğrenmek konuşmanızı iyileştirmez. İngilizce gramerini zaten biliyorsunuz — eksik olan pratik. Biz pratik satıyoruz."
+
+**Yetişkin V2:**
+"'İngilizce kursuna gideyim mi?' sorusunu yanlış soruyorsunuz. Doğru soru: 'Beni konuşturan kursa mı, gramer öğreten kursa mı gideyim?' — fark bu."
+
+**Çocuk V1:**
+"Çocuğunuz daha fazla gramer testi çözmüyor. Daha fazla konuşma alışkanlığı kazanıyor. Test sonucu değil, hayat becerisi."
+
+**Çocuk V2:**
+"Okul zaten gramer öğretiyor. Biz okula rakip değiliz. Okul öğrettiğini biz konuşmaya dönüştürüyoruz — bu fark her şeyi değiştiriyor."
+
+**Neden işe yarar:** Şüpheci ve "daha önce hayal kırıklığı yaşadım" profilleri için karşı açı, kategorik bir ayrım yaratıyor. "Diğer kurslarla biz aynı şey değiliz" mesajı hem güven hem merak inşa ediyor.
+
+---
+
+## En Güçlü 3 Açı
+
+### 1. Açı 3 — Acı Odaklı
+**Neden:** Antakya pazarındaki mevcut müşterilerin %90'ı "gramer öğrendim ama konuşamıyorum" profilinden geliyor. Bu acı hem yetişkin hem ebeveyn segmentini aynı anda hedefliyor. Pazar araştırması bu acının 9/10 yoğunlukta, aciliyetinin 8/10 olduğunu teyit ediyor. "Sorun sen değildin — sistem yanlıştı" çerçevesi okula özgü ve kopyalanamaz. Hayal kırıklığı yaşamış müşterileri hızla alıcıya dönüştürüyor.
+
+### 2. Açı 4 — Kimlik Odaklı
+**Neden:** Yetişkin kariyer segmenti için fiyat direncini aşan tek etken kimlik dönüşümüdür. "Gramer bilen biri" olmak değil, "özgüvenle konuşan profesyonel" olmak satın alınıyor. Europass + eDevlet sertifikası bu kimlik dönüşümünü somutlaştırıyor ve doğrulayıcı bir sosyal kanıt olarak işlev görüyor. Yüksek fiyat paketleri (90.000 TL) için bu açı kapatıcı mesaj.
+
+### 3. Açı 6 — Hız Odaklı
+**Neden:** Yaz kampı için doğal bir aciliyet penceresi oluşuyor — yaz bitmeden karar ver ya da bir yıl daha bekle. "60 günde sonuç" ve "90 günde belge" iddiaları CEFR ölçümüyle desteklendiği için güvenilir. Hız açısı özellikle sosyal medya içeriklerinde ve reklam kopyasında en yüksek tıklama oranını üretecek açıdır.
+
+---
+
+## Önerilen Kullanım
+
+- **Reklamlarda en iyi:** Açı 3 (Acı Odaklı) + Açı 6 (Hız Odaklı) — kısa, tetikleyici, scroll durduran
+- **Açılış sayfasında en iyi:** Açı 4 (Kimlik Odaklı) — dönüşüm için derin duygusal bağlantı
+- **Organik içerikte en iyi:** Açı 8 (Karşı Açı) + Açı 3 (Acı Odaklı) — paylaşım ve yorum tetikler, "ben de böyleyim" etkisi
+- **Yüksek fiyatlı satışta en iyi:** Açı 4 (Kimlik Odaklı) + Açı 1 (Sonuç Odaklı) — değer algısını yükseltir, fiyat itirazını azaltır
+
+---
+
+*Oluşturulma tarihi: 17 Haziran 2026*
 
 
 ---
@@ -1908,298 +2349,296 @@ Kayıt yapmak zorunda değilsin şu an. Ücretsiz 30 dakikalık Konuşma Engeli 
 ---
 
 # LANDING_PAGE.md
-# Antakya Amerikan Kültür Dil Okulu — Landing Page Metni
+# Antakya Amerikan Kültür Dil Okulu — KonuşAmerika Landing Page Metni
 
 *Oluşturulma tarihi: 17 Haziran 2026*
 
 ---
 
-## Sayfa Yapısı ve Amaç
+## Bölüm 1: Hero
 
-Bu sayfa tek bir iş yapacak: yıllarca İngilizce okuyup hâlâ konuşamayan Antakyalı yetişkini (ve çocuğu için endişeli ebeveyni) ücretsiz değerlendirme seansına yönlendirmek.
-
-Ton: Sistemi suçla, kişiyi asla. Güçlendirici, dürüst, pazarlamacı dili yok.
+**Bu bölümün amacı:** Ziyaretçiyi ilk 5 saniyede durdurmak. En güçlü kanca burada. Kimliği tanımlama ve sonucu sunma.
 
 ---
 
-## Bölüm 1: Hero
+**Ana Başlık:**
+12 Yıl İngilizce Okudun. Hâlâ Konuşamıyorsun.
+Bu Senin Sorunun Değil — Yöntemin Sorunuydu.
 
-*Tasarımcıya not: Bu bölümün amacı — ilk 3 saniyede "bu beni anlıyor" hissini vermek ve kaydırmaya devam ettirmek.*
+**Alt Başlık:**
+KonuşAmerika 5'te her dersin %70'i konuşma pratiği. 5 ayda CEFR belgeli konuşma kapasitesi. Konuşamazsan — tüm ücret iade. Yazılı sözleşmeyle.
 
-### Ana Başlık
+**CTA Butonu:**
+Ücretsiz Konuşma Engeli Tespiti'ne Kayıt Ol
 
-**Yıllarca İngilizce Okudun. Hâlâ Konuşamıyorsun.**
-**Sorun Sen Değilsin.**
-
-### Alt Başlık
-
-Türk eğitim sistemi seni gramer makinesi yaptı — konuşan insan değil. Biz farklı çalışıyoruz: her dersin %70'i konuşma pratiği. 5 ayda sonuç. Garantili.
-
-### CTA Butonu
-
-**Ücretsiz CEFR Değerlendirmesini Rezerve Et — Taahhütsüz**
-
-*(Alt metin: 30 dakika. Şu an hangi seviyedesin, 5 ayda nereye gelebilirsin — birlikte görüyoruz.)*
+**CTA altı not (küçük metin):**
+30 dakika. Taahhütsüz. Ücret yok.
 
 ---
 
 ## Bölüm 2: Acı Tanıma
 
-*Tasarımcıya not: Bu bölümün amacı — müşteriyi "bu kesinlikle benim durumum" dedirtmek. Özsuçlama yok — sadece tanıma.*
-
-### Başlık
-
-**Bu durumlardan herhangi biri tanıdık mı?**
-
-- Toplantıda yabancı biri oturunca sesin çıkmıyor — kafanda cümleyi kuruyorsun ama ağzından çıkmıyor
-- Özgeçmişine "iyi derecede İngilizce" yazıyorsun ama içinden "yarın sınasalar geçemem" diye düşünüyorsun
-- Yurt dışına gittiğinde ne yemek sipariş edeceğini google translate'le çözüyorsun
-- İş görüşmesinde "İngilizce biliyor musunuz?" sorusu gelince "yazılı anlıyorum" diyorsun
-- Bir daha kursa para vermeye korkuyorsun çünkü hep aynı son: gramer, gramer, gramer — konuşma yok
-
-Eğer bunlardan en az biri tanıdık geliyorsa — devam et. Bu sayfa senin için.
+**Bu bölümün amacı:** Ziyaretçi "Bu tam benim durumum" demeli. Müşteri kendini görülmüş ve anlaşılmış hissetmeli. Suçlama yok — yansıtma var.
 
 ---
 
-## Bölüm 3: Kırılma Anı — "Bu Senin Hatan Değil"
+**Başlık:** Senin durumun bu mu?
 
-*Tasarımcıya not: Bu bölümün amacı — müşterinin içselleştirdiği "belki ben aptaldım" inancını kırmak. Bu kırılma olmadan hiçbir satış çalışmaz.*
+- Toplantıda yabancı biri İngilizce soruyor. Kafanda cümle var — ama ağzından çıkmıyor. Susuyorsun. Sonra o pozisyon başkasına gidiyor.
 
-### Başlık
+- Özgeçmişine "iyi derecede İngilizce" yazdın. Ama yabancı bir müşteri geldiğinde başka odaya geçiyorsun. İçten içe biliyorsun bu çelişkiyi.
 
-**Neden bu kadar yıl okudun ama konuşamıyorsun?**
+- Para verdin. Kurs aldın. Gramer öğrendin. Ama konuşma yok. Ve artık içinden geçiyor: "Belki ben gerçekten dil yeteneği olmayan birisiyim."
 
-Türkçe'yi kaç yaşında öğrendin? İki, üç yaşında. Sana o zaman gramer tablosu gösterdiler mi? Hayır. Konuşarak öğrendin.
+- Yurt dışına gidince yanındakini iter misin? Otelde, havalimanında, restoranda — sesin çıkmıyor. Bu his her seyahatten daha uzun sürüyor.
 
-İngilizce derslerinde geçirdiğin yılların kaçında sahici konuşma pratiği yaptın? Büyük ihtimalle sıfır ya da sıfıra yakın. Zamanlar öğretildi. Kurallar ezber yaptırıldı. Test çözüldü. Ama konuşma olmadı.
+- Bir üst pozisyon, uluslararası proje, kariyer adımı. Hepsi "İngilizce bilene" gidiyor. Sen izliyorsun.
 
-Kimse konuşmadan konuşmayı öğrenemez. Bu bir yetenek meselesi değil. Bu bir yöntem meselesi.
+Eğer bunlardan biri sana tanıdık geldiyse — devam et. Çünkü bu durumun sebebini ve çözümünü burada açıklıyoruz.
 
-**Sorun sen değildin. Sorun sistemdi. Ve sistem değişebilir.**
+---
+
+## Bölüm 3: Sistem Suçu
+
+**Bu bölümün amacı:** "Belki ben aptalım" inancını kırmak. Müşteriye suçun kendisinde değil, yanlış sisteme maruz kalmakta olduğunu göstermek. Bu bölüm duygusal kırılma noktası.
+
+---
+
+**Başlık:** Bu senin hatan değil.
+
+Türkiye'de İngilizce eğitimi şu şekilde tasarlandı: gramer ezberlet, sınav geçir, notu yükselt. Konuşturmak? Hiç gündemde değildi.
+
+8 ila 12 yıl boyunca zamanlar öğrendin, bağlaçlar öğrendin, edilgen yapılar öğrendin. Ama hiç kimse seni gerçek anlamda konuşturmadı.
+
+Ve konuşma pratiği olmadan dil aktive olmuyor. Bu bir yorum değil — dilbilimin temel gerçeği. Bebek Türkçe'yi nasıl öğrendi? Gramer kitabı okuyarak değil — konuşarak. Sen de Türkçe'yi konuşarak öğrendin. İngilizce'yi ise gramer ezberleyerek öğrenmeye çalıştın. Sistem böyle kurulmuştu.
+
+Sorun gramer bilgin yok değil. Sorun gramer bilgini konuşmaya dönüştürecek pratik hiç yapılmadı.
+
+Sistem seni başarısız kılmak için değil — gramer sınavından geçirmek için tasarlandı. O amacı başardı. Konuşturmak amacıyla değil.
+
+Şimdi doğru sistem var.
 
 ---
 
 ## Bölüm 4: Sosyal Kanıt
 
-*Tasarımcıya not: Bu bölümün amacı — "bu gerçekten işe yarıyor mu?" şüphesini kırmak. Öğrenci hikayeleri için şablon.*
-
-### Başlık
-
-**Sıfır reklam verdik. 100 öğrenciye ulaştık. Nasıl?**
-
-Öğrenciler arkadaşlarını getirdi. Çünkü konuştular.
+**Bu bölümün amacı:** "Bu da aynı diğerleri gibi" şüphesini kırmak. Organik büyümeyi güven kanıtına dönüştürmek. Bireysel hikayeler için yer açmak.
 
 ---
 
-**[Öğrenci Hikayesi Şablonu 1 — Yetişkin Kariyer]**
+**Başlık:** Sıfır Reklam. 100 Öğrenci. Neden?
 
-*"[İsim], [yaş], [meslek].*
+Bugüne kadar hiç reklam vermedik. Sosyal medyada ücretli kampanya yok. Broşür yok. Kalabalık fuarlar yok.
 
-*Beş yıl önce bir iş görüşmesinde İngilizce sorusu geldi ve donup kaldım. O günden beri o pozisyona başvurmayı bıraktım.*
+Yine de 100 aktif öğrencimiz var.
 
-*KonuşAmerika 5'te 5 ay geçirdim. Geçen ay aynı tür bir görüşmeye girdim. Bu sefer cevap verdim. İşi aldım.*
+Bu nasıl oluyor? Öğrenci konuşmaya başlıyor. Bunu işe gidince, ailesiyle konuşunca, arkadaşlarına anlatınca — biri soruyor: "Nerede öğrendin?" Böyle büyüdük.
 
-*Sorun ben değilmişim. Yöntem yanlışmış."*
+Bu olmayan bir şeyin reklamı değil — gerçek sonucun yayılması.
+
+---
+
+**[Öğrenci Hikayesi Şablonu 1 — Yetişkin / Kariyer]**
+
+"[Ad, yaş, meslek]"
+
+"[Program öncesi durum: ne yapamıyordu, ne kaçırıyordu, nasıl hissediyordu.]"
+
+"[Dönüm noktası: KonuşAmerika'ya neden geldi.]"
+
+"[5 ay sonra: ne değişti, hangi somut fırsat açıldı.]"
+
+*[Fotoğraf / video]*
 
 ---
 
 **[Öğrenci Hikayesi Şablonu 2 — Ebeveyn]**
 
-*"[İsim], [yaş]'ındaki çocuğunun velisi.*
+"[Ad, meslek]"
 
-*Ben de böyle büyüdüm — yıllarca İngilizce, hiç konuşamadım. Çocuğumun aynı yolu gitmesini istemiyordum.*
+"Çocuğum [ad], [yaş]. [Program öncesi: ne yapamıyordu, hangi kursları denemiş, nasıl sonuçlanmış.]"
 
-*5 ay sonra çocuğum yabancıyla cümle kuruyor. Gramer defteri yok. Konuşma var."*
+"[5 ay sonra: ne yapabiliyor artık. Ebeveynin gözlemlediği somut değişim.]"
+
+*[Fotoğraf / video]*
 
 ---
 
-**[Rakamsal Kanıt Bloğu]**
-
-- 100+ aktif öğrenci — sıfır reklam ile
-- 500.000 TL/ay gelir — organik büyüme
-- 5 yıllık faaliyet — Antakya'da
-- Antakya'da yüzde yetmiş konuşma oranıyla tek okul
+*Not: Bu bölüme en az 3 gerçek öğrenci hikayesi eklenmelidir. Yüz, isim ve somut öncesi/sonrası — bunlar olmadan garanti bile tam inandırıcı olmuyor.*
 
 ---
 
 ## Bölüm 5: Program Detayı
 
-*Tasarımcıya not: Bu bölümün amacı — "peki tam olarak ne alıyorum?" sorusunu yanıtlamak.*
-
-### Başlık
-
-**İki Program. Farklı başlangıç noktaları. Aynı hedef: konuşmak.**
+**Bu bölümün amacı:** "Bu nasıl çalışıyor?" sorusunu net ve sade biçimde yanıtlamak. 4 adımda açıklamak — karmaşıklık yok.
 
 ---
 
-### KonuşAmerika 5 — 5 Ayda Konuşma Sistemi
+**Başlık:** KonuşAmerika Nasıl Çalışıyor?
 
-**Kim için:** Kariyer veya günlük hayat için gerçek konuşma kapasitesi isteyen yetişkin. Ya da çocuğuna temel İngilizce konuşma becerisi kazandırmak isteyen ebeveyn.
+**Adım 1 — Nerede Başlıyorsun?**
+Kayıt öncesinde ücretsiz 30 dakikalık Konuşma Engeli Tespiti yapıyoruz. Şu an hangi CEFR seviyesindesin, 5 ayda nereye gidebilirsin, engelin tam olarak ne — somut olarak görüyorsun. Taahhüt yok.
 
-**Neler dahil:**
-- 5 ay boyunca haftada 3 seans, 60 dakika
-- Her dersin %30'u gramer altyapısı, %70'i konuşma pratiği
-- 4–6 kişilik küçük grup (aynı CEFR başlangıç seviyesinden)
-- CEFR başlangıç değerlendirmesi + dönem sonu ilerleme ölçümü
-- Ayda 1 bireysel ilerleme görüşmesi (10–15 dakika)
-- WhatsApp destek grubu — haftalık pratik egzersizler
-- 4 telafi dersi hakkı
-- Dönem sonu CEFR ilerleme belgesi
+**Adım 2 — Program Başlıyor**
+Haftada 3 gün, 60 dakika. Maks. 6 kişilik küçük grup — senin başlangıç seviyenden insanlarla. Her dersin %70'i konuşma pratiği: gerçek senaryolar, diyaloglar, simülasyonlar. Gramer ihtiyaç duyuldukça öğretiliyor — ayrı bir ders olarak değil.
 
-**Fiyat:** 5.500 TL/ay → 5 ay toplam
+Zaman kısıtın mı var? Esnek saat seçenekleri var — sabah erken veya akşam üstü. 4 telafi dersi hakkın var. Bir hafta kaçırsan telafi edebilirsin.
+
+**Adım 3 — İlerlemeni Görüyorsun**
+Her ay CEFR ölçümü. Başladığın seviye kayıtlı. Her ay "Bu ay neredeyim?" sorusunun cevabı sayıyla gelecek. Muğlaklık yok. Her ay birebir Dönüşüm Kontrolü görüşmesiyle öğretmenin ile konuşuyorsun.
+
+**Adım 4 — 5 Ay Sonunda**
+CEFR belgeli sonuç. Özgeçmişine yazabileceğin uluslararası geçerli ilerleme belgesi. Ve en önemlisi: toplantıda, yurt dışında, iş görüşmesinde — artık susmuyor, konuşuyorsun.
 
 ---
 
-### KonuşAmerika Yaz Sprint — 1 Ayda Başla
+**KonuşAmerika Yaz Sprint — Önce Deneyelim mi?**
 
-**Kim için:** "Deneyelim bakalım" kafasında olan, uzun taahhütten çekinen, ya da hızlı bir başlangıç isteyen kişi.
+"5 aylık taahhüt vermek için henüz emin değilim" diyorsan — Yaz Sprint tam sana göre.
 
-**Neler dahil:**
-- 4 hafta yoğun format — haftada 5 seans, 45 dakika
-- İlk haftadan itibaren gerçek konuşma senaryoları
-- CEFR giriş değerlendirmesi
-- Ana programa geçiş için önerilen başlangıç noktası
+4 haftada yoğun konuşma pratiği. Haftada 5 seans, 45 dakika. Temel iletişim kapasitesi: kendini tanıtmak, yönleri sormak, basit günlük diyalog kurmak.
 
-**Fiyat:** 7.500 TL / 1 ay
+4 hafta sonunda "Bu çalışıyor" diyorsan — 5 aylık KonuşAmerika 5 programına öncelikli geçiş hakkın var.
+Fiyat: 7.500 TL / 1 ay.
 
 ---
 
 ## Bölüm 6: Değer Yığını
 
-*Tasarımcıya not: Bu bölümün amacı — fiyatın küçük görünmesini sağlamak, değer algısını somutlaştırmak.*
+**Bu bölümün amacı:** Fiyatı söylemeden önce alınan değeri somutlaştırmak. "Bu kadar para vermek mantıklı mı?" sorusunu önceden yanıtlamak. Toplam değer fiyatın 2 katından fazla gösterilmeli.
 
-### Başlık
+---
 
-**KonuşAmerika 5'te ne alıyorsun?**
+**Başlık:** KonuşAmerika 5'e Katıldığında Ne Alıyorsun?
 
-| Bileşen | Bağımsız Değer |
-|---|---|
-| 5 aylık konuşma odaklı program (~60 seans) | 18.000 TL |
-| CEFR başlangıç ve bitiş değerlendirmesi | 1.000 TL |
-| Kişisel konuşma ilerleme haritası | 800 TL |
-| 5 bireysel ilerleme görüşmesi (aylık) | 2.500 TL |
-| "İlk 60 Dakikada Konuşun" açılış paketi | 600 TL |
-| WhatsApp destek + haftalık egzersizler | 1.200 TL |
-| Dönem sonu CEFR ilerleme belgesi | 500 TL |
-| Yazılı Konuşma Garantisi Belgesi | Değeri ölçülemez |
-| **Toplam Yığın Değeri** | **~24.600 TL** |
-| **Gerçek Fiyat** | **5.500 TL/ay** |
+| Bileşen | Açıklama | Değer |
+|---|---|---|
+| 5 Aylık Konuşma Dönüşüm Programı (~60 seans) | Haftada 3 gün, maks. 6 kişilik küçük grup, %70 konuşma odaklı. Piyasada bireysel derste bu saatler 35.000 TL tutar. | 35.000 TL |
+| Kişisel 5 Aylık Konuşma Yol Haritası | Başlangıç seviyenizden hedef seviyenize giden özel plan. Her ay ne yapacağınızı önceden biliyorsunuz. | 1.500 TL |
+| Aylık Dönüşüm Kontrolü (5 seans) | Her ay öğretmeninizle birebir: bu ay ne ilerlediniz, nerede takıldınız, önümüzdeki ay ne yapacaksınız. | 5.000 TL |
+| İlk 60 Dakikada Konuşun — Hızlı Güven Başlangıcı | İlk ders sonunda kendinizi yabancıya İngilizce tanıtıyorsunuz. "Bu işe yarıyor" hissi ilk saatte geliyor. | 800 TL |
+| Günlük Konuşma Sahası (WhatsApp, 5 ay) | Ders saatleri bitmeden pratik bitmiyor. Günlük sorular, kısa egzersizler, öğrendiklerinizi pekiştirme. | 2.500 TL |
+| Konuşma Engeli Tespiti — Ücretsiz 30 Dakika + PDF Rapor | Kayıt öncesi neden hâlâ konuşamadığınızı somut olarak görüyorsunuz. | 800 TL |
+| Uluslararası Konuşma Düzeyi Belgesi (CEFR Onaylı) | Özgeçmişinize yazabileceğiniz, uluslararası geçerli ilerleme belgesi. Başladığınız yer ile bitirdiğiniz yer yan yana. | 1.200 TL |
+| 5 Ay Konuşma Garantisi — Yazılı Taahhüt Belgesi | "5 ayda konuşamazsan ücret iade" — bu bir söz değil, imzalanan belge. | 5.000 TL |
+| Esnek Saat Seçeneği + 4 Telafi Dersi Hakkı | Hayat sizi koparsa telafi var. Bir hafta kaçırsanız geri dönebilirsiniz. | 2.000 TL |
+| **Toplam Değer** | | **53.800 TL** |
+| **KonuşAmerika 5 Fiyatı** | | **27.500 TL (5.500 TL/ay x 5 ay)** |
 
-*Günlük çerçeveleme: 5 ay, 5.500 TL/ay = günde 183 TL. Bir öğle yemeği.*
+Fiyatın 2 katı değer. Ve konuşamazsan — ücret iade.
 
 ---
 
 ## Bölüm 7: Garanti
 
-*Tasarımcıya not: Bu bölümün amacı — "bir daha para batarsa" korkusunu tamamen ortadan kaldırmak.*
+**Bu bölümün amacı:** "Yine para harcayıp hayal kırıklığı yaşarım" korkusunu tamamen kaldırmak. Risk müşteriden okula transfer edilmeli.
 
-### Başlık
+---
 
-**5 Ayda Konuşamazsan — Tüm Ücretini İade Ediyoruz**
+**Başlık:** 5 Ay Konuşma Garantisi
 
-Bu bir pazarlama lafı değil. Yazılı sözleşme.
+Antakya'da bunu söyleyen başka okul yok.
 
-**Koşullar:**
-- Derslerin %80'ine katılım (5 ayda 48/60 seans)
-- Haftalık pratik görevleri tamamlama
-- 5 ay sonunda CEFR değerlendirmesi
+Biz söylüyoruz.
 
-Bu iki koşul sağlanır ve 5 ay sonunda konuşma kapasitesinde ölçülebilir ilerleme olmazsa — ücretin tamamı iade edilir.
+**Garanti nasıl çalışır:**
+
+KonuşAmerika 5 programına katıl. 5 ay boyunca seansların %80'ine devam et. Haftalık pratik görevlerini tamamla. 5 ayın sonunda İngilizce konuşma kapasitesi kazanamamışsan — ödediğinin tamamını iade ediyoruz.
+
+Bu bir söz değil. Kayıt anında imzalanan belgedir.
 
 **Neden bu garantiyi verebiliyoruz?**
 
-Çünkü zaten çalışıyor. 100 öğrencimiz var. Öğrenciler arkadaşlarını getiriyor. Sonuç üretmeyen bir okul bu büyümeyi organik olarak yapamazdı.
+Çünkü sistemimizin çalıştığını biliyoruz. 100 öğrenci, sıfır reklam — bu organik büyüme gerçek sonucun kanıtı. Rakipler garanti veremiyor çünkü sonuç üretmiyorlar. Biz verebiliyoruz çünkü üretiyoruz.
 
-Bu garantiyi Antakya'da başka bir okul veriyor mu? Hayır. Biz veriyoruz. Çünkle arkasındayız.
+Koşullar nettir. İki şey istiyoruz: devam ve pratik. Gerisini biz hallediyoruz.
 
 ---
 
 ## Bölüm 8: Fiyat
 
-*Tasarımcıya not: Bu bölümün amacı — fiyatı değer bağlamında sunmak, "çok pahalı" düşüncesinin gelmesini önlemek.*
-
-### Başlık
-
-**Yatırım — Kariyer Bağlamında**
-
-Türkiye'de İngilizce konuşabilen biri ile konuşamayan arasındaki yıllık maaş farkı ortalama 60.000 – 100.000 TL.
-
-Bu program toplam 27.500 TL. Tek bir kariyer adımı bu programı 3 ila 4 kat geri öder.
+**Bu bölümün amacı:** Fiyatı değer bağlamında sunmak. Karşılaştırma yapmak. "Bu kadar vermek mantıklı mı?" sorusuna "evet" dedirtmek. Günlük çerçeveleme kullanmak.
 
 ---
 
-**KonuşAmerika Yaz Sprint**
-7.500 TL — 1 ay, taahhütsüz başlangıç
+**Başlık:** Yatırım
 
-**KonuşAmerika 5**
-5.500 TL/ay — 5 ay, garantili sonuç
+KonuşAmerika 5: 5.500 TL/ay — Toplam 27.500 TL (5 ay)
 
-**Premium (Birebir + Küçük Grup)**
-9.500 TL/ay — tamamen kişiselleştirilmiş
+Bunu bir perspektife oturtalım:
+
+Türkiye'de İngilizce konuşan bir çalışan ile konuşamayan arasındaki yıllık maaş farkı ortalama 60.000 ile 100.000 TL. Bu program maliyeti tek bir kariyer adımıyla ilk yılda geri dönüyor.
+
+Şu ana kadar İngilizce kurslarına ne kadar harcadın? Gramer öğreten ama konuşturmayan kurslara? O para gitti — ve bu sefer hâlâ konuşamıyorsun. Bu program çalışmıyorsa paranı geri alırsın.
+
+Günlük çerçeve: 5.500 TL/ay, günde 183 TL. Bir öğle yemeği fiyatına, her gün konuşma pratiği. Fark şu: öğle yemeği yarın seni toplantıda konuşturmaz. Bu program konuştururur.
+
+**Aylık ödeme:** 5.500 TL/ay x 5 ay. "Toplam 27.500 TL" yerine aylık düşün.
+
+**KonuşAmerika Yaz Sprint:** 7.500 TL / 1 ay. Önce dene, sonra karar ver.
 
 ---
 
-*Aylık ödeme seçeneği mevcuttur. Erken kayıt için ilk 5 kişiye 5.000 TL/ay sabitleniyor.*
+**Karşılaştırma:**
+
+| Seçenek | Maliyet | Sonuç |
+|---|---|---|
+| Bireysel özel ders (haftada 3 gün, 5 ay) | 35.000-50.000 TL | Sadece ders, takip yok, garanti yok |
+| Klasik dil kursu (yıllarca denediler) | 3.000-15.000 TL/yıl | Gramer odaklı — zaten denediniz, çalışmadı |
+| Yurt dışı dil okulu (1 ay) | 60.000-100.000 TL | Kısa dönem, garanti yok |
+| **KonuşAmerika 5** | **27.500 TL / 5 ay** | **%70 konuşma, CEFR ölçümlü, garanti altında** |
 
 ---
 
-## Bölüm 9: SSS
+## Bölüm 9: Sıkça Sorulan Sorular
 
-*Tasarımcıya not: Bu bölümün amacı — sayfa terk edilmeden son itirazları kırmak.*
+**Bu bölümün amacı:** Satın alma kararını engelleyen son itirazları ortadan kaldırmak. SSS bölümü itiraz haritasının son savunma hattı.
 
-**S: "Daha önce kurslara para verdim, yine mi hayal kırıklığı yaşayacağım?"**
+---
 
-C: Bu endişeyi anlıyoruz. Fark şu: daha önce gittiğin kurslarda her dersin kaçında gerçek konuşma pratiği yaptın? Büyük ihtimalle sıfır. Biz %70 zamanı konuşmaya harcıyoruz. CEFR ile başlangıcını ölçüyoruz, ilerlemeyi takip ediyoruz. Ve 5 ayda konuşamazsan ücret iade. Riski biz üstleniyoruz.
+**S: Daha önce birçok kurs aldım ve hiçbirisi işe yaramadı. Bu neden farklı?**
+C: Daha önce aldığın kurslar büyük ihtimalle zamanın %70-80'ini gramer anlatmaya harcadı. Konuşma pratiği minimum düzeyde kaldı. KonuşAmerika'da tam tersi: her dersin %70'i konuşma. Bu yapısal bir fark. Üstelik 5 ayda konuşamazsan ücret iade. Önceki kurslar bunu söyledi mi?
 
-**S: "Belki ben dil yeteneği olmayan birisiyim."**
+**S: Haftada 3 gün programa devam etmek zor olabilir — işim çok yoğun.**
+C: Haftada 3 seans, her biri 60 dakika. Toplam haftada 3 saat. Sabah erken veya akşam üstü saat seçenekleri var — iş programına göre seçiyorsun. Bir hafta iş yoğunluğu nedeniyle kaçırırsan — 4 telafi dersi hakkın var. Programı senin hayatına göre esnek tasarladık.
 
-C: Türkçe'yi kaç yaşında öğrendin? Gramer kitabı okumadan. Konuşarak öğrendin. İngilizce de böyle öğrenilir — kullanarak. Türk eğitimi bunu hiç yaptırmadı. Sorun yetenek değil, maruz kalınan sistem. Mevcut öğrencilerimizin büyük çoğunluğu aynı düşünceyle geldi — 5 ay sonra aynı düşüncede değiller.
+**S: Bu program sınav hazırlığı (LGS, YKS, IELTS) için uygun mu?**
+C: Hayır. KonuşAmerika gerçek iletişim öğretiyor — sınav stratejisi değil. İş hayatında, günlük yaşamda, yurt dışında kullanabileceğin konuşma İngilizcesi. Sınav hazırlığı arıyorsan bu program sana uygun değil. Ama konuşmak istiyorsan — tam yerindesin.
 
-**S: "Grup mu? Bireysel ilgi olmaz mı?"**
+**S: Kaç yaşında başlamak çok geç olmaz mı?**
+C: Sorun yaş değil — yöntem. 30-40 yaş öğrencilerimiz 5 ayda somut sonuç aldı. Yetişkinlerin bir avantajı var: neden öğrendiğini biliyorsun. Kariyer, iletişim, kişisel hedef — bu netlik öğrenmeyi hızlandırıyor.
 
-C: Maksimum 4–6 kişi. 20-30 kişilik kalabalık sınıf değil. Öğretmen herkesi tanıyor. Her ay sana özel ilerleme görüşmesi var. Bu düzey kişiselleştirme çoğu özel ders programında dahi yok.
-
-**S: "Zamanım yok, programım yoğun."**
-
-C: Haftada 3 seans, 60 dakika. Sabah erken ve akşam üstü saat seçenekleri var. Kaçırılan dersler için 4 telafi hakkı var. Programını durdurmana gerek yok — bu program programının içine giriyor.
-
-**S: "Sınav hazırlığı yapıyor musunuz?"**
-
-C: Hayır. Bu okul LGS, YKS veya herhangi bir sınav hazırlığı yapmıyor. Eğer hedefin sınav puanı ise, başka bir okul daha uygun olabilir. Eğer hedefin gerçekten konuşmak, iş hayatında veya günlük hayatda İngilizce kullanmak ise — bu okul tam senin için.
+**S: Garantiyi nasıl ispat edebilirim, gerçekten ödeme yapılıyor mu?**
+C: Garanti kayıt anında imzalanan belgedir — sözlü vaat değil. Koşullar nettir: seansların %80'ine katılmak ve haftalık pratik görevleri tamamlamak. Bu koşulları karşılarsan ve 5 ayda konuşma kapasitesi kazanmazsan — ödediğinin tamamı iade edilir. Belgeyi imzalamadan kayıt tamamlanmaz.
 
 ---
 
 ## Bölüm 10: Final CTA
 
-*Tasarımcıya not: Bu bölümün amacı — son bir itki, korkusuz aksiyon.*
-
-### Başlık
-
-**Bu engeli kaç yıldır taşıyorsun?**
-
-Bırakmak 5 ay alıyor. Başlamak 30 dakika.
-
-Ücretsiz CEFR değerlendirmesinde şunları öğreniyorsun:
-- Şu an hangi seviyedesin
-- 5 ayda nereye gelebilirsin
-- KonuşAmerika 5 sana uygun mu
-
-Taahhüt yok. Para yok. Sadece 30 dakika.
-
-### CTA Butonu (Büyük, Görünür)
-
-**Ücretsiz Değerlendirmemi Rezerve Et**
-
-*(Alt metin: Kontenjan sınırlıdır — 4–6 kişilik gruplarda yer her zaman açık olmayabilir.)*
+**Bu bölümün amacı:** Ziyaretçiyi harekete geçirmek. Sonucu bir kez daha hatırlatmak. Düşük riskli ilk adımı net sunmak.
 
 ---
 
-### Son Güven İmzası
+**Başlık:** Bir Adım Yeterli
 
-"Sıfır reklam verdik. 100 öğrenciye ulaştık. Çünkü öğrenciler arkadaşlarını getirdi. Çünkü konuştular."
+5 ay boyunca her şey farklı çalışabilir.
 
-— Antakya American Culture Language School
+Toplantıda, iş görüşmesinde, yurt dışında — artık susmuyor, konuşuyorsun. İçindeki "Belki ben yapamam" inancı gitmiş. Çünkü yaptın.
+
+Ya da 5 ay sonunda aynı yerde oluyorsun. Ama bu sefer paranı da geri aldın.
+
+Her iki durumda da kaybedecek hiçbir şeyin yok.
+
+Başlamak için tek yapman gereken şey: 30 dakikalık ücretsiz Konuşma Engeli Tespiti. Neden hâlâ konuşamadığını somut olarak gösteriyoruz. Sonra sen karar veriyorsun.
+
+**Buton:** Ücretsiz Konuşma Engeli Tespiti'ne Kayıt Ol
+
+**Buton altı:** 30 dakika. Taahhütsüz. Ücret yok.
 
 ---
 
-*Kaynak: OFFER.md, OFFER_ANGLES.md, OBJECTIONS.md, PRICING.md*
+*Tasarımcı notu: CTA butonu sayfanın her ana bölümünün sonunda tekrarlanmalı. Mobil görünümde buton her zaman ekranın alt kısmında sabit tutulmalı. Renk: dikkat çekici, sayfa renk paleti ile kontrast.*
+
+---
+
+*Kaynak: OFFER.md, BONUS_STACK.md, OBJECTIONS.md, PRICING.md, VALUE_PERCEPTION.md, OFFER_AUDIT.md*
