@@ -40,7 +40,7 @@ Idea → Offer → Pitch
 Full Flow
 
 Idea → Market → Offer → Pitch → Content → Sales
-
+```
 
 ⸻
 

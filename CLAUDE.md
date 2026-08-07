@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 On first use, ask the user where to install the skills and agents:
 
-> "Where should I install hormozi-skills?
+> "Where should I install hormozi-skills-es?
 > - **Project** (default) — `.claude/` in the current project folder. Only available in this project.
 > - **User** — `~/.claude/` in your home directory. Available in all projects.
 >
@@ -80,4 +80,3 @@ Every agent lives at `agents/<name>.md` — flat, no subfolders.
 - Subagents receive a fully structured brief — they have no memory of the conversation.
 - All output lands in `output/` relative to the repo root.
 - Skills are user-facing; subagents are internal execution units. Do not mix the two roles.
-- `_archive/` holds deprecated versions — do not delete, do not edit.

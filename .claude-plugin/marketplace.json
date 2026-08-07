@@ -1,24 +1,24 @@
 {
-  "name": "hormozi-skills",
+  "name": "hormozi-skills-es",
   "owner": {
     "name": "Alessandro Smedile"
   },
   "metadata": {
-    "description": "Hormozi-inspired offer system — 17 skills and 6 agents for building Grand Slam Offers, pricing strategy, positioning, and full sales funnels.",
+    "description": "Hormozi-inspired offer system — 18 skills and 6 agents for building Grand Slam Offers, pricing strategy, positioning, and full sales funnels.",
     "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "hormozi-skills",
+      "name": "hormozi-skills-es",
       "source": "./",
       "description": "Grand Slam Offer framework. Skills and agents for market research, offer building, value optimization, pricing, positioning, hooks, and landing page copy — based on Alex Hormozi's methodology.",
       "version": "1.0.0",
       "author": {
-        "name": "Alex Smedile"
+        "name": "Alessandro Smedile"
       },
       "license": "MIT",
-      "homepage": "https://github.com/alexsmedile/hormozi-skills",
-      "repository": "https://github.com/alexsmedile/hormozi-skills",
+      "homepage": "https://github.com/JustinCast/hormozi-skills-es",
+      "repository": "https://github.com/JustinCast/hormozi-skills-es",
       "keywords": [
         "hormozi",
         "offer",

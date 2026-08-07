@@ -1,4 +1,4 @@
-# hormozi-skills
+# hormozi-skills-es
 
 **Turn any business idea into a complete, sellable offer — using Alex Hormozi's frameworks.**
 
@@ -21,7 +21,7 @@ Building a compelling offer is hard. Most founders, coaches, and consultants eit
 - Price wrong — too low to be taken seriously, too high without justification
 - Skip the sales layer entirely — no hooks, no pitch, no landing page copy
 
-**hormozi-skills** solves this end-to-end. One orchestrator, five specialized subagents, 17 skills, 11 output files.
+**hormozi-skills-es** solves this end-to-end. One orchestrator, five specialized subagents, 18 skills, 11 output files.
 
 ---
 
@@ -32,8 +32,8 @@ Building a compelling offer is hard. Most founders, coaches, and consultants eit
 Add the marketplace, then install the plugin:
 
 ```bash
-/plugin marketplace add alexsmedile/hormozi-skills
-/plugin install hormozi-skills@hormozi-skills
+/plugin marketplace add JustinCast/hormozi-skills-es
+/plugin install hormozi-skills-es@hormozi-skills-es
 ```
 
 Then invoke the `hormozi-orchestrator` agent or a specific skill.
@@ -43,7 +43,7 @@ Then invoke the `hormozi-orchestrator` agent or a specific skill.
 Install directly from GitHub:
 
 ```bash
-codex plugin install https://github.com/alexsmedile/hormozi-skills
+codex plugin install https://github.com/JustinCast/hormozi-skills-es
 ```
 
 ### Manual Install
@@ -52,8 +52,8 @@ If you want the raw skill files instead of the plugin flow:
 
 ```bash
 # Clone the skill library
-git clone https://github.com/alexsmedile/hormozi-skills
-cd hormozi-skills
+git clone https://github.com/JustinCast/hormozi-skills-es
+cd hormozi-skills-es
 
 # Copy skills and agents into your Claude config
 cp -r skills/ agents/ ~/.claude/
@@ -96,6 +96,7 @@ Use any skill standalone — no orchestrator needed:
 | `audit-offer` | Score and rewrite an existing weak offer |
 | `bonus-stack` | Build a bonus stack that kills objections |
 | `business-model` | Choose and structure the right business model |
+| `create-plugin` | Tooling — scaffold this repo as a Claude Code + Codex plugin |
 | `dfy-dwy-diy` | Frame offer as DFY / DWY / DIY tiers |
 | `effort-reduction` | Reduce perceived effort in the offer |
 | `idea-to-product` | Turn rough idea into productized offer |
@@ -143,8 +144,8 @@ The orchestrator detects your funnel stage (idea / broken offer / needs sales la
 ## Repo Structure
 
 ```
-hormozi-skills/
-├── skills/     # 17 standalone agent skills
+hormozi-skills-es/
+├── skills/     # 18 standalone agent skills
 ├── agents/     # Orchestrator + 5 subagents
 ├── output/     # Generated offer documents (starts empty)
 └── input/      # Drop existing offers, notes, or sales pages here

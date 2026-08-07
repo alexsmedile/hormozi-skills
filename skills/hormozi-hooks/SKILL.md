@@ -70,6 +70,7 @@ WHO + RESULT + SPEED/EASE + OBJECTION REMOVAL
 
 Example:
 	•	“Coaches: get 3 clients this week without ads”
+```
 
 ⸻
 

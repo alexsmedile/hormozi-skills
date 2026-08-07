@@ -298,7 +298,7 @@ Weak signs:
 
 ## 11. Quick Wins
 - Fast improvements to implement immediately
-
+```
 
 ⸻
 

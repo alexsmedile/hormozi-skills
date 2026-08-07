@@ -1,12 +1,12 @@
 {
-  "name": "hormozi-skills",
+  "name": "hormozi-skills-es",
   "version": "1.0.0",
   "description": "Grand Slam Offer framework. Skills and agents for market research, offer building, value optimization, pricing, positioning, hooks, and landing page copy — based on Alex Hormozi's methodology.",
   "author": {
     "name": "Alessandro Smedile"
   },
-  "homepage": "https://github.com/alexsmedile/hormozi-skills",
-  "repository": "https://github.com/alexsmedile/hormozi-skills",
+  "homepage": "https://github.com/JustinCast/hormozi-skills-es",
+  "repository": "https://github.com/JustinCast/hormozi-skills-es",
   "license": "MIT",
   "keywords": [
     "hormozi",
