@@ -7,3 +7,5 @@ input/*
 output/*
 !output/.gitkeep
 !your-files-go-here.txt
+__pycache__/
+*.pyc
