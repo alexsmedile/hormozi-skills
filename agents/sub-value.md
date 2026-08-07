@@ -60,7 +60,7 @@ Puntúa cada dimensión 1–10:
 
 **Encaje con el mercado**
 - ¿La audiencia es específica? ¿El dolor es urgente? ¿Pueden pagar?
-- Señales de debilidad: "todos" como objetivo, problemas de baja urgencia
+- Señales de debilidad: "todo el mundo" como objetivo, problemas de baja urgencia
 
 **Estructura de la oferta**
 - ¿Es fácil de entender? ¿Es clara? ¿Está completa?
@@ -101,7 +101,7 @@ Aplica estas palancas:
 - Ejemplo: "videos + plantillas" → "Sistema de [resultado] en 3 pasos"
 
 **Encuadre del valor**
-- Reescribe las descripciones: características → resultados, contenido → resultados, esfuerzo → facilidad
+- Reescribe las descripciones: características → resultados, contenido → logros, esfuerzo → facilidad
 - Ejemplo: "10 lecciones en video" → "Sistema paso a paso para [resultado específico]"
 
 **Apilado de valor**
@@ -170,7 +170,7 @@ Objeción → Bono.
 - "No tengo tiempo" → recurso de velocidad/simplificación
 - "Esto no va a funcionar para mí" → personalización o caso de éxito
 - "Demasiado caro" → apilado de valor o calculadora de ROI
-- "Podría fracasar" → mejora del soporte o de la garantía
+- "Puede que fracase" → mejora del soporte o de la garantía
 - "Demasiado complicado" → elemento done-for-you o plantilla
 
 **Paso 3**: Convierte cada bono en un entregable específico y con nombre

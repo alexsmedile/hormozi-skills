@@ -12,9 +12,9 @@ Esta skill:
 - estructura la página con lógica
 - escribe copy claro y orientado a resultado
 - elimina fricción y objeciones
-- guía al lector a tomar acción
+- guía al lector a pasar a la acción
 
-Meta: que la página sea fácil de escanear, fácil de creer y fácil de comprar.
+Meta: que la página sea fácil de escanear, que inspire confianza y que sea fácil de comprar.
 
 ---
 
@@ -434,6 +434,6 @@ La skill funciona cuando:
 	•	el valor es claro
 	•	las objeciones están manejadas
 	•	se construye confianza
-	•	tomar acción se siente natural
+	•	pasar a la acción se siente natural
 	•	las conversiones aumentan
 

@@ -35,7 +35,7 @@ Todos los documentos generados se escriben en `output/`. El orquestador produce 
 
 ## Convención de estructura de una skill
 
-Cada skill vive en `skills/<name>/SKILL.md`. Si necesita material de referencia, va en `skills/<name>/references/`. Ningún otro archivo pertenece dentro de la carpeta de una skill.
+Cada skill vive en `skills/<name>/SKILL.md`. Si necesita material de referencia, va en `skills/<name>/references/`. Ningún otro archivo debe ir dentro de la carpeta de una skill.
 
 Cada agente vive en `agents/<name>.md`: plano, sin subcarpetas.
 
@@ -57,11 +57,11 @@ Cada agente vive en `agents/<name>.md`: plano, sin subcarpetas.
 
 ---
 
-## Reglas de diseño clave
+## Reglas clave de diseño
 
 - Los subagentes reciben un brief completamente estructurado: no tienen memoria de la conversación.
-- Toda la salida cae en `output/`, relativo a la raíz del repo.
-- Las skills son de cara al usuario; los subagentes son unidades de ejecución internas. No mezcles los dos roles.
+- Toda la salida se escribe en `output/`, ruta relativa a la raíz del repo.
+- Las skills son para el usuario; los subagentes son unidades de ejecución internas. No mezcles los dos roles.
 - El `name` del frontmatter es el identificador de invocación: no lo renombres sin actualizar todas las referencias.
 - Los nombres de los archivos generados (`OFFER.md`, `PITCH.md`, `PRICING.md`…) son un contrato entre el agente que los produce y el que los consume: no los cambies.
-- `_archive/` guarda versiones deprecadas: no las borres ni las edites.
+- `input/` es donde el usuario deja ofertas, notas o páginas de ventas existentes: léelo, pero no lo edites ni lo borres.

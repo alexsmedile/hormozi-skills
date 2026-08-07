@@ -33,22 +33,22 @@ BRIEF:
 
 ## Framework a aplicar
 
-### Parte 1: Construye la Grand Slam Offer
+### Parte 1: construye la Grand Slam Offer
 
-#### Paso 1: Define el avatar
+#### Paso 1: define el avatar
 - Avatar en una frase
 - Situación actual (3 viñetas)
 - Problema doloroso (el que lo despierta de noche)
 - Intentos fallidos (lo que ya probó)
 - Resultado soñado (específico, medible, visual)
 
-#### Paso 2: Define el resultado soñado
+#### Paso 2: define el resultado soñado
 - Resultado principal (tangible, medible)
 - Resultado emocional (cómo se va a sentir)
 - Cambio de estatus (cómo lo van a ver los demás)
 - Frase de resultado: "De [estado actual] a [estado deseado] en [plazo]"
 
-#### Paso 3: Mapea los obstáculos (mínimo 10)
+#### Paso 3: mapea los obstáculos (mínimo 10)
 Para el avatar que intenta llegar al resultado soñado, lista todo lo que lo bloquea:
 - brechas de conocimiento
 - restricciones de tiempo
@@ -59,14 +59,14 @@ Para el avatar que intenta llegar al resultado soñado, lista todo lo que lo blo
 - miedo o duda
 - intentos fallidos del pasado
 
-#### Paso 4: Invierte obstáculos → soluciones → métodos de entrega
+#### Paso 4: invierte obstáculos → soluciones → métodos de entrega
 Para cada obstáculo:
 - ¿Qué lo resuelve?
 - ¿Cómo se entrega? (plantilla / checklist / framework / tutorial / swipe file / auditoría / llamada en vivo / soporte asíncrono / comunidad / recurso DFY / automatización / dashboard / workbook)
 
 Enfócate en soluciones de alto valor y bajo costo de entrega.
 
-#### Paso 5: Selecciona el modelo de entrega
+#### Paso 5: selecciona el modelo de entrega
 Elige según el brief:
 
 - **DIY**: escalable, de bajo costo, pero con menor valor percibido y menores tasas de finalización
@@ -75,7 +75,7 @@ Elige según el brief:
 
 O un híbrido. Explica por qué encaja con las restricciones y las metas del usuario.
 
-#### Paso 6: Construye la estructura de la oferta
+#### Paso 6: construye la estructura de la oferta
 Organiza en:
 - Oferta principal (la transformación central)
 - Componentes de apoyo (lo que la completa)
@@ -83,7 +83,7 @@ Organiza en:
 - Recurso de arranque rápido (lo que da una victoria rápida)
 - Capa de soporte (cómo consiguen ayuda)
 
-#### Paso 7: Construye el stack de valor
+#### Paso 7: construye el stack de valor
 Para cada componente:
 - Nombre (basado en el resultado, no en la característica)
 - Qué hace
@@ -92,33 +92,33 @@ Para cada componente:
 
 Valor total apilado vs. hipótesis de precio.
 
-#### Paso 8: Crea la garantía
+#### Paso 8: crea la garantía
 Redacta 3 opciones:
-- Incondicional (devolución a los 30 días)
+- Incondicional (garantía de devolución de 30 días)
 - Condicional (basada en acción: "haz X y te reembolsamos si no hay resultado")
 - Basada en resultados ("quédate hasta que consigas Y")
 
 Recomienda la mejor para este punto de precio y tipo de oferta.
 
-#### Paso 9: Posiciona la oferta
+#### Paso 9: posiciona la oferta
 - Para quién es (específico)
 - Para quién NO es (importante — genera confianza)
 - Frase de posicionamiento en una línea
 - Diferenciador clave vs. las alternativas
 - Categoría en la que se ubica la oferta
 
-#### Paso 10: Genera los mensajes
+#### Paso 10: genera los mensajes
 - 3–5 hooks (QUIÉN + RESULTADO + VELOCIDAD/FACILIDAD + ELIMINACIÓN DE OBJECIÓN)
 - 3 bullets orientados a resultado
 - 3 bullets para manejar objeciones
 - Descripción corta de la oferta (2–3 frases)
 - Borrador del CTA
 
-### Parte 2: Genera los ángulos de oferta
+### Parte 2: genera los ángulos de oferta
 
 Crea 6–8 ángulos de posicionamiento distintos para la misma oferta:
 
-1. **Resultado específico**: haz el resultado concreto y medible
+1. **Resultado específico**: haz que el resultado sea concreto y medible
 2. **Tiempo**: agrega un plazo claro
 3. **Dolor**: enfócate en la frustración más urgente
 4. **Identidad**: conéctalo con quién quieren llegar a ser

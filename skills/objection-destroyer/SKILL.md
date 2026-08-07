@@ -57,20 +57,20 @@ Lista las objeciones obvias:
 Comunes:
 - “Es demasiado caro”
 - “No tengo tiempo”
-- “Esto no me va a funcionar”
+- “Esto no va a funcionar para mí”
 - “Necesito pensarlo”
 - “Puedo hacerlo yo mismo”
 
 ---
 
 ### 2. Descubre las objeciones ocultas
-Ve más profundo.
+Profundiza.
 
 Cada objeción esconde una creencia.
 
 Ejemplo:
 - “Demasiado caro” → “No estoy seguro de que valga la pena”
-- “Sin tiempo” → “Esto va a llevar demasiado esfuerzo”
+- “No hay tiempo” → “Esto va a llevar demasiado esfuerzo”
 - “Lo voy a pensar” → “Todavía no confío en esto”
 
 Mapea:
@@ -250,7 +250,7 @@ Genera:
 
 Reglas de decisión
 
-Ve más profundo cuando:
+Profundiza cuando:
 	•	las objeciones suenan genéricas
 	•	los usuarios son vagos
 	•	“lo voy a pensar” aparece seguido
@@ -277,7 +277,7 @@ Antes
 	•	“Es demasiado caro”
 
 Después
-	•	“Esto reemplaza meses de prueba y error y te ayuda a conseguir tu primer resultado rápido, lo que vuelve pequeña la inversión frente al resultado”
+	•	“Esto reemplaza meses de prueba y error y te ayuda a conseguir tu primer resultado rápido, lo que hace que la inversión sea pequeña frente al resultado”
 
 ⸻
 

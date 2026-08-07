@@ -1,0 +1,27 @@
+{
+  "base": "e5e5b42",
+  "archivos_comparados": 33,
+  "blockers": 0,
+  "majors": 3,
+  "minors": 0,
+  "hallazgos": [
+    {
+      "severidad": "major",
+      "archivo": "skills/dfy-dwy-diy/SKILL.md",
+      "check": "residuo-ingles",
+      "detalle": "linea 3: ['for', 'with', 'you'] — description: Elige el mejor mecanismo de entrega para una oferta — Done For You,"
+    },
+    {
+      "severidad": "major",
+      "archivo": "skills/hormozi-pitch/SKILL.md",
+      "check": "residuo-ingles",
+      "detalle": "linea 212: ['about', 'make', 'them'] — - Make it about them — hazlo sobre el cliente"
+    },
+    {
+      "severidad": "major",
+      "archivo": "(corpus)",
+      "check": "termino-ingles-superviviente",
+      "detalle": "'program' (deberia ser 'programa') aparece 1 veces en 1 archivos: [('agents/sub-sales.md', 1)]"
+    }
+  ]
+}

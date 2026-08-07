@@ -127,7 +127,7 @@ Cómo describes la oferta cambia cómo se siente.
 
 Reencuadra:
 - características → resultados
-- contenido → resultados
+- contenido → logros
 - esfuerzo → facilidad
 - tiempo → velocidad
 

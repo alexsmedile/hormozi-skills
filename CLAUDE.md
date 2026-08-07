@@ -57,7 +57,7 @@ Todos los documentos generados se escriben en `output/`. El orquestador produce 
 
 ## Convención de estructura de las skills
 
-Cada skill vive en `skills/<name>/SKILL.md`. Si una skill necesita material de referencia, va en `skills/<name>/references/`. Ningún otro archivo pertenece dentro de una carpeta de skill.
+Cada skill vive en `skills/<name>/SKILL.md`. Si una skill necesita material de referencia, va en `skills/<name>/references/`. Ningún otro archivo debe ir dentro de una carpeta de skill.
 
 Cada agente vive en `agents/<name>.md` — plano, sin subcarpetas.
 
@@ -78,5 +78,5 @@ Cada agente vive en `agents/<name>.md` — plano, sin subcarpetas.
 ## Reglas clave de diseño
 
 - Los subagentes reciben un brief completamente estructurado — no tienen memoria de la conversación.
-- Toda la salida cae en `output/`, relativo a la raíz del repo.
+- Toda la salida se escribe en `output/`, ruta relativa a la raíz del repo.
 - Las skills son para el usuario; los subagentes son unidades de ejecución internas. No mezcles los dos roles.

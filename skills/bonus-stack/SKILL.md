@@ -36,7 +36,7 @@ Esta skill funciona con:
 - un producto o servicio
 - un stack de valor
 - objeciones conocidas (o inferidas)
-- la audiencia objetivo
+- audiencia objetivo
 
 ---
 
@@ -166,7 +166,7 @@ Demasiados bonos reducen la claridad.
 Reglas:
 - conserva solo los bonos de alto impacto
 - elimina los elementos de bajo valor
-- concéntrate en la relevancia
+- enfócate en la relevancia
 
 ---
 
@@ -283,7 +283,7 @@ Después
 
 Guía de estilo
 	•	sé específico
-	•	concéntrate en los resultados
+	•	enfócate en los resultados
 	•	evita los nombres genéricos
 	•	mantenlo limpio
 	•	prioriza el valor sobre la cantidad

@@ -28,7 +28,7 @@ BRIEF:
 
 ## Framework a aplicar
 
-### Paso 1: Genera 3–5 micronichos
+### Paso 1: genera 3–5 micronichos
 Divide el mercado amplio en grupos específicos y segmentables.
 
 Patrón: "[mercado amplio]" → "[segmento específico con dolor agudo]"
@@ -38,16 +38,16 @@ Ejemplos:
 - "marketing" → "coaches por debajo de $5k/mes que dependen del boca a boca"
 - "productividad" → "solopreneurs ahogados configurando Notion pero sin usarlo"
 
-### Paso 2: Puntúa cada nicho (1–10 en 4 dimensiones)
+### Paso 2: puntúa cada nicho (1–10 en 4 dimensiones)
 
 - **Intensidad del dolor**: ¿Con qué frecuencia lo sienten? ¿Qué tan emocional es?
 - **Poder adquisitivo**: ¿Pueden pagar soluciones ($50–$5000+)?
 - **Alcance**: ¿Puedes encontrarlos y llegar a ellos en línea?
-- **Crecimiento del mercado**: ¿Este segmento está creciendo o encogiéndose?
+- **Crecimiento del mercado**: ¿Este segmento está creciendo o se está contrayendo?
 
 Selecciona el puntaje combinado más alto como nicho recomendado.
 
-### Paso 3: Extrae el lenguaje real del dolor
+### Paso 3: extrae el lenguaje real del dolor
 
 Para el nicho ganador, produce:
 
@@ -66,7 +66,7 @@ Para el nicho ganador, produce:
 **Pensamientos de medianoche** (3–5 frases crudas que jamás dirían en público):
 - Vívidas, en primera persona, emocionalmente honestas
 
-### Paso 4: Evaluación de la validación de demanda
+### Paso 4: evaluación de la validación de demanda
 
 **Señales de demanda** a buscar en el brief:
 - ¿El usuario ha visto a otros pagar por soluciones similares?
@@ -75,14 +75,14 @@ Para el nicho ganador, produce:
 
 **Clasifica la audiencia**:
 - Compradores: buscan activamente, ya gastan dinero en soluciones
-- Curiosos: interesados pero todavía sin tomar acción financiera
+- Curiosos: interesados pero que todavía no gastan dinero
 
 **Puntaje de demanda** (1–10):
-- Urgencia: ¿qué tan agudo sienten el dolor ahora mismo?
+- Urgencia: ¿con qué intensidad sienten el dolor ahora mismo?
 - Disposición a pagar: según la intensidad del dolor + el poder adquisitivo
 - Señal de competencia: ¿ya se mueve dinero en este espacio?
 
-### Paso 5: Tests de validación a sugerir
+### Paso 5: tests de validación a sugerir
 
 Recomienda 2–3 movimientos de validación específicos:
 - Test de preventa: ofrece antes de construir y mide la respuesta

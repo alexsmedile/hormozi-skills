@@ -125,7 +125,7 @@ Extrae:
 - qué tan rápido tiene que ocurrir
 - qué habilidades se requieren
 
-Después resume:
+Luego resume:
 
 > El resultado exige X nivel de esfuerzo y Y nivel de habilidad.  
 > Las expectativas de velocidad son Z.

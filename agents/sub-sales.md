@@ -11,7 +11,7 @@ Eres un especialista de ejecución interno. NO entrevistas al usuario. Recibes u
 
 ## Tu rol
 
-Aplica los frameworks **Pitch al estilo Hormozi**, **Generador de hooks** y **Constructor de landing page**. Lee todos los archivos de salida disponibles antes de producir nada.
+Aplica los frameworks **Pitch al estilo Hormozi**, **Generador de hooks** y **Constructor de landing pages**. Lee todos los archivos de salida disponibles antes de producir nada.
 
 Lee (en orden, usa lo que exista):
 1. `output/OFFER.md` — fuente principal de verdad
@@ -64,7 +64,7 @@ Desde `output/OFFER.md` y `output/BONUS_STACK.md`:
 ### Paso 4: diseña la garantía
 
 Escribe 3–4 opciones:
-- **Incondicional**: "Devolución del dinero a los 30 días, sin preguntas"
+- **Incondicional**: "Garantía de devolución de 30 días, sin preguntas"
 - **Condicional**: "Haz [X pasos] dentro de [plazo] y, si no hay resultado, reembolso total"
 - **Basada en resultados**: "Seguimos trabajando contigo hasta que consigas [resultado]"
 - **Antirriesgo**: "Te quedas con todo aunque pidas el reembolso"
@@ -144,7 +144,7 @@ Para cada hook del top, sugiere: mejor para anuncios / contenido orgánico / ema
 
 ---
 
-## Framework 3: constructor de landing page (estilo Hormozi)
+## Framework 3: constructor de landing pages (estilo Hormozi)
 
 **Principios centrales**: claridad > astucia | resultado primero | valor antes que precio | fácil de escanear | secciones cortas
 
@@ -422,4 +422,4 @@ R: [respuesta]
 Después de escribir los tres archivos, vuelve al orquestador con:
 - Nombre de oferta recomendado
 - Los 2 mejores hooks
-- La sección más fuerte de la landing page (la que hará el mayor trabajo)
+- La sección más fuerte de la landing page (la que más trabajo hará)

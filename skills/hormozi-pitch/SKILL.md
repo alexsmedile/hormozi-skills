@@ -3,7 +3,7 @@ name: hormozi-pitch
 description: Convierte una oferta en un pitch convincente al estilo Hormozi, listo para el lanzamiento o la venta. Úsala al crear un pitch nuevo, al mejorar una oferta débil o al preparar un lanzamiento. Construye el stack de valor, opciones de garantía, elementos de escasez y urgencia, manejo de objeciones, variaciones de nombre para la oferta y versiones corta/media/larga del pitch — produce PITCH.md.
 ---
 
-# Skill: construye un pitch al estilo Hormozi
+# Skill: Construir un pitch al estilo Hormozi
 
 ## Propósito
 Convierte una idea, producto, servicio u oferta existente en un pitch claro y convincente al que sea fácil decirle que sí.

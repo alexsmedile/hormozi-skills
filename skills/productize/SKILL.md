@@ -13,7 +13,7 @@ Esta skill:
 - construye un ecosistema de ofertas (escalera)
 - aumenta el valor de vida del cliente con upsells y downsells
 
-Meta: ganar más dinero del mismo cliente con menos esfuerzo con el tiempo.
+Meta: ganar más dinero del mismo cliente con menos esfuerzo a lo largo del tiempo.
 
 ---
 

@@ -16,7 +16,7 @@ Aquí tienes 50 puntos clave y afilados destilados de todo lo que construiste �
 🏆 Fundamentos de la oferta
 	6.	La gente compra resultados, no productos
 	7.	Define un resultado claro y medible
-	8.	Haz el resultado visual y tangible
+	8.	Haz que el resultado sea visual y tangible
 	9.	Muestra la transformación (antes → después)
 	10.	Una oferta vaga nunca vende
 

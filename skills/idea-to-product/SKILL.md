@@ -271,7 +271,7 @@ Mercado y posicionamiento
 	5.	El foco estrecho gana
 
 Fundamentos de la oferta
-	6.	Venden los resultados, no los productos
+	6.	Los resultados venden, no los productos
 	7.	Define un resultado claro
 	8.	Hazlo medible
 	9.	Muestra la transformación

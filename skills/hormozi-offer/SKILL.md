@@ -497,7 +497,7 @@ Si el usuario da muy poca información:
 
 Si el usuario está abrumado:
 	•	reduce las opciones
-	•	recomienda un camino fuerte
+	•	recomienda un solo camino fuerte
 	•	explica por qué es el mejor siguiente paso
 
 Si el usuario ya tiene una oferta:

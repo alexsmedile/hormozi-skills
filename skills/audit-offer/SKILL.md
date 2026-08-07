@@ -3,7 +3,7 @@ name: audit-offer
 description: Audita una oferta para encontrar puntos débiles y obtener correcciones específicas. Úsala cuando una oferta no convierte, las conversiones son bajas o algo se siente mal. Analiza el resultado soñado, la probabilidad percibida, la demora, el esfuerzo, el encaje con el mercado, el stack de valor, los precios, los mensajes y las objeciones con el framework de la Ecuación de Valor de Hormozi.
 ---
 
-# Skill: Auditoría de la oferta (detector de puntos débiles)
+# Skill: Auditoría de la oferta (Detector de puntos débiles)
 
 ## Propósito
 Analiza cualquier oferta e identifica qué le impide convertir.
@@ -306,7 +306,7 @@ Sistema de puntaje (opcional)
 
 Cada categoría se puntúa en una escala 1–10:
 	•	1–3 = problema crítico
-	•	4–6 = necesita mejora
+	•	4–6 = necesita mejorar
 	•	7–8 = sólido
 	•	9–10 = fuerte
 

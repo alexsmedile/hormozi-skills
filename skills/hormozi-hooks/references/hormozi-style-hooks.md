@@ -71,9 +71,9 @@ En el fondo, sus hooks se construyen sobre la Ecuación de Valor:
 	•	reducir el tiempo
 	•	reducir el esfuerzo  ￼
 
-Eso no es solo para ofertas — aplica la misma lógica a la atención.
+Eso no es solo para ofertas — él aplica la misma lógica a la atención.
 
-👉 Un hook = ecuación de valor comprimida en una oración
+👉 Un hook = Ecuación de Valor comprimida en una oración
 
 ⸻
 
@@ -169,7 +169,7 @@ Posiciónalo como una verdad oculta
 
 ⸻
 
-8. Gana la simplicidad
+8. La simplicidad gana
 
 Corto. Directo. Sin relleno.
 
@@ -292,7 +292,7 @@ Estructura:
 
 Estructura:
 
-El [sistema/framework] que te consigue [resultado]
+El [sistema/framework] con el que consigues [resultado]
 
 
 ⸻

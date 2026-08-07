@@ -61,7 +61,7 @@ Extrae:
 - la urgencia del problema
 - el impacto financiero o emocional
 
-Después resume:
+Luego resume:
 
 > Esta oferta ayuda a X a lograr Y, que vale Z en tiempo, dinero o estatus.
 

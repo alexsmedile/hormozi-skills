@@ -230,10 +230,10 @@ Enúncialas con claridad antes de que el usuario cree ningún archivo:
 Entrega esto exactamente igual, sustituyendo los valores del usuario:
 
 ```bash
-# Create repo (if not exists)
+# Crear el repo (si no existe)
 gh repo create {{username}}/{{repo-name}} --public
 
-# Init and push
+# Inicializar y publicar
 git init
 git add .
 git commit -m "feat: initial plugin scaffold"

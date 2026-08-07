@@ -15,7 +15,7 @@
 
 ## El problema
 
-Construir una oferta convincente es difícil. La mayoría de los fundadores, coaches y consultores hace una de estas tres cosas:
+Construir una oferta convincente es difícil. La mayoría de los fundadores, coaches y consultores hace alguna de estas cosas:
 
 - Escribe ofertas vagas que no convierten — *"Ayudo a la gente a hacer crecer su negocio"*
 - Pone mal el precio — demasiado bajo para que lo tomen en serio, demasiado alto sin justificación
@@ -48,7 +48,7 @@ codex plugin install https://github.com/JustinCast/hormozi-skills-es
 
 ### Instalación manual
 
-Si prefieres los archivos de skill en crudo en lugar del flujo del plugin:
+Si prefieres los archivos de skill sin procesar en lugar del flujo del plugin:
 
 ```bash
 # Clona la biblioteca de skills
@@ -162,7 +162,7 @@ hormozi-skills-es/
 ## Para quién NO es
 
 - Copywriters genéricos que buscan plantillas para rellenar — esto piensa, no solo rellena
-- Desarrolladores que necesitan una biblioteca de código — esto es a base de prompts, nativo de agentes
+- Desarrolladores que necesitan una biblioteca de código — esto está basado en prompts y es nativo de agentes
 - Gente que quiere una respuesta de un solo tiro sin iterar — el orquestador te entrevista
 
 ---

@@ -6,7 +6,7 @@ description: Reduce el tiempo hasta el primer resultado significativo para subir
 # Skill: Acelerador del tiempo hasta el valor
 
 ## Propósito
-Reduce el tiempo que tarda un cliente en vivir su **primer resultado significativo**.
+Reduce el tiempo que tarda un cliente en obtener su **primer resultado significativo**.
 
 Esta skill sube las conversiones a través de:
 - acortar la demora
@@ -68,7 +68,7 @@ Luego resume:
 ---
 
 ### 2. Encuentra los puntos de fricción
-Desglosa el recorrido desde la compra → el resultado.
+Desglosa el recorrido compra → resultado.
 
 Busca:
 - demoras antes de empezar
@@ -301,6 +301,6 @@ La skill funciona cuando:
 	•	el usuario obtiene un resultado rápido
 	•	la primera acción se siente fácil
 	•	el impulso se construye rápido
-	•	la oferta se siente “rápida” de comprar
+	•	comprar la oferta se siente “rápido”
 	•	baja el abandono
 	•	sube el valor percibido

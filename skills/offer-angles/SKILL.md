@@ -81,7 +81,7 @@ Revisa si:
 Crea 6–10 ángulos usando distintos lentes:
 
 #### Ángulo de resultado específico
-Haz el resultado concreto y medible.
+Haz que el resultado sea concreto y medible.
 
 #### Ángulo de tiempo
 Agrega un plazo claro.

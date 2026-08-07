@@ -187,7 +187,7 @@ Diseña:
 
 Salida:
 - nuevo flujo simplificado
-- cantidad de pasos reducidos
+- reducción en la cantidad de pasos
 - progresión más clara
 
 ---
@@ -210,7 +210,7 @@ Técnicas:
 - usa lenguaje simple
 - muestra lo poco que hay que trabajar
 - destaca los atajos
-- enfatiza el “no se necesita experiencia”
+- enfatiza el “sin experiencia previa”
 - muestra ejemplos ya terminados
 
 ---
