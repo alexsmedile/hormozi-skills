@@ -1,369 +1,369 @@
 ---
 name: audit-offer
-description: Audit an offer to find weak points and get specific fixes. Use when an offer is not converting, conversions are low, or something feels off. Analyzes dream outcome, perceived likelihood, time delay, effort, market fit, value stack, pricing, messaging, and objections using the Hormozi Value Equation framework.
+description: Audita una oferta para encontrar puntos débiles y obtener correcciones específicas. Úsala cuando una oferta no convierte, las conversiones son bajas o algo se siente mal. Analiza el resultado soñado, la probabilidad percibida, la demora, el esfuerzo, el encaje con el mercado, el stack de valor, los precios, los mensajes y las objeciones con el framework de la Ecuación de Valor de Hormozi.
 ---
 
-# Skill: Offer Audit (Weak Point Detector)
+# Skill: Auditoría de la oferta (detector de puntos débiles)
 
-## Purpose
-Analyze any offer and identify what is stopping it from converting.
+## Propósito
+Analiza cualquier oferta e identifica qué le impide convertir.
 
-This skill:
-- finds weak points
-- diagnoses why the offer underperforms
-- suggests clear, practical fixes
+Esta skill:
+- encuentra puntos débiles
+- diagnostica por qué la oferta rinde por debajo de lo esperado
+- sugiere correcciones claras y prácticas
 
-Goal: turn a weak or average offer into a strong, obvious buy.
-
----
-
-## When to Use
-Activate this skill when:
-- an offer is not selling
-- conversions are low
-- feedback is unclear or vague
-- something feels “off” but you don’t know what
-- you want to improve an existing offer
+Meta: convertir una oferta débil o promedio en una compra fuerte y obvia.
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a sales page
-- a pitch
-- a product or service description
-- pricing and value stack
-- audience description
+## Cuándo usarla
+Activa esta skill cuando:
+- una oferta no vende
+- las conversiones son bajas
+- la retroalimentación es poco clara o vaga
+- algo se siente “mal” pero no sabes qué
+- quieres mejorar una oferta existente
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a full diagnosis of the offer
-- a list of weak points
-- severity level for each issue
-- specific fixes
-- prioritized action plan
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- una página de ventas
+- un pitch
+- la descripción de un producto o servicio
+- precios y stack de valor
+- la descripción de la audiencia
 
 ---
 
-## Audit Framework (Hormozi-Based)
-
-The audit is based on:
-
-- Dream Outcome
-- Perceived Likelihood
-- Time Delay
-- Effort & Sacrifice
-
-Plus:
-- market clarity
-- offer clarity
-- delivery model
-- value stack
-- pricing
-- messaging
+## Resultado principal
+El asistente produce:
+- un diagnóstico completo de la oferta
+- una lista de puntos débiles
+- el nivel de severidad de cada problema
+- correcciones específicas
+- un plan de acción priorizado
 
 ---
 
-## Assistant Behavior
+## Framework de auditoría (basado en Hormozi)
 
-### 1. Extract the offer
-Identify:
-- who it’s for
-- what it promises
-- how it works
-- price
-- format
+La auditoría se basa en:
 
-Summarize:
+- Resultado soñado
+- Probabilidad percibida
+- Demora
+- Esfuerzo y sacrificio
 
-> This offer helps X achieve Y using Z.
-
----
-
-### 2. Evaluate Dream Outcome
-Check:
-- is the result clear?
-- is it specific?
-- is it desirable?
-- is it urgent?
-
-Weak signs:
-- vague outcomes (“grow”, “improve”)
-- no measurable result
+Además:
+- claridad del mercado
+- claridad de la oferta
+- modelo de entrega
+- stack de valor
+- precios
+- mensajes
 
 ---
 
-### 3. Evaluate Perceived Likelihood
-Check:
-- is there proof?
-- is the path clear?
-- is it believable?
+## Comportamiento del asistente
 
-Weak signs:
-- no testimonials
-- unclear process
-- big promises without support
+### 1. Extrae la oferta
+Identifica:
+- para quién es
+- qué promete
+- cómo funciona
+- precio
+- formato
 
----
+Resume:
 
-### 4. Evaluate Time Delay
-Check:
-- how fast results happen
-- when the first win occurs
-
-Weak signs:
-- long delay before results
-- no quick wins
+> Esta oferta ayuda a X a lograr Y usando Z.
 
 ---
 
-### 5. Evaluate Effort & Sacrifice
-Check:
-- how hard it feels
-- how many steps are required
-- how much discipline is needed
+### 2. Evalúa el resultado soñado
+Revisa:
+- ¿el resultado es claro?
+- ¿es específico?
+- ¿es deseable?
+- ¿es urgente?
 
-Weak signs:
-- too many steps
-- unclear instructions
-- heavy effort
-
----
-
-### 6. Evaluate Market Fit
-Check:
-- is the audience specific?
-- is the pain urgent?
-- can they pay?
-
-Weak signs:
-- “everyone” target
-- low urgency problems
+Señales de debilidad:
+- resultados vagos (“crecer”, “mejorar”)
+- sin resultado medible
 
 ---
 
-### 7. Evaluate Offer Structure
-Check:
-- is the offer easy to understand?
-- is the structure clear?
-- does it feel complete?
+### 3. Evalúa la probabilidad percibida
+Revisa:
+- ¿hay pruebas?
+- ¿el camino es claro?
+- ¿es creíble?
 
-Weak signs:
-- messy structure
-- unclear components
-- missing elements
-
----
-
-### 8. Evaluate Value Stack
-Check:
-- is value clearly shown?
-- are bonuses meaningful?
-- is there a gap between value and price?
-
-Weak signs:
-- weak bonuses
-- no stacking
-- unclear value
+Señales de debilidad:
+- sin testimonios
+- proceso poco claro
+- promesas grandes sin respaldo
 
 ---
 
-### 9. Evaluate Pricing
-Check:
-- does price match value?
-- is it justified?
-- does it feel cheap or expensive?
+### 4. Evalúa la demora
+Revisa:
+- qué tan rápido llegan los resultados
+- cuándo ocurre la primera victoria
 
-Weak signs:
-- random pricing
-- no anchoring
-- mismatch with outcome
+Señales de debilidad:
+- mucha demora antes de los resultados
+- sin victorias rápidas
 
 ---
 
-### 10. Evaluate Messaging
-Check:
-- is it clear?
-- is it specific?
-- is it outcome-focused?
+### 5. Evalúa el esfuerzo y el sacrificio
+Revisa:
+- qué tan difícil se siente
+- cuántos pasos se requieren
+- cuánta disciplina hace falta
 
-Weak signs:
-- generic language
-- unclear benefits
-- no strong hooks
-
----
-
-### 11. Evaluate Objections
-Check:
-- are objections handled?
-- is risk reduced?
-- is trust built?
-
-Weak signs:
-- no guarantee
-- no objection handling
-- unanswered doubts
+Señales de debilidad:
+- demasiados pasos
+- instrucciones poco claras
+- esfuerzo pesado
 
 ---
 
-## Output Format
+### 6. Evalúa el encaje con el mercado
+Revisa:
+- ¿la audiencia es específica?
+- ¿el dolor es urgente?
+- ¿pueden pagar?
+
+Señales de debilidad:
+- objetivo “todo el mundo”
+- problemas de baja urgencia
+
+---
+
+### 7. Evalúa la estructura de la oferta
+Revisa:
+- ¿la oferta es fácil de entender?
+- ¿la estructura es clara?
+- ¿se siente completa?
+
+Señales de debilidad:
+- estructura desordenada
+- componentes poco claros
+- elementos faltantes
+
+---
+
+### 8. Evalúa el stack de valor
+Revisa:
+- ¿el valor se muestra con claridad?
+- ¿los bonos son significativos?
+- ¿hay una brecha entre el valor y el precio?
+
+Señales de debilidad:
+- bonos débiles
+- sin apilado
+- valor poco claro
+
+---
+
+### 9. Evalúa los precios
+Revisa:
+- ¿el precio corresponde al valor?
+- ¿está justificado?
+- ¿se siente barato o caro?
+
+Señales de debilidad:
+- precios al azar
+- sin anclaje
+- desajuste con el resultado
+
+---
+
+### 10. Evalúa los mensajes
+Revisa:
+- ¿son claros?
+- ¿son específicos?
+- ¿están enfocados en el resultado?
+
+Señales de debilidad:
+- lenguaje genérico
+- beneficios poco claros
+- sin hooks fuertes
+
+---
+
+### 11. Evalúa las objeciones
+Revisa:
+- ¿se manejan las objeciones?
+- ¿se reduce el riesgo?
+- ¿se construye confianza?
+
+Señales de debilidad:
+- sin garantía
+- sin manejo de objeciones
+- dudas sin responder
+
+---
+
+## Formato de salida
 
 ```md
 # OFFER_AUDIT.md
 
-## 1. Offer Summary
-- Who it’s for
-- What it promises
-- How it works
-- Price
+## 1. Resumen de la oferta
+- Para quién es
+- Qué promete
+- Cómo funciona
+- Precio
 
 ---
 
-## 2. Overall Diagnosis
-- Strengths
-- Weaknesses
+## 2. Diagnóstico general
+- Fortalezas
+- Debilidades
 
 ---
 
-## 3. Value Equation Analysis
+## 3. Análisis de la Ecuación de Valor
 
-### Dream Outcome
-- Score:
-- Issues:
-- Fixes:
+### Resultado soñado
+- Puntaje:
+- Problemas:
+- Correcciones:
 
-### Perceived Likelihood
-- Score:
-- Issues:
-- Fixes:
+### Probabilidad percibida
+- Puntaje:
+- Problemas:
+- Correcciones:
 
-### Time Delay
-- Score:
-- Issues:
-- Fixes:
+### Demora
+- Puntaje:
+- Problemas:
+- Correcciones:
 
-### Effort & Sacrifice
-- Score:
-- Issues:
-- Fixes:
-
----
-
-## 4. Market Fit
-- Issues:
-- Fixes:
+### Esfuerzo y sacrificio
+- Puntaje:
+- Problemas:
+- Correcciones:
 
 ---
 
-## 5. Offer Structure
-- Issues:
-- Fixes:
+## 4. Encaje con el mercado
+- Problemas:
+- Correcciones:
 
 ---
 
-## 6. Value Stack
-- Issues:
-- Fixes:
+## 5. Estructura de la oferta
+- Problemas:
+- Correcciones:
 
 ---
 
-## 7. Pricing
-- Issues:
-- Fixes:
+## 6. Stack de valor
+- Problemas:
+- Correcciones:
 
 ---
 
-## 8. Messaging
-- Issues:
-- Fixes:
+## 7. Precios
+- Problemas:
+- Correcciones:
 
 ---
 
-## 9. Objections & Trust
-- Issues:
-- Fixes:
+## 8. Mensajes
+- Problemas:
+- Correcciones:
 
 ---
 
-## 10. Top Priority Fixes
-1. Fix
-2. Fix
-3. Fix
+## 9. Objeciones y confianza
+- Problemas:
+- Correcciones:
 
 ---
 
-## 11. Quick Wins
-- Fast improvements to implement immediately
+## 10. Correcciones prioritarias
+1. Corrección
+2. Corrección
+3. Corrección
+
+---
+
+## 11. Victorias rápidas
+- Mejoras rápidas para implementar de inmediato
 ```
 
 ⸻
 
-Scoring System (Optional)
+Sistema de puntaje (opcional)
 
-Each category scored 1–10:
-	•	1–3 = critical issue
-	•	4–6 = needs improvement
-	•	7–8 = solid
-	•	9–10 = strong
-
-⸻
-
-Decision Rules
-
-Fix outcome first when:
-	•	it’s unclear
-	•	it’s not compelling
-
-Add proof when:
-	•	trust is low
-	•	claims feel weak
-
-Reduce effort when:
-	•	execution feels heavy
-	•	drop-off is high
-
-Reduce time when:
-	•	results feel far away
-	•	motivation is low
-
-Improve messaging when:
-	•	people don’t understand quickly
-	•	hooks feel weak
+Cada categoría se puntúa en una escala 1–10:
+	•	1–3 = problema crítico
+	•	4–6 = necesita mejora
+	•	7–8 = sólido
+	•	9–10 = fuerte
 
 ⸻
 
-Before vs After Example
+Reglas de decisión
 
-Before
-	•	unclear offer
-	•	weak value
-	•	low conversions
+Corrige primero el resultado cuando:
+	•	no es claro
+	•	no es convincente
 
-After
-	•	clear outcome
-	•	strong value stack
-	•	better positioning
-	•	higher conversions
+Agrega pruebas cuando:
+	•	la confianza es baja
+	•	las promesas se sienten débiles
+
+Reduce el esfuerzo cuando:
+	•	la ejecución se siente pesada
+	•	el abandono es alto
+
+Reduce el tiempo cuando:
+	•	los resultados se sienten lejanos
+	•	la motivación es baja
+
+Mejora los mensajes cuando:
+	•	la gente no entiende rápido
+	•	los hooks se sienten débiles
 
 ⸻
 
-Style Guidelines
-	•	direct and honest
-	•	no fluff
-	•	clear problems and fixes
-	•	actionable insights
+Ejemplo de antes vs después
+
+Antes
+	•	oferta poco clara
+	•	valor débil
+	•	conversiones bajas
+
+Después
+	•	resultado claro
+	•	stack de valor fuerte
+	•	mejor posicionamiento
+	•	más conversiones
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	directo y honesto
+	•	sin relleno
+	•	problemas y correcciones claros
+	•	hallazgos accionables
 
-The skill works when:
-	•	weak points are obvious
-	•	fixes are clear and actionable
-	•	the offer becomes stronger
-	•	conversions improve
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	los puntos débiles son obvios
+	•	las correcciones son claras y accionables
+	•	la oferta se vuelve más fuerte
+	•	las conversiones mejoran
 

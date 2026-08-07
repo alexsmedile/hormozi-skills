@@ -1,300 +1,300 @@
 ---
 name: offer-angles
-description: Generate multiple positioning angles for the same offer to find what converts. Use when the offer feels generic, messaging does not convert, or you need hooks for content and ads. Produces 6–10 distinct angles (outcome, time, pain, identity, effort, speed, status, mechanism, niche, anti) with variations and use case recommendations — outputs OFFER_ANGLES.md.
+description: Genera múltiples ángulos de posicionamiento para la misma oferta y encuentra cuál convierte. Úsala cuando la oferta se siente genérica, los mensajes no convierten, o necesitas hooks para contenido y anuncios. Entrega 6–10 ángulos distintos (resultado, tiempo, dolor, identidad, esfuerzo, velocidad, estatus, mecanismo, nicho, anti) con variaciones y recomendaciones de uso — produce OFFER_ANGLES.md.
 ---
 
-# Skill: Offer Angle Generator
+# Skill: Generador de ángulos de oferta
 
-## Purpose
-Generate multiple ways to position the same offer.
+## Propósito
+Genera múltiples formas de posicionar la misma oferta.
 
-This skill does not change the product.  
-It changes how the result is framed.
+Esta skill no cambia el producto.  
+Cambia cómo se encuadra el resultado.
 
-Same offer → different angle → different demand
+La misma oferta → distinto ángulo → distinta demanda
 
-It improves:
-- clarity
-- desirability
-- specificity
-- conversion
-
----
-
-## When to Use
-Activate this skill when:
-- the offer feels generic
-- messaging does not convert
-- the outcome sounds vague
-- the audience is too broad
-- you want multiple positioning options
-- you need hooks for content or ads
+Mejora:
+- la claridad
+- la deseabilidad
+- la especificidad
+- la conversión
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a product or service description
-- a target audience
-- a general outcome (even if vague)
+## Cuándo usarla
+Activa esta skill cuando:
+- la oferta se siente genérica
+- los mensajes no convierten
+- el resultado suena vago
+- la audiencia es demasiado amplia
+- quieres varias opciones de posicionamiento
+- necesitas hooks para contenido o anuncios
 
 ---
 
-## Core Outcome
-The assistant produces:
-- multiple distinct offer angles
-- reframed outcomes
-- sharper positioning
-- different ways to target the same market
-- testable variations
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- una descripción de producto o servicio
+- una audiencia objetivo
+- un resultado general (aunque sea vago)
 
 ---
 
-## Assistant Behavior
-
-### 1. Extract the core elements
-Identify:
-- who the offer is for
-- what result it delivers
-- how it works
-- current positioning (if any)
-
-Then simplify:
-
-> This offer helps X achieve Y using Z.
+## Resultado principal
+El asistente produce:
+- múltiples ángulos de oferta distintos
+- resultados reencuadrados
+- posicionamiento más afilado
+- distintas formas de apuntar al mismo mercado
+- variaciones testeables
 
 ---
 
-### 2. Identify weaknesses in current angle
-Check if:
-- outcome is vague
-- timeline is missing
-- audience is too broad
-- pain is not specific
-- result is not tangible
+## Comportamiento del asistente
+
+### 1. Extrae los elementos centrales
+Identifica:
+- para quién es la oferta
+- qué resultado entrega
+- cómo funciona
+- el posicionamiento actual (si lo hay)
+
+Después simplifica:
+
+> Esta oferta ayuda a X a lograr Y usando Z.
 
 ---
 
-### 3. Generate multiple angle types
-
-Create 6–10 angles using different lenses:
-
-#### Outcome-Specific Angle
-Make the result concrete and measurable.
-
-#### Time-Based Angle
-Add a clear time frame.
-
-#### Pain-Based Angle
-Focus on urgent frustration.
-
-#### Identity-Based Angle
-Tie to who the user wants to become.
-
-#### Effort-Based Angle
-Emphasize ease or simplicity.
-
-#### Speed-Based Angle
-Focus on fast results.
-
-#### Status Angle
-Show social or personal upgrade.
-
-#### Mechanism Angle
-Highlight how it works.
-
-#### Niche Angle
-Target a narrower audience.
-
-#### Anti-Angle
-Challenge common beliefs.
+### 2. Identifica las debilidades del ángulo actual
+Revisa si:
+- el resultado es vago
+- falta un plazo
+- la audiencia es demasiado amplia
+- el dolor no es específico
+- el resultado no es tangible
 
 ---
 
-### 4. Rewrite the outcome for each angle
-Each angle must:
-- be specific
-- be easy to visualize
-- feel desirable
-- reduce vagueness
+### 3. Genera varios tipos de ángulo
 
-Example transformation:
-- weak: “get fit”
-- strong: “fit into your old clothes in 30 days”
+Crea 6–10 ángulos usando distintos lentes:
 
----
+#### Ángulo de resultado específico
+Haz el resultado concreto y medible.
 
-### 5. Create multiple variations per angle
-For each angle:
-- generate 2–3 variations
-- keep them short and clear
-- vary tone and framing
+#### Ángulo de tiempo
+Agrega un plazo claro.
 
----
+#### Ángulo de dolor
+Enfócate en la frustración urgente.
 
-### 6. Highlight strongest angles
-Select top 3–5 based on:
-- clarity
-- urgency
-- uniqueness
-- ease of understanding
+#### Ángulo de identidad
+Átalo a quién quiere llegar a ser el usuario.
 
-Explain why they work better.
+#### Ángulo de esfuerzo
+Enfatiza la facilidad o la simplicidad.
 
----
+#### Ángulo de velocidad
+Enfócate en resultados rápidos.
 
-### 7. Suggest use cases
-For each top angle:
-- best for ads
-- best for landing page
-- best for content
-- best for high-ticket vs low-ticket
+#### Ángulo de estatus
+Muestra la mejora social o personal.
+
+#### Ángulo de mecanismo
+Destaca cómo funciona.
+
+#### Ángulo de nicho
+Apunta a una audiencia más estrecha.
+
+#### Anti-ángulo
+Cuestiona las creencias comunes.
 
 ---
 
-## Output Format
+### 4. Reescribe el resultado para cada ángulo
+Cada ángulo debe:
+- ser específico
+- ser fácil de visualizar
+- sentirse deseable
+- reducir la vaguedad
+
+Ejemplo de transformación:
+- débil: “ponerte en forma”
+- fuerte: “entrar en tu ropa vieja en 30 días”
+
+---
+
+### 5. Crea varias variaciones por ángulo
+Para cada ángulo:
+- genera 2–3 variaciones
+- mantenlas cortas y claras
+- varía el tono y el encuadre
+
+---
+
+### 6. Destaca los ángulos más fuertes
+Selecciona los 3–5 mejores según:
+- claridad
+- urgencia
+- unicidad
+- facilidad de comprensión
+
+Explica por qué funcionan mejor.
+
+---
+
+### 7. Sugiere casos de uso
+Para cada uno de los mejores ángulos:
+- mejor para anuncios
+- mejor para landing page
+- mejor para contenido
+- mejor para high-ticket vs low-ticket
+
+---
+
+## Formato de salida
 
 ```md
 # OFFER_ANGLES.md
 
-## 1. Base Offer
-- Who it’s for
-- What it does
-- Current positioning
+## 1. Oferta base
+- Para quién es
+- Qué hace
+- Posicionamiento actual
 
 ---
 
-## 2. Generated Angles
+## 2. Ángulos generados
 
-### Angle 1: Outcome-Specific
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 1: resultado específico
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 2: Time-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 2: tiempo
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 3: Pain-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 3: dolor
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 4: Identity-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 4: identidad
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 5: Effort-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 5: esfuerzo
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 6: Speed-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 6: velocidad
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 7: Status-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 7: estatus
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 8: Mechanism-Based
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 8: mecanismo
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 9: Niche-Specific
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 9: nicho específico
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
-### Angle 10: Anti-Angle
-- Variation 1:
-- Variation 2:
-- Variation 3:
+### Ángulo 10: anti-ángulo
+- Variación 1:
+- Variación 2:
+- Variación 3:
 
 ---
 
-## 3. Top Angles
+## 3. Mejores ángulos
 
 ### Top 1
-- Angle:
-- Why it works:
+- Ángulo:
+- Por qué funciona:
 
 ### Top 2
-- Angle:
-- Why it works:
+- Ángulo:
+- Por qué funciona:
 
 ### Top 3
-- Angle:
-- Why it works:
+- Ángulo:
+- Por qué funciona:
 
 ---
 
-## 4. Recommended Use
+## 4. Uso recomendado
 
-- Best angle for ads:
-- Best angle for landing page:
-- Best angle for content:
-- Best angle for premium offer:
+- Mejor ángulo para anuncios:
+- Mejor ángulo para landing page:
+- Mejor ángulo para contenido:
+- Mejor ángulo para oferta premium:
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Improve specificity when:
-	•	outcome is abstract
-	•	results are hard to visualize
+Mejora la especificidad cuando:
+	•	el resultado es abstracto
+	•	los resultados son difíciles de visualizar
 
-Add time when:
-	•	urgency is missing
-	•	decision feels slow
+Agrega tiempo cuando:
+	•	falta urgencia
+	•	la decisión se siente lenta
 
-Narrow audience when:
-	•	message feels generic
-	•	too many people could relate
+Estrecha la audiencia cuando:
+	•	el mensaje se siente genérico
+	•	demasiada gente podría identificarse
 
-Emphasize ease when:
-	•	effort feels high
-	•	users feel overwhelmed
+Enfatiza la facilidad cuando:
+	•	el esfuerzo se siente alto
+	•	los usuarios se sienten abrumados
 
-Emphasize speed when:
-	•	users want quick wins
-	•	competition is slow
-
-⸻
-
-Before vs After Example
-
-Before
-	•	“Learn how to grow your Instagram”
-
-After
-	•	“Get your first 1,000 targeted followers in 14 days”
-	•	“Turn your Instagram into a client machine in 30 minutes a day”
-	•	“Stop guessing what to post and grow with a proven system”
+Enfatiza la velocidad cuando:
+	•	los usuarios quieren victorias rápidas
+	•	la competencia es lenta
 
 ⸻
 
-Style Guidelines
-	•	keep it short
-	•	use clear outcomes
-	•	avoid vague words
-	•	make results visible
-	•	prioritize clarity over creativity
+Ejemplo de antes vs después
+
+Antes
+	•	“Aprende a hacer crecer tu Instagram”
+
+Después
+	•	“Consigue tus primeros 1,000 seguidores segmentados en 14 días”
+	•	“Convierte tu Instagram en una máquina de clientes en 30 minutos al día”
+	•	“Deja de adivinar qué publicar y crece con un sistema probado”
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	mantenlo corto
+	•	usa resultados claros
+	•	evita las palabras vagas
+	•	haz visibles los resultados
+	•	prioriza la claridad sobre la creatividad
 
-The skill works when:
-	•	each angle feels distinct
-	•	outcomes are clear and specific
-	•	at least 3 angles feel strong enough to test
-	•	the offer becomes easier to explain
-	•	messaging feels sharper and more compelling
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	cada ángulo se siente distinto
+	•	los resultados son claros y específicos
+	•	al menos 3 ángulos se sienten lo bastante fuertes para testear
+	•	la oferta se vuelve más fácil de explicar
+	•	los mensajes se sienten más afilados y convincentes

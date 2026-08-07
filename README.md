@@ -1,6 +1,6 @@
 # hormozi-skills-es
 
-**Turn any business idea into a complete, sellable offer — using Alex Hormozi's frameworks.**
+**Convierte cualquier idea de negocio en una oferta completa y vendible — con los frameworks de Alex Hormozi.**
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-blueviolet)
@@ -9,112 +9,112 @@
 
 ---
 
-> A skill library for coding agents. Plug it in, describe your business, and get a complete offer system — market research, offer structure, pricing, pitch, hooks, landing page — written to files in one session.
+> Una biblioteca de skills para agentes de código. Conéctala, describe tu negocio y obtén un sistema de oferta completo — investigación de mercado, estructura de la oferta, precios, pitch, hooks, landing page — escrito en archivos en una sola sesión.
 
 ---
 
-## The Problem
+## El problema
 
-Building a compelling offer is hard. Most founders, coaches, and consultants either:
+Construir una oferta convincente es difícil. La mayoría de los fundadores, coaches y consultores hace una de estas tres cosas:
 
-- Write vague offers that don't convert — *"I help people grow their business"*
-- Price wrong — too low to be taken seriously, too high without justification
-- Skip the sales layer entirely — no hooks, no pitch, no landing page copy
+- Escribe ofertas vagas que no convierten — *"Ayudo a la gente a hacer crecer su negocio"*
+- Pone mal el precio — demasiado bajo para que lo tomen en serio, demasiado alto sin justificación
+- Se salta por completo la capa de ventas — sin hooks, sin pitch, sin copy de landing page
 
-**hormozi-skills-es** solves this end-to-end. One orchestrator, five specialized subagents, 18 skills, 11 output files.
+**hormozi-skills-es** resuelve esto de punta a punta. Un orquestador, cinco subagentes especializados, 18 skills, 11 archivos de salida.
 
 ---
 
-## Quick Start
+## Inicio rápido
 
 ### Claude Code
 
-Add the marketplace, then install the plugin:
+Agrega el marketplace y después instala el plugin:
 
 ```bash
 /plugin marketplace add JustinCast/hormozi-skills-es
 /plugin install hormozi-skills-es@hormozi-skills-es
 ```
 
-Then invoke the `hormozi-orchestrator` agent or a specific skill.
+Después invoca el agente `hormozi-orchestrator` o una skill específica.
 
 ### Codex
 
-Install directly from GitHub:
+Instala directamente desde GitHub:
 
 ```bash
 codex plugin install https://github.com/JustinCast/hormozi-skills-es
 ```
 
-### Manual Install
+### Instalación manual
 
-If you want the raw skill files instead of the plugin flow:
+Si prefieres los archivos de skill en crudo en lugar del flujo del plugin:
 
 ```bash
-# Clone the skill library
+# Clona la biblioteca de skills
 git clone https://github.com/JustinCast/hormozi-skills-es
 cd hormozi-skills-es
 
-# Copy skills and agents into your Claude config
+# Copia skills y agents a tu configuración de Claude
 cp -r skills/ agents/ ~/.claude/
 ```
 
 > [!TIP]
-> Describe your business in plain language — rough idea, brain dump, or existing offer. The orchestrator interviews you, detects your stage, and builds everything from there.
+> Describe tu negocio en lenguaje simple — una idea en bruto, un volcado de ideas o una oferta que ya tengas. El orquestador te entrevista, detecta tu etapa y construye todo a partir de ahí.
 
 ---
 
-## 📦 What You Get
+## 📦 Lo que obtienes
 
-11 output files written to `output/` in one session:
+11 archivos de salida escritos en `output/` en una sola sesión:
 
-| File | What's Inside |
+| Archivo | Qué contiene |
 |------|--------------|
-| `MARKET_RESEARCH.md` | Validated niche, pain map, demand signals |
-| `OFFER.md` | Full Grand Slam Offer — avatar, obstacles, solution map, value stack |
-| `OFFER_ANGLES.md` | 8 positioning angles, ranked |
-| `OFFER_AUDIT.md` | Score per dimension + priority fixes |
-| `VALUE_PERCEPTION.md` | Improved naming, packaging, framing |
-| `BONUS_STACK.md` | Objection-killing bonus structure with perceived value |
-| `PRICING.md` | Value-anchored price, tiers, justification story |
-| `OBJECTIONS.md` | Hidden beliefs, belief shifts, DM-ready responses |
-| `PITCH.md` | Short / medium / long pitch versions |
-| `HOOKS.md` | 30+ hooks across 10 types, ranked |
-| `LANDING_PAGE.md` | Full landing page copy, section by section |
+| `MARKET_RESEARCH.md` | Nicho validado, mapa del dolor, señales de demanda |
+| `OFFER.md` | Grand Slam Offer (oferta irresistible) completa — avatar, obstáculos, mapa de soluciones, stack de valor |
+| `OFFER_ANGLES.md` | 8 ángulos de posicionamiento, ordenados |
+| `OFFER_AUDIT.md` | Puntaje por dimensión + correcciones prioritarias |
+| `VALUE_PERCEPTION.md` | Naming, empaquetado y encuadre mejorados |
+| `BONUS_STACK.md` | Estructura de bonos que elimina objeciones, con valor percibido |
+| `PRICING.md` | Precio anclado al valor, niveles, historia que lo justifica |
+| `OBJECTIONS.md` | Creencias ocultas, cambios de creencia, respuestas listas para DM |
+| `PITCH.md` | Versiones corta / media / larga del pitch |
+| `HOOKS.md` | Más de 30 hooks en 10 tipos, ordenados |
+| `LANDING_PAGE.md` | Copy completo de la landing page, sección por sección |
 
 ---
 
-## 🧠 Skills Library
+## 🧠 Biblioteca de skills
 
-Use any skill standalone — no orchestrator needed:
+Usa cualquier skill por separado — no hace falta el orquestador:
 
-| Skill | Purpose |
+| Skill | Propósito |
 |-------|---------|
-| `hormozi-offer` | Build a Grand Slam Offer from scratch → `OFFER.md` |
-| `hormozi-pitch` | Pitch deck and sales narrative |
-| `hormozi-hooks` | Hook and headline generation (30+ hooks) |
-| `audit-offer` | Score and rewrite an existing weak offer |
-| `bonus-stack` | Build a bonus stack that kills objections |
-| `business-model` | Choose and structure the right business model |
-| `create-plugin` | Tooling — scaffold this repo as a Claude Code + Codex plugin |
-| `dfy-dwy-diy` | Frame offer as DFY / DWY / DIY tiers |
-| `effort-reduction` | Reduce perceived effort in the offer |
-| `idea-to-product` | Turn rough idea into productized offer |
-| `landing-page-copy` | Generate landing page copy from an existing offer |
-| `market-research` | Research market pain and demand signals |
-| `objection-destroyer` | Map and neutralize common objections |
-| `offer-angles` | Generate multiple positioning angles |
-| `pricing-strategy` | Price anchoring and packaging |
-| `productize` | Productize a service business |
-| `value-accelerator` | Increase perceived value |
-| `value-perception` | Improve how value is communicated |
+| `hormozi-offer` | Construye una Grand Slam Offer desde cero → `OFFER.md` |
+| `hormozi-pitch` | Pitch deck y narrativa de ventas |
+| `hormozi-hooks` | Generación de hooks y headlines (más de 30 hooks) |
+| `audit-offer` | Puntúa y reescribe una oferta débil que ya existe |
+| `bonus-stack` | Construye un stack de bonos que elimina objeciones |
+| `business-model` | Elige y estructura el modelo de negocio correcto |
+| `create-plugin` | Herramientas — genera el andamiaje de este repo como plugin de Claude Code + Codex |
+| `dfy-dwy-diy` | Encuadra la oferta en niveles DFY / DWY / DIY |
+| `effort-reduction` | Reduce el esfuerzo percibido en la oferta |
+| `idea-to-product` | Convierte una idea en bruto en una oferta productizada |
+| `landing-page-copy` | Genera el copy de la landing page a partir de una oferta existente |
+| `market-research` | Investiga el dolor del mercado y las señales de demanda |
+| `objection-destroyer` | Mapea y neutraliza las objeciones comunes |
+| `offer-angles` | Genera múltiples ángulos de posicionamiento |
+| `pricing-strategy` | Anclaje de precio y empaquetado |
+| `productize` | Productiza un negocio de servicios |
+| `value-accelerator` | Aumenta el valor percibido |
+| `value-perception` | Mejora cómo se comunica el valor |
 
 > [!TIP]
-> Skip the orchestrator and call any skill directly: `/audit-offer`, `/pricing-strategy`, `/landing-page-copy` — each works standalone with no prior context needed.
+> Sáltate el orquestador y llama a cualquier skill directamente: `/audit-offer`, `/pricing-strategy`, `/landing-page-copy` — cada una funciona por separado, sin contexto previo.
 
 ---
 
-## 🔀 Agent System
+## 🔀 Sistema de agentes
 
 ```
 hormozi-orchestrator
@@ -125,62 +125,62 @@ hormozi-orchestrator
 └── sub-sales     → PITCH.md + HOOKS.md + LANDING_PAGE.md
 ```
 
-**Dependency order:** market → offer → (value ∥ pricing) → sales
+**Orden de dependencia:** mercado → oferta → (valor ∥ precios) → ventas
 
-The orchestrator detects your funnel stage (idea / broken offer / needs sales layer / service scaling) and runs only the subagents you need.
-
----
-
-## ⚙️ How It Works
-
-1. **Intake** — give the orchestrator anything: a raw idea, existing offer, brain dump, or sales page
-2. **Interview** — focused questions one at a time, each with a suggested answer
-3. **Stage detection** — classifies your situation (Stage A–E), shows which subagents will run
-4. **Delegation** — spawns subagents in dependency order, passing structured briefs
-5. **Summary** — produces `output/SUMMARY.md`: one-paragraph offer, key decisions, top 3 actions, best hook to use today
+El orquestador detecta tu etapa del embudo (idea / oferta que no convierte / falta capa de ventas / escalado de servicios) y ejecuta solo los subagentes que necesitas.
 
 ---
 
-## Repo Structure
+## ⚙️ Cómo funciona
+
+1. **Recepción** — dale al orquestador lo que sea: una idea en bruto, una oferta existente, un volcado de ideas o una página de ventas
+2. **Entrevista** — preguntas puntuales de a una, cada una con una respuesta sugerida
+3. **Detección de etapa** — clasifica tu situación (Etapa A–E) y muestra qué subagentes se van a ejecutar
+4. **Delegación** — lanza los subagentes en orden de dependencia y les pasa briefs estructurados
+5. **Resumen** — produce `output/SUMMARY.md`: tu oferta en un párrafo, decisiones clave, top 3 de acciones y el mejor hook para usar hoy
+
+---
+
+## Estructura del repo
 
 ```
 hormozi-skills-es/
-├── skills/     # 18 standalone agent skills
-├── agents/     # Orchestrator + 5 subagents
-├── output/     # Generated offer documents (starts empty)
-└── input/      # Drop existing offers, notes, or sales pages here
+├── skills/     # 18 skills de agente independientes
+├── agents/     # Orquestador + 5 subagentes
+├── output/     # Documentos de oferta generados (empieza vacía)
+└── input/      # Deja acá ofertas, notas o páginas de ventas existentes
 ```
 
 ---
 
-## Who This Is For
+## Para quién es
 
-- Founders, coaches, consultants, and freelancers building offers
-- Anyone applying Hormozi's methodology who wants AI execution, not just AI advice
-- Coding agents running offer-generation pipelines
+- Fundadores, coaches, consultores y freelancers que construyen ofertas
+- Cualquiera que aplique la metodología de Hormozi y quiera ejecución con IA, no solo consejos de IA
+- Agentes de código que corren pipelines de generación de ofertas
 
-## Who This Is Not For
+## Para quién NO es
 
-- Generic copywriters looking for fill-in-the-blank templates — this thinks, it doesn't just fill
-- Developers needing a code library — this is prompt-based, agent-native
-- People who want a one-shot answer without iteration — the orchestrator interviews you
+- Copywriters genéricos que buscan plantillas para rellenar — esto piensa, no solo rellena
+- Desarrolladores que necesitan una biblioteca de código — esto es a base de prompts, nativo de agentes
+- Gente que quiere una respuesta de un solo tiro sin iterar — el orquestador te entrevista
 
 ---
 
 ## Frameworks
 
-Built on Alex Hormozi's offer methodology from *$100M Offers* and *$100M Leads*:
+Construido sobre la metodología de ofertas de Alex Hormozi de *$100M Offers* y *$100M Leads*:
 
-- Grand Slam Offer construction
-- Dream outcome × likelihood × time delay × effort equation
-- Obstacle → solution reversal
-- Value stack and bonus engineering
-- Guarantee design (unconditional / conditional / effort-based)
-- Price anchoring and perceived value
-- Hook architecture (pattern interrupt, identity, outcome, curiosity)
+- Construcción de la Grand Slam Offer
+- Ecuación resultado soñado × probabilidad × demora × esfuerzo
+- Inversión obstáculo → solución
+- Stack de valor e ingeniería de bonos
+- Diseño de garantías (incondicional / condicional / basada en esfuerzo)
+- Anclaje de precio y valor percibido
+- Arquitectura de hooks (interrupción de patrón, identidad, resultado, curiosidad)
 
 ---
 
-## Credits
+## Créditos
 
-Inspired by Alex Hormozi's work. Built for coding agents by [@alexsmedile](https://github.com/alexsmedile).
+Inspirado en el trabajo de Alex Hormozi. Construido para agentes de código por [@alexsmedile](https://github.com/alexsmedile).

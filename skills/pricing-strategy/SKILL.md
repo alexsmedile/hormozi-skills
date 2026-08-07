@@ -1,316 +1,316 @@
 ---
 name: pricing-strategy
-description: Set the right price anchored to value, not guesswork. Use when pricing feels random, conversions are low due to price resistance, or you want to introduce tiers. Analyzes outcome value, delivery model, and market expectations to produce pricing range, strategy, tiers, psychological pricing, and a price justification story — outputs PRICING.md.
+description: Fija el precio correcto anclado al valor, no a la adivinanza. Úsala cuando los precios se sienten aleatorios, las conversiones son bajas por resistencia al precio o quieres introducir niveles. Analiza el valor del resultado, el modelo de entrega y las expectativas del mercado para producir rango de precios, estrategia, niveles, precios psicológicos y una historia que justifica el precio — produce PRICING.md.
 ---
 
-# Skill: Pricing Strategy (Value Anchoring Engine)
+# Skill: Estrategia de precios (Motor de Anclaje de Valor)
 
-## Purpose
-Set the right price based on value, not guesswork.
+## Propósito
+Fija el precio correcto con base en el valor, no en la adivinanza.
 
-This skill ensures the price:
-- reflects the outcome
-- feels justified to the buyer
-- matches the delivery model
-- maximizes conversions and revenue
+Esta skill asegura que el precio:
+- refleje el resultado
+- se sienta justificado para el comprador
+- coincida con el modelo de entrega
+- maximice las conversiones y los ingresos
 
-It improves:
-- perceived value
-- positioning
-- profitability
-
----
-
-## When to Use
-Activate this skill when:
-- pricing feels random or uncertain
-- conversions are low due to price resistance
-- the offer feels “too cheap” or “too expensive”
-- you want to introduce tiers
-- you’re launching a new offer
-- you need a clear pricing story
+Mejora:
+- el valor percibido
+- el posicionamiento
+- la rentabilidad
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a product or service description
-- value stack
-- delivery model (DFY, DWY, DIY)
-- target audience
+## Cuándo usarla
+Activa esta skill cuando:
+- los precios se sienten aleatorios o inciertos
+- las conversiones son bajas por resistencia al precio
+- la oferta se siente “demasiado barata” o “demasiado cara”
+- quieres introducir niveles
+- estás lanzando una oferta nueva
+- necesitas una historia de precio clara
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a price anchored to value
-- pricing tier structure (if needed)
-- price positioning strategy
-- psychological pricing suggestions
-- a clear price justification story
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- la descripción de un producto o servicio
+- stack de valor
+- modelo de entrega (DFY, DWY, DIY)
+- audiencia objetivo
 
 ---
 
-## Assistant Behavior
-
-### 1. Understand the value
-Extract:
-- the core outcome
-- how much that outcome is worth
-- urgency of the problem
-- financial or emotional impact
-
-Then summarize:
-
-> This offer helps X achieve Y, which is worth Z in terms of time, money, or status.
+## Resultado principal
+El asistente produce:
+- un precio anclado al valor
+- una estructura de niveles de precio (si hace falta)
+- una estrategia de posicionamiento de precio
+- sugerencias de precios psicológicos
+- una historia clara que justifica el precio
 
 ---
 
-### 2. Analyze the delivery model
-Identify:
-- DIY → lower price, volume-based
-- DWY → mid-tier pricing
-- DFY → premium pricing
+## Comportamiento del asistente
 
-Then assess:
-- level of support
-- level of customization
-- level of effort saved
+### 1. Entiende el valor
+Extrae:
+- el resultado principal
+- cuánto vale ese resultado
+- la urgencia del problema
+- el impacto financiero o emocional
 
----
+Después resume:
 
-### 3. Anchor price to outcome
-Estimate value based on:
-- money gained
-- time saved
-- pain avoided
-- opportunity unlocked
-
-Frame it like:
-
-> If this helps achieve X, then even a fraction of that value justifies the price.
+> Esta oferta ayuda a X a lograr Y, que vale Z en tiempo, dinero o estatus.
 
 ---
 
-### 4. Define pricing range
-Create a realistic range based on:
-- market expectations
-- delivery model
-- complexity
-- competition (if known)
+### 2. Analiza el modelo de entrega
+Identifica:
+- DIY → precio más bajo, basado en volumen
+- DWY → precio de nivel medio
+- DFY → precio premium
 
-Output:
-- low-end price
-- mid-range price
-- premium price
-
----
-
-### 5. Choose pricing strategy
-
-Select one:
-
-#### Volume (Low-Ticket)
-- low price
-- high volume
-- simple delivery
-- fast decision
-
-#### Margin (High-Ticket)
-- high price
-- lower volume
-- high support
-- strong transformation
-
-#### Hybrid
-- entry offer + core offer + premium
-
-Explain tradeoffs:
-- speed vs profit
-- scale vs depth
-- simplicity vs customization
+Después evalúa:
+- el nivel de soporte
+- el nivel de personalización
+- el nivel de esfuerzo ahorrado
 
 ---
 
-### 6. Build pricing tiers (if needed)
+### 3. Ancla el precio al resultado
+Estima el valor con base en:
+- el dinero ganado
+- el tiempo ahorrado
+- el dolor evitado
+- la oportunidad desbloqueada
 
-Structure:
+Encuádralo así:
 
-- Tier 1: Entry (DIY)
-- Tier 2: Core (DWY)
-- Tier 3: Premium (DFY)
-
-For each:
-- what’s included
-- who it’s for
-- price point
-- value difference
+> Si esto ayuda a lograr X, hasta una fracción de ese valor justifica el precio.
 
 ---
 
-### 7. Apply psychological pricing
+### 4. Define el rango de precios
+Crea un rango realista con base en:
+- las expectativas del mercado
+- el modelo de entrega
+- la complejidad
+- la competencia (si se conoce)
 
-Suggest:
-- price anchoring (show higher value first)
-- charm pricing (e.g. 27, 97, 297)
-- round pricing for premium (e.g. 1000+)
-- tier contrast (clear jumps in value)
-
-Explain:
-- why this pricing feels right
-- how it influences perception
-
----
-
-### 8. Build the price justification story
-
-Create a simple narrative:
-
-Structure:
-1. Restate the outcome
-2. Show what it’s worth
-3. Compare to alternatives
-4. Anchor total value stack
-5. Reveal price as “small” relative to value
-
-Example:
-> If this helps you get X, which is worth Y, then paying Z is a small step.
+Salida:
+- precio de gama baja
+- precio de gama media
+- precio premium
 
 ---
 
-### 9. Stress test the price
+### 5. Elige la estrategia de precios
 
-Check:
-- does it feel cheap (low trust)?
-- does it feel expensive (low clarity)?
-- does it match the outcome?
-- does it match the audience’s ability to pay?
+Elige una:
 
-Adjust if needed.
+#### Volumen (low-ticket)
+- precio bajo
+- volumen alto
+- entrega simple
+- decisión rápida
+
+#### Margen (high-ticket)
+- precio alto
+- volumen más bajo
+- soporte alto
+- transformación fuerte
+
+#### Híbrido
+- oferta de entrada + oferta principal + premium
+
+Explica los tradeoffs:
+- velocidad vs ganancia
+- escala vs profundidad
+- simplicidad vs personalización
 
 ---
 
-### 10. Suggest pricing experiments
+### 6. Construye los niveles de precio (si hacen falta)
 
-Recommend:
-- A/B testing price points
-- introducing payment plans
-- testing discounts vs bonuses
-- early-bird pricing
+Estructura:
+
+- Nivel 1: entrada (DIY)
+- Nivel 2: principal (DWY)
+- Nivel 3: premium (DFY)
+
+Para cada uno:
+- qué incluye
+- para quién es
+- punto de precio
+- diferencia de valor
 
 ---
 
-## Output Format
+### 7. Aplica precios psicológicos
+
+Sugiere:
+- anclaje de precio (muestra primero el valor más alto)
+- charm pricing (precios terminados en 7 o 9; p. ej. 27, 97, 297)
+- precios redondos para premium (p. ej. 1000+)
+- contraste entre niveles (saltos claros de valor)
+
+Explica:
+- por qué este precio se siente correcto
+- cómo influye en la percepción
+
+---
+
+### 8. Construye la historia que justifica el precio
+
+Crea una narrativa simple:
+
+Estructura:
+1. Reformula el resultado
+2. Muestra cuánto vale
+3. Compara con las alternativas
+4. Ancla el stack de valor total
+5. Revela el precio como “pequeño” frente al valor
+
+Ejemplo:
+> Si esto te ayuda a conseguir X, que vale Y, pagar Z es un paso pequeño.
+
+---
+
+### 9. Pon el precio a prueba
+
+Revisa:
+- ¿se siente barato (poca confianza)?
+- ¿se siente caro (poca claridad)?
+- ¿coincide con el resultado?
+- ¿coincide con la capacidad de pago de la audiencia?
+
+Ajusta si hace falta.
+
+---
+
+### 10. Sugiere experimentos de precio
+
+Recomienda:
+- test A/B de puntos de precio
+- introducir planes de pagos
+- probar descuentos vs bonos
+- precio early bird
+
+---
+
+## Formato de salida
 
 ```md
 # PRICING.md
 
-## 1. Value Analysis
-- Outcome
-- Why it matters
-- Estimated value
+## 1. Análisis de valor
+- Resultado
+- Por qué importa
+- Valor estimado
 
-## 2. Delivery Model Impact
-- Model (DIY, DWY, DFY)
-- Pricing implications
+## 2. Impacto del modelo de entrega
+- Modelo (DIY, DWY, DFY)
+- Implicaciones de precio
 
-## 3. Pricing Range
-- Low price
-- Mid price
-- High price
+## 3. Rango de precios
+- Precio bajo
+- Precio medio
+- Precio alto
 
-## 4. Recommended Pricing Strategy
-- Strategy type
-- Reasoning
+## 4. Estrategia de precios recomendada
+- Tipo de estrategia
+- Razonamiento
 
-## 5. Pricing Tiers (if applicable)
+## 5. Niveles de precio (si aplica)
 
-### Tier 1
-- Name
-- What’s included
-- Price
+### Nivel 1
+- Nombre
+- Qué incluye
+- Precio
 
-### Tier 2
-- Name
-- What’s included
-- Price
+### Nivel 2
+- Nombre
+- Qué incluye
+- Precio
 
-### Tier 3
-- Name
-- What’s included
-- Price
+### Nivel 3
+- Nombre
+- Qué incluye
+- Precio
 
-## 6. Psychological Pricing
-- Techniques used
-- Why they work
+## 6. Precios psicológicos
+- Técnicas usadas
+- Por qué funcionan
 
-## 7. Price Justification Story
-- Narrative
+## 7. Historia que justifica el precio
+- Narrativa
 
-## 8. Risk Check
-- Potential issues
-- Adjustments
+## 8. Chequeo de riesgo
+- Problemas potenciales
+- Ajustes
 
-## 9. Pricing Experiments
-- Tests to run
+## 9. Experimentos de precio
+- Tests a correr
 ```
 
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Price higher when:
-	•	outcome is valuable
-	•	effort is low for the customer
-	•	speed is high
-	•	delivery includes DFY elements
+Cobra más cuando:
+	•	el resultado es valioso
+	•	el esfuerzo es bajo para el cliente
+	•	la velocidad es alta
+	•	la entrega incluye elementos DFY
 
-Price lower when:
-	•	outcome is uncertain
-	•	delivery is DIY
-	•	trust is low
-	•	market is price-sensitive
+Cobra menos cuando:
+	•	el resultado es incierto
+	•	la entrega es DIY
+	•	la confianza es baja
+	•	el mercado es sensible al precio
 
-Use tiers when:
-	•	audience has different budgets
-	•	multiple delivery levels exist
-	•	upsell potential is strong
+Usa niveles cuando:
+	•	la audiencia tiene presupuestos distintos
+	•	existen varios niveles de entrega
+	•	el potencial de upsell es fuerte
 
-Avoid underpricing when:
-	•	it reduces trust
-	•	it signals low value
-	•	it attracts the wrong audience
-
-⸻
-
-Before vs After Example
-
-Before
-	•	Random price: $49
-
-After
-	•	Value stack: $500+
-	•	Anchored price: $97
-	•	Justified by outcome and speed
+Evita cobrar de menos cuando:
+	•	reduce la confianza
+	•	señala poco valor
+	•	atrae a la audiencia equivocada
 
 ⸻
 
-Style Guidelines
-	•	tie price to outcome, not features
-	•	keep explanation simple
-	•	avoid overcomplication
-	•	make price feel logical
-	•	make decision easy
+Ejemplo de antes vs después
+
+Antes
+	•	Precio aleatorio: $49
+
+Después
+	•	Stack de valor: $500+
+	•	Precio anclado: $97
+	•	Justificado por el resultado y la velocidad
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	ata el precio al resultado, no a las características
+	•	mantén la explicación simple
+	•	evita complicar de más
+	•	haz que el precio se sienta lógico
+	•	haz que la decisión sea fácil
 
-The skill works when:
-	•	price feels fair and justified
-	•	value clearly exceeds price
-	•	buyers hesitate less
-	•	positioning improves
-	•	revenue increases
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	el precio se siente justo y justificado
+	•	el valor supera claramente al precio
+	•	los compradores dudan menos
+	•	el posicionamiento mejora
+	•	los ingresos aumentan

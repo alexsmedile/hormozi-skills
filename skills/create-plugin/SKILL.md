@@ -1,40 +1,40 @@
 ---
 name: create-plugin
-description: This skill should be used when the user asks to "create a plugin", "make a GitHub plugin", "turn my repo into a plugin", "create a Claude Code plugin", "create a Codex plugin", "publish my skills as a plugin", or "set up a plugin marketplace". Scaffolds the complete file structure for a repo that works as both a Claude Code and Codex plugin with marketplace support.
+description: Esta skill se debe usar cuando el usuario pide "crear un plugin", "hacer un plugin de GitHub", "convertir mi repo en un plugin", "crear un plugin de Claude Code", "crear un plugin de Codex", "publicar mis skills como plugin" o "montar un marketplace de plugins". Genera la estructura completa de archivos de un repo que funciona a la vez como plugin de Claude Code y de Codex, con soporte de marketplace.
 ---
 
-# Skill: Plugin Creator (Claude Code + Codex)
+# Skill: Creador de plugins (Claude Code + Codex)
 
-## Purpose
+## Propósito
 
-Scaffold a GitHub repo that works as a plugin for both Claude Code and Codex simultaneously. Outputs ready-to-copy file contents and git commands for every required file.
+Genera el andamiaje de un repo de GitHub que funciona como plugin de Claude Code y de Codex a la vez. Entrega el contenido de cada archivo listo para copiar y los comandos git de todos los archivos requeridos.
 
 ---
 
-## Step 1: Gather Inputs
+## Paso 1: reunir las entradas
 
-Ask the user these questions (all at once):
+Hazle estas preguntas al usuario (todas juntas):
 
-1. **Repo name** — kebab-case (e.g. `my-skills`)
-2. **GitHub username or org** — (e.g. `alexsmedile`)
-3. **Plugin description** — one sentence
-4. **Author name**
-5. **What does this plugin contain?** — pick all that apply:
+1. **Nombre del repo** — en kebab-case (ej. `my-skills`)
+2. **Usuario u organización de GitHub** — (ej. `alexsmedile`)
+3. **Descripción del plugin** — una frase
+4. **Nombre del autor**
+5. **¿Qué contiene este plugin?** — marca todo lo que aplique:
    - Skills (`skills/`)
-   - Agents (`agents/`)
+   - Agentes (`agents/`)
    - Hooks (`hooks/hooks.json`)
-   - MCP servers (`.mcp.json`)
-6. **License** — default: `MIT`
+   - Servidores MCP (`.mcp.json`)
+6. **Licencia** — por defecto: `MIT`
 
-Do not proceed until you have at least: repo name, GitHub username, description, and author name.
+No avances hasta tener al menos: nombre del repo, usuario de GitHub, descripción y nombre del autor.
 
 ---
 
-## Step 2: Generate File Structure
+## Paso 2: generar la estructura de archivos
 
-Show the full directory tree based on their selections, then output every file's content ready to copy.
+Muestra el árbol de directorios completo según lo que haya elegido y después entrega el contenido de cada archivo listo para copiar.
 
-### Always-required files
+### Archivos siempre requeridos
 
 #### `.claude-plugin/plugin.json`
 
@@ -53,7 +53,7 @@ Show the full directory tree based on their selections, then output every file's
 }
 ```
 
-> Skills and agents in `skills/` and `agents/` are auto-discovered — no paths needed in `plugin.json`.
+> Las skills y los agentes de `skills/` y `agents/` se autodetectan — no hace falta indicar rutas en `plugin.json`.
 
 #### `.claude-plugin/marketplace.json`
 
@@ -134,47 +134,47 @@ output/*
 
 #### `output/.gitkeep`
 
-Empty file — keeps the `output/` folder tracked by git.
+Archivo vacío — mantiene la carpeta `output/` bajo seguimiento de git.
 
 ---
 
-### If skills selected: `skills/example-skill/SKILL.md`
+### Si se eligieron skills: `skills/example-skill/SKILL.md`
 
 ```markdown
 ---
 name: example-skill
-description: Replace this description with specific trigger phrases. Use when the user asks to "..."
+description: Reemplaza esta descripción con frases disparadoras específicas. Úsala cuando el usuario pida "..."
 ---
 
-# Skill: Example
+# Skill: Ejemplo
 
-Describe what this skill does and how to use it.
+Describe qué hace esta skill y cómo se usa.
 ```
 
-> Rename `example-skill/` to your actual skill name. Skill is invoked as `/{{repo-name}}:example-skill`.
+> Renombra `example-skill/` con el nombre real de tu skill. La skill se invoca como `/{{repo-name}}:example-skill`.
 
 ---
 
-### If agents selected: `agents/example-agent.md`
+### Si se eligieron agentes: `agents/example-agent.md`
 
 ```markdown
 ---
 name: example-agent
-description: Replace with what this agent does and when to invoke it.
+description: Reemplaza esto con lo que hace este agente y cuándo invocarlo.
 tools: Read, Write, Bash
 model: sonnet
 ---
 
-# Agent: Example
+# Agente: Ejemplo
 
-Describe the agent's role, expertise, and behavior here.
+Describe acá el rol, la especialidad y el comportamiento del agente.
 ```
 
-> Rename to your actual agent name.
+> Renómbralo con el nombre real de tu agente.
 
 ---
 
-### If hooks selected: `hooks/hooks.json`
+### Si se eligieron hooks: `hooks/hooks.json`
 
 ```json
 {
@@ -196,7 +196,7 @@ Describe the agent's role, expertise, and behavior here.
 
 ---
 
-### If MCP servers selected: `.mcp.json`
+### Si se eligieron servidores MCP: `.mcp.json`
 
 ```json
 {
@@ -211,23 +211,23 @@ Describe the agent's role, expertise, and behavior here.
 
 ---
 
-## Step 3: Critical Rules
+## Paso 3: reglas críticas
 
-State these clearly before the user creates any files:
+Enúncialas con claridad antes de que el usuario cree ningún archivo:
 
-| Rule | Detail |
+| Regla | Detalle |
 |------|--------|
-| `skills/` and `agents/` at **repo root** | Never inside `.claude-plugin/` or `.codex-plugin/` |
-| Plugin name = skill namespace | Plugin `foo` → skills run as `/foo:skill-name` |
-| `plugin.json` is auto-discovery | No need to list `skills` or `agents` paths unless using custom locations |
-| Do NOT add `skills`/`agents` to `marketplace.json` | Causes schema validation error with default `strict: true` |
-| `source: "./"` in marketplace.json | Points at repo root — correct for single-plugin repos |
+| `skills/` y `agents/` en la **raíz del repo** | Nunca dentro de `.claude-plugin/` ni de `.codex-plugin/` |
+| Nombre del plugin = namespace de las skills | Plugin `foo` → las skills corren como `/foo:skill-name` |
+| `plugin.json` funciona por autodetección | No hace falta listar las rutas `skills` ni `agents`, salvo que uses ubicaciones personalizadas |
+| NO agregues `skills`/`agents` a `marketplace.json` | Provoca un error de validación de esquema con el `strict: true` por defecto |
+| `source: "./"` en marketplace.json | Apunta a la raíz del repo — es lo correcto para repos de un solo plugin |
 
 ---
 
-## Step 4: Git Setup + Install Commands
+## Paso 4: configuración de git + comandos de instalación
 
-Output these exactly, substituting the user's values:
+Entrega esto exactamente igual, sustituyendo los valores del usuario:
 
 ```bash
 # Create repo (if not exists)
@@ -241,29 +241,29 @@ git remote add origin https://github.com/{{username}}/{{repo-name}}.git
 git push -u origin main
 ```
 
-**Install in Claude Code:**
+**Instalar en Claude Code:**
 ```
 /plugin marketplace add {{username}}/{{repo-name}}
 /plugin install {{repo-name}}@{{repo-name}}
 ```
 
-**Reload after changes:**
+**Recargar después de los cambios:**
 ```
 /reload-plugins
 ```
 
-**Test locally without installing:**
+**Probar en local sin instalar:**
 ```bash
 claude --plugin-dir ./
 ```
 
 ---
 
-## Step 5: After Install
+## Paso 5: después de instalar
 
-Skills are namespaced: `/{{repo-name}}:skill-name`  
-Agents appear in `/agents`
+Las skills llevan namespace: `/{{repo-name}}:skill-name`  
+Los agentes aparecen en `/agents`
 
-To update: push to GitHub, then `/plugin marketplace update {{repo-name}}`
+Para actualizar: publica en GitHub y después `/plugin marketplace update {{repo-name}}`
 
-Bump `version` in `plugin.json` and `marketplace.json` with each release — Claude Code uses version to detect updates.
+Sube la `version` en `plugin.json` y `marketplace.json` en cada release — Claude Code usa la versión para detectar actualizaciones.

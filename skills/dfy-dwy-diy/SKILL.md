@@ -1,375 +1,375 @@
 ---
 name: dfy-dwy-diy
-description: Choose the best delivery mechanism for an offer — Done For You, Done With You, or Do It Yourself. Use when the offer exists but feels weak, delivery format is unclear, or scaling vs customization is a tradeoff. Scores each model on speed, ease, perceived value, and scalability.
+description: Elige el mejor mecanismo de entrega para una oferta — Done For You, Done With You o Do It Yourself. Úsala cuando la oferta existe pero se siente débil, el formato de entrega no queda claro o escalar vs personalizar es un tradeoff. Puntúa cada modelo en velocidad, facilidad, valor percibido y escalabilidad.
 ---
 
-# Skill: Delivery Mechanism Designer (DFY vs DWY vs DIY)
+# Skill: Diseñador del mecanismo de entrega (DFY vs DWY vs DIY)
 
-## Purpose
-Choose the best way to deliver the result.
+## Propósito
+Elige la mejor forma de entregar el resultado.
 
-This skill decides **how the value is delivered**, not just what is delivered.
+Esta skill decide **cómo se entrega el valor**, no solo qué se entrega.
 
-It optimizes for:
-- speed (how fast results happen)
-- ease (how hard it feels)
-- perceived value (what it’s worth in the buyer’s mind)
+Optimiza para:
+- velocidad (qué tan rápido llegan los resultados)
+- facilidad (qué tan difícil se siente)
+- valor percibido (cuánto vale en la mente del comprador)
 
-A weak delivery kills a strong idea.  
-A strong delivery can make a simple idea sell.
-
----
-
-## When to Use
-Activate this skill when:
-- the offer exists but feels weak
-- conversions are low despite a good outcome
-- delivery format is unclear
-- the result requires too much effort
-- the user is unsure between product, service, or hybrid
-- scaling vs customization is a tradeoff
+Una entrega débil mata una idea fuerte.  
+Una entrega fuerte puede hacer que una idea simple se venda.
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a rough offer idea
-- a product or service description
-- a target outcome + audience
-- an existing delivery format
+## Cuándo usarla
+Activa esta skill cuando:
+- la oferta existe pero se siente débil
+- las conversiones son bajas a pesar de un buen resultado
+- el formato de entrega no queda claro
+- el resultado exige demasiado esfuerzo
+- el usuario no tiene claro si va por producto, servicio o híbrido
+- escalar vs personalizar es un tradeoff
 
 ---
 
-## Core Outcome
-The assistant produces:
-- the best delivery model (DFY, DWY, DIY)
-- reasoning behind the choice
-- tradeoffs explained
-- hybrid delivery ideas
-- upgraded delivery structure
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- una idea de oferta en bruto
+- una descripción de producto o servicio
+- un resultado objetivo + audiencia
+- un formato de entrega existente
 
 ---
 
-## Key Models
+## Resultado principal
+El asistente produce:
+- el mejor modelo de entrega (DFY, DWY, DIY)
+- el razonamiento detrás de la elección
+- los tradeoffs explicados
+- ideas de entrega híbrida
+- una estructura de entrega mejorada
+
+---
+
+## Modelos clave
 
 ### DIY (Do It Yourself)
-User does everything.
+El usuario hace todo.
 
-**Examples**
-- course
+**Ejemplos**
+- curso
 - ebook
-- template
+- plantilla
 - toolkit
 
 **Pros**
-- scalable
-- low cost to deliver
-- high margins
+- escalable
+- bajo costo de entrega
+- márgenes altos
 
-**Cons**
-- low perceived value
-- low completion rates
-- requires discipline
+**Contras**
+- valor percibido bajo
+- tasas de finalización bajas
+- exige disciplina
 
 ---
 
 ### DWY (Done With You)
-You guide the user.
+Tú guías al usuario.
 
-**Examples**
+**Ejemplos**
 - coaching
-- cohort program
-- group calls
-- feedback loops
+- programa por cohortes
+- llamadas grupales
+- ciclos de retroalimentación
 
 **Pros**
-- higher success rate
-- higher perceived value
-- builds trust
+- mayor tasa de éxito
+- mayor valor percibido
+- construye confianza
 
-**Cons**
-- less scalable
-- requires time
-- depends on user effort
+**Contras**
+- menos escalable
+- exige tiempo
+- depende del esfuerzo del usuario
 
 ---
 
 ### DFY (Done For You)
-You do the work.
+Tú haces el trabajo.
 
-**Examples**
-- agency
-- service
-- setup
-- implementation
+**Ejemplos**
+- agencia
+- servicio
+- configuración
+- implementación
 
 **Pros**
-- highest perceived value
-- fastest results
-- lowest effort for customer
+- el mayor valor percibido
+- los resultados más rápidos
+- el menor esfuerzo para el cliente
 
-**Cons**
-- low scalability
-- higher delivery cost
-- operational complexity
-
----
-
-## Assistant Behavior
-
-### 1. Understand the outcome
-Extract:
-- what result is promised
-- how complex it is
-- how fast it needs to happen
-- what skills are required
-
-Then summarize:
-
-> The result requires X level of effort and Y level of skill.  
-> Speed expectations are Z.
+**Contras**
+- escalabilidad baja
+- mayor costo de entrega
+- complejidad operativa
 
 ---
 
-### 2. Analyze the customer
-Identify:
-- skill level
-- available time
-- willingness to learn
-- willingness to pay
-- urgency of the problem
+## Comportamiento del asistente
 
-Example:
-> This customer wants results fast and does not want to learn deeply.
+### 1. Entiende el resultado
+Extrae:
+- qué resultado se promete
+- qué tan complejo es
+- qué tan rápido tiene que ocurrir
+- qué habilidades se requieren
 
----
+Después resume:
 
-### 3. Evaluate each delivery model
-
-Score DIY, DWY, DFY based on:
-
-#### Speed
-- how fast results happen
-
-#### Ease
-- how much work the user does
-
-#### Perceived Value
-- how valuable it feels
-
-#### Scalability
-- how easy it is to grow
+> El resultado exige X nivel de esfuerzo y Y nivel de habilidad.  
+> Las expectativas de velocidad son Z.
 
 ---
 
-### 4. Recommend the best model
-Choose:
-- primary model (DFY, DWY, or DIY)
-- explain why it fits best
+### 2. Analiza al cliente
+Identifica:
+- nivel de habilidad
+- tiempo disponible
+- disposición a aprender
+- disposición a pagar
+- urgencia del problema
 
-Example:
-> DFY fits best because the customer wants speed and has low tolerance for effort.
-
----
-
-### 5. Identify gaps in the current model
-If a model already exists, evaluate:
-
-- is it too heavy?
-- is it too light?
-- does it mismatch the outcome?
-- does it require too much effort?
-- does it slow results?
+Ejemplo:
+> Este cliente quiere resultados rápido y no quiere aprender en profundidad.
 
 ---
 
-### 6. Propose hybrid models
-Combine formats to improve value.
+### 3. Evalúa cada modelo de entrega
 
-Common hybrids:
+Puntúa DIY, DWY y DFY según:
 
-- DIY + template + checklist
-- DIY + audit
-- DIY + async support
-- DWY + templates + group calls
-- DFY + light coaching
-- DFY + dashboard + reporting
+#### Velocidad
+- qué tan rápido llegan los resultados
 
-Output:
-- 2–4 hybrid options
-- what each includes
-- why it improves the offer
+#### Facilidad
+- cuánto trabajo hace el usuario
 
----
+#### Valor percibido
+- qué tan valioso se siente
 
-### 7. Optimize for speed
-Suggest ways to:
-- move toward DFY elements
-- pre-build parts
-- reduce setup time
-- deliver partial results faster
+#### Escalabilidad
+- qué tan fácil es crecer
 
 ---
 
-### 8. Optimize for ease
-Suggest:
-- more guidance
-- fewer steps
-- better structure
-- simpler execution
+### 4. Recomienda el mejor modelo
+Elige:
+- el modelo principal (DFY, DWY o DIY)
+- explica por qué es el que mejor encaja
+
+Ejemplo:
+> DFY es el que mejor encaja porque el cliente quiere velocidad y tolera poco esfuerzo.
 
 ---
 
-### 9. Optimize for perceived value
-Increase value without adding cost:
+### 5. Identifica las brechas del modelo actual
+Si ya existe un modelo, evalúa:
 
-- add DFY components
-- include expert involvement
-- add audits or feedback
-- show transformation clearly
+- ¿es demasiado pesado?
+- ¿es demasiado liviano?
+- ¿no calza con el resultado?
+- ¿exige demasiado esfuerzo?
+- ¿frena los resultados?
 
 ---
 
-### 10. Suggest upgrade paths
-Design progression:
+### 6. Propón modelos híbridos
+Combina formatos para mejorar el valor.
+
+Híbridos comunes:
+
+- DIY + plantilla + checklist
+- DIY + auditoría
+- DIY + soporte asíncrono
+- DWY + plantillas + llamadas grupales
+- DFY + coaching ligero
+- DFY + dashboard + reportes
+
+Salida:
+- 2–4 opciones híbridas
+- qué incluye cada una
+- por qué mejora la oferta
+
+---
+
+### 7. Optimiza para la velocidad
+Sugiere formas de:
+- avanzar hacia elementos DFY
+- prearmar partes
+- reducir el tiempo de configuración
+- entregar resultados parciales más rápido
+
+---
+
+### 8. Optimiza para la facilidad
+Sugiere:
+- más guía
+- menos pasos
+- mejor estructura
+- ejecución más simple
+
+---
+
+### 9. Optimiza para el valor percibido
+Aumenta el valor sin sumar costo:
+
+- agrega componentes DFY
+- incluye la participación de un experto
+- agrega auditorías o retroalimentación
+- muestra la transformación con claridad
+
+---
+
+### 10. Sugiere rutas de mejora
+Diseña la progresión:
 
 - DIY → DWY → DFY
 - low-ticket → mid-ticket → premium
 
-This creates:
-- entry point
-- core offer
-- premium tier
+Esto crea:
+- un punto de entrada
+- una oferta principal
+- un nivel premium
 
 ---
 
-## Output Format
+## Formato de salida
 
 ```md
 # DELIVERY_MECHANISM.md
 
-## 1. Outcome Analysis
-- Desired result
-- Complexity
-- Speed required
-- Skills required
+## 1. Análisis del resultado
+- Resultado deseado
+- Complejidad
+- Velocidad requerida
+- Habilidades requeridas
 
-## 2. Customer Profile
-- Skill level
-- Time availability
-- Urgency
-- Willingness to pay
+## 2. Perfil del cliente
+- Nivel de habilidad
+- Tiempo disponible
+- Urgencia
+- Disposición a pagar
 
-## 3. Delivery Model Comparison
+## 3. Comparación de modelos de entrega
 
 ### DIY
-- Score (speed, ease, value)
+- Puntaje (velocidad, facilidad, valor)
 - Pros
-- Cons
+- Contras
 
 ### DWY
-- Score
+- Puntaje
 - Pros
-- Cons
+- Contras
 
 ### DFY
-- Score
+- Puntaje
 - Pros
-- Cons
+- Contras
 
-## 4. Recommended Model
-- Primary model
-- Reasoning
+## 4. Modelo recomendado
+- Modelo principal
+- Razonamiento
 
-## 5. Current Model Gaps
-- What’s weak
-- What’s missing
+## 5. Brechas del modelo actual
+- Qué está débil
+- Qué falta
 
-## 6. Hybrid Options
-- Option 1
-- Option 2
-- Option 3
+## 6. Opciones híbridas
+- Opción 1
+- Opción 2
+- Opción 3
 
-## 7. Speed Improvements
-- Suggestions
+## 7. Mejoras de velocidad
+- Sugerencias
 
-## 8. Ease Improvements
-- Suggestions
+## 8. Mejoras de facilidad
+- Sugerencias
 
-## 9. Value Perception Upgrades
-- Suggestions
+## 9. Mejoras de la percepción de valor
+- Sugerencias
 
-## 10. Offer Ladder
-- Entry offer
-- Core offer
-- Premium offer
+## 10. Escalera de ofertas
+- Oferta de entrada
+- Oferta principal
+- Oferta premium
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Choose DIY when:
-	•	the problem is simple
-	•	the user enjoys learning
-	•	price must be low
-	•	scalability is the goal
+Elige DIY cuando:
+	•	el problema es simple
+	•	al usuario le gusta aprender
+	•	el precio tiene que ser bajo
+	•	la meta es la escalabilidad
 
-Choose DWY when:
-	•	guidance improves success
-	•	accountability matters
-	•	medium price point is acceptable
+Elige DWY cuando:
+	•	la guía mejora el éxito
+	•	la rendición de cuentas importa
+	•	un punto de precio medio es aceptable
 
-Choose DFY when:
-	•	speed is critical
-	•	the task is complex
-	•	the user lacks skill or time
-	•	willingness to pay is high
-
-⸻
-
-Hybrid Rules
-
-Use hybrid when:
-	•	DIY alone feels too weak
-	•	DFY alone is too expensive
-	•	users need both speed and guidance
+Elige DFY cuando:
+	•	la velocidad es crítica
+	•	la tarea es compleja
+	•	al usuario le falta habilidad o tiempo
+	•	la disposición a pagar es alta
 
 ⸻
 
-Examples
+Reglas para híbridos
 
-Weak
-	•	course with no support
-
-Improved
-	•	course + templates + audit
-
-⸻
-
-Weak
-	•	consulting only
-
-Improved
-	•	consulting + DFY setup + dashboard
+Usa un híbrido cuando:
+	•	DIY solo se siente demasiado débil
+	•	DFY solo es demasiado caro
+	•	el usuario necesita velocidad y guía a la vez
 
 ⸻
 
-Style Guidelines
-	•	focus on delivery, not theory
-	•	prioritize speed and ease
-	•	match format to customer reality
-	•	reduce effort where possible
-	•	increase value perception smartly
+Ejemplos
+
+Débil
+	•	curso sin soporte
+
+Mejorado
+	•	curso + plantillas + auditoría
 
 ⸻
 
-Success Criteria
+Débil
+	•	solo consultoría
 
-The skill works when:
-	•	the delivery matches the outcome
-	•	the user sees results faster
-	•	effort feels lower
-	•	perceived value increases
-	•	the offer becomes easier to sell
+Mejorado
+	•	consultoría + configuración DFY + dashboard
+
+⸻
+
+Guía de estilo
+	•	enfócate en la entrega, no en la teoría
+	•	prioriza la velocidad y la facilidad
+	•	ajusta el formato a la realidad del cliente
+	•	reduce el esfuerzo donde se pueda
+	•	aumenta la percepción de valor con inteligencia
+
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	la entrega calza con el resultado
+	•	el usuario ve resultados más rápido
+	•	el esfuerzo se siente menor
+	•	el valor percibido aumenta
+	•	la oferta se vuelve más fácil de vender

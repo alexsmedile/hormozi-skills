@@ -1,439 +1,439 @@
 ---
 name: landing-page-copy
-description: Build a high-converting Hormozi-style landing page from an offer or pitch. Use when you need a sales page, conversions are low, or messaging feels scattered. Structures hero, problem, outcome, solution, mechanism, value stack, proof, objection handling, guarantee, CTA, and FAQ sections — outputs LANDING_PAGE.md.
+description: Construye una landing page estilo Hormozi de alta conversión a partir de una oferta o un pitch. Úsala cuando necesitas una página de ventas, las conversiones son bajas o los mensajes se sienten dispersos. Estructura las secciones de hero, problema, resultado, solución, mecanismo, stack de valor, pruebas, manejo de objeciones, garantía, CTA y FAQ — produce LANDING_PAGE.md.
 ---
 
-# Skill: Landing Page Builder (Hormozi-Style)
+# Skill: Constructor de landing pages (estilo Hormozi)
 
-## Purpose
-Turn an offer and pitch into a high-converting landing page.
+## Propósito
+Convierte una oferta y un pitch en una landing page de alta conversión.
 
-This skill:
-- structures the page logically
-- writes clear, outcome-driven copy
-- removes friction and objections
-- guides the reader to take action
+Esta skill:
+- estructura la página con lógica
+- escribe copy claro y orientado a resultado
+- elimina fricción y objeciones
+- guía al lector a tomar acción
 
-Goal: make the page easy to scan, easy to trust, easy to buy.
-
----
-
-## When to Use
-Activate this skill when:
-- you have an offer or pitch ready
-- you need a sales page or landing page
-- conversions are low
-- messaging feels scattered
-- you want a clear structure to follow
+Meta: que la página sea fácil de escanear, fácil de creer y fácil de comprar.
 
 ---
 
-## Inputs
-This skill works with:
+## Cuándo usarla
+Activa esta skill cuando:
+- ya tienes una oferta o un pitch listo
+- necesitas una página de ventas o una landing page
+- las conversiones son bajas
+- los mensajes se sienten dispersos
+- quieres una estructura clara que seguir
+
+---
+
+## Entradas
+Esta skill funciona con:
 - `OFFER.md`
 - `PITCH.md`
 - hooks
-- value stack
-- objections
-- target audience
+- stack de valor
+- objeciones
+- audiencia objetivo
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a full landing page structure
-- clear section breakdown
-- copy for each section
-- strong CTA placement
-- objection handling integrated
-- a page ready to build or publish
+## Resultado principal
+El asistente produce:
+- una estructura completa de landing page
+- un desglose claro de secciones
+- copy para cada sección
+- una ubicación fuerte del CTA
+- manejo de objeciones integrado
+- una página lista para construir o publicar
 
 ---
 
-## Core Principles (Hormozi Style)
+## Principios centrales (estilo Hormozi)
 
-- clarity > cleverness  
-- outcome first  
-- reduce friction early  
-- show value before price  
-- stack value visually  
-- remove objections before CTA  
-- make scanning easy  
-- short sections, clear flow  
-
----
-
-## Landing Page Structure
+- claridad > astucia  
+- primero el resultado  
+- reduce la fricción desde el inicio  
+- muestra el valor antes del precio  
+- apila el valor de forma visual  
+- elimina las objeciones antes del CTA  
+- que sea fácil de escanear  
+- secciones cortas, flujo claro  
 
 ---
 
-### 1. Hero Section (Above the Fold)
+## Estructura de la landing page
 
-**Goal:** grab attention and make the reader stay
+---
 
-Include:
+### 1. Sección hero (above the fold)
+
+**Meta:** captar la atención y hacer que el lector se quede
+
+Incluye:
 - hook
-- clear outcome
-- audience callout
-- speed/ease
-- primary CTA
+- resultado claro
+- callout a la audiencia
+- velocidad/facilidad
+- CTA principal
 
-Format:
+Formato:
 - headline
 - subheadline
-- CTA button
+- botón de CTA
 
 ---
 
-### 2. Problem Section
+### 2. Sección de problema
 
-**Goal:** make the reader feel understood
+**Meta:** que el lector se sienta comprendido
 
-Include:
-- current struggles
-- frustrations
-- failed attempts
-- emotional pain
+Incluye:
+- dificultades actuales
+- frustraciones
+- intentos fallidos
+- dolor emocional
 
-Make it specific and relatable.
-
----
-
-### 3. Outcome Section
-
-**Goal:** show the desired future
-
-Include:
-- clear result
-- transformation
-- what life looks like after
-
-Make it visual and concrete.
+Hazlo específico y cercano.
 
 ---
 
-### 4. Solution Section
+### 3. Sección de resultado
 
-**Goal:** introduce the offer
+**Meta:** mostrar el futuro deseado
 
-Include:
-- what the product/service is
-- how it works (simple)
-- why it works
+Incluye:
+- resultado claro
+- transformación
+- cómo se ve la vida después
 
-Avoid complexity.
-
----
-
-### 5. Mechanism Section
-
-**Goal:** increase belief
-
-Explain:
-- system, method, or framework
-- why it is different
-- why it works better
+Hazlo visual y concreto.
 
 ---
 
-### 6. Value Stack Section
+### 4. Sección de solución
 
-**Goal:** increase perceived value
+**Meta:** presentar la oferta
 
-List:
-- core offer
-- components
-- bonuses
+Incluye:
+- qué es el producto/servicio
+- cómo funciona (simple)
+- por qué funciona
 
-For each:
-- name
-- what it does
-- outcome
-- value
-
-End with:
-- total value
-- price reveal
+Evita la complejidad.
 
 ---
 
-### 7. Proof Section
+### 5. Sección de mecanismo
 
-**Goal:** increase trust
+**Meta:** aumentar la creencia
 
-Include:
-- testimonials
-- case studies
-- results
-- examples
-
-If none available:
-- use logic or demonstration
+Explica:
+- sistema, método o framework
+- por qué es diferente
+- por qué funciona mejor
 
 ---
 
-### 8. Objection Handling Section
+### 6. Sección del stack de valor
 
-**Goal:** remove doubts
+**Meta:** aumentar el valor percibido
 
-Address:
-- time
-- effort
-- price
-- trust
-- fit
+Enumera:
+- oferta principal
+- componentes
+- bonos
 
-Use:
-- clear answers
-- short paragraphs
+Para cada uno:
+- nombre
+- qué hace
+- resultado
+- valor
 
----
-
-### 9. Guarantee Section
-
-**Goal:** reduce risk
-
-Include:
-- guarantee type
-- what it covers
-- how it works
-
-Make it simple and clear.
+Cierra con:
+- valor total
+- revelación del precio
 
 ---
 
-### 10. CTA Section
+### 7. Sección de pruebas
 
-**Goal:** drive action
+**Meta:** aumentar la confianza
 
-Include:
-- strong CTA
-- restated outcome
-- urgency if needed
+Incluye:
+- testimonios
+- casos de éxito
+- resultados
+- ejemplos
 
----
-
-### 11. FAQ Section (Optional)
-
-Answer:
-- remaining objections
-- edge cases
-- common questions
+Si no hay ninguno:
+- usa lógica o demostración
 
 ---
 
-## Assistant Behavior
+### 8. Sección de manejo de objeciones
 
-### 1. Extract key elements
-Identify:
-- audience
-- result
-- pain
-- offer structure
-- proof
-- objections
+**Meta:** eliminar dudas
 
----
+Atiende:
+- tiempo
+- esfuerzo
+- precio
+- confianza
+- encaje
 
-### 2. Build structure first
-Outline all sections before writing copy.
-
----
-
-### 3. Write section by section
-
-Each section must:
-- be clear
-- be short
-- focus on one idea
-- flow logically
+Usa:
+- respuestas claras
+- párrafos cortos
 
 ---
 
-### 4. Use Hormozi-style copy
+### 9. Sección de garantía
 
-- direct language
-- outcome-focused
-- specific
-- no fluff
-- no jargon
+**Meta:** reducir el riesgo
 
----
+Incluye:
+- tipo de garantía
+- qué cubre
+- cómo funciona
 
-### 5. Emphasize value
-
-- stack value before price
-- show contrast (value vs price)
-- highlight benefits over features
+Hazlo simple y claro.
 
 ---
 
-### 6. Integrate objections naturally
+### 10. Sección de CTA
 
-Do not isolate them only in one section.
+**Meta:** impulsar la acción
 
-Include them throughout:
+Incluye:
+- CTA fuerte
+- resultado reafirmado
+- urgencia si hace falta
+
+---
+
+### 11. Sección de FAQ (opcional)
+
+Responde:
+- objeciones que queden
+- casos límite
+- preguntas comunes
+
+---
+
+## Comportamiento del asistente
+
+### 1. Extrae los elementos clave
+Identifica:
+- audiencia
+- resultado
+- dolor
+- estructura de la oferta
+- pruebas
+- objeciones
+
+---
+
+### 2. Construye primero la estructura
+Esboza todas las secciones antes de escribir el copy.
+
+---
+
+### 3. Escribe sección por sección
+
+Cada sección debe:
+- ser clara
+- ser corta
+- enfocarse en una sola idea
+- fluir con lógica
+
+---
+
+### 4. Usa copy estilo Hormozi
+
+- lenguaje directo
+- enfocado en el resultado
+- específico
+- sin relleno
+- sin jerga
+
+---
+
+### 5. Enfatiza el valor
+
+- apila el valor antes del precio
+- muestra el contraste (valor vs precio)
+- destaca los beneficios por encima de las características
+
+---
+
+### 6. Integra las objeciones con naturalidad
+
+No las aísles en una sola sección.
+
+Inclúyelas a lo largo de toda la página:
 - hero
-- solution
-- value stack
+- solución
+- stack de valor
 - FAQ
 
 ---
 
-### 7. Optimize for scanning
+### 7. Optimiza para el escaneo
 
-Use:
-- short paragraphs
-- bullet points
-- clear headings
-
----
-
-### 8. Add multiple CTAs
-
-Place CTAs:
-- after hero
-- after value stack
-- at the end
+Usa:
+- párrafos cortos
+- viñetas
+- encabezados claros
 
 ---
 
-### 9. Align with offer
+### 8. Agrega varios CTA
 
-Ensure:
-- messaging matches offer
-- promise is consistent
-- no exaggeration
+Coloca los CTA:
+- después del hero
+- después del stack de valor
+- al final
 
 ---
 
-## Output Format
+### 9. Alinea con la oferta
+
+Asegura:
+- que los mensajes coincidan con la oferta
+- que la promesa sea coherente
+- que no haya exageración
+
+---
+
+## Formato de salida
 
 ```md
 # LANDING_PAGE.md
 
-## 1. Hero Section
+## 1. Sección hero
 - Headline:
 - Subheadline:
 - CTA:
 
 ---
 
-## 2. Problem Section
+## 2. Sección de problema
 - Copy:
 
 ---
 
-## 3. Outcome Section
+## 3. Sección de resultado
 - Copy:
 
 ---
 
-## 4. Solution Section
+## 4. Sección de solución
 - Copy:
 
 ---
 
-## 5. Mechanism Section
+## 5. Sección de mecanismo
 - Copy:
 
 ---
 
-## 6. Value Stack
+## 6. Stack de valor
 
-### Core Offer
-- Name:
-- Description:
-- Value:
+### Oferta principal
+- Nombre:
+- Descripción:
+- Valor:
 
-### Bonuses
-- Bonus:
-- Description:
-- Value:
+### Bonos
+- Bono:
+- Descripción:
+- Valor:
 
-### Total Value:
-### Price:
-
----
-
-## 7. Proof Section
-- Testimonials:
-- Case studies:
+### Valor total:
+### Precio:
 
 ---
 
-## 8. Objection Handling
-- Objection → Response
+## 7. Sección de pruebas
+- Testimonios:
+- Casos de éxito:
 
 ---
 
-## 9. Guarantee
-- Description:
+## 8. Manejo de objeciones
+- Objeción → Respuesta
 
 ---
 
-## 10. CTA Section
+## 9. Garantía
+- Descripción:
+
+---
+
+## 10. Sección de CTA
 - Copy:
 
 ---
 
 ## 11. FAQ
-- Question → Answer
+- Pregunta → Respuesta
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Improve clarity when:
-	•	sections feel vague
-	•	message is hard to understand
+Mejora la claridad cuando:
+	•	las secciones se sienten vagas
+	•	el mensaje es difícil de entender
 
-Add proof when:
-	•	trust is low
-	•	claims are strong
+Agrega pruebas cuando:
+	•	la confianza es baja
+	•	las promesas son fuertes
 
-simplify when:
-	•	page feels long or heavy
-	•	too many ideas compete
+simplifica cuando:
+	•	la página se siente larga o pesada
+	•	compiten demasiadas ideas
 
-emphasize value when:
-	•	price feels high
-	•	offer feels weak
-
-⸻
-
-Before vs After Example
-
-Before
-	•	random sections
-	•	unclear message
-	•	weak CTA
-
-After
-	•	structured flow
-	•	clear outcome
-	•	strong value stack
-	•	logical progression
+enfatiza el valor cuando:
+	•	el precio se siente alto
+	•	la oferta se siente débil
 
 ⸻
 
-Style Guidelines
-	•	simple language
-	•	direct tone
-	•	short sentences
-	•	outcome-focused
-	•	easy to scan
+Ejemplo de antes vs después
+
+Antes
+	•	secciones al azar
+	•	mensaje poco claro
+	•	CTA débil
+
+Después
+	•	flujo estructurado
+	•	resultado claro
+	•	stack de valor fuerte
+	•	progresión lógica
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	lenguaje simple
+	•	tono directo
+	•	oraciones cortas
+	•	enfocado en el resultado
+	•	fácil de escanear
 
-The skill works when:
-	•	the page is easy to read
-	•	the value is clear
-	•	objections are handled
-	•	trust is built
-	•	action feels natural
-	•	conversions increase
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	la página es fácil de leer
+	•	el valor es claro
+	•	las objeciones están manejadas
+	•	se construye confianza
+	•	tomar acción se siente natural
+	•	las conversiones aumentan
 

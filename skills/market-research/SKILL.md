@@ -1,386 +1,386 @@
 ---
 name: market-research
-description: Find the right market, extract real customer pain, and validate demand before building an offer. Use when you have an idea but no market, the niche feels too broad, or the offer is not converting. Generates micro-niches, scores them, extracts pain language, and creates a validation test plan — outputs MARKET_RESEARCH.md.
+description: Encuentra el mercado correcto, extrae el dolor real del cliente y valida la demanda antes de construir una oferta. Úsala cuando tienes una idea pero no un mercado, el nicho se siente demasiado amplio o la oferta no convierte. Genera micronichos, los puntúa, extrae el lenguaje del dolor y crea un plan de tests de validación — produce MARKET_RESEARCH.md.
 ---
 
-# Skill: Market Research & Demand (Starving Crowd Engine)
+# Skill: Investigación de mercado y demanda (Motor de la Multitud Hambrienta)
 
-## Purpose
-Find the right market, extract real pain, and validate demand before building an offer.
+## Propósito
+Encuentra el mercado correcto, extrae el dolor real y valida la demanda antes de construir una oferta.
 
-This skill prevents:
-- building offers nobody buys
-- targeting the wrong audience
-- solving weak or low-urgency problems
+Esta skill evita:
+- construir ofertas que nadie compra
+- apuntar a la audiencia equivocada
+- resolver problemas débiles o de baja urgencia
 
-Goal: identify a **starving crowd with real pain and buying intent**.
-
----
-
-## When to Use
-Activate this skill when:
-- you have an idea but no market
-- you are unsure who to target
-- you want to validate demand before building
-- your niche feels too broad
-- your offer is not converting
+Meta: identificar una **multitud hambrienta con dolor real e intención de compra**.
 
 ---
 
-## Inputs
-This skill works with:
-- a business idea
-- a niche
-- a skill or expertise
-- a product concept
-- or even a vague direction
+## Cuándo usarla
+Activa esta skill cuando:
+- tienes una idea pero no un mercado
+- no tienes claro a quién apuntar
+- quieres validar la demanda antes de construir
+- tu nicho se siente demasiado amplio
+- tu oferta no convierte
 
 ---
 
-## Core Outcome
-The assistant produces:
-- validated micro-niche
-- clear target customer
-- real pain statements
-- demand signals
-- buyer vs browser distinction
-- validation strategy
+## Entradas
+Esta skill funciona con:
+- una idea de negocio
+- un nicho
+- una habilidad o experiencia
+- un concepto de producto
+- o incluso una dirección vaga
 
 ---
 
-# PART 1: Starving Crowd Finder
-
-## Purpose
-Find a group of people who:
-- feel urgent pain
-- actively look for solutions
-- are willing to pay
-
----
-
-## Assistant Behavior
-
-### 1. Start from idea or skill
-Extract:
-- what problem is being solved
-- who might have that problem
+## Resultado principal
+El asistente produce:
+- micronicho validado
+- cliente objetivo claro
+- frases de dolor reales
+- señales de demanda
+- distinción comprador vs curioso
+- estrategia de validación
 
 ---
 
-### 2. Generate micro-niches
-Break broad markets into smaller groups:
+# PARTE 1: Buscador de la multitud hambrienta
 
-Example:
-- “fitness” → “busy dads over 35”
-- “marketing” → “coaches under $5k/month”
-
----
-
-### 3. Evaluate each niche
-
-Check:
-
-#### Pain Intensity
-- how often they feel the problem
-- how emotional it is
-
-#### Purchasing Power
-- can they afford solutions?
-
-#### Accessibility
-- can you reach them easily?
-
-#### Growth
-- is the market growing?
+## Propósito
+Encuentra un grupo de personas que:
+- sienten un dolor urgente
+- buscan soluciones activamente
+- están dispuestas a pagar
 
 ---
 
-### 4. Score each niche
+## Comportamiento del asistente
 
-Score 1–10:
-
-- pain
-- money
-- reachability
-- growth
+### 1. Parte de la idea o la habilidad
+Extrae:
+- qué problema se resuelve
+- quién podría tener ese problema
 
 ---
 
-### 5. Select best niche
-Choose:
-- highest combined score
-- strongest pain + ability to pay
+### 2. Genera micronichos
+Divide los mercados amplios en grupos más pequeños:
+
+Ejemplo:
+- “fitness” → “papás ocupados de más de 35”
+- “marketing” → “coaches por debajo de $5k/mes”
 
 ---
 
-## Output Format
+### 3. Evalúa cada nicho
+
+Revisa:
+
+#### Intensidad del dolor
+- con qué frecuencia sienten el problema
+- qué tan emocional es
+
+#### Poder adquisitivo
+- ¿pueden pagar soluciones?
+
+#### Accesibilidad
+- ¿puedes alcanzarlos con facilidad?
+
+#### Crecimiento
+- ¿el mercado está creciendo?
+
+---
+
+### 4. Puntúa cada nicho
+
+Puntúa 1–10:
+
+- dolor
+- dinero
+- alcance
+- crecimiento
+
+---
+
+### 5. Selecciona el mejor nicho
+Elige:
+- el puntaje combinado más alto
+- el dolor más fuerte + capacidad de pago
+
+---
+
+## Formato de salida
 
 ```md
 # MARKET_SELECTION.md
 
 ## 1. Idea
-- Description
+- Descripción
 
-## 2. Micro-Niches
-- Niche 1
-- Niche 2
-- Niche 3
+## 2. Micronichos
+- Nicho 1
+- Nicho 2
+- Nicho 3
 
-## 3. Niche Scoring
-- Pain:
-- Money:
-- Reach:
-- Growth:
+## 3. Puntaje de nichos
+- Dolor:
+- Dinero:
+- Alcance:
+- Crecimiento:
 
-## 4. Selected Niche
-- Final choice
-- Reasoning
+## 4. Nicho seleccionado
+- Elección final
+- Razonamiento
 ```
 
 ⸻
 
-PART 2: Pain Extraction Skill
+PARTE 2: Skill de extracción del dolor
 
-Purpose
+Propósito
 
-Understand what the customer actually feels.
-
-⸻
-
-Assistant Behavior
-
-1. Identify core problems
-
-List:
-	•	main frustrations
-	•	repeated struggles
-	•	emotional pain
+Entiende lo que el cliente realmente siente.
 
 ⸻
 
-2. Extract real language
+Comportamiento del asistente
 
-Simulate or gather:
-	•	how customers describe the problem
-	•	informal phrasing
-	•	emotional expressions
+1. Identifica los problemas centrales
 
-⸻
-
-3. Create pain bullets
-
-Types:
-
-Surface Pain
-	•	obvious problems
-
-Deeper Pain
-	•	emotional impact
-
-Hidden Pain
-	•	fears, doubts, frustrations
+Lista:
+	•	frustraciones principales
+	•	luchas repetidas
+	•	dolor emocional
 
 ⸻
 
-4. Generate “midnight thoughts”
+2. Extrae el lenguaje real
 
-What they think when:
-	•	stressed
-	•	frustrated
-	•	alone
+Simula o recopila:
+	•	cómo describen los clientes el problema
+	•	formas informales de decirlo
+	•	expresiones emocionales
 
 ⸻
 
-Output Format
+3. Crea los bullets de dolor
+
+Tipos:
+
+Dolor superficial
+	•	problemas obvios
+
+Dolor profundo
+	•	impacto emocional
+
+Dolor oculto
+	•	miedos, dudas, frustraciones
+
+⸻
+
+4. Genera los “pensamientos de medianoche”
+
+Qué piensan cuando están:
+	•	estresados
+	•	frustrados
+	•	solos
+
+⸻
+
+Formato de salida
 
 ```md
 # CUSTOMER_PAIN.md
 
-## 1. Core Problems
-- Problem 1
-- Problem 2
+## 1. Problemas centrales
+- Problema 1
+- Problema 2
 
-## 2. Raw Language
-- Phrases customers use
+## 2. Lenguaje crudo
+- Frases que usan los clientes
 
-## 3. Pain Bullets
-- Surface pain
-- Deeper pain
-- Hidden pain
+## 3. Bullets de dolor
+- Dolor superficial
+- Dolor profundo
+- Dolor oculto
 
-## 4. Emotional Triggers
-- Fear
-- Frustration
-- Desire
+## 4. Disparadores emocionales
+- Miedo
+- Frustración
+- Deseo
 
-## 5. Midnight Thoughts
-- Thoughts they have at night
+## 5. Pensamientos de medianoche
+- Pensamientos que tienen de noche
 ```
 
 ⸻
 
-PART 3: Demand Validation Skill
+PARTE 3: Skill de validación de demanda
 
-Purpose
+Propósito
 
-Confirm if the idea is worth building.
-
-⸻
-
-Assistant Behavior
-
-1. Identify demand signals
-
-Look for:
-	•	people asking questions
-	•	existing competitors
-	•	paid solutions already in market
-	•	repeated complaints
+Confirma si vale la pena construir la idea.
 
 ⸻
 
-2. Classify audience
+Comportamiento del asistente
 
-Split:
+1. Identifica las señales de demanda
 
-Buyers
-	•	already spend money
-	•	actively search for solutions
-
-Browsers
-	•	interested but not paying
-
-⸻
-
-3. Evaluate demand strength
-
-Score:
-	•	urgency
-	•	willingness to pay
-	•	competition level
+Busca:
+	•	gente que hace preguntas
+	•	competidores existentes
+	•	soluciones de pago ya en el mercado
+	•	quejas repetidas
 
 ⸻
 
-4. Suggest validation tests
+2. Clasifica la audiencia
+
+Divide:
+
+Compradores
+	•	ya gastan dinero
+	•	buscan soluciones activamente
+
+Curiosos
+	•	interesados pero no pagan
 
 ⸻
 
-Pre-Sell Test
-	•	offer before building
-	•	gauge interest
+3. Evalúa la fuerza de la demanda
+
+Puntúa:
+	•	urgencia
+	•	disposición a pagar
+	•	nivel de competencia
 
 ⸻
 
-Fake Door Test
+4. Sugiere tests de validación
+
+⸻
+
+Test de preventa
+	•	ofrece antes de construir
+	•	mide el interés
+
+⸻
+
+Test de puerta falsa (fake door)
 	•	landing page + CTA
-	•	measure clicks
+	•	mide los clics
 
 ⸻
 
-Content Test
-	•	post hooks
-	•	track engagement
+Test de contenido
+	•	publica hooks
+	•	mide el engagement
 
 ⸻
 
-5. Create validation plan
+5. Crea el plan de validación
 
 Define:
-	•	what to test
-	•	how to test
-	•	success criteria
+	•	qué testear
+	•	cómo testear
+	•	criterios de éxito
 
 ⸻
 
-Output Format
+Formato de salida
 
 ```md
 # DEMAND_VALIDATION.md
 
-## 1. Demand Signals
-- Evidence found
+## 1. Señales de demanda
+- Evidencia encontrada
 
-## 2. Buyer vs Browser
-- Buyers:
-- Browsers:
+## 2. Comprador vs curioso
+- Compradores:
+- Curiosos:
 
-## 3. Demand Score
-- Urgency:
-- Willingness to pay:
-- Competition:
+## 3. Puntaje de demanda
+- Urgencia:
+- Disposición a pagar:
+- Competencia:
 
-## 4. Validation Tests
+## 4. Tests de validación
 
-### Test 1: Pre-Sell
+### Test 1: preventa
 - Plan:
 
-### Test 2: Fake Door
+### Test 2: puerta falsa
 - Plan:
 
-### Test 3: Content
+### Test 3: contenido
 - Plan:
 
-## 5. Validation Criteria
-- What defines success
+## 5. Criterios de validación
+- Qué define el éxito
 ```
 
 ⸻
 
-Combined Output
+Salida combinada
 
 ```md
 # MARKET_RESEARCH.md
 
-## 1. Selected Market
-- Niche
-- Reasoning
+## 1. Mercado seleccionado
+- Nicho
+- Razonamiento
 
-## 2. Customer Pain
-- Pain bullets
-- Emotional triggers
-- Midnight thoughts
+## 2. Dolor del cliente
+- Bullets de dolor
+- Disparadores emocionales
+- Pensamientos de medianoche
 
-## 3. Demand Validation
-- Signals
-- Buyer vs browser
-- Test plan
+## 3. Validación de demanda
+- Señales
+- Comprador vs curioso
+- Plan de tests
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Choose a niche when:
-	•	pain is frequent
-	•	emotion is strong
-	•	money is available
+Elige un nicho cuando:
+	•	el dolor es frecuente
+	•	la emoción es fuerte
+	•	hay dinero disponible
 
-Avoid markets when:
-	•	pain is weak
-	•	no urgency
-	•	no proof of spending
+Evita mercados cuando:
+	•	el dolor es débil
+	•	no hay urgencia
+	•	no hay pruebas de gasto
 
-Trust demand when:
-	•	people pay already
-	•	solutions exist
-	•	complaints are frequent
-
-⸻
-
-Style Guidelines
-	•	be specific
-	•	use real language
-	•	focus on pain
-	•	avoid assumptions
-	•	prioritize clarity
+Confía en la demanda cuando:
+	•	la gente ya paga
+	•	existen soluciones
+	•	las quejas son frecuentes
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	sé específico
+	•	usa lenguaje real
+	•	enfócate en el dolor
+	•	evita los supuestos
+	•	prioriza la claridad
 
-The skill works when:
-	•	a clear niche is selected
-	•	pain is deeply understood
-	•	demand is validated
-	•	idea feels worth pursuing
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	se selecciona un nicho claro
+	•	se entiende el dolor a fondo
+	•	se valida la demanda
+	•	vale la pena perseguir la idea
 

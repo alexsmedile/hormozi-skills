@@ -1,242 +1,242 @@
 ---
 name: idea-to-product
-description: Run the full Lean Offer System from idea to sellable offer to pitch in one flow. Use when you have an idea but no offer, an offer that doesn't sell, or need speed and clarity. Covers market, offer creation, value optimization, pricing, positioning, hooks, pitch, and sales structure — outputs LEAN_OFFER_SYSTEM.md.
+description: Ejecuta el Sistema Lean de Oferta completo, de la idea a una oferta vendible y a un pitch, en un solo flujo. Úsala cuando tienes una idea pero no una oferta, una oferta que no vende, o necesitas velocidad y claridad. Cubre mercado, creación de la oferta, optimización del valor, precios, posicionamiento, hooks, pitch y estructura de ventas — produce LEAN_OFFER_SYSTEM.md.
 ---
 
-# Skill: Lean Offer System (Idea → Offer → Pitch)
+# Skill: Sistema Lean de Oferta (Idea → Oferta → Pitch)
 
-## Purpose
-Turn any idea into a sellable offer, a clear pitch, and usable content — fast.
+## Propósito
+Convierte cualquier idea en una oferta vendible, un pitch claro y contenido usable — rápido.
 
-This skill combines:
-- market selection
-- offer creation
-- value optimization
-- pricing
-- positioning
+Esta skill combina:
+- selección de mercado
+- creación de la oferta
+- optimización del valor
+- precios
+- posicionamiento
 - hooks
 - pitch
-- sales structure
+- estructura de ventas
 
-Goal: go from idea → something you can sell today.
-
----
-
-## When to Use
-Activate this skill when:
-- you have an idea but no offer
-- you have an offer but it doesn’t sell
-- you need a full system, not isolated pieces
-- you want speed and clarity
+Meta: pasar de la idea → a algo que puedas vender hoy.
 
 ---
 
-## Core Flows
+## Cuándo usarla
+Activa esta skill cuando:
+- tienes una idea pero no una oferta
+- tienes una oferta pero no vende
+- necesitas un sistema completo, no piezas sueltas
+- quieres velocidad y claridad
 
-### Short Mental Model
+---
+
+## Flujos principales
+
+### Modelo mental corto
 ```text
-Idea → Offer → Pitch
+Idea → Oferta → Pitch
 
-Full Flow
+Flujo completo
 
-Idea → Market → Offer → Pitch → Content → Sales
+Idea → Mercado → Oferta → Pitch → Contenido → Ventas
 ```
 
 ⸻
 
-Core Output
+Salida principal
 
-The assistant produces:
-	•	a clear market
-	•	a strong offer
-	•	a structured pitch
-	•	hooks for content
-	•	a simple sales path
-
-⸻
-
-PART 1: IDEA → MARKET
-
-1. Define the Market
-	•	Who is this for?
-	•	What pain do they feel now?
-	•	Do they have money?
-	•	Can you reach them easily?
-
-Output:
-	•	one-sentence avatar
+El asistente produce:
+	•	un mercado claro
+	•	una oferta fuerte
+	•	un pitch estructurado
+	•	hooks para contenido
+	•	un camino de venta simple
 
 ⸻
 
-2. Validate Demand
+PARTE 1: IDEA → MERCADO
 
-Check:
-	•	urgency of pain
-	•	existing demand
-	•	willingness to pay
+1. Define el mercado
+	•	¿Para quién es esto?
+	•	¿Qué dolor sienten ahora?
+	•	¿Tienen dinero?
+	•	¿Puedes alcanzarlos con facilidad?
 
-If weak → refine niche.
-
-⸻
-
-PART 2: MARKET → OFFER
-
-3. Define Outcome
-	•	what result do they want?
-	•	make it specific and measurable
+Salida:
+	•	avatar en una frase
 
 ⸻
 
-4. Map Obstacles
+2. Valida la demanda
 
-List:
-	•	everything blocking the result
+Revisa:
+	•	urgencia del dolor
+	•	demanda existente
+	•	disposición a pagar
 
-⸻
-
-5. Build Solutions
-
-Turn:
-	•	obstacles → solutions → assets
+Si es débil → afina el nicho.
 
 ⸻
 
-6. Choose Delivery
+PARTE 2: MERCADO → OFERTA
 
-Pick:
-	•	DIY (scale)
-	•	DWY (balance)
+3. Define el resultado
+	•	¿qué resultado quieren?
+	•	hazlo específico y medible
+
+⸻
+
+4. Mapea los obstáculos
+
+Lista:
+	•	todo lo que bloquea el resultado
+
+⸻
+
+5. Construye soluciones
+
+Convierte:
+	•	obstáculos → soluciones → recursos
+
+⸻
+
+6. Elige la entrega
+
+Elige:
+	•	DIY (escala)
+	•	DWY (equilibrio)
 	•	DFY (premium)
 
-Option:
-	•	hybrid model
+Opción:
+	•	modelo híbrido
 
 ⸻
 
-7. Reduce Time & Effort
-	•	add quick wins
-	•	remove steps
-	•	add templates
-	•	simplify execution
+7. Reduce tiempo y esfuerzo
+	•	agrega victorias rápidas
+	•	elimina pasos
+	•	agrega plantillas
+	•	simplifica la ejecución
 
 ⸻
 
-8. Build Value Stack
-	•	core offer
-	•	bonuses
-	•	total value
+8. Construye el stack de valor
+	•	oferta principal
+	•	bonos
+	•	valor total
 
 ⸻
 
-9. Price the Offer
-	•	anchor to value
-	•	choose tier or single price
-	•	justify clearly
+9. Pon precio a la oferta
+	•	ancla al valor
+	•	elige niveles o precio único
+	•	justifica con claridad
 
 ⸻
 
-PART 3: OFFER → PITCH
+PARTE 3: OFERTA → PITCH
 
-10. Position the Offer
-	•	who it’s for
-	•	what it does
-	•	why it’s different
-
-⸻
-
-11. Create Hooks
-
-Use:
-
-WHO + RESULT + SPEED/EASE + OBJECTION REMOVAL
-
-Generate multiple variations.
+10. Posiciona la oferta
+	•	para quién es
+	•	qué hace
+	•	por qué es diferente
 
 ⸻
 
-12. Handle Objections
+11. Crea hooks
 
-Map:
-	•	objection → belief → proof
+Usa:
 
-⸻
+QUIÉN + RESULTADO + VELOCIDAD/FACILIDAD + ELIMINACIÓN DE OBJECIÓN
 
-13. Add Guarantee
-	•	remove risk
-	•	increase trust
+Genera múltiples variaciones.
 
 ⸻
 
-14. Write Pitch
+12. Maneja las objeciones
 
-Include:
-	•	problem
-	•	outcome
-	•	solution
-	•	value stack
-	•	price
+Mapea:
+	•	objeción → creencia → prueba
+
+⸻
+
+13. Agrega garantía
+	•	elimina el riesgo
+	•	aumenta la confianza
+
+⸻
+
+14. Escribe el pitch
+
+Incluye:
+	•	problema
+	•	resultado
+	•	solución
+	•	stack de valor
+	•	precio
 	•	CTA
 
 ⸻
 
-PART 4: PITCH → CONTENT
+PARTE 4: PITCH → CONTENIDO
 
-15. Generate Content Angles
+15. Genera ángulos de contenido
 	•	hooks
-	•	pain points
-	•	outcomes
-	•	proof
+	•	puntos de dolor
+	•	resultados
+	•	pruebas
 
 ⸻
 
-16. Align Content with Offer
+16. Alinea el contenido con la oferta
 
-Each post:
-	•	attracts the right audience
-	•	connects to the offer
-
-⸻
-
-PART 5: CONTENT → SALES
-
-17. Simple Sales Flow
-	•	content → interest
-	•	interest → offer
-	•	offer → purchase
+Cada publicación:
+	•	atrae a la audiencia correcta
+	•	conecta con la oferta
 
 ⸻
 
-18. Add Upsells / Downsells
-	•	increase revenue per customer
+PARTE 5: CONTENIDO → VENTAS
+
+17. Flujo de ventas simple
+	•	contenido → interés
+	•	interés → oferta
+	•	oferta → compra
 
 ⸻
 
-19. Build Offer Ladder
-	•	entry
-	•	core
+18. Agrega upsells / downsells
+	•	aumenta los ingresos por cliente
+
+⸻
+
+19. Construye la escalera de ofertas
+	•	entrada
+	•	principal
 	•	premium
 
 ⸻
 
-OUTPUT FORMAT
+FORMATO DE SALIDA
 
 # LEAN_OFFER_SYSTEM.md
 
-## 1. Market
+## 1. Mercado
 - Avatar:
-- Pain:
-- Demand:
+- Dolor:
+- Demanda:
 
-## 2. Offer
-- Outcome:
-- Delivery:
-- Value Stack:
-- Price:
+## 2. Oferta
+- Resultado:
+- Entrega:
+- Stack de valor:
+- Precio:
 
-## 3. Positioning
-- Who it’s for:
-- What it does:
-- Unique angle:
+## 3. Posicionamiento
+- Para quién es:
+- Qué hace:
+- Ángulo único:
 
 ## 4. Hooks
 - Hook 1
@@ -244,112 +244,112 @@ OUTPUT FORMAT
 - Hook 3
 
 ## 5. Pitch
-- Short version:
-- Full version:
+- Versión corta:
+- Versión completa:
 
-## 6. Objections
-- Objection → Response
+## 6. Objeciones
+- Objeción → Respuesta
 
-## 7. Sales Flow
-- How it sells
+## 7. Flujo de ventas
+- Cómo vende
 
-## 8. Expansion
+## 8. Expansión
 - Upsell:
 - Downsell:
-- Ladder:
+- Escalera:
 
 
 ⸻
 
-50 KEY PRINCIPLES (INTEGRATED)
+50 PRINCIPIOS CLAVE (INTEGRADOS)
 
-Market & Positioning
-	1.	Sell to a starving crowd
-	2.	Pain must be urgent
-	3.	Buyers matter more than audience
-	4.	Specific beats broad
-	5.	Narrow focus wins
+Mercado y posicionamiento
+	1.	Vende a una multitud hambrienta
+	2.	El dolor debe ser urgente
+	3.	Los compradores importan más que la audiencia
+	4.	Lo específico le gana a lo amplio
+	5.	El foco estrecho gana
 
-Offer Fundamentals
-	6.	Outcomes sell, not products
-	7.	Define one clear result
-	8.	Make it measurable
-	9.	Show transformation
-	10.	Vague = no sales
+Fundamentos de la oferta
+	6.	Venden los resultados, no los productos
+	7.	Define un resultado claro
+	8.	Hazlo medible
+	9.	Muestra la transformación
+	10.	Vago = sin ventas
 
-Value Equation
-	11.	Increase outcome
-	12.	Increase belief
-	13.	Reduce time
-	14.	Reduce effort
-	15.	Optimize all four
+Ecuación de Valor
+	11.	Aumenta el resultado
+	12.	Aumenta la creencia
+	13.	Reduce el tiempo
+	14.	Reduce el esfuerzo
+	15.	Optimiza los cuatro
 
-Obstacles & Solutions
-	16.	Map all obstacles
-	17.	Objection = missing solution
-	18.	Turn problems into assets
-	19.	More solutions = more value
-	20.	One gap kills the sale
+Obstáculos y soluciones
+	16.	Mapea todos los obstáculos
+	17.	Objeción = solución faltante
+	18.	Convierte los problemas en activos
+	19.	Más soluciones = más valor
+	20.	Una sola brecha mata la venta
 
-Offer Construction
-	21.	Core = transformation
-	22.	Bonuses remove objections
-	23.	Stack value clearly
-	24.	Order matters
-	25.	Show value before price
+Construcción de la oferta
+	21.	Principal = transformación
+	22.	Los bonos eliminan objeciones
+	23.	Apila el valor con claridad
+	24.	El orden importa
+	25.	Muestra el valor antes del precio
 
-Pricing
-	26.	Price = fraction of value
-	27.	Cheap reduces trust
-	28.	Value justifies price
-	29.	Use tiers when needed
-	30.	Always anchor
+Precios
+	26.	Precio = fracción del valor
+	27.	Lo barato reduce la confianza
+	28.	El valor justifica el precio
+	29.	Usa niveles cuando haga falta
+	30.	Ancla siempre
 
-Bonuses
-	31.	Tie each to an objection
-	32.	High value, low cost
-	33.	Specific names matter
-	34.	Fewer, stronger bonuses
-	35.	Focus on speed & ease
+Bonos
+	31.	Ata cada uno a una objeción
+	32.	Alto valor, bajo costo
+	33.	Los nombres específicos importan
+	34.	Menos bonos y más fuertes
+	35.	Enfócate en velocidad y facilidad
 
-Speed & Effort
-	36.	Fast first win
-	37.	Quick wins build trust
-	38.	Remove steps
-	39.	Use templates
-	40.	Make it easy
+Velocidad y esfuerzo
+	36.	Primera victoria rápida
+	37.	Las victorias rápidas construyen confianza
+	38.	Elimina pasos
+	39.	Usa plantillas
+	40.	Hazlo fácil
 
-Delivery
-	41.	DIY = scale
-	42.	DWY = balance
+Entrega
+	41.	DIY = escala
+	42.	DWY = equilibrio
 	43.	DFY = premium
-	44.	Hybrid often wins
-	45.	Match delivery to user
+	44.	El híbrido suele ganar
+	45.	Ajusta la entrega al usuario
 
-Psychology
-	46.	Perception > reality
-	47.	Naming matters
-	48.	Framing matters
-	49.	Clarity > cleverness
-	50.	Make it obvious to buy
-
-⸻
-
-Style Guidelines
-	•	simple language
-	•	direct
-	•	outcome-first
-	•	no fluff
-	•	fast execution
+Psicología
+	46.	Percepción > realidad
+	47.	El naming importa
+	48.	El encuadre importa
+	49.	Claridad > astucia
+	50.	Haz que comprar sea obvio
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	lenguaje simple
+	•	directo
+	•	el resultado primero
+	•	sin relleno
+	•	ejecución rápida
 
-The skill works when:
-	•	idea becomes clear offer
-	•	offer becomes clear pitch
-	•	pitch becomes sellable
-	•	content supports it
-	•	system is simple and usable
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	la idea se vuelve una oferta clara
+	•	la oferta se vuelve un pitch claro
+	•	el pitch se vuelve vendible
+	•	el contenido lo respalda
+	•	el sistema es simple y usable
 

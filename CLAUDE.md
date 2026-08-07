@@ -1,82 +1,82 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Este archivo le da a Claude Code (claude.ai/code) la guía para trabajar con el código de este repositorio.
 
-## First Run: Installation
+## Primera ejecución: instalación
 
-On first use, ask the user where to install the skills and agents:
+En el primer uso, pregúntale al usuario dónde instalar las skills y los agentes:
 
-> "Where should I install hormozi-skills-es?
-> - **Project** (default) — `.claude/` in the current project folder. Only available in this project.
-> - **User** — `~/.claude/` in your home directory. Available in all projects.
+> "¿Dónde instalo hormozi-skills-es?
+> - **Proyecto** (por defecto) — `.claude/` en la carpeta del proyecto actual. Solo disponible en este proyecto.
+> - **Usuario** — `~/.claude/` en tu carpeta personal. Disponible en todos los proyectos.
 >
-> Press Enter to use the default (project)."
+> Presiona Enter para usar la opción por defecto (proyecto)."
 
-**Default:** project-level (`.claude/` in the current working directory).
+**Por defecto:** a nivel de proyecto (`.claude/` en el directorio de trabajo actual).
 
-Installation copies `skills/` and `agents/` into the chosen `.claude/` directory:
+La instalación copia `skills/` y `agents/` dentro del directorio `.claude/` elegido:
 
 ```bash
-# Project (default)
+# Proyecto (por defecto)
 cp -r skills/ agents/ .claude/
 
-# User (global)
+# Usuario (global)
 cp -r skills/ agents/ ~/.claude/
 ```
 
-> **Important:** After installation, Claude Code must be restarted for the new skills and agents to be available.
+> **Importante:** después de instalar, hay que reiniciar Claude Code para que las nuevas skills y agentes queden disponibles.
 
 ---
 
-## What This Is
+## Qué es esto
 
-A skill library for coding agents to build Hormozi-inspired offer systems. No build pipeline — content only. Each `skills/` folder is a standalone agent skill; `agents/` contains an orchestrator and five subagents.
+Una biblioteca de skills para que los agentes de código construyan sistemas de oferta inspirados en Hormozi. Sin pipeline de build — solo contenido. Cada carpeta de `skills/` es una skill de agente independiente; `agents/` contiene un orquestador y cinco subagentes.
 
-## Architecture
+## Arquitectura
 
-### Two-Layer System
+### Sistema de dos capas
 
-**Skills** (`skills/<name>/SKILL.md`) — standalone, user-invocable. Each has a frontmatter `name` and `description`. Some have a `references/` subfolder with supporting material the skill reads at runtime.
+**Skills** (`skills/<name>/SKILL.md`) — independientes, invocables por el usuario. Cada una tiene un `name` y un `description` en el frontmatter. Algunas tienen una subcarpeta `references/` con material de apoyo que la skill lee en tiempo de ejecución.
 
-**Agents** (`agents/<name>.md`) — orchestrator + subagents. Frontmatter includes `name`, `description`, `tools`, `model`, and optionally `color`.
+**Agentes** (`agents/<name>.md`) — orquestador + subagentes. El frontmatter incluye `name`, `description`, `tools`, `model` y, opcionalmente, `color`.
 
-- `hormozi-orchestrator` is the entry point. It interviews the user, detects funnel stage (A–E), builds a structured brief, and delegates to subagents in dependency order.
-- The five `sub-*` agents are internal — they receive briefs from the orchestrator only and never interview the user directly.
+- `hormozi-orchestrator` es el punto de entrada. Entrevista al usuario, detecta la etapa del embudo (A–E), arma un brief estructurado y delega a los subagentes en orden de dependencia.
+- Los cinco agentes `sub-*` son internos — solo reciben briefs del orquestador y nunca entrevistan al usuario directamente.
 
-### Subagent Dependency Order
+### Orden de dependencia de los subagentes
 
 ```
 sub-market → sub-offer → sub-value → sub-pricing → sub-sales
 ```
 
-`sub-value` and `sub-pricing` can run in parallel when an offer already exists.
+`sub-value` y `sub-pricing` pueden correr en paralelo cuando ya existe una oferta.
 
-### Output
+### Salida
 
-All generated documents write to `output/`. The orchestrator produces a final `output/SUMMARY.md` after all subagents complete. The `output/` folder ships empty (`.gitkeep`).
+Todos los documentos generados se escriben en `output/`. El orquestador produce un `output/SUMMARY.md` final cuando todos los subagentes terminan. La carpeta `output/` se distribuye vacía (`.gitkeep`).
 
-## Skill Structure Convention
+## Convención de estructura de las skills
 
-Every skill lives at `skills/<name>/SKILL.md`. If a skill needs reference material, it goes in `skills/<name>/references/`. No other files belong inside a skill folder.
+Cada skill vive en `skills/<name>/SKILL.md`. Si una skill necesita material de referencia, va en `skills/<name>/references/`. Ningún otro archivo pertenece dentro de una carpeta de skill.
 
-Every agent lives at `agents/<name>.md` — flat, no subfolders.
+Cada agente vive en `agents/<name>.md` — plano, sin subcarpetas.
 
-## Adding a New Skill
+## Agregar una skill nueva
 
-1. Create `skills/<skill-name>/SKILL.md` with frontmatter `name` and `description`.
-2. If it needs reference docs, add them to `skills/<skill-name>/references/`.
-3. Add it to the skills table in `README.md`.
+1. Crea `skills/<skill-name>/SKILL.md` con `name` y `description` en el frontmatter.
+2. Si necesita documentos de referencia, agrégalos a `skills/<skill-name>/references/`.
+3. Agrégala a la tabla de skills en `README.md`.
 
-## Adding a New Subagent
+## Agregar un subagente nuevo
 
-1. Create `agents/sub-<name>.md` with frontmatter `name`, `description`, `tools`, `model`.
-2. Mark it internal in the description: "Internal subagent. Called by hormozi-orchestrator only."
-3. Define its output file(s) in `output/`.
-4. Wire it into the orchestrator's Phase 3 stage map and Phase 4 delegation logic.
-5. Add it to the agents table in `README.md`.
+1. Crea `agents/sub-<name>.md` con `name`, `description`, `tools` y `model` en el frontmatter.
+2. Márcalo como interno en la descripción: "Subagente interno. Solo lo llama hormozi-orchestrator."
+3. Define su archivo (o archivos) de salida en `output/`.
+4. Conéctalo al mapa de etapas de la Fase 3 y a la lógica de delegación de la Fase 4 del orquestador.
+5. Agrégalo a la tabla de agentes en `README.md`.
 
-## Key Design Rules
+## Reglas clave de diseño
 
-- Subagents receive a fully structured brief — they have no memory of the conversation.
-- All output lands in `output/` relative to the repo root.
-- Skills are user-facing; subagents are internal execution units. Do not mix the two roles.
+- Los subagentes reciben un brief completamente estructurado — no tienen memoria de la conversación.
+- Toda la salida cae en `output/`, relativo a la raíz del repo.
+- Las skills son para el usuario; los subagentes son unidades de ejecución internas. No mezcles los dos roles.

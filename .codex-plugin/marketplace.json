@@ -1,0 +1,16 @@
+{
+  "name": "hormozi-skills-es",
+  "interface": {
+    "displayName": "hormozi-skills-es"
+  },
+  "plugins": [
+    {
+      "name": "hormozi-skills-es",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

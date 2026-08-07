@@ -1,331 +1,331 @@
 ---
 name: effort-reduction
-description: Reduce friction and effort in an offer to increase its perceived value. Use when users feel overwhelmed, drop-off is high, or the offer feels too complex. Maps friction points, removes unnecessary steps, adds templates, and suggests automation and done-for-you elements.
+description: Reduce la fricción y el esfuerzo de una oferta para subir su valor percibido. Úsala cuando el usuario se siente abrumado, el abandono es alto o la oferta se siente demasiado compleja. Mapea los puntos de fricción, elimina pasos innecesarios, agrega plantillas y sugiere automatización y elementos done-for-you.
 ---
 
-# Skill: Effort Reduction (Friction Killer)
+# Skill: Reducción de esfuerzo (Matafricciones)
 
-## Purpose
-Reduce how hard the offer feels to complete.
+## Propósito
+Reduce lo difícil que se siente completar la oferta.
 
-This skill lowers:
-- effort
-- confusion
-- overwhelm
-- required discipline
+Esta skill baja:
+- el esfuerzo
+- la confusión
+- el agobio
+- la disciplina requerida
 
-It directly improves:
+Mejora directamente:
 
-Effort & Sacrifice ↓ → Value ↑
+Esfuerzo y sacrificio ↓ → Valor ↑
 
-The goal: make the offer feel **easy to start, easy to follow, easy to finish**.
-
----
-
-## When to Use
-Activate this skill when:
-- users feel overwhelmed
-- drop-off is high after purchase
-- execution requires too many steps
-- customers need “motivation” to continue
-- the offer feels complex or heavy
-- results depend too much on user discipline
+La meta: que la oferta se sienta **fácil de empezar, fácil de seguir, fácil de terminar**.
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a course, product, or service
-- onboarding flow
-- user journey description
-- step-by-step process of the offer
+## Cuándo usarla
+Activa esta skill cuando:
+- el usuario se siente abrumado
+- el abandono es alto después de la compra
+- la ejecución exige demasiados pasos
+- los clientes necesitan “motivación” para continuar
+- la oferta se siente compleja o pesada
+- los resultados dependen demasiado de la disciplina del usuario
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a simplified execution path
-- reduced cognitive load
-- fewer decisions for the user
-- automation opportunities
-- done-for-you elements
-- a smoother, easier experience
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- un curso, un producto o un servicio
+- un flujo de onboarding
+- la descripción del recorrido del usuario
+- el proceso paso a paso de la oferta
 
 ---
 
-## Assistant Behavior
-
-### 1. Map the effort required
-Break down the full journey:
-
-Purchase → Start → Progress → Result
-
-Identify:
-- number of steps
-- decisions required
-- skills needed
-- time investment
-- discipline required
-
-Then summarize:
-
-> Right now, the user must do X steps, make Y decisions, and figure out Z alone.  
-> This creates friction and slows progress.
+## Resultado principal
+El asistente produce:
+- un camino de ejecución simplificado
+- menos carga cognitiva
+- menos decisiones para el usuario
+- oportunidades de automatización
+- elementos done-for-you
+- una experiencia más fluida y fácil
 
 ---
 
-### 2. Identify friction points
-For each step, find:
+## Comportamiento del asistente
 
-- where users hesitate
-- where confusion appears
-- where they need to “think too much”
-- where they need extra tools or skills
-- where they procrastinate
+### 1. Mapea el esfuerzo requerido
+Desglosa el recorrido completo:
 
-Map it like:
+Compra → Inicio → Progreso → Resultado
 
-Step → Friction → Why it feels hard
+Identifica:
+- la cantidad de pasos
+- las decisiones requeridas
+- las habilidades necesarias
+- la inversión de tiempo
+- la disciplina requerida
 
----
+Luego resume:
 
-### 3. Remove unnecessary steps
-Simplify aggressively.
-
-Ask:
-- Is this step required for the result?
-- Can it be skipped?
-- Can it be merged with another step?
-- Can the outcome be achieved faster?
-
-Output:
-- steps to remove
-- steps to merge
-- steps to delay until later
+> Hoy, el usuario tiene que dar X pasos, tomar Y decisiones y resolver Z solo.  
+> Eso genera fricción y frena el progreso.
 
 ---
 
-### 4. Reduce decisions
-Too many choices = paralysis.
+### 2. Identifica los puntos de fricción
+Para cada paso, encuentra:
 
-Replace:
-- open-ended tasks → guided actions
-- multiple options → default path
-- “figure this out” → “do this exact thing”
+- dónde duda el usuario
+- dónde aparece la confusión
+- dónde tiene que “pensar demasiado”
+- dónde necesita herramientas o habilidades extra
+- dónde procrastina
 
-Output:
-- decisions to eliminate
-- default paths to introduce
-- clearer instructions
+Mapéalo así:
 
----
-
-### 5. Replace blank work with templates
-Blank pages create friction.
-
-Convert:
-- “create X” → “fill this template”
-- “plan Y” → “use this structure”
-- “write Z” → “use this swipe file”
-
-Output:
-- templates to add
-- where they fit in the flow
-- what they replace
+Paso → Fricción → Por qué se siente difícil
 
 ---
 
-### 6. Automate repetitive work
-Identify what can run without effort.
+### 3. Elimina los pasos innecesarios
+Simplifica con agresividad.
 
-Examples:
-- pre-built systems
-- auto-generated outputs
-- plug-and-play tools
-- integrations
+Pregunta:
+- ¿Este paso es necesario para el resultado?
+- ¿Se puede saltar?
+- ¿Se puede fusionar con otro paso?
+- ¿El resultado se puede lograr más rápido?
 
-Output:
-- what to automate
-- how it reduces effort
-- tools or systems to use
+Salida:
+- pasos a eliminar
+- pasos a fusionar
+- pasos a posponer para más adelante
 
 ---
 
-### 7. Add done-for-you elements
-When possible, remove work entirely.
+### 4. Reduce las decisiones
+Demasiadas opciones = parálisis.
 
-Convert:
+Reemplaza:
+- tareas abiertas → acciones guiadas
+- múltiples opciones → camino por defecto
+- “descifra esto” → “haz exactamente esto”
+
+Salida:
+- decisiones a eliminar
+- caminos por defecto a introducir
+- instrucciones más claras
+
+---
+
+### 5. Reemplaza el trabajo en blanco con plantillas
+Las páginas en blanco generan fricción.
+
+Convierte:
+- “crea X” → “llena esta plantilla”
+- “planea Y” → “usa esta estructura”
+- “escribe Z” → “usa este swipe file”
+
+Salida:
+- plantillas a agregar
+- dónde encajan en el flujo
+- qué reemplazan
+
+---
+
+### 6. Automatiza el trabajo repetitivo
+Identifica qué puede funcionar sin esfuerzo.
+
+Ejemplos:
+- sistemas prearmados
+- salidas autogeneradas
+- herramientas plug-and-play
+- integraciones
+
+Salida:
+- qué automatizar
+- cómo reduce el esfuerzo
+- qué herramientas o sistemas usar
+
+---
+
+### 7. Agrega elementos done-for-you
+Cuando se pueda, elimina el trabajo por completo.
+
+Convierte:
 - DIY → DWY (done with you)
 - DWY → DFY (done for you)
 
-Examples:
-- audits
-- setup services
-- pre-filled assets
-- custom feedback
+Ejemplos:
+- auditorías
+- servicios de configuración
+- recursos prellenados
+- retroalimentación personalizada
 
-Output:
-- what to do for the customer
-- where it removes friction
-- impact on perceived value
-
----
-
-### 8. Simplify execution flow
-Create a cleaner path.
-
-Instead of:
-- complex sequence
-- scattered resources
-- unclear next steps
-
-Design:
-- step-by-step path
-- clear order
-- visible progress
-
-Output:
-- new simplified flow
-- number of steps reduced
-- clearer progression
+Salida:
+- qué hacer por el cliente
+- dónde elimina fricción
+- impacto en el valor percibido
 
 ---
 
-### 9. Reduce skill requirements
-If the offer requires skill, lower the barrier.
+### 8. Simplifica el flujo de ejecución
+Crea un camino más limpio.
 
-Ways:
-- break tasks into smaller actions
-- provide examples
-- give exact instructions
-- remove need for prior knowledge
+En vez de:
+- una secuencia compleja
+- recursos dispersos
+- próximos pasos poco claros
 
----
+Diseña:
+- un camino paso a paso
+- un orden claro
+- progreso visible
 
-### 10. Improve perceived ease
-Make it *feel* easier, not just be easier.
-
-Techniques:
-- use simple language
-- show how little work is needed
-- highlight shortcuts
-- emphasize “no experience needed”
-- show completed examples
+Salida:
+- nuevo flujo simplificado
+- cantidad de pasos reducidos
+- progresión más clara
 
 ---
 
-## Output Format
+### 9. Reduce los requisitos de habilidad
+Si la oferta exige habilidad, baja la barrera.
+
+Formas:
+- divide las tareas en acciones más pequeñas
+- entrega ejemplos
+- da instrucciones exactas
+- elimina la necesidad de conocimiento previo
+
+---
+
+### 10. Mejora la facilidad percibida
+Haz que *se sienta* más fácil, no solo que lo sea.
+
+Técnicas:
+- usa lenguaje simple
+- muestra lo poco que hay que trabajar
+- destaca los atajos
+- enfatiza el “no se necesita experiencia”
+- muestra ejemplos ya terminados
+
+---
+
+## Formato de salida
 
 ```md
 # EFFORT_REDUCTION.md
 
-## 1. Current Effort Analysis
-- Total steps
-- Key effort points
-- Where users struggle
+## 1. Análisis del esfuerzo actual
+- Pasos totales
+- Puntos clave de esfuerzo
+- Dónde se traba el usuario
 
-## 2. Friction Map
-- Step → Friction → Why it’s hard
+## 2. Mapa de fricción
+- Paso → Fricción → Por qué es difícil
 
-## 3. Steps to Remove
-- Step
-- Why it’s unnecessary
+## 3. Pasos a eliminar
+- Paso
+- Por qué es innecesario
 
-## 4. Steps to Simplify
-- Step
-- How to simplify
+## 4. Pasos a simplificar
+- Paso
+- Cómo simplificarlo
 
-## 5. Decisions to Eliminate
-- Decision
-- Default replacement
+## 5. Decisiones a eliminar
+- Decisión
+- Reemplazo por defecto
 
-## 6. Templates to Add
-- Template name
-- What it replaces
-- Where it’s used
+## 6. Plantillas a agregar
+- Nombre de la plantilla
+- Qué reemplaza
+- Dónde se usa
 
-## 7. Automation Opportunities
-- Task
-- Automation idea
-- Impact
+## 7. Oportunidades de automatización
+- Tarea
+- Idea de automatización
+- Impacto
 
-## 8. Done-for-You Additions
-- What is done for the user
-- Where it helps
-- Value added
+## 8. Adiciones done-for-you
+- Qué se hace por el usuario
+- Dónde ayuda
+- Valor agregado
 
-## 9. Simplified Execution Flow
-- New step-by-step path
+## 9. Flujo de ejecución simplificado
+- Nuevo camino paso a paso
 
-## 10. Effort Perception Improvements
-- Messaging changes
-- Structural changes
+## 10. Mejoras en la percepción del esfuerzo
+- Cambios en los mensajes
+- Cambios estructurales
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Remove steps when:
-	•	they don’t directly impact the result
-	•	they create delay without value
-	•	they add complexity
+Elimina pasos cuando:
+	•	no impactan directamente en el resultado
+	•	generan demora sin valor
+	•	agregan complejidad
 
-Add templates when:
-	•	users start from scratch
-	•	output is predictable
-	•	structure is repeatable
+Agrega plantillas cuando:
+	•	el usuario arranca desde cero
+	•	la salida es predecible
+	•	la estructura es repetible
 
-Automate when:
-	•	tasks are repetitive
-	•	tools can replace manual work
-	•	speed matters
+Automatiza cuando:
+	•	las tareas son repetitivas
+	•	las herramientas pueden reemplazar el trabajo manual
+	•	la velocidad importa
 
-Add done-for-you when:
-	•	the task is difficult
-	•	mistakes are costly
-	•	users lack skill or time
+Agrega done-for-you cuando:
+	•	la tarea es difícil
+	•	los errores salen caros
+	•	al usuario le falta habilidad o tiempo
 
-Simplify when:
-	•	users must think too much
-	•	instructions are unclear
-	•	execution feels heavy
-
-⸻
-
-Before vs After Example
-
-Before
-	•	Watch lessons
-	•	Plan strategy
-	•	Create assets from scratch
-	•	Execute manually
-
-After
-	•	Use pre-built template
-	•	Follow guided checklist
-	•	Plug into system
-	•	Execute with minimal decisions
+Simplifica cuando:
+	•	el usuario tiene que pensar demasiado
+	•	las instrucciones no son claras
+	•	la ejecución se siente pesada
 
 ⸻
 
-Style Guidelines
-	•	cut complexity
-	•	favor action over thinking
-	•	reduce decisions
-	•	remove friction first, add value second
-	•	make everything feel simple and doable
+Ejemplo de antes vs después
+
+Antes
+	•	Ver las lecciones
+	•	Planear la estrategia
+	•	Crear los recursos desde cero
+	•	Ejecutar manualmente
+
+Después
+	•	Usar una plantilla prearmada
+	•	Seguir un checklist guiado
+	•	Conectarse al sistema
+	•	Ejecutar con decisiones mínimas
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	recorta la complejidad
+	•	prefiere la acción sobre el pensamiento
+	•	reduce las decisiones
+	•	elimina primero la fricción, agrega valor después
+	•	haz que todo se sienta simple y realizable
 
-The skill works when:
-	•	the offer feels easy to start
-	•	users don’t get stuck early
-	•	fewer steps are needed
-	•	decisions are minimal
-	•	execution feels guided
-	•	completion rates increase
-	•	results feel easier to achieve
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	la oferta se siente fácil de empezar
+	•	el usuario no se traba temprano
+	•	se necesitan menos pasos
+	•	las decisiones son mínimas
+	•	la ejecución se siente guiada
+	•	suben las tasas de finalización
+	•	los resultados se sienten más fáciles de lograr

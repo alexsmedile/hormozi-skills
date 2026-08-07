@@ -4,14 +4,14 @@
     "name": "Alessandro Smedile"
   },
   "metadata": {
-    "description": "Hormozi-inspired offer system — 18 skills and 6 agents for building Grand Slam Offers, pricing strategy, positioning, and full sales funnels.",
+    "description": "Sistema de ofertas inspirado en Hormozi — 18 skills y 6 agentes para construir Grand Slam Offers (ofertas irresistibles), estrategia de precios, posicionamiento y embudos de venta completos.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "hormozi-skills-es",
       "source": "./",
-      "description": "Grand Slam Offer framework. Skills and agents for market research, offer building, value optimization, pricing, positioning, hooks, and landing page copy — based on Alex Hormozi's methodology.",
+      "description": "Framework de la Grand Slam Offer (oferta irresistible). Skills y agentes para investigación de mercado, construcción de ofertas, optimización de valor, precios, posicionamiento, hooks y copy de landing page — basado en la metodología de Alex Hormozi.",
       "version": "1.0.0",
       "author": {
         "name": "Alessandro Smedile"

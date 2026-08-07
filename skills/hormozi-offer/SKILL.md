@@ -1,520 +1,520 @@
 ---
 name: hormozi-offer
-description: Build a Grand Slam Offer from any idea, product, service, or expertise. Use when starting from scratch or when an existing offer does not convert. Guides through market selection, avatar definition, obstacle mapping, solution design, value stack, pricing, guarantee, positioning, and messaging — outputs a complete OFFER.md.
+description: Construye una Grand Slam Offer (oferta irresistible) a partir de cualquier idea, producto, servicio o experiencia. Úsala al empezar desde cero o cuando una oferta existente no convierte. Guía por la selección de mercado, la definición del avatar, el mapeo de obstáculos, el diseño de soluciones, el stack de valor, el precio, la garantía, el posicionamiento y los mensajes — produce un OFFER.md completo.
 ---
 
-# Skill: Build a Grand Slam Offer → `OFFER.md`
+# Skill: Construir una Grand Slam Offer → `OFFER.md`
 
-## Purpose
-Help the user turn a rough business idea, product, service, audience, or expertise into a clear, valuable, specific offer.
+## Propósito
+Ayuda al usuario a convertir una idea de negocio en bruto, un producto, un servicio, una audiencia o su experiencia en una oferta clara, valiosa y específica.
 
-The skill must:
-- accept messy or incomplete business input
-- ask clarifying questions before jumping to conclusions
-- brainstorm multiple offer angles
-- suggest ideas the user may not have considered
-- help the user choose the strongest direction
-- guide the user step by step until a full `OFFER.md` is produced
+La skill debe:
+- aceptar entradas de negocio desordenadas o incompletas
+- hacer preguntas aclaratorias antes de saltar a conclusiones
+- hacer brainstorming de múltiples ángulos de oferta
+- sugerir ideas que el usuario quizá no consideró
+- ayudar al usuario a elegir la dirección más fuerte
+- guiar al usuario paso a paso hasta producir un `OFFER.md` completo
 
-The skill should feel like a strategic partner, not a form filler.
-
----
-
-## Core Outcome
-By the end, the assistant should produce a polished markdown file called `OFFER.md` with:
-- business context
-- target market
-- ideal customer
-- painful problem
-- dream outcome
-- obstacle map
-- solution map
-- offer structure
-- value stack
-- bonuses
-- pricing hypothesis
-- guarantee
-- positioning
-- messaging hooks
-- next steps
+La skill debe sentirse como un socio estratégico, no como un formulario.
 
 ---
 
-## Inputs
-The skill must work even if the user gives only one of these:
-- business idea
-- niche
-- product
-- service
-- audience
-- expertise
-- current content
-- sales page
-- notes
-- vague description like “I help coaches grow on Instagram”
-
-Possible input examples:
-- “I sell a Notion template for freelancers”
-- “I’m a fitness coach for busy dads”
-- “I want to help founders create content”
-- “I have a digital product but it doesn’t convert”
-- “I do brand design for wellness businesses”
+## Resultado principal
+Al final, el asistente debe producir un archivo markdown pulido llamado `OFFER.md` con:
+- contexto del negocio
+- mercado objetivo
+- cliente ideal
+- problema doloroso
+- resultado soñado
+- mapa de obstáculos
+- mapa de soluciones
+- estructura de la oferta
+- stack de valor
+- bonos
+- hipótesis de precio
+- garantía
+- posicionamiento
+- hooks de mensajes
+- próximos pasos
 
 ---
 
-## Assistant Behavior
+## Entradas
+La skill debe funcionar aunque el usuario dé solo uno de estos:
+- idea de negocio
+- nicho
+- producto
+- servicio
+- audiencia
+- experiencia
+- contenido actual
+- página de ventas
+- notas
+- una descripción vaga como “ayudo a coaches a crecer en Instagram”
 
-### 1. Start from what exists
-First, extract what is already known.
-
-Identify:
-- what the business seems to sell
-- who it may serve
-- what result it may promise
-- what is still missing
-- what sounds vague, generic, or weak
-
-Then briefly reflect this back to the user in plain language.
-
-Example:
-> Here’s what I understand so far: you help X get Y result through Z.  
-> What’s still unclear is who the buyer is, what pain feels urgent, and what exact result they would pay for first.
-
----
-
-### 2. Ask clarifying questions
-Before building the offer, ask focused questions.
-
-Do not ask everything at once if the input is very vague.  
-Ask only the most useful questions first.
-
-Question areas:
-- What do you sell now, if anything?
-- Who has paid you before?
-- Who gets the fastest result from your work?
-- What urgent problem do they want solved?
-- What result do they want most?
-- What are they already trying?
-- Why do those attempts fail?
-- What format do you want to sell: service, product, hybrid, membership, consulting, template, course?
-- What price range are you open to?
-- Where do you want to sell it: Instagram, email, inbound calls, DMs, website, marketplace?
-
-If needed, ask for examples:
-- past clients
-- audience segments
-- testimonials
-- current offers
-- content topics
-- objections people give
+Ejemplos posibles de entrada:
+- “Vendo una plantilla de Notion para freelancers”
+- “Soy coach de fitness para papás ocupados”
+- “Quiero ayudar a fundadores a crear contenido”
+- “Tengo un producto digital pero no convierte”
+- “Hago diseño de marca para negocios de bienestar”
 
 ---
 
-### 3. Diagnose the business before suggesting the offer
-Once enough input exists, the assistant should assess:
+## Comportamiento del asistente
 
-#### Market clarity
-- Is the audience specific?
-- Is the pain urgent?
-- Is the buyer reachable?
-- Does the buyer likely have money?
+### 1. Parte de lo que ya existe
+Primero, extrae lo que ya se sabe.
 
-#### Offer clarity
-- Is the result concrete?
-- Is the promise desirable?
-- Is the value easy to explain?
-- Is the current idea too broad?
+Identifica:
+- qué parece vender el negocio
+- a quién podría servir
+- qué resultado podría prometer
+- qué falta todavía
+- qué suena vago, genérico o débil
 
-#### Delivery fit
-- Is the current format right for the promised result?
-- Would a different vehicle work better?
+Después devuélvele esto al usuario en lenguaje simple y en pocas palabras.
 
-The assistant should say what looks strong and what looks weak.
-
-Example:
-> Strong: the audience is easy to target and already spends money.  
-> Weak: the outcome is still too broad. “Grow your brand” is less compelling than “book 3 premium clients in 30 days.”
+Ejemplo:
+> Esto es lo que entiendo hasta ahora: ayudas a X a lograr Y a través de Z.  
+> Lo que todavía no queda claro es quién es el comprador, qué dolor se siente urgente y por qué resultado exacto pagaría primero.
 
 ---
 
-### 4. Brainstorm multiple offer directions
-Do not lock into one path too early.
+### 2. Haz preguntas aclaratorias
+Antes de construir la oferta, haz preguntas puntuales.
 
-The assistant should generate 3 to 5 possible offer directions based on the user’s input.
+No preguntes todo de una si la entrada es muy vaga.  
+Pregunta primero solo las más útiles.
 
-Each direction should include:
-- target customer
-- painful problem
-- promised outcome
-- offer type
-- why it could sell
+Áreas de preguntas:
+- ¿Qué vendes hoy, si es que vendes algo?
+- ¿Quién te ha pagado antes?
+- ¿Quién obtiene el resultado más rápido con tu trabajo?
+- ¿Qué problema urgente quieren resolver?
+- ¿Qué resultado quieren más que ningún otro?
+- ¿Qué están intentando ya?
+- ¿Por qué fallan esos intentos?
+- ¿Qué formato quieres vender: servicio, producto, híbrido, membresía, consultoría, plantilla, curso?
+- ¿Qué rango de precios estás dispuesto a manejar?
+- ¿Dónde quieres venderlo: Instagram, email, llamadas entrantes, DMs, sitio web, marketplace?
 
-Example format:
-- **Option A:** Done-with-you offer for X to get Y in Z time
-- **Option B:** Low-ticket template/product for X who want Y faster
-- **Option C:** Premium service for X who want hands-off Y
-
-The assistant should explain tradeoffs:
-- speed to launch
-- ease of selling
-- proof required
-- complexity of fulfillment
-- fit with the user’s strengths
-
-Then recommend the strongest 1 or 2 directions.
-
----
-
-### 5. Guide the user to choose a direction
-If the user is unsure, help them choose using simple decision rules:
-
-Prioritize:
-1. urgent pain
-2. clear outcome
-3. easy targeting
-4. proof of demand
-5. simple delivery
-6. fit with the user’s skill and preferred business model
-
-If needed, the assistant should recommend a default direction instead of waiting forever.
-
-Example:
-> Based on what you shared, the best first offer is X.  
-> It solves a painful problem, has a clear buyer, and is easier to sell than your broader idea.
+Si hace falta, pide ejemplos:
+- clientes pasados
+- segmentos de audiencia
+- testimonios
+- ofertas actuales
+- temas de contenido
+- objeciones que da la gente
 
 ---
 
-## Offer-Building Framework
+### 3. Diagnostica el negocio antes de sugerir la oferta
+Cuando haya suficiente información, el asistente debe evaluar:
 
-After choosing a direction, build the offer in this order.
+#### Claridad del mercado
+- ¿La audiencia es específica?
+- ¿El dolor es urgente?
+- ¿Se puede llegar al comprador?
+- ¿Es probable que el comprador tenga dinero?
 
-### Step 1: Define the customer
+#### Claridad de la oferta
+- ¿El resultado es concreto?
+- ¿La promesa es deseable?
+- ¿El valor es fácil de explicar?
+- ¿La idea actual es demasiado amplia?
+
+#### Encaje de la entrega
+- ¿El formato actual es el correcto para el resultado prometido?
+- ¿Funcionaría mejor otro vehículo?
+
+El asistente debe decir qué se ve fuerte y qué se ve débil.
+
+Ejemplo:
+> Fuerte: la audiencia es fácil de segmentar y ya gasta dinero.  
+> Débil: el resultado sigue siendo demasiado amplio. “Haz crecer tu marca” es menos convincente que “consigue 3 clientes premium en 30 días.”
+
+---
+
+### 4. Haz brainstorming de varias direcciones de oferta
+No te cierres en un solo camino demasiado pronto.
+
+El asistente debe generar de 3 a 5 direcciones de oferta posibles a partir de lo que dio el usuario.
+
+Cada dirección debe incluir:
+- cliente objetivo
+- problema doloroso
+- resultado prometido
+- tipo de oferta
+- por qué podría venderse
+
+Formato de ejemplo:
+- **Opción A:** oferta done-with-you para que X logre Y en Z tiempo
+- **Opción B:** plantilla o producto low-ticket para X que quieren Y más rápido
+- **Opción C:** servicio premium para X que quieren Y sin involucrarse
+
+El asistente debe explicar los tradeoffs:
+- velocidad de lanzamiento
+- facilidad de venta
+- pruebas necesarias
+- complejidad del fulfillment
+- encaje con las fortalezas del usuario
+
+Después recomienda la dirección más fuerte, o las 2 más fuertes.
+
+---
+
+### 5. Guía al usuario a elegir una dirección
+Si el usuario no está seguro, ayúdalo a elegir con reglas de decisión simples:
+
+Prioriza:
+1. dolor urgente
+2. resultado claro
+3. segmentación fácil
+4. prueba de demanda
+5. entrega simple
+6. encaje con la habilidad del usuario y su modelo de negocio preferido
+
+Si hace falta, el asistente debe recomendar una dirección por defecto en lugar de esperar para siempre.
+
+Ejemplo:
+> Por lo que compartiste, la mejor primera oferta es X.  
+> Resuelve un problema doloroso, tiene un comprador claro y es más fácil de vender que tu idea más amplia.
+
+---
+
+## Framework de construcción de la oferta
+
+Después de elegir una dirección, construye la oferta en este orden.
+
+### Paso 1: define el cliente
 Produce:
-- one-sentence avatar
-- current situation
-- painful problem
-- failed attempts
-- dream outcome
+- avatar en una frase
+- situación actual
+- problema doloroso
+- intentos fallidos
+- resultado soñado
 
-### Step 2: Define the dream outcome
+### Paso 2: define el resultado soñado
 Produce:
-- what they really want
-- visible result
-- emotional result
-- status shift
-- short outcome statement
+- qué quieren realmente
+- resultado visible
+- resultado emocional
+- cambio de estatus
+- frase de resultado breve
 
-### Step 3: Map obstacles
-List at least 10 to 15 obstacles.
+### Paso 3: mapea los obstáculos
+Lista al menos de 10 a 15 obstáculos.
 
-For each obstacle, examine:
-- what blocks progress
-- where confusion appears
-- what feels slow
-- what feels hard
-- what creates doubt
+Para cada obstáculo, examina:
+- qué bloquea el progreso
+- dónde aparece la confusión
+- qué se siente lento
+- qué se siente difícil
+- qué genera duda
 
-### Step 4: Reverse obstacles into solutions
-Turn each obstacle into:
-- a solution
-- a delivery method
+### Paso 4: convierte los obstáculos en soluciones
+Convierte cada obstáculo en:
+- una solución
+- un método de entrega
 
-Possible delivery methods:
-- template
+Métodos de entrega posibles:
+- plantilla
 - checklist
 - framework
 - tutorial
 - swipe file
-- audit
-- live call
-- async support
-- community
-- done-for-you asset
-- automation
+- auditoría
+- llamada en vivo
+- soporte asíncrono
+- comunidad
+- recurso done-for-you
+- automatización
 - dashboard
 - workbook
 
-### Step 5: Build the offer structure
-Organize into:
-- core offer
-- supporting components
-- bonuses
-- onboarding or quick-start asset
-- support layer
-- optional urgency mechanism
+### Paso 5: construye la estructura de la oferta
+Organiza en:
+- oferta principal
+- componentes de apoyo
+- bonos
+- onboarding o recurso de inicio rápido
+- capa de soporte
+- mecanismo de urgencia opcional
 
-### Step 6: Build the value stack
-For every component, define:
-- name
-- what it does
-- why it matters
-- perceived value
-- estimated standalone value
+### Paso 6: construye el stack de valor
+Para cada componente, define:
+- nombre
+- qué hace
+- por qué importa
+- valor percibido
+- valor individual estimado
 
-Then show:
-- total stacked value
-- actual price hypothesis
-- price rationale
+Después muestra:
+- valor total apilado
+- hipótesis de precio real
+- justificación del precio
 
-### Step 7: Create the guarantee
-Draft 3 guarantee options:
-- unconditional
-- conditional
-- effort-based or support-based
+### Paso 7: crea la garantía
+Redacta 3 opciones de garantía:
+- incondicional
+- condicional
+- basada en esfuerzo o en soporte
 
-Then recommend the best one for:
-- low-ticket digital offer
-- mid-ticket cohort/program
-- high-ticket service
+Después recomienda la mejor para:
+- oferta digital low-ticket
+- cohorte o programa mid-ticket
+- servicio high-ticket
 
-### Step 8: Position the offer
+### Paso 8: posiciona la oferta
 Produce:
-- who it is for
-- who it is not for
-- one-line positioning statement
-- category
-- key differentiator
-- why this beats alternatives
+- para quién es
+- para quién no es
+- frase de posicionamiento en una línea
+- categoría
+- diferenciador clave
+- por qué esto le gana a las alternativas
 
-### Step 9: Create messaging
-Generate:
-- 3 to 5 hooks
-- 3 outcome-driven bullets
-- 3 objection-handling bullets
-- short offer description
-- CTA draft
-
----
-
-## Brainstorming Rules
-When brainstorming, the assistant must:
-- generate multiple angles, not just one
-- favor specificity over generic ideas
-- prefer painful, urgent problems over vague aspirations
-- suggest narrower audiences when the market sounds too broad
-- suggest simpler offers before complex ecosystems
-- propose better delivery vehicles when the original one is weak
-- point out when a product should become a service first, or a service should become a productized offer
-
-The assistant should challenge weak ideas politely.
-
-Example:
-> This idea is too broad to sell easily.  
-> A tighter version would be: help X achieve Y in Z way.
+### Paso 9: crea los mensajes
+Genera:
+- de 3 a 5 hooks
+- 3 bullets orientados a resultado
+- 3 bullets para manejar objeciones
+- descripción corta de la oferta
+- borrador del CTA
 
 ---
 
-## Clarifying Questions Library
-Use these when needed.
+## Reglas de brainstorming
+Al hacer brainstorming, el asistente debe:
+- generar varios ángulos, no solo uno
+- favorecer la especificidad sobre las ideas genéricas
+- preferir problemas dolorosos y urgentes antes que aspiraciones vagas
+- sugerir audiencias más estrechas cuando el mercado suena demasiado amplio
+- sugerir ofertas más simples antes que ecosistemas complejos
+- proponer mejores vehículos de entrega cuando el original es débil
+- señalar cuándo un producto debería ser primero un servicio, o cuándo un servicio debería volverse una oferta productizada
 
-### Market
-- Who is the easiest person for you to help right now?
-- Who already knows they have this problem?
-- Who feels this pain weekly, not someday?
-- Who can pay without much education?
+El asistente debe cuestionar las ideas débiles con respeto.
 
-### Problem
-- What problem makes them act now?
-- What happens if they do nothing?
-- What have they already tried?
-- What frustrates them most?
-
-### Outcome
-- What exact result do they want?
-- What would “success” look like in real life?
-- What changes after they get the result?
-- What do they gain socially, emotionally, financially, or practically?
-
-### Offer vehicle
-- Do they need strategy, implementation, accountability, or assets?
-- Should this be done-for-you, done-with-you, or do-it-yourself?
-- What would help them get a win fastest?
-
-### Pricing
-- Is this an impulse buy, considered buy, or high-trust buy?
-- What value can be attached to the result?
-- What price feels easy, fair, and believable?
+Ejemplo:
+> Esta idea es demasiado amplia para venderse con facilidad.  
+> Una versión más ajustada sería: ayudar a X a lograr Y de la forma Z.
 
 ---
 
-## Decision Heuristics
-Use these rules when the user is stuck.
+## Biblioteca de preguntas aclaratorias
+Úsalas cuando haga falta.
 
-### Narrow the audience when:
-- the target sounds like “everyone”
-- pain varies too much
-- message feels generic
-- sales rely on too much explanation
+### Mercado
+- ¿A quién te resulta más fácil ayudar ahora mismo?
+- ¿Quién ya sabe que tiene este problema?
+- ¿Quién siente este dolor cada semana, no algún día?
+- ¿Quién puede pagar sin que haya que educarlo demasiado?
 
-### Raise specificity when:
-- the promise sounds abstract
-- the result is hard to picture
-- the user uses words like “grow,” “improve,” “level up,” “transform” without detail
+### Problema
+- ¿Qué problema los hace actuar ahora?
+- ¿Qué pasa si no hacen nada?
+- ¿Qué han intentado ya?
+- ¿Qué es lo que más los frustra?
 
-### Change the offer vehicle when:
-- the result needs accountability
-- the buyer lacks implementation skills
-- the promise is too big for a simple digital product
-- the user has strong service skill but weak proof for a course
+### Resultado
+- ¿Qué resultado exacto quieren?
+- ¿Cómo se vería el “éxito” en la vida real?
+- ¿Qué cambia después de que obtienen el resultado?
+- ¿Qué ganan a nivel social, emocional, financiero o práctico?
 
-### Start simpler when:
-- the user has no proof
-- the niche is new
-- the current idea has too many moving parts
-- the user needs revenue fast
+### Vehículo de la oferta
+- ¿Necesitan estrategia, implementación, rendición de cuentas o recursos?
+- ¿Esto debería ser done-for-you, done-with-you o do-it-yourself?
+- ¿Qué los ayudaría a conseguir una victoria más rápido?
+
+### Precios
+- ¿Esto es una compra por impulso, una compra meditada o una compra de alta confianza?
+- ¿Qué valor se le puede atribuir al resultado?
+- ¿Qué precio se siente fácil, justo y creíble?
 
 ---
 
-## Output File Format: `OFFER.md`
+## Heurísticas de decisión
+Usa estas reglas cuando el usuario está trabado.
 
-The final output must be a markdown document with this structure:
+### Estrecha la audiencia cuando:
+- el objetivo suena a “todo el mundo”
+- el dolor varía demasiado
+- el mensaje se siente genérico
+- la venta depende de demasiada explicación
+
+### Sube la especificidad cuando:
+- la promesa suena abstracta
+- el resultado es difícil de imaginar
+- el usuario usa palabras como “crecer”, “mejorar”, “subir de nivel”, “transformar” sin detalle
+
+### Cambia el vehículo de la oferta cuando:
+- el resultado requiere rendición de cuentas
+- al comprador le faltan habilidades de implementación
+- la promesa es demasiado grande para un producto digital simple
+- el usuario tiene mucha habilidad de servicio pero pruebas débiles para un curso
+
+### Empieza más simple cuando:
+- el usuario no tiene pruebas
+- el nicho es nuevo
+- la idea actual tiene demasiadas piezas móviles
+- el usuario necesita ingresos rápido
+
+---
+
+## Formato del archivo de salida: `OFFER.md`
+
+La salida final debe ser un documento markdown con esta estructura:
 
 ```md
 # OFFER.md
 
-## 1. Business Snapshot
-- What the business does
-- What is being sold
-- Current stage
-- Main channel
+## 1. Panorama del negocio
+- Qué hace el negocio
+- Qué se vende
+- Etapa actual
+- Canal principal
 
-## 2. Target Market
-- Market
-- Segment
-- Why this segment
+## 2. Mercado objetivo
+- Mercado
+- Segmento
+- Por qué este segmento
 
-## 3. Ideal Customer Avatar
-- One-sentence avatar
-- Current situation
-- Pain points
-- Failed attempts
-- Desired outcome
+## 3. Avatar del cliente ideal
+- Avatar en una frase
+- Situación actual
+- Puntos de dolor
+- Intentos fallidos
+- Resultado deseado
 
-## 4. Dream Outcome
-- Primary outcome
-- Emotional outcome
-- Status shift
-- Outcome statement
+## 4. Resultado soñado
+- Resultado principal
+- Resultado emocional
+- Cambio de estatus
+- Frase de resultado
 
-## 5. Obstacles
-1. Obstacle
-2. Obstacle
-3. Obstacle
+## 5. Obstáculos
+1. Obstáculo
+2. Obstáculo
+3. Obstáculo
 
-## 6. Solution Map
-- Obstacle → Solution → Delivery method
+## 6. Mapa de soluciones
+- Obstáculo → Solución → Método de entrega
 
-## 7. Core Offer
-- Offer name
-- What’s included
-- Format
-- Delivery
-- Time to first win
+## 7. Oferta principal
+- Nombre de la oferta
+- Qué incluye
+- Formato
+- Entrega
+- Tiempo hasta la primera victoria
 
-## 8. Bonus Stack
-- Bonus name
-- Purpose
-- Value
+## 8. Stack de bonos
+- Nombre del bono
+- Propósito
+- Valor
 
-## 9. Value Stack
-- Component
-- Standalone value
-- Total value
-- Price hypothesis
+## 9. Stack de valor
+- Componente
+- Valor individual
+- Valor total
+- Hipótesis de precio
 
-## 10. Guarantee
-- Option 1
-- Option 2
-- Option 3
-- Recommended guarantee
+## 10. Garantía
+- Opción 1
+- Opción 2
+- Opción 3
+- Garantía recomendada
 
-## 11. Positioning
-- Who it’s for
-- Who it’s not for
-- Unique angle
-- Positioning statement
+## 11. Posicionamiento
+- Para quién es
+- Para quién NO es
+- Ángulo único
+- Frase de posicionamiento
 
-## 12. Messaging
+## 12. Mensajes
 - Hooks
 - Bullets
 - CTA
 
-## 13. Launch Notes
-- Best channel
-- Sales angle
-- Objections to handle
-- Next actions
+## 13. Notas de lanzamiento
+- Mejor canal
+- Ángulo de venta
+- Objeciones a manejar
+- Próximas acciones
 ```
 
 ⸻
 
-Conversation Flow
+Flujo de conversación
 
-Recommended flow:
-	1.	Understand the business
-	2.	Ask clarifying questions
-	3.	Summarize findings
-	4.	Brainstorm 3 to 5 offer directions
-	5.	Recommend the strongest direction
-	6.	Build avatar and dream outcome
-	7.	Map obstacles
-	8.	Map solutions
-	9.	Build offer stack
-	10.	Draft pricing and guarantee
-	11.	Draft positioning and messaging
-	12.	Output OFFER.md
-
-⸻
-
-Style Guidelines
-
-The assistant should:
-	•	sound strategic and practical
-	•	use simple language
-	•	stay concrete
-	•	avoid hype
-	•	avoid vague praise
-	•	challenge weak positioning
-	•	suggest sharper wording
-	•	move the user toward decisions
-
-The assistant should not:
-	•	assume facts not given
-	•	force one business model too early
-	•	produce generic offer language
-	•	hide uncertainty
-	•	pretend every idea is equally good
+Flujo recomendado:
+	1.	Entiende el negocio
+	2.	Haz preguntas aclaratorias
+	3.	Resume los hallazgos
+	4.	Haz brainstorming de 3 a 5 direcciones de oferta
+	5.	Recomienda la dirección más fuerte
+	6.	Construye el avatar y el resultado soñado
+	7.	Mapea los obstáculos
+	8.	Mapea las soluciones
+	9.	Construye el stack de la oferta
+	10.	Redacta el precio y la garantía
+	11.	Redacta el posicionamiento y los mensajes
+	12.	Produce OFFER.md
 
 ⸻
 
-Fallback Behavior
+Guía de estilo
 
-If the user gives very little information:
-	•	make the best grounded assumptions
-	•	state them clearly
-	•	ask 3 to 5 high-value questions
-	•	offer 3 possible directions based on those assumptions
+El asistente debe:
+	•	sonar estratégico y práctico
+	•	usar lenguaje simple
+	•	mantenerse concreto
+	•	evitar el hype
+	•	evitar los elogios vagos
+	•	cuestionar el posicionamiento débil
+	•	sugerir formulaciones más afiladas
+	•	llevar al usuario hacia decisiones
 
-If the user is overwhelmed:
-	•	reduce options
-	•	recommend one strong path
-	•	explain why it is the best next move
-
-If the user already has an offer:
-	•	audit it
-	•	identify weak spots
-	•	rebuild it into a clearer, stronger OFFER.md
+El asistente no debe:
+	•	dar por sentados hechos que no se dieron
+	•	forzar un modelo de negocio demasiado pronto
+	•	producir lenguaje de oferta genérico
+	•	esconder la incertidumbre
+	•	fingir que todas las ideas son igual de buenas
 
 ⸻
 
-Success Criteria
+Comportamiento de respaldo
 
-The skill succeeds when:
-	•	the audience is specific
-	•	the pain is urgent
-	•	the result is clear
-	•	the offer structure makes sense
-	•	the pricing feels believable
-	•	the guarantee reduces risk
-	•	the messaging is easy to use
-	•	the final OFFER.md is ready for sales-page, landing-page, or content use
+Si el usuario da muy poca información:
+	•	haz los mejores supuestos fundamentados
+	•	enúncialos con claridad
+	•	haz de 3 a 5 preguntas de alto valor
+	•	ofrece 3 direcciones posibles basadas en esos supuestos
+
+Si el usuario está abrumado:
+	•	reduce las opciones
+	•	recomienda un camino fuerte
+	•	explica por qué es el mejor siguiente paso
+
+Si el usuario ya tiene una oferta:
+	•	audítala
+	•	identifica los puntos débiles
+	•	reconstrúyela en un OFFER.md más claro y más fuerte
+
+⸻
+
+Criterios de éxito
+
+La skill tiene éxito cuando:
+	•	la audiencia es específica
+	•	el dolor es urgente
+	•	el resultado es claro
+	•	la estructura de la oferta tiene sentido
+	•	el precio se siente creíble
+	•	la garantía reduce el riesgo
+	•	los mensajes son fáciles de usar
+	•	el OFFER.md final está listo para usarse en página de ventas, landing page o contenido

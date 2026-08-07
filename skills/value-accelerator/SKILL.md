@@ -1,306 +1,306 @@
 ---
 name: value-accelerator
-description: Reduce the time to first meaningful result to increase conversions and decrease drop-off. Use when the offer feels slow, results feel far away, or users drop off after buying. Maps friction, defines a quick-win asset, redesigns onboarding, and improves perceived speed — outputs TIME_TO_VALUE.md.
+description: Reduce el tiempo hasta el primer resultado significativo para subir las conversiones y bajar el abandono. Úsala cuando la oferta se siente lenta, los resultados se ven lejanos o el usuario abandona después de comprar. Mapea la fricción, define un recurso de victoria rápida, rediseña el onboarding y mejora la velocidad percibida — produce TIME_TO_VALUE.md.
 ---
 
-# Skill: Time-to-Value Accelerator
+# Skill: Acelerador del tiempo hasta el valor
 
-## Purpose
-Reduce the time it takes for a customer to experience their **first meaningful result**.
+## Propósito
+Reduce el tiempo que tarda un cliente en vivir su **primer resultado significativo**.
 
-This skill increases conversions by:
-- shortening time delay
-- increasing perceived speed
-- creating early wins
-- making the offer feel fast and actionable
+Esta skill sube las conversiones a través de:
+- acortar la demora
+- aumentar la velocidad percibida
+- crear victorias tempranas
+- hacer que la oferta se sienta rápida y accionable
 
-It directly improves this part of the value equation:
+Mejora directamente esta parte de la Ecuación de Valor:
 
-Time Delay ↓ → Value ↑
-
----
-
-## When to Use
-Activate this skill when:
-- the offer feels slow or overwhelming
-- customers delay buying because results feel far away
-- conversions are low despite a strong outcome
-- users drop off after buying
-- the offer requires too much setup before value
+Demora ↓ → Valor ↑
 
 ---
 
-## Inputs
-This skill can work with:
-- an `OFFER.md`
-- a rough offer description
-- a product or service idea
-- a course, template, or program
-- a funnel or onboarding flow
+## Cuándo usarla
+Activa esta skill cuando:
+- la oferta se siente lenta o abrumadora
+- los clientes postergan la compra porque los resultados se ven lejanos
+- las conversiones son bajas a pesar de un resultado fuerte
+- el usuario abandona después de comprar
+- la oferta exige demasiada configuración antes de dar valor
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a faster path to first result
-- a “quick win” mechanism
-- a redesigned onboarding experience
-- reduced friction in execution
-- a clearer perception of speed
-- updated offer structure with faster value delivery
+## Entradas
+Esta skill puede funcionar con:
+- un `OFFER.md`
+- una descripción aproximada de la oferta
+- la idea de un producto o servicio
+- un curso, una plantilla o un programa
+- un embudo o un flujo de onboarding
 
 ---
 
-## Assistant Behavior
-
-### 1. Identify the current time-to-value
-Extract:
-- what result the offer promises
-- how long it currently takes to achieve
-- when the user sees the first win
-- what happens immediately after purchase
-
-Then summarize:
-
-> Right now, the first real result happens after X.  
-> This feels slow because the user must first do Y and Z.
+## Resultado principal
+El asistente produce:
+- un camino más rápido al primer resultado
+- un mecanismo de “victoria rápida”
+- una experiencia de onboarding rediseñada
+- menos fricción en la ejecución
+- una percepción de velocidad más clara
+- una estructura de oferta actualizada que entrega valor más rápido
 
 ---
 
-### 2. Find friction points
-Break down the journey from purchase → result.
+## Comportamiento del asistente
 
-Look for:
-- delays before starting
-- setup complexity
-- too many steps
-- unclear instructions
-- cognitive overload
-- missing guidance
+### 1. Identifica el tiempo hasta el valor actual
+Extrae:
+- qué resultado promete la oferta
+- cuánto tarda hoy en lograrse
+- cuándo ve el usuario la primera victoria
+- qué pasa justo después de la compra
 
-Map it like:
+Luego resume:
 
-Step → Friction → Delay caused
-
----
-
-### 3. Define the “First Win”
-The first win should be:
-- fast (minutes or hours, not weeks)
-- visible (clear result)
-- meaningful (feels like progress)
-- motivating (builds momentum)
-
-Ask or decide:
-
-- What is the smallest useful result?
-- What can they achieve in the first 5–30 minutes?
-- What would make them say “this works”?
+> Hoy, el primer resultado real llega después de X.  
+> Se siente lento porque el usuario primero tiene que hacer Y y Z.
 
 ---
 
-### 4. Design a Quick Win Asset
-Create a specific asset that delivers the first win fast.
+### 2. Encuentra los puntos de fricción
+Desglosa el recorrido desde la compra → el resultado.
 
-Possible formats:
+Busca:
+- demoras antes de empezar
+- complejidad de la configuración
+- demasiados pasos
+- instrucciones poco claras
+- sobrecarga cognitiva
+- falta de guía
+
+Mapéalo así:
+
+Paso → Fricción → Demora causada
+
+---
+
+### 3. Define la “primera victoria”
+La primera victoria debe ser:
+- rápida (minutos u horas, no semanas)
+- visible (resultado claro)
+- significativa (se siente como progreso)
+- motivadora (genera impulso)
+
+Pregunta o decide:
+
+- ¿Cuál es el resultado útil más pequeño?
+- ¿Qué puede lograr en los primeros 5–30 minutos?
+- ¿Qué le haría decir “esto funciona”?
+
+---
+
+### 4. Diseña un recurso de victoria rápida
+Crea un recurso específico que entregue la primera victoria rápido.
+
+Formatos posibles:
 - checklist
-- template
+- plantilla
 - swipe file
-- mini-tool
-- guided action
-- audit
+- miniherramienta
+- acción guiada
+- auditoría
 - script
-- automation
-- pre-built system
+- automatización
+- sistema prearmado
 
-Output:
-- asset name
-- what it does
-- how fast it works
-- what result it gives
+Salida:
+- nombre del recurso
+- qué hace
+- qué tan rápido funciona
+- qué resultado entrega
 
-Example:
-- “30-Minute Client Outreach Script”
-- “Plug-and-Play Notion Dashboard”
-- “First Sale Setup Template”
-
----
-
-### 5. Restructure Onboarding
-Design the first 24 hours after purchase.
-
-Goal: eliminate hesitation and start action immediately.
-
-Include:
-- welcome message
-- clear first step
-- quick win asset
-- simple instructions
-- expected outcome
-
-Output a step-by-step flow:
-
-Hour 0 → what they see  
-Hour 1 → what they do  
-Day 1 → what they achieve  
+Ejemplo:
+- “Script de prospección de clientes en 30 minutos”
+- “Dashboard de Notion plug-and-play”
+- “Plantilla de configuración para la primera venta”
 
 ---
 
-### 6. Reduce Time Delay
-Suggest ways to compress time:
+### 5. Reestructura el onboarding
+Diseña las primeras 24 horas después de la compra.
 
-- pre-fill work (done-for-you elements)
-- remove unnecessary steps
-- batch actions
-- simplify decisions
-- give exact instructions
-- provide examples
-- create shortcuts
+Meta: eliminar la duda y arrancar la acción de inmediato.
 
----
+Incluye:
+- mensaje de bienvenida
+- primer paso claro
+- recurso de victoria rápida
+- instrucciones simples
+- resultado esperado
 
-### 7. Reduce Effort & Sacrifice
-Make the process feel easier.
+Produce un flujo paso a paso:
 
-Suggest:
-- automation
-- templates instead of blank pages
-- guided workflows
-- fewer choices
-- default paths
-- optional shortcuts
+Hora 0 → qué ven  
+Hora 1 → qué hacen  
+Día 1 → qué logran  
 
 ---
 
-### 8. Improve Perceived Speed
-Even if real time doesn’t change, perception can.
+### 6. Reduce la demora
+Sugiere formas de comprimir el tiempo:
 
-Techniques:
-- name the time frame clearly (“in 30 minutes”, “in 1 day”)
-- highlight quick wins in the pitch
-- show early results first
-- break big outcomes into milestones
-- emphasize “start fast” messaging
-
----
-
-### 9. Upgrade the Offer Structure
-Integrate changes into the offer:
-
-- add quick win as first component
-- move fast results earlier
-- reorder modules or steps
-- highlight speed in core promise
-- adjust bonuses to support speed
+- prellena el trabajo (elementos done-for-you)
+- elimina pasos innecesarios
+- agrupa acciones en lotes
+- simplifica las decisiones
+- da instrucciones exactas
+- entrega ejemplos
+- crea atajos
 
 ---
 
-## Output Format
+### 7. Reduce el esfuerzo y el sacrificio
+Haz que el proceso se sienta más fácil.
+
+Sugiere:
+- automatización
+- plantillas en vez de páginas en blanco
+- workflows guiados
+- menos opciones
+- caminos por defecto
+- atajos opcionales
+
+---
+
+### 8. Mejora la velocidad percibida
+Aunque el tiempo real no cambie, la percepción sí puede cambiar.
+
+Técnicas:
+- nombra el plazo con claridad (“en 30 minutos”, “en 1 día”)
+- destaca las victorias rápidas en el pitch
+- muestra primero los resultados tempranos
+- divide los resultados grandes en hitos
+- enfatiza el mensaje de “arranca rápido”
+
+---
+
+### 9. Mejora la estructura de la oferta
+Integra los cambios en la oferta:
+
+- agrega la victoria rápida como primer componente
+- adelanta los resultados rápidos
+- reordena los módulos o los pasos
+- destaca la velocidad en la promesa principal
+- ajusta los bonos para respaldar la velocidad
+
+---
+
+## Formato de salida
 
 ```md
 # TIME_TO_VALUE.md
 
-## 1. Current Time-to-Value
-- Promised result
-- Time to full result
-- Time to first win
-- Key delays
+## 1. Tiempo hasta el valor actual
+- Resultado prometido
+- Tiempo hasta el resultado completo
+- Tiempo hasta la primera victoria
+- Demoras clave
 
-## 2. Friction Map
-- Step → Friction → Delay
+## 2. Mapa de fricción
+- Paso → Fricción → Demora
 
-## 3. First Win Definition
-- What the first win is
-- Why it matters
-- When it happens
+## 3. Definición de la primera victoria
+- Qué es la primera victoria
+- Por qué importa
+- Cuándo ocurre
 
-## 4. Quick Win Asset
-- Name
-- Format
-- What it does
-- Time to result
+## 4. Recurso de victoria rápida
+- Nombre
+- Formato
+- Qué hace
+- Tiempo hasta el resultado
 
-## 5. Onboarding Flow
-- Hour 0
-- Hour 1
-- Day 1
+## 5. Flujo de onboarding
+- Hora 0
+- Hora 1
+- Día 1
 
-## 6. Time Reduction Ideas
-- What to remove
-- What to simplify
-- What to pre-build
+## 6. Ideas para reducir el tiempo
+- Qué eliminar
+- Qué simplificar
+- Qué prearmar
 
-## 7. Effort Reduction Ideas
-- Automation
-- Templates
-- Shortcuts
+## 7. Ideas para reducir el esfuerzo
+- Automatización
+- Plantillas
+- Atajos
 
-## 8. Perceived Speed Improvements
-- Messaging changes
-- Structure changes
+## 8. Mejoras en la velocidad percibida
+- Cambios en los mensajes
+- Cambios en la estructura
 
-## 9. Updated Offer Structure
-- New flow
-- First result placement
-- Key upgrades
+## 9. Estructura de la oferta actualizada
+- Nuevo flujo
+- Ubicación del primer resultado
+- Mejoras clave
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Create a faster first win when:
-	•	the first result takes more than a day
-	•	users feel overwhelmed at the start
-	•	drop-off happens early
+Crea una primera victoria más rápida cuando:
+	•	el primer resultado tarda más de un día
+	•	el usuario se siente abrumado al inicio
+	•	el abandono ocurre temprano
 
-Add a quick win asset when:
-	•	the offer starts with theory
-	•	users must “figure things out”
-	•	the first step feels unclear
+Agrega un recurso de victoria rápida cuando:
+	•	la oferta arranca con teoría
+	•	el usuario tiene que “descifrar las cosas”
+	•	el primer paso no queda claro
 
-Simplify when:
-	•	there are too many steps
-	•	instructions are vague
-	•	users need to make too many decisions
+Simplifica cuando:
+	•	hay demasiados pasos
+	•	las instrucciones son vagas
+	•	el usuario tiene que tomar demasiadas decisiones
 
-Reorder when:
-	•	high-value outcomes come too late
-	•	motivation drops early
-
-⸻
-
-Examples
-
-Before
-	•	Buy course
-	•	Watch 5 modules
-	•	Then take action
-	•	Result in 2–3 weeks
-
-After
-	•	Buy course
-	•	Use “Day 1 Quick Start Template”
-	•	Get first result in 30 minutes
-	•	Continue with deeper modules
+Reordena cuando:
+	•	los resultados de más valor llegan demasiado tarde
+	•	la motivación cae temprano
 
 ⸻
 
-Style Guidelines
-	•	focus on speed and clarity
-	•	avoid complexity
-	•	favor action over theory
-	•	prioritize early wins
-	•	remove unnecessary steps
+Ejemplos
+
+Antes
+	•	Comprar el curso
+	•	Ver 5 módulos
+	•	Después, pasar a la acción
+	•	Resultado en 2–3 semanas
+
+Después
+	•	Comprar el curso
+	•	Usar la “Plantilla de arranque rápido del día 1”
+	•	Obtener el primer resultado en 30 minutos
+	•	Seguir con los módulos más profundos
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	enfócate en la velocidad y la claridad
+	•	evita la complejidad
+	•	prefiere la acción sobre la teoría
+	•	prioriza las victorias tempranas
+	•	elimina los pasos innecesarios
 
-The skill works when:
-	•	the user gets a result fast
-	•	the first action feels easy
-	•	momentum builds quickly
-	•	the offer feels “fast” to buy
-	•	drop-off decreases
-	•	perceived value increases
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	el usuario obtiene un resultado rápido
+	•	la primera acción se siente fácil
+	•	el impulso se construye rápido
+	•	la oferta se siente “rápida” de comprar
+	•	baja el abandono
+	•	sube el valor percibido

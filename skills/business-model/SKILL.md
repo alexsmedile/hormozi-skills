@@ -1,413 +1,413 @@
 ---
 name: business-model
-description: Design the right business model for monetizing skills and expertise. Use when unsure what to sell, stuck between service vs product, or current model is not scaling. Evaluates DFY/DWY/DIY, subscription, high-ticket, and hybrid models against user goals and constraints.
+description: Diseña el modelo de negocio correcto para monetizar habilidades y experiencia. Úsala cuando no sabes qué vender, estás trabado entre servicio y producto, o tu modelo actual no escala. Evalúa modelos DFY/DWY/DIY, de suscripción, high-ticket e híbridos frente a las metas y restricciones del usuario.
 ---
 
-# Skill: Business Model Designer (Strategic Monetization Engine)
+# Skill: Diseñador de modelo de negocio (Motor de Monetización Estratégica)
 
-## Purpose
-Choose the right way to make money from your skills, offer, and market.
+## Propósito
+Elige la forma correcta de ganar dinero con tus habilidades, tu oferta y tu mercado.
 
-This skill:
-- selects the best monetization model
-- aligns with your strengths and constraints
-- balances scale vs income vs lifestyle
-- prevents building the wrong business
+Esta skill:
+- selecciona el mejor modelo de monetización
+- se alinea con tus fortalezas y restricciones
+- equilibra escala vs ingresos vs estilo de vida
+- evita que construyas el negocio equivocado
 
-Goal: build a model that works **for you**, not just in theory.
-
----
-
-## When to Use
-Activate this skill when:
-- you have skills but no clear business model
-- you are unsure what to sell
-- you feel stuck between service vs product
-- your current model is not scaling
-- income depends too much on your time
-- you want to redesign your business
+Meta: construir un modelo que funcione **para ti**, no solo en teoría.
 
 ---
 
-## Inputs
-This skill works with:
-- your skills
-- your experience
-- your audience (if any)
-- your offer (if any)
-- your constraints (time, money, energy)
-- your goals (income, freedom, scale)
+## Cuándo usarla
+Activa esta skill cuando:
+- tienes habilidades pero no un modelo de negocio claro
+- no tienes claro qué vender
+- te sientes trabado entre servicio y producto
+- tu modelo actual no está escalando
+- los ingresos dependen demasiado de tu tiempo
+- quieres rediseñar tu negocio
 
 ---
 
-## Core Outcome
-The assistant produces:
-- recommended business model
-- monetization strategy
-- tradeoff analysis
-- aligned offer structure
-- path to scale
+## Entradas
+Esta skill funciona con:
+- tus habilidades
+- tu experiencia
+- tu audiencia (si la hay)
+- tu oferta (si la hay)
+- tus restricciones (tiempo, dinero, energía)
+- tus metas (ingresos, libertad, escala)
 
 ---
 
-## Assistant Behavior
+## Resultado principal
+El asistente produce:
+- modelo de negocio recomendado
+- estrategia de monetización
+- análisis de tradeoffs
+- estructura de oferta alineada
+- camino al escalado
 
-### 1. Understand the user
-Identify:
+---
 
-#### Skills
-- what you are good at
-- what you can deliver results in
+## Comportamiento del asistente
 
-#### Assets
-- audience
-- brand
-- experience
-- proof
+### 1. Entiende al usuario
+Identifica:
 
-#### Constraints
-- time available
+#### Habilidades
+- en qué eres bueno
+- en qué puedes entregar resultados
+
+#### Activos
+- audiencia
+- marca
+- experiencia
+- pruebas
+
+#### Restricciones
+- tiempo disponible
 - capital
-- energy
+- energía
 
-#### Goals
-- income target
-- lifestyle preference
-- scalability desire
-
----
-
-### 2. Identify current position
-Determine:
-
-- beginner (no proof, no audience)
-- intermediate (some results, some clients)
-- advanced (proof, audience, systems)
+#### Metas
+- meta de ingresos
+- preferencia de estilo de vida
+- deseo de escalabilidad
 
 ---
 
-### 3. Evaluate monetization models
+### 2. Identifica la posición actual
+Determina:
+
+- principiante (sin pruebas, sin audiencia)
+- intermedio (algunos resultados, algunos clientes)
+- avanzado (pruebas, audiencia, sistemas)
 
 ---
 
-## Core Models
+### 3. Evalúa los modelos de monetización
 
-### 1. Service (DFY)
-You do the work.
+---
 
-**Examples**
+## Modelos centrales
+
+### 1. Servicio (DFY)
+Tú haces el trabajo.
+
+**Ejemplos**
 - freelancing
-- agency
-- consulting
+- agencia
+- consultoría
 
 **Pros**
-- fast cash
-- high price potential
+- efectivo rápido
+- alto potencial de precio
 
-**Cons**
-- limited by time
-- harder to scale
+**Contras**
+- limitado por el tiempo
+- más difícil de escalar
 
 ---
 
-### 2. Productized Service (DWY)
-Structured service.
+### 2. Servicio productizado (DWY)
+Servicio estructurado.
 
-**Examples**
-- programs
+**Ejemplos**
+- programas
 - coaching
-- group offers
+- ofertas grupales
 
 **Pros**
-- more scalable
-- repeatable
-- higher leverage
+- más escalable
+- repetible
+- mayor apalancamiento
 
-**Cons**
-- still time involved
+**Contras**
+- todavía involucra tiempo
 
 ---
 
-### 3. Digital Product (DIY)
-You sell knowledge or systems.
+### 3. Producto digital (DIY)
+Vendes conocimiento o sistemas.
 
-**Examples**
-- courses
-- templates
+**Ejemplos**
+- cursos
+- plantillas
 - toolkits
 
 **Pros**
-- scalable
-- low marginal cost
+- escalable
+- bajo costo marginal
 
-**Cons**
-- requires audience or traffic
-- lower perceived value
+**Contras**
+- requiere audiencia o tráfico
+- menor valor percibido
 
 ---
 
-### 4. Hybrid Model
-Mix of all three.
+### 4. Modelo híbrido
+Mezcla de los tres.
 
-**Examples**
-- course + coaching
-- service + product
-- DFY + templates
+**Ejemplos**
+- curso + coaching
+- servicio + producto
+- DFY + plantillas
 
 **Pros**
 - flexible
-- maximizes revenue
+- maximiza los ingresos
 
-**Cons**
-- more complex
+**Contras**
+- más complejo
 
 ---
 
-### 5. Subscription / Recurring
-Ongoing value.
+### 5. Suscripción / recurrente
+Valor continuo.
 
-**Examples**
-- memberships
-- communities
+**Ejemplos**
+- membresías
+- comunidades
 - retainers
 
 **Pros**
-- predictable income
+- ingresos predecibles
 
-**Cons**
-- requires retention
+**Contras**
+- requiere retención
 
 ---
 
-### 6. High-Ticket Model
-Premium transformation.
+### 6. Modelo high-ticket
+Transformación premium.
 
-**Examples**
-- consulting
-- DFY services
-- elite programs
+**Ejemplos**
+- consultoría
+- servicios DFY
+- programas de élite
 
 **Pros**
-- high revenue per client
+- altos ingresos por cliente
 
-**Cons**
-- requires trust and proof
+**Contras**
+- requiere confianza y pruebas
 
 ---
 
-### 7. Low-Ticket Volume Model
-Scale through volume.
+### 7. Modelo low-ticket por volumen
+Escalar por volumen.
 
-**Examples**
+**Ejemplos**
 - ebooks
-- low-cost templates
+- plantillas de bajo costo
 
 **Pros**
-- easy entry
-- scalable
+- entrada fácil
+- escalable
 
-**Cons**
-- needs traffic
-
----
-
-### 4. Match model to user
-
-Evaluate:
-- skill level
-- proof level
-- audience size
-- goals
-
-Then recommend:
-
-> Best model based on your situation
+**Contras**
+- necesita tráfico
 
 ---
 
-### 5. Define primary model
-Choose:
-- main revenue driver
+### 4. Ajusta el modelo al usuario
 
-Example:
-- DFY service for cash flow
-- productized program for scale
+Evalúa:
+- nivel de habilidad
+- nivel de pruebas
+- tamaño de audiencia
+- metas
+
+Después recomienda:
+
+> El mejor modelo según tu situación
 
 ---
 
-### 6. Define secondary model
-Support the main one:
+### 5. Define el modelo principal
+Elige:
+- el motor principal de ingresos
 
-- lead generation
+Ejemplo:
+- servicio DFY para el flujo de caja
+- programa productizado para escalar
+
+---
+
+### 6. Define el modelo secundario
+Apoya al principal:
+
+- generación de leads
 - upsell
-- entry point
+- punto de entrada
 
 ---
 
-### 7. Align with strengths
-Ensure:
-- plays to your skills
-- fits your energy
-- matches your lifestyle
+### 7. Alinea con tus fortalezas
+Asegura que:
+- aproveche tus habilidades
+- encaje con tu energía
+- calce con tu estilo de vida
 
 ---
 
-### 8. Plan evolution path
-Define stages:
+### 8. Planea la ruta de evolución
+Define las etapas:
 
-Example:
-- service → productized service → product → ecosystem
-
----
-
-### 9. Identify risks
-Highlight:
-- scaling limits
-- dependency risks
-- skill gaps
+Ejemplo:
+- servicio → servicio productizado → producto → ecosistema
 
 ---
 
-### 10. Suggest next actions
-Give:
-- immediate steps
-- simple plan to start
+### 9. Identifica los riesgos
+Destaca:
+- límites de escalado
+- riesgos de dependencia
+- brechas de habilidad
 
 ---
 
-## Output Format
+### 10. Sugiere próximas acciones
+Da:
+- pasos inmediatos
+- un plan simple para empezar
+
+---
+
+## Formato de salida
 
 ```md
 # BUSINESS_MODEL.md
 
-## 1. Profile
-- Skills:
-- Assets:
-- Constraints:
-- Goals:
+## 1. Perfil
+- Habilidades:
+- Activos:
+- Restricciones:
+- Metas:
 
 ---
 
-## 2. Current Stage
-- Beginner / Intermediate / Advanced
+## 2. Etapa actual
+- Principiante / Intermedio / Avanzado
 
 ---
 
-## 3. Model Evaluation
+## 3. Evaluación de modelos
 
-### Service (DFY)
-- Fit:
+### Servicio (DFY)
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### Productized Service (DWY)
-- Fit:
+### Servicio productizado (DWY)
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### Digital Product (DIY)
-- Fit:
+### Producto digital (DIY)
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### Hybrid
-- Fit:
+### Híbrido
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### Subscription
-- Fit:
+### Suscripción
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### High-Ticket
-- Fit:
+### High-ticket
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
-### Low-Ticket
-- Fit:
+### Low-ticket
+- Encaje:
 - Pros:
-- Cons:
+- Contras:
 
 ---
 
-## 4. Recommended Model
-- Primary model:
-- Why:
+## 4. Modelo recomendado
+- Modelo principal:
+- Por qué:
 
 ---
 
-## 5. Secondary Model
-- Supporting model:
-- Role:
+## 5. Modelo secundario
+- Modelo de apoyo:
+- Rol:
 
 ---
 
-## 6. Business Structure
-- How everything connects
+## 6. Estructura del negocio
+- Cómo se conecta todo
 
 ---
 
-## 7. Growth Path
-- Stage 1:
-- Stage 2:
-- Stage 3:
+## 7. Ruta de crecimiento
+- Etapa 1:
+- Etapa 2:
+- Etapa 3:
 
 ---
 
-## 8. Risks
-- Key risks:
-- How to mitigate:
+## 8. Riesgos
+- Riesgos clave:
+- Cómo mitigarlos:
 
 ---
 
-## 9. Next Actions
-- Step 1
-- Step 2
-- Step 3
+## 9. Próximas acciones
+- Paso 1
+- Paso 2
+- Paso 3
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Choose service when:
-	•	you need cash fast
-	•	you have skill but no proof
-	•	no audience yet
+Elige servicio cuando:
+	•	necesitas efectivo rápido
+	•	tienes habilidad pero no pruebas
+	•	todavía no hay audiencia
 
-Choose productized service when:
-	•	you have repeatable results
-	•	you want leverage
+Elige servicio productizado cuando:
+	•	tienes resultados repetibles
+	•	quieres apalancamiento
 
-Choose product when:
-	•	you have audience or demand
-	•	you want scale
+Elige producto cuando:
+	•	tienes audiencia o demanda
+	•	quieres escala
 
-Choose hybrid when:
-	•	you want both income and scale
+Elige híbrido cuando:
+	•	quieres ingresos y escala a la vez
 
-Choose subscription when:
-	•	ongoing value exists
-	•	retention is possible
-
-⸻
-
-Style Guidelines
-	•	simple thinking
-	•	practical choices
-	•	no overcomplication
-	•	focus on what works now
+Elige suscripción cuando:
+	•	existe valor continuo
+	•	la retención es posible
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	pensamiento simple
+	•	elecciones prácticas
+	•	sin complicaciones de más
+	•	foco en lo que funciona ahora
 
-The skill works when:
-	•	model fits the user
-	•	income path is clear
-	•	scaling path exists
-	•	complexity is reduced
-	•	execution feels doable
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	el modelo encaja con el usuario
+	•	el camino a los ingresos es claro
+	•	existe un camino de escalado
+	•	se reduce la complejidad
+	•	la ejecución se siente factible
 

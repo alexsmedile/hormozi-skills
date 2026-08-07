@@ -1,356 +1,356 @@
 ---
 name: hormozi-pitch
-description: Turn an offer into a compelling Hormozi-style pitch ready for launch or sales. Use when creating a new pitch, improving a weak offer, or preparing for a launch. Builds value stack, guarantee options, scarcity and urgency elements, objection handling, offer name variations, and short/medium/long pitch versions — outputs PITCH.md.
+description: Convierte una oferta en un pitch convincente al estilo Hormozi, listo para el lanzamiento o la venta. Úsala al crear un pitch nuevo, al mejorar una oferta débil o al preparar un lanzamiento. Construye el stack de valor, opciones de garantía, elementos de escasez y urgencia, manejo de objeciones, variaciones de nombre para la oferta y versiones corta/media/larga del pitch — produce PITCH.md.
 ---
 
-# Skill: Build a Hormozi-Style Pitch
+# Skill: construye un pitch al estilo Hormozi
 
-## Purpose
-Turn an idea, product, service, or existing offer into a clear, compelling pitch that feels easy to say yes to.
+## Propósito
+Convierte una idea, producto, servicio u oferta existente en un pitch claro y convincente al que sea fácil decirle que sí.
 
-This skill focuses on:
-- sharpening the value proposition
-- increasing perceived value
-- reducing friction and risk
-- structuring the offer so it feels obvious to buy
-- producing a ready-to-use pitch
-
----
-
-## When to Use
-Activate this skill when the user wants to:
-- create a new offer pitch
-- improve a weak or unclear offer
-- increase conversions
-- structure pricing and guarantees
-- make an offer feel more valuable
-- prepare for launch or sales
+Esta skill se enfoca en:
+- afilar la propuesta de valor
+- aumentar el valor percibido
+- reducir la fricción y el riesgo
+- estructurar la oferta para que comprarla se sienta obvio
+- producir un pitch listo para usar
 
 ---
 
-## Inputs
-The skill can start from:
-- a raw idea
-- a rough offer
-- an existing product or service
-- an `OFFER.md` document
-- a sales page draft
-- a short description like “I sell X to Y”
+## Cuándo usarla
+Activa esta skill cuando el usuario quiera:
+- crear el pitch de una oferta nueva
+- mejorar una oferta débil o poco clara
+- aumentar las conversiones
+- estructurar precios y garantías
+- hacer que una oferta se sienta más valiosa
+- prepararse para el lanzamiento o la venta
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a strong offer name
-- a clear value proposition
-- a structured value stack
-- pricing logic
-- a guarantee
-- urgency and scarcity elements
-- objection handling
-- a complete pitch (short + long version)
+## Entradas
+La skill puede partir de:
+- una idea en bruto
+- una oferta en borrador
+- un producto o servicio existente
+- un documento `OFFER.md`
+- un borrador de página de ventas
+- una descripción corta como “Vendo X a Y”
 
 ---
 
-## Assistant Behavior
-
-### 1. Understand the offer first
-Extract:
-- who the offer is for
-- what result it promises
-- how it is delivered
-- current price (if any)
-- what feels weak, vague, or generic
-
-Reflect back in simple terms.
-
-Example:
-> You’re helping X get Y result through Z format.  
-> The outcome is still a bit broad, and the value isn’t fully clear yet.
+## Resultado principal
+El asistente produce:
+- un nombre de oferta fuerte
+- una propuesta de valor clara
+- un stack de valor estructurado
+- una lógica de precios
+- una garantía
+- elementos de urgencia y escasez
+- manejo de objeciones
+- un pitch completo (versión corta + larga)
 
 ---
 
-### 2. Ask clarifying questions (only if needed)
-Focus on gaps:
+## Comportamiento del asistente
 
-#### Customer & Outcome
-- What result matters most to your customer?
-- What makes them act now?
-- What does success look like in real life?
+### 1. Primero entiende la oferta
+Extrae:
+- para quién es la oferta
+- qué resultado promete
+- cómo se entrega
+- precio actual (si hay)
+- qué se siente débil, vago o genérico
 
-#### Proof & Trust
-- Do you have results, testimonials, or case studies?
-- What makes you credible for this?
+Devuélvelo en términos simples.
 
-#### Offer Mechanics
-- What exactly do they get?
-- How fast can they see a result?
-- What support do they receive?
-
-#### Constraints
-- Price range?
-- Platform (Instagram, calls, email, landing page)?
+Ejemplo:
+> Estás ayudando a X a lograr el resultado Y a través del formato Z.  
+> El resultado todavía es un poco amplio y el valor aún no queda del todo claro.
 
 ---
 
-### 3. Diagnose using the Value Equation
-Use Alex Hormozi’s Value Equation framework:
+### 2. Haz preguntas aclaratorias (solo si hace falta)
+Enfócate en las brechas:
 
-Value = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort & Sacrifice)
+#### Cliente y resultado
+- ¿Qué resultado le importa más a tu cliente?
+- ¿Qué lo hace actuar ahora?
+- ¿Cómo se ve el éxito en la vida real?
 
-Break the offer into 4 parts:
+#### Pruebas y confianza
+- ¿Tienes resultados, testimonios o casos de éxito?
+- ¿Qué te hace creíble para esto?
 
-#### Dream Outcome
-- Is it clear?
-- Is it specific?
-- Is it desirable?
+#### Mecánica de la oferta
+- ¿Qué reciben exactamente?
+- ¿Qué tan rápido pueden ver un resultado?
+- ¿Qué soporte reciben?
 
-#### Perceived Likelihood
-- Why should they believe this will work?
-- Is proof visible?
-- Is the path clear?
-
-#### Time Delay
-- How fast do they get a win?
-- Can this be shortened?
-
-#### Effort & Sacrifice
-- How hard does it feel?
-- Can steps be removed, simplified, or done for them?
-
-Then explain where the offer is weak and how to improve it.
+#### Restricciones
+- ¿Rango de precios?
+- ¿Plataforma (Instagram, llamadas, email, landing page)?
 
 ---
 
-### 4. Improve the offer before pitching
-Suggest upgrades:
+### 3. Diagnostica con la Ecuación de Valor
+Usa el framework de la Ecuación de Valor de Alex Hormozi:
 
-- make outcome more specific
-- reduce time to first result
-- add proof mechanisms
-- simplify delivery
-- remove friction
-- increase perceived ease
+Valor = (Resultado Soñado × Probabilidad Percibida) / (Demora × Esfuerzo y Sacrificio)
 
-If needed, propose:
-- different format (DFY, DWY, DIY)
-- different price positioning
-- different scope
+Divide la oferta en 4 partes:
 
----
+#### Resultado soñado
+- ¿Es claro?
+- ¿Es específico?
+- ¿Es deseable?
 
-### 5. Build the Value Stack
-List all components:
+#### Probabilidad percibida
+- ¿Por qué deberían creer que esto va a funcionar?
+- ¿Las pruebas están a la vista?
+- ¿El camino es claro?
 
-For each:
-- name
-- what it does
-- why it matters
-- perceived value
+#### Demora
+- ¿Qué tan rápido consiguen una victoria?
+- ¿Se puede acortar?
 
-Then:
-- separate core offer vs bonuses
-- stack bonuses in logical order
-- calculate total value
-- compare with actual price
+#### Esfuerzo y sacrificio
+- ¿Qué tan difícil se siente?
+- ¿Se pueden eliminar pasos, simplificarlos o hacerlos por ellos?
 
-Goal: create a strong gap between value and price.
+Después explica dónde la oferta es débil y cómo mejorarla.
 
 ---
 
-### 6. Design the Guarantee
-Generate 3–4 options:
+### 4. Mejora la oferta antes del pitch
+Sugiere mejoras:
 
-- unconditional (money-back)
-- conditional (action-based)
-- outcome-based (results-tied)
-- anti-risk (you keep helping until result)
+- hacer el resultado más específico
+- reducir el tiempo hasta el primer resultado
+- agregar mecanismos de prueba
+- simplificar la entrega
+- eliminar fricción
+- aumentar la facilidad percibida
 
-For each:
-- give it a name
-- write exact wording
-- explain risk level
-
-Then recommend the best one based on:
-- price
-- complexity
-- trust level
+Si hace falta, propón:
+- otro formato (DFY, DWY, DIY)
+- otro posicionamiento de precio
+- otro alcance
 
 ---
 
-### 7. Add Scarcity & Urgency
-Only if it fits.
+### 5. Construye el stack de valor
+Lista todos los componentes:
 
-Options:
-- limited spots
-- limited time
-- fast-action bonuses
-- deadline pricing
-- cohort start date
+Para cada uno:
+- nombre
+- qué hace
+- por qué importa
+- valor percibido
 
-Explain why the constraint exists. Avoid fake scarcity.
+Después:
+- separa la oferta principal de los bonos
+- apila los bonos en orden lógico
+- calcula el valor total
+- compara con el precio real
 
----
-
-### 8. Handle Objections
-List main objections:
-- “Will this work for me?”
-- “Is it worth the price?”
-- “Do I have time?”
-- “What if it doesn’t work?”
-
-Then write short responses that:
-- reduce doubt
-- increase clarity
-- reinforce value
+Meta: crear una brecha fuerte entre el valor y el precio.
 
 ---
 
-### 9. Create the Offer Name
-Use the MAGIC format:
+### 6. Diseña la garantía
+Genera 3–4 opciones:
 
-- Make it about them
-- Announce the avatar
-- Give a goal
-- Indicate a time frame
-- Add a container word
+- incondicional (devolución del dinero)
+- condicional (basada en acciones)
+- basada en resultados (atada al resultado)
+- antirriesgo (sigues ayudando hasta el resultado)
 
-Generate 5–10 variations.
+Para cada una:
+- dale un nombre
+- escribe el texto exacto
+- explica el nivel de riesgo
+
+Después recomienda la mejor según:
+- precio
+- complejidad
+- nivel de confianza
 
 ---
 
-### 10. Write the Pitch
+### 7. Agrega escasez y urgencia
+Solo si encaja.
 
-#### Short Version (for ads, bios, hooks)
-- 1–2 lines
-- clear outcome
-- specific audience
-- time or mechanism
+Opciones:
+- cupos limitados
+- tiempo limitado
+- bonos por acción rápida
+- precio con fecha límite
+- fecha de inicio de la cohorte
 
-#### Medium Version (for landing page)
-- problem
-- promise
-- what they get
-- why it works
+Explica por qué existe la restricción. Evita la escasez falsa.
+
+---
+
+### 8. Maneja las objeciones
+Lista las objeciones principales:
+- “¿Esto va a funcionar para mí?”
+- “¿Vale lo que cuesta?”
+- “¿Tengo tiempo?”
+- “¿Y si no funciona?”
+
+Después escribe respuestas cortas que:
+- reduzcan la duda
+- aumenten la claridad
+- refuercen el valor
+
+---
+
+### 9. Crea el nombre de la oferta
+Usa el formato MAGIC:
+
+- Make it about them — hazlo sobre el cliente
+- Announce the avatar — nombra al avatar
+- Give a goal — da una meta clara
+- Indicate a time frame — indica un plazo
+- Add a container word — palabra contenedora
+
+Genera 5–10 variaciones.
+
+---
+
+### 10. Escribe el pitch
+
+#### Versión corta (para anuncios, bios, hooks)
+- 1–2 líneas
+- resultado claro
+- audiencia específica
+- tiempo o mecanismo
+
+#### Versión media (para landing page)
+- problema
+- promesa
+- qué reciben
+- por qué funciona
 - CTA
 
-#### Long Version (full pitch)
-- callout to audience
-- pain amplification
-- desired outcome
-- solution explanation
-- value stack
-- price vs value contrast
-- guarantee
-- urgency
+#### Versión larga (pitch completo)
+- callout a la audiencia
+- amplificación del dolor
+- resultado deseado
+- explicación de la solución
+- stack de valor
+- contraste precio vs valor
+- garantía
+- urgencia
 - CTA
 
 ---
 
-## Output Format
+## Formato de salida
 
 ```md
 # PITCH.md
 
-## 1. Offer Summary
-- Who it’s for
-- What it helps them achieve
-- How it works
+## 1. Resumen de la oferta
+- Para quién es
+- Qué les ayuda a lograr
+- Cómo funciona
 
-## 2. Value Equation Breakdown
-- Dream Outcome
-- Perceived Likelihood
-- Time Delay
-- Effort & Sacrifice
-- Key improvements made
+## 2. Desglose de la Ecuación de Valor
+- Resultado soñado
+- Probabilidad percibida
+- Demora
+- Esfuerzo y sacrificio
+- Mejoras clave realizadas
 
-## 3. Offer Name Options
-- Name 1
-- Name 2
-- Name 3
+## 3. Opciones de nombre para la oferta
+- Nombre 1
+- Nombre 2
+- Nombre 3
 
-## 4. Core Offer
-- What’s included
-- Format
-- Delivery
+## 4. Oferta principal
+- Qué incluye
+- Formato
+- Entrega
 
-## 5. Bonus Stack
-- Bonus
-- Purpose
-- Value
+## 5. Stack de bonos
+- Bono
+- Propósito
+- Valor
 
-## 6. Value Stack
-- Total value
-- Price
-- Price justification
+## 6. Stack de valor
+- Valor total
+- Precio
+- Justificación del precio
 
-## 7. Guarantee
-- Option 1
-- Option 2
-- Option 3
-- Recommended guarantee
+## 7. Garantía
+- Opción 1
+- Opción 2
+- Opción 3
+- Garantía recomendada
 
-## 8. Scarcity & Urgency
-- Mechanism
-- Reason
+## 8. Escasez y urgencia
+- Mecanismo
+- Motivo
 
-## 9. Objection Handling
-- Objection → Response
+## 9. Manejo de objeciones
+- Objeción → Respuesta
 
 ## 10. Pitch
 
-### Short Version
+### Versión corta
 ...
 
-### Medium Version
+### Versión media
 ...
 
-### Long Version
+### Versión larga
 ...
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Strengthen outcome when:
-	•	it sounds vague
-	•	it’s not measurable
-	•	it lacks urgency
+Fortalece el resultado cuando:
+	•	suena vago
+	•	no es medible
+	•	le falta urgencia
 
-Increase belief when:
-	•	there is no proof
-	•	the claim feels too big
-	•	the path is unclear
+Aumenta la creencia cuando:
+	•	no hay pruebas
+	•	la promesa se siente demasiado grande
+	•	el camino no es claro
 
-Reduce friction when:
-	•	the process feels complex
-	•	too much effort is required
-	•	the user must figure things out alone
+Reduce la fricción cuando:
+	•	el proceso se siente complejo
+	•	se requiere demasiado esfuerzo
+	•	el usuario tiene que resolver las cosas solo
 
-Add value when:
-	•	price feels high vs clarity
-	•	offer feels empty
-	•	differentiation is weak
-
-⸻
-
-Style Guidelines
-	•	clear and direct
-	•	specific outcomes
-	•	simple language
-	•	no hype tone
-	•	no vague claims
-	•	always grounded in what the buyer wants
+Agrega valor cuando:
+	•	el precio se siente alto frente a la claridad
+	•	la oferta se siente vacía
+	•	la diferenciación es débil
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	claro y directo
+	•	resultados específicos
+	•	lenguaje simple
+	•	sin tono de hype
+	•	sin promesas vagas
+	•	siempre anclado en lo que quiere el comprador
 
-The pitch works when:
-	•	the outcome is clear in seconds
-	•	the buyer feels understood
-	•	the value feels higher than the price
-	•	risk feels low
-	•	objections are already answered
-	•	the next step feels easy
+⸻
+
+Criterios de éxito
+
+El pitch funciona cuando:
+	•	el resultado queda claro en segundos
+	•	el comprador se siente entendido
+	•	el valor se siente más alto que el precio
+	•	el riesgo se siente bajo
+	•	las objeciones ya están respondidas
+	•	el siguiente paso se siente fácil

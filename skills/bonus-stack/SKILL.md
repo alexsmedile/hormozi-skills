@@ -1,300 +1,300 @@
 ---
 name: bonus-stack
-description: Design a bonus stack that kills objections and increases perceived value. Use when the offer feels weak, price resistance is high, or conversions are low. Maps objections to bonus solutions, assigns delivery formats and perceived values, and outputs a structured bonus stack.
+description: Diseña un stack de bonos que elimina objeciones y aumenta el valor percibido. Úsala cuando la oferta se siente débil, la resistencia al precio es alta o las conversiones son bajas. Mapea las objeciones a soluciones en forma de bonos, asigna formatos de entrega y valores percibidos, y entrega un stack de bonos estructurado.
 ---
 
-# Skill: Bonus Stack Generator (Objection Killer)
+# Skill: Generador de stack de bonos (Mataobjeciones)
 
-## Purpose
-Design bonuses that increase perceived value and remove reasons to say no.
+## Propósito
+Diseña bonos que aumentan el valor percibido y eliminan razones para decir que no.
 
-This skill:
-- turns objections into assets
-- increases value without heavy cost
-- makes the offer feel complete
-- strengthens the value stack
+Esta skill:
+- convierte las objeciones en activos
+- aumenta el valor sin un costo alto
+- hace que la oferta se sienta completa
+- fortalece el stack de valor
 
-Goal: make the buyer think  
-“I’d be stupid not to take this”
-
----
-
-## When to Use
-Activate this skill when:
-- the offer feels weak or empty
-- price resistance is high
-- objections are blocking sales
-- you want to increase perceived value
-- you need differentiation
-- conversion rates are low
+Meta: que el comprador piense  
+“Sería un tonto si no me llevo esto”
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a product or service
-- a value stack
-- known objections (or inferred ones)
-- target audience
+## Cuándo usarla
+Activa esta skill cuando:
+- la oferta se siente débil o vacía
+- la resistencia al precio es alta
+- las objeciones están frenando las ventas
+- quieres aumentar el valor percibido
+- necesitas diferenciación
+- las tasas de conversión son bajas
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a list of high-value bonuses
-- bonuses tied directly to objections
-- clear bonus descriptions
-- delivery formats
-- perceived value for each bonus
-- a structured bonus stack
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- un producto o servicio
+- un stack de valor
+- objeciones conocidas (o inferidas)
+- la audiencia objetivo
 
 ---
 
-## Assistant Behavior
-
-### 1. Identify key objections
-List the main reasons someone would not buy:
-
-Common objections:
-- “I don’t have time”
-- “This won’t work for me”
-- “It’s too complicated”
-- “I don’t have enough experience”
-- “It’s too expensive”
-- “I might fail”
-- “I don’t trust this”
-
-If not provided, infer based on:
-- audience
-- offer type
-- price point
+## Resultado principal
+El asistente produce:
+- una lista de bonos de alto valor
+- bonos atados directamente a objeciones
+- descripciones claras de los bonos
+- formatos de entrega
+- el valor percibido de cada bono
+- un stack de bonos estructurado
 
 ---
 
-### 2. Map objections to solutions
-For each objection, define:
+## Comportamiento del asistente
 
-Objection → What removes it
+### 1. Identifica las objeciones clave
+Lista las razones principales por las que alguien no compraría:
 
-Example:
-- “I don’t have time” → reduce effort or speed up process
-- “I don’t know how” → provide guidance or templates
-- “I might fail” → add support or guarantee
+Objeciones comunes:
+- “No tengo tiempo”
+- “Esto no va a funcionar para mí”
+- “Es demasiado complicado”
+- “No tengo suficiente experiencia”
+- “Es demasiado caro”
+- “Puede que fracase”
+- “No confío en esto”
 
----
-
-### 3. Turn solutions into bonuses
-Convert each solution into a tangible asset.
-
-Format:
-- clear name
-- specific outcome
-- delivery format
-
-Examples:
-- “Done-For-You Setup Pack”
-- “Step-by-Step Execution Checklist”
-- “Plug-and-Play Templates”
-- “Live Audit Session”
-- “Private Support Channel”
+Si no las dan, infiérelas a partir de:
+- la audiencia
+- el tipo de oferta
+- el punto de precio
 
 ---
 
-### 4. Maximize perceived value
-For each bonus:
-- make it feel specific
-- give it a clear result
-- name it clearly
-- avoid generic labels like “extra content”
+### 2. Mapea las objeciones a soluciones
+Para cada objeción, define:
 
-Bad:
-- “Bonus videos”
+Objeción → Qué la elimina
 
-Good:
-- “30-Minute Client Acquisition Script Library”
+Ejemplo:
+- “No tengo tiempo” → reduce el esfuerzo o acelera el proceso
+- “No sé cómo” → da guía o plantillas
+- “Puede que fracase” → agrega soporte o garantía
 
 ---
 
-### 5. Choose delivery formats
-Assign formats that feel valuable:
+### 3. Convierte las soluciones en bonos
+Convierte cada solución en un recurso tangible.
 
-Options:
-- templates
+Formato:
+- nombre claro
+- resultado específico
+- formato de entrega
+
+Ejemplos:
+- “Pack de configuración done-for-you”
+- “Checklist de ejecución paso a paso”
+- “Plantillas plug-and-play”
+- “Sesión de auditoría en vivo”
+- “Canal privado de soporte”
+
+---
+
+### 4. Maximiza el valor percibido
+Para cada bono:
+- haz que se sienta específico
+- dale un resultado claro
+- nómbralo con claridad
+- evita etiquetas genéricas como “contenido extra”
+
+Mal:
+- “Videos de bono”
+
+Bien:
+- “Biblioteca de scripts de captación de clientes en 30 minutos”
+
+---
+
+### 5. Elige los formatos de entrega
+Asigna formatos que se sientan valiosos:
+
+Opciones:
+- plantillas
 - checklists
 - swipe files
-- audits
-- live calls
-- async support
-- community access
+- auditorías
+- llamadas en vivo
+- soporte asíncrono
+- acceso a la comunidad
 - dashboards
-- tools
+- herramientas
 
-Prefer:
-- low cost to deliver
-- high perceived value
-
----
-
-### 6. Stack bonuses strategically
-Order matters.
-
-Structure:
-1. biggest objection first
-2. highest perceived value early
-3. logical progression
-4. variety in format
+Prefiere:
+- costo bajo de entrega
+- valor percibido alto
 
 ---
 
-### 7. Assign value to each bonus
-Estimate perceived value:
+### 6. Apila los bonos con estrategia
+El orden importa.
 
-- based on outcome
-- based on time saved
-- based on difficulty
-
-Then:
-- show total bonus value
-- compare to price
+Estructura:
+1. la objeción más grande primero
+2. el mayor valor percibido al principio
+3. progresión lógica
+4. variedad de formatos
 
 ---
 
-### 8. Avoid overloading
-Too many bonuses reduce clarity.
+### 7. Asigna un valor a cada bono
+Estima el valor percibido:
 
-Rules:
-- keep only high-impact bonuses
-- remove low-value items
-- focus on relevance
+- según el resultado
+- según el tiempo ahorrado
+- según la dificultad
 
----
-
-### 9. Align bonuses with core offer
-Ensure:
-- bonuses support the main outcome
-- bonuses remove friction
-- bonuses speed up results
-- bonuses reduce effort
+Después:
+- muestra el valor total de los bonos
+- compáralo con el precio
 
 ---
 
-### 10. Suggest “fast action” bonuses (optional)
-Add urgency if needed:
+### 8. Evita la sobrecarga
+Demasiados bonos reducen la claridad.
 
-- limited-time bonuses
-- early-buyer rewards
-- deadline-based extras
+Reglas:
+- conserva solo los bonos de alto impacto
+- elimina los elementos de bajo valor
+- concéntrate en la relevancia
 
 ---
 
-## Output Format
+### 9. Alinea los bonos con la oferta principal
+Asegura que:
+- los bonos respalden el resultado principal
+- los bonos eliminen fricción
+- los bonos aceleren los resultados
+- los bonos reduzcan el esfuerzo
+
+---
+
+### 10. Sugiere bonos por “acción rápida” (opcional)
+Agrega urgencia si hace falta:
+
+- bonos por tiempo limitado
+- recompensas para quienes compran primero
+- extras atados a una fecha límite
+
+---
+
+## Formato de salida
 
 ```md
 # BONUS_STACK.md
 
-## 1. Core Offer Summary
-- What the offer does
-- Who it’s for
+## 1. Resumen de la oferta principal
+- Qué hace la oferta
+- Para quién es
 
-## 2. Key Objections
-1. Objection
-2. Objection
-3. Objection
+## 2. Objeciones clave
+1. Objeción
+2. Objeción
+3. Objeción
 
-## 3. Objection → Bonus Mapping
-- Objection → Bonus idea
+## 3. Mapeo objeción → bono
+- Objeción → Idea de bono
 
-## 4. Bonus Stack
+## 4. Stack de bonos
 
-### Bonus 1
-- Name
-- What it does
-- Outcome
-- Format
-- Value
+### Bono 1
+- Nombre
+- Qué hace
+- Resultado
+- Formato
+- Valor
 
-### Bonus 2
-- Name
-- What it does
-- Outcome
-- Format
-- Value
+### Bono 2
+- Nombre
+- Qué hace
+- Resultado
+- Formato
+- Valor
 
-### Bonus 3
-- Name
-- What it does
-- Outcome
-- Format
-- Value
+### Bono 3
+- Nombre
+- Qué hace
+- Resultado
+- Formato
+- Valor
 
-## 5. Total Bonus Value
-- Sum of all bonuses
+## 5. Valor total de los bonos
+- Suma de todos los bonos
 
-## 6. Stack Strategy
-- Why this order
-- What objections are removed
+## 6. Estrategia del stack
+- Por qué este orden
+- Qué objeciones se eliminan
 
-## 7. Optional Fast Action Bonuses
-- Bonus
-- Condition (time/limit)
+## 7. Bonos opcionales por acción rápida
+- Bono
+- Condición (tiempo/límite)
 
-## 8. Final Notes
-- What was removed
-- Why this stack works
+## 8. Notas finales
+- Qué se eliminó
+- Por qué funciona este stack
 ```
 
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Add a bonus when:
-	•	it removes a clear objection
-	•	it increases speed or ease
-	•	it improves perceived value
+Agrega un bono cuando:
+	•	elimina una objeción clara
+	•	aumenta la velocidad o la facilidad
+	•	mejora el valor percibido
 
-Avoid a bonus when:
-	•	it adds confusion
-	•	it’s low value
-	•	it doesn’t support the outcome
+Evita un bono cuando:
+	•	agrega confusión
+	•	es de bajo valor
+	•	no respalda el resultado
 
-Prioritize bonuses that:
-	•	save time
-	•	reduce effort
-	•	increase certainty
-	•	simplify execution
+Prioriza los bonos que:
+	•	ahorran tiempo
+	•	reducen el esfuerzo
+	•	aumentan la certeza
+	•	simplifican la ejecución
 
 ⸻
 
-Before vs After Example
+Ejemplo de antes vs después
 
-Before
-	•	core product only
+Antes
+	•	solo el producto principal
 
-After
-	•	core product
-	•		•	templates
+Después
+	•	producto principal
+	•		•	plantillas
 	•		•	checklist
-	•		•	audit
-	•		•	support
+	•		•	auditoría
+	•		•	soporte
 
 ⸻
 
-Style Guidelines
-	•	be specific
-	•	focus on outcomes
-	•	avoid generic names
-	•	keep it clean
-	•	prioritize value over quantity
+Guía de estilo
+	•	sé específico
+	•	concéntrate en los resultados
+	•	evita los nombres genéricos
+	•	mantenlo limpio
+	•	prioriza el valor sobre la cantidad
 
 ⸻
 
-Success Criteria
+Criterios de éxito
 
-The skill works when:
-	•	objections are neutralized
-	•	value feels higher than price
-	•	the offer feels complete
-	•	the buyer has fewer doubts
-	•	conversions increase
+La skill funciona cuando:
+	•	las objeciones quedan neutralizadas
+	•	el valor se siente mayor que el precio
+	•	la oferta se siente completa
+	•	el comprador tiene menos dudas
+	•	aumentan las conversiones

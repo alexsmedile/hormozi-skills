@@ -1,300 +1,300 @@
 ---
 name: objection-destroyer
-description: Turn objections into reasons to buy by shifting beliefs instead of pushing harder. Use when people hesitate, conversions are lower than expected, or the offer is strong but not selling. Uncovers surface and hidden objections, maps belief shifts, attaches proof, and generates reusable DM-ready responses — outputs OBJECTIONS.md.
+description: Convierte las objeciones en razones para comprar cambiando creencias en vez de presionar más. Úsala cuando la gente duda, las conversiones son más bajas de lo esperado o la oferta es fuerte pero no vende. Descubre objeciones superficiales y ocultas, mapea cambios de creencia, adjunta pruebas y genera respuestas reutilizables listas para DM — produce OBJECTIONS.md.
 ---
 
-# Skill: Objection Destroyer (Belief Shift Engine)
+# Skill: Destructor de objeciones (Motor de Cambio de Creencias)
 
-## Purpose
-Turn objections into reasons to buy.
+## Propósito
+Convierte las objeciones en razones para comprar.
 
-This skill:
-- uncovers hidden resistance
-- translates doubt into clarity
-- shifts beliefs instead of pushing harder
-- increases trust and conversions
+Esta skill:
+- descubre la resistencia oculta
+- traduce la duda en claridad
+- cambia creencias en vez de presionar más
+- aumenta la confianza y las conversiones
 
-Goal: remove every internal “no” before it appears.
-
----
-
-## When to Use
-Activate this skill when:
-- people hesitate but don’t say why
-- conversions are lower than expected
-- buyers say “I’ll think about it”
-- the offer is strong but still not selling
-- objections repeat in DMs or calls
-- trust feels low
+Meta: eliminar cada “no” interno antes de que aparezca.
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a pitch or sales page
-- customer feedback
-- sales call notes
-- known objections (or none → infer them)
+## Cuándo usarla
+Activa esta skill cuando:
+- la gente duda pero no dice por qué
+- las conversiones son más bajas de lo esperado
+- los compradores dicen “lo voy a pensar”
+- la oferta es fuerte pero aun así no vende
+- las objeciones se repiten en los DMs o en las llamadas
+- la confianza se siente baja
 
 ---
 
-## Core Outcome
-The assistant produces:
-- a list of visible and hidden objections
-- the belief behind each objection
-- a reframed belief (belief shift)
-- proof or mechanism to support the new belief
-- objection-handling statements ready to use
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- un pitch o una página de ventas
+- comentarios de clientes
+- notas de llamadas de ventas
+- objeciones conocidas (o ninguna → dedúcelas)
 
 ---
 
-## Assistant Behavior
-
-### 1. Identify surface objections
-List obvious objections:
-
-Common:
-- “It’s too expensive”
-- “I don’t have time”
-- “This won’t work for me”
-- “I need to think about it”
-- “I can do it myself”
+## Resultado principal
+El asistente produce:
+- una lista de objeciones visibles y ocultas
+- la creencia detrás de cada objeción
+- una creencia reencuadrada (cambio de creencia)
+- prueba o mecanismo que respalde la creencia nueva
+- frases para manejar objeciones listas para usar
 
 ---
 
-### 2. Uncover hidden objections
-Go deeper.
+## Comportamiento del asistente
 
-Each objection hides a belief.
+### 1. Identifica las objeciones superficiales
+Lista las objeciones obvias:
 
-Example:
-- “Too expensive” → “I’m not sure it’s worth it”
-- “No time” → “This will take too much effort”
-- “I’ll think about it” → “I don’t trust this yet”
-
-Map:
-Objection → Hidden belief
-
----
-
-### 3. Categorize objections
-Group into:
-
-#### Value
-- not worth the price
-
-#### Trust
-- won’t work
-- lacks proof
-
-#### Effort
-- too hard
-- too complex
-
-#### Time
-- takes too long
-
-#### Identity
-- “this is not for me”
-
-#### Risk
-- fear of failure or loss
+Comunes:
+- “Es demasiado caro”
+- “No tengo tiempo”
+- “Esto no me va a funcionar”
+- “Necesito pensarlo”
+- “Puedo hacerlo yo mismo”
 
 ---
 
-### 4. Create belief shifts
-Replace limiting beliefs with stronger ones.
+### 2. Descubre las objeciones ocultas
+Ve más profundo.
 
-Format:
-Old belief → New belief
+Cada objeción esconde una creencia.
 
-Example:
-- “This is risky” → “This is a safe, guided path”
-- “This takes too long” → “I can see results quickly”
+Ejemplo:
+- “Demasiado caro” → “No estoy seguro de que valga la pena”
+- “Sin tiempo” → “Esto va a llevar demasiado esfuerzo”
+- “Lo voy a pensar” → “Todavía no confío en esto”
 
-Rules:
-- simple
-- believable
-- grounded in reality
+Mapea:
+Objeción → Creencia oculta
 
 ---
 
-### 5. Attach proof to each belief
-A belief without proof fails.
+### 3. Categoriza las objeciones
+Agrupa en:
 
-Use:
-- testimonials
-- case studies
-- examples
-- logic
-- demonstration
-- mechanism explanation
+#### Valor
+- no vale el precio
 
-Format:
-Belief shift → Proof
+#### Confianza
+- no va a funcionar
+- falta prueba
 
----
+#### Esfuerzo
+- demasiado difícil
+- demasiado complejo
 
-### 6. Rewrite as selling points
-Turn objections into persuasive statements.
+#### Tiempo
+- toma demasiado tiempo
 
-Format:
-Objection → Reframe → Proof
+#### Identidad
+- “esto no es para mí”
 
-Example:
-- “I don’t have time”
-→ “This is designed to save you time”
-→ “Most users get their first result in under 30 minutes using the template”
+#### Riesgo
+- miedo al fracaso o a la pérdida
 
 ---
 
-### 7. Integrate into offer
-Place objection handling in:
-- sales page
-- pitch
-- content
-- FAQs
-- DMs
+### 4. Crea los cambios de creencia
+Reemplaza las creencias limitantes por otras más fuertes.
 
-Make it proactive, not reactive.
+Formato:
+Creencia vieja → Creencia nueva
 
----
+Ejemplo:
+- “Esto es riesgoso” → “Este es un camino seguro y guiado”
+- “Esto toma demasiado tiempo” → “Puedo ver resultados rápido”
 
-### 8. Strengthen weak areas
-If objections repeat, improve the offer:
-
-- add proof
-- simplify process
-- reduce effort
-- clarify outcome
-- improve guarantee
+Reglas:
+- simples
+- creíbles
+- ancladas en la realidad
 
 ---
 
-### 9. Prioritize key objections
-Focus on:
-- top 3–5 objections
-- highest impact on buying decision
+### 5. Adjunta pruebas a cada creencia
+Una creencia sin prueba falla.
 
-Avoid overloading.
+Usa:
+- testimonios
+- casos de éxito
+- ejemplos
+- lógica
+- demostración
+- explicación del mecanismo
+
+Formato:
+Cambio de creencia → Prueba
 
 ---
 
-### 10. Create reusable responses
-Generate:
-- short answers (DMs)
-- medium answers (landing page)
-- long explanations (sales page)
+### 6. Reescribe como argumentos de venta
+Convierte las objeciones en frases persuasivas.
+
+Formato:
+Objeción → Reencuadre → Prueba
+
+Ejemplo:
+- “No tengo tiempo”
+→ “Esto está diseñado para ahorrarte tiempo”
+→ “La mayoría de los usuarios obtiene su primer resultado en menos de 30 minutos usando la plantilla”
 
 ---
 
-## Output Format
+### 7. Intégralo en la oferta
+Coloca el manejo de objeciones en:
+- la página de ventas
+- el pitch
+- el contenido
+- las FAQ
+- los DMs
+
+Hazlo proactivo, no reactivo.
+
+---
+
+### 8. Refuerza las áreas débiles
+Si las objeciones se repiten, mejora la oferta:
+
+- agrega pruebas
+- simplifica el proceso
+- reduce el esfuerzo
+- aclara el resultado
+- mejora la garantía
+
+---
+
+### 9. Prioriza las objeciones clave
+Enfócate en:
+- las 3–5 objeciones principales
+- las de mayor impacto en la decisión de compra
+
+Evita sobrecargar.
+
+---
+
+### 10. Crea respuestas reutilizables
+Genera:
+- respuestas cortas (DMs)
+- respuestas medias (landing page)
+- explicaciones largas (página de ventas)
+
+---
+
+## Formato de salida
 
 ```md
 # OBJECTIONS.md
 
-## 1. Surface Objections
-1. Objection
-2. Objection
-3. Objection
+## 1. Objeciones superficiales
+1. Objeción
+2. Objeción
+3. Objeción
 
-## 2. Hidden Beliefs
-- Objection → Underlying belief
+## 2. Creencias ocultas
+- Objeción → Creencia subyacente
 
-## 3. Objection Categories
-- Value
-- Trust
-- Effort
-- Time
-- Identity
-- Risk
+## 3. Categorías de objeciones
+- Valor
+- Confianza
+- Esfuerzo
+- Tiempo
+- Identidad
+- Riesgo
 
-## 4. Belief Shifts
-- Old belief → New belief
+## 4. Cambios de creencia
+- Creencia vieja → Creencia nueva
 
-## 5. Proof Mapping
-- Belief shift → Proof
+## 5. Mapeo de pruebas
+- Cambio de creencia → Prueba
 
-## 6. Objection Handling Statements
+## 6. Frases para manejar objeciones
 
-### Objection 1
-- Objection:
-- Reframe:
-- Proof:
+### Objeción 1
+- Objeción:
+- Reencuadre:
+- Prueba:
 
-### Objection 2
-- Objection:
-- Reframe:
-- Proof:
+### Objeción 2
+- Objeción:
+- Reencuadre:
+- Prueba:
 
-### Objection 3
-- Objection:
-- Reframe:
-- Proof:
+### Objeción 3
+- Objeción:
+- Reencuadre:
+- Prueba:
 
-## 7. Top Objections to Address
-- Priority list
+## 7. Objeciones principales a atender
+- Lista de prioridades
 
-## 8. Integration Points
-- Where to use each response
+## 8. Puntos de integración
+- Dónde usar cada respuesta
 
-## 9. Offer Improvements Needed
-- What to fix in the offer
+## 9. Mejoras necesarias en la oferta
+- Qué corregir en la oferta
 
-## 10. Short Responses (DM-ready)
-- Quick replies
+## 10. Respuestas cortas (listas para DM)
+- Respuestas rápidas
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Go deeper when:
-	•	objections sound generic
-	•	users are vague
-	•	“I’ll think about it” appears often
+Ve más profundo cuando:
+	•	las objeciones suenan genéricas
+	•	los usuarios son vagos
+	•	“lo voy a pensar” aparece seguido
 
-Add proof when:
-	•	trust is low
-	•	claims feel strong
-	•	results seem uncertain
+Agrega pruebas cuando:
+	•	la confianza es baja
+	•	las promesas se sienten grandes
+	•	los resultados parecen inciertos
 
-Reframe when:
-	•	objection is emotional
-	•	logic alone is not enough
+Reencuadra cuando:
+	•	la objeción es emocional
+	•	la lógica sola no alcanza
 
-Fix the offer when:
-	•	objection is valid
-	•	friction is real
-	•	results are unclear
-
-⸻
-
-Before vs After Example
-
-Before
-	•	“It’s too expensive”
-
-After
-	•	“This replaces months of trial and error and helps you get your first result fast, which makes the investment small compared to the outcome”
+Corrige la oferta cuando:
+	•	la objeción es válida
+	•	la fricción es real
+	•	los resultados no son claros
 
 ⸻
 
-Style Guidelines
-	•	be clear and direct
-	•	avoid defensive tone
-	•	focus on belief, not argument
-	•	keep it simple
-	•	support claims with proof
+Ejemplo de antes vs después
+
+Antes
+	•	“Es demasiado caro”
+
+Después
+	•	“Esto reemplaza meses de prueba y error y te ayuda a conseguir tu primer resultado rápido, lo que vuelve pequeña la inversión frente al resultado”
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	sé claro y directo
+	•	evita el tono defensivo
+	•	enfócate en la creencia, no en la discusión
+	•	mantenlo simple
+	•	respalda las promesas con pruebas
 
-The skill works when:
-	•	objections are addressed before they arise
-	•	buyers feel understood
-	•	trust increases
-	•	hesitation decreases
-	•	conversions improve
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	las objeciones se atienden antes de que surjan
+	•	los compradores se sienten comprendidos
+	•	la confianza aumenta
+	•	la duda disminuye
+	•	las conversiones mejoran

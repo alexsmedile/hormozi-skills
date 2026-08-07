@@ -1,3 +1,12 @@
 {
-  "name": "hormozi-skills-es"
+  "name": "hormozi-skills-es",
+  "version": "1.0.0",
+  "description": "Framework de la Grand Slam Offer (oferta irresistible). Skills y agentes para investigación de mercado, construcción de ofertas, optimización de valor, precios, posicionamiento, hooks y copy de landing page — basado en la metodología de Alex Hormozi.",
+  "author": {
+    "name": "Alessandro Smedile"
+  },
+  "homepage": "https://github.com/JustinCast/hormozi-skills-es",
+  "repository": "https://github.com/JustinCast/hormozi-skills-es",
+  "license": "MIT",
+  "skills": "./skills/"
 }

@@ -1,442 +1,442 @@
 ---
 name: productize
-description: Turn services into scalable products and build an offer ladder with upsells and downsells. Use when income depends on time, you want leveraged or recurring revenue, or you want multiple price points. Covers service productization, offer ladder (entry/core/premium), and upsell/downsell design — outputs PRODUCTIZATION.md, OFFER_LADDER.md, REVENUE_FLOW.md.
+description: Convierte servicios en productos escalables y construye una escalera de ofertas con upsells y downsells. Úsala cuando tus ingresos dependen de tu tiempo, quieres ingresos apalancados o recurrentes, o quieres varios puntos de precio. Cubre la productización del servicio, la escalera de ofertas (entrada/principal/premium) y el diseño de upsell/downsell — produce PRODUCTIZATION.md, OFFER_LADDER.md, REVENUE_FLOW.md.
 ---
 
-# Skill: Productization & Scaling System (Hormozi-Style)
+# Skill: Sistema de productización y escalado (estilo Hormozi)
 
-## Purpose
-Turn skills and services into scalable offers, then organize them into a system that maximizes revenue per customer.
+## Propósito
+Convierte habilidades y servicios en ofertas escalables y después organízalas en un sistema que maximiza los ingresos por cliente.
 
-This skill:
-- transforms time-based work into leveraged products
-- builds an offer ecosystem (ladder)
-- increases lifetime value through upsells and downsells
+Esta skill:
+- transforma el trabajo basado en tiempo en productos apalancados
+- construye un ecosistema de ofertas (escalera)
+- aumenta el valor de vida del cliente con upsells y downsells
 
-Goal: make more money from the same customer with less effort over time.
-
----
-
-## When to Use
-Activate this skill when:
-- you sell services and want to scale
-- income depends on your time
-- you want recurring or leveraged revenue
-- you want multiple price points
-- you want to increase revenue per customer
+Meta: ganar más dinero del mismo cliente con menos esfuerzo con el tiempo.
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a service or consulting business
-- a program or course
-- an existing offer stack
-- target audience
+## Cuándo usarla
+Activa esta skill cuando:
+- vendes servicios y quieres escalar
+- tus ingresos dependen de tu tiempo
+- quieres ingresos recurrentes o apalancados
+- quieres varios puntos de precio
+- quieres aumentar los ingresos por cliente
 
 ---
 
-# PART 1: Service → Product Skill
-
-## Purpose
-Turn services into scalable, repeatable offers.
-
----
-
-## Core Idea
-Move from:
-- time-based → system-based
-- custom → standardized
-- manual → repeatable
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- un negocio de servicios o de consultoría
+- un programa o curso
+- un stack de ofertas existente
+- audiencia objetivo
 
 ---
 
-## Assistant Behavior
+# PARTE 1: Skill de servicio → producto
 
-### 1. Analyze current service
-Identify:
-- what is being done
-- how it is delivered
-- how much customization exists
-- where time is spent
+## Propósito
+Convierte servicios en ofertas escalables y repetibles.
 
 ---
 
-### 2. Extract repeatable components
-Find:
-- steps that repeat
-- frameworks used
-- templates already created
-- common problems solved
+## Idea central
+Pasa de:
+- basado en tiempo → basado en sistema
+- a medida → estandarizado
+- manual → repetible
 
 ---
 
-### 3. Standardize the process
-Turn:
-- custom work → defined steps
-- loose delivery → structured system
+## Comportamiento del asistente
 
-Example:
-- “I help clients grow” → “3-step growth system”
-
----
-
-### 4. Choose product format
-
-Options:
-
-#### Program (DWY)
-- structured guidance
-- calls + support
-- repeatable delivery
-
-#### Course (DIY)
-- self-paced
-- content-based
-- scalable
-
-#### Toolkit / Product
-- templates
-- systems
-- assets
+### 1. Analiza el servicio actual
+Identifica:
+- qué se está haciendo
+- cómo se entrega
+- cuánta personalización existe
+- en qué se va el tiempo
 
 ---
 
-### 5. Decide level of involvement
-Choose:
-- DIY → lowest involvement
-- DWY → medium involvement
-- DFY → highest involvement
+### 2. Extrae los componentes repetibles
+Encuentra:
+- los pasos que se repiten
+- los frameworks usados
+- las plantillas ya creadas
+- los problemas comunes resueltos
 
 ---
 
-### 6. Build productized version
+### 3. Estandariza el proceso
+Convierte:
+- trabajo a medida → pasos definidos
+- entrega suelta → sistema estructurado
+
+Ejemplo:
+- “Ayudo a los clientes a crecer” → “Sistema de crecimiento en 3 pasos”
+
+---
+
+### 4. Elige el formato del producto
+
+Opciones:
+
+#### Programa (DWY)
+- guía estructurada
+- llamadas + soporte
+- entrega repetible
+
+#### Curso (DIY)
+- a ritmo propio
+- basado en contenido
+- escalable
+
+#### Toolkit / Producto
+- plantillas
+- sistemas
+- recursos
+
+---
+
+### 5. Decide el nivel de involucramiento
+Elige:
+- DIY → el menor involucramiento
+- DWY → involucramiento medio
+- DFY → el mayor involucramiento
+
+---
+
+### 6. Construye la versión productizada
 Define:
-- clear outcome
-- step-by-step system
-- delivery format
-- support level
+- un resultado claro
+- un sistema paso a paso
+- el formato de entrega
+- el nivel de soporte
 
 ---
 
-### 7. Simplify and remove complexity
-Ensure:
-- fewer steps
-- clear path
-- easy onboarding
+### 7. Simplifica y elimina la complejidad
+Asegura:
+- menos pasos
+- un camino claro
+- un onboarding fácil
 
 ---
 
-## Output Format
+## Formato de salida
 
 ```md
 # PRODUCTIZATION.md
 
-## 1. Current Service
-- What is offered
-- How it is delivered
+## 1. Servicio actual
+- Qué se ofrece
+- Cómo se entrega
 
-## 2. Repeatable Components
-- Steps
+## 2. Componentes repetibles
+- Pasos
 - Frameworks
-- Templates
+- Plantillas
 
-## 3. Productized System
-- Name
-- Steps
-- Outcome
+## 3. Sistema productizado
+- Nombre
+- Pasos
+- Resultado
 
-## 4. Product Format
-- Type (course, program, toolkit)
+## 4. Formato del producto
+- Tipo (curso, programa, toolkit)
 
-## 5. Delivery Model
+## 5. Modelo de entrega
 - DIY / DWY / DFY
 
-## 6. Final Product Offer
-- Description
-- Structure
+## 6. Oferta de producto final
+- Descripción
+- Estructura
 ```
 
 ⸻
 
-PART 2: Offer Ladder Builder
+PARTE 2: Constructor de la escalera de ofertas
 
-Purpose
+Propósito
 
-Create a structured ecosystem of offers at different price points.
-
-⸻
-
-Core Idea
-
-Capture value at every stage:
-	•	low commitment → entry
-	•	core transformation → main offer
-	•	high value → premium
+Crea un ecosistema estructurado de ofertas en distintos puntos de precio.
 
 ⸻
 
-Assistant Behavior
+Idea central
 
-1. Define customer journey
-
-Identify:
-	•	beginner stage
-	•	intermediate stage
-	•	advanced stage
+Captura valor en cada etapa:
+	•	poco compromiso → entrada
+	•	transformación principal → oferta principal
+	•	alto valor → premium
 
 ⸻
 
-2. Build 3 levels
+Comportamiento del asistente
 
-Entry Offer
-	•	low price
-	•	fast result
-	•	low risk
-	•	attracts audience
+1. Define el recorrido del cliente
 
-Examples:
-	•	templates
-	•	mini-products
-	•	low-ticket offers
+Identifica:
+	•	etapa principiante
+	•	etapa intermedia
+	•	etapa avanzada
 
 ⸻
 
-Core Offer
-	•	main transformation
-	•	highest volume
-	•	balanced price/value
+2. Construye 3 niveles
 
-Examples:
-	•	programs
-	•	courses
-	•	memberships
+Oferta de entrada
+	•	precio bajo
+	•	resultado rápido
+	•	riesgo bajo
+	•	atrae audiencia
 
-⸻
-
-Premium Offer
-	•	highest value
-	•	most support
-	•	fastest results
-
-Examples:
-	•	DFY service
-	•	consulting
-	•	high-ticket program
+Ejemplos:
+	•	plantillas
+	•	miniproductos
+	•	ofertas low-ticket
 
 ⸻
 
-3. Align offers
+Oferta principal
+	•	transformación principal
+	•	el mayor volumen
+	•	precio/valor equilibrados
 
-Ensure:
-	•	each level leads to the next
-	•	outcomes connect logically
-	•	no overlap or confusion
-
-⸻
-
-4. Optimize positioning
-
-Each offer must:
-	•	have a clear purpose
-	•	target a specific need
-	•	justify its price
+Ejemplos:
+	•	programas
+	•	cursos
+	•	membresías
 
 ⸻
 
-Output Format
+Oferta premium
+	•	el mayor valor
+	•	el máximo soporte
+	•	los resultados más rápidos
+
+Ejemplos:
+	•	servicio DFY
+	•	consultoría
+	•	programa high-ticket
+
+⸻
+
+3. Alinea las ofertas
+
+Asegura:
+	•	cada nivel lleva al siguiente
+	•	los resultados conectan de forma lógica
+	•	sin solapamientos ni confusión
+
+⸻
+
+4. Optimiza el posicionamiento
+
+Cada oferta debe:
+	•	tener un propósito claro
+	•	apuntar a una necesidad específica
+	•	justificar su precio
+
+⸻
+
+Formato de salida
 
 ```md
 # OFFER_LADDER.md
 
-## 1. Customer Journey
-- Beginner
-- Intermediate
-- Advanced
+## 1. Recorrido del cliente
+- Principiante
+- Intermedio
+- Avanzado
 
-## 2. Entry Offer
-- Name
-- Price
-- Outcome
-- Format
+## 2. Oferta de entrada
+- Nombre
+- Precio
+- Resultado
+- Formato
 
-## 3. Core Offer
-- Name
-- Price
-- Outcome
-- Format
+## 3. Oferta principal
+- Nombre
+- Precio
+- Resultado
+- Formato
 
-## 4. Premium Offer
-- Name
-- Price
-- Outcome
-- Format
+## 4. Oferta premium
+- Nombre
+- Precio
+- Resultado
+- Formato
 
-## 5. Ladder Flow
-- How customers move between offers
+## 5. Flujo de la escalera
+- Cómo se mueven los clientes entre las ofertas
 ```
 
 ⸻
 
-PART 3: Upsell / Downsell Skill
+PARTE 3: Skill de upsell / downsell
 
-Purpose
+Propósito
 
-Increase revenue per customer.
-
-⸻
-
-Core Idea
-
-A customer who buys once is most likely to buy again.
-
-Maximize:
-	•	average order value
-	•	lifetime value
+Aumenta los ingresos por cliente.
 
 ⸻
 
-Assistant Behavior
+Idea central
 
-1. Identify purchase moment
+El cliente que compra una vez es el más propenso a volver a comprar.
 
-Find:
-	•	where user buys
-	•	what they buy first
-
-⸻
-
-2. Design upsells
-
-Upsell = higher value offer
-
-Types:
-	•	upgrade
-	•	more support
-	•	faster results
-	•	DFY version
-
-Examples:
-	•	course → program
-	•	program → consulting
+Maximiza:
+	•	el valor promedio de compra
+	•	el valor de vida del cliente
 
 ⸻
 
-3. Design downsells
+Comportamiento del asistente
 
-Downsell = lower barrier offer
+1. Identifica el momento de compra
 
-Used when:
-	•	user hesitates
-	•	user declines
-
-Examples:
-	•	payment plan
-	•	lighter version
-	•	smaller product
+Encuentra:
+	•	dónde compra el usuario
+	•	qué compra primero
 
 ⸻
 
-4. Align with intent
+2. Diseña los upsells
 
-Ensure:
-	•	upsell feels natural
-	•	downsell feels helpful, not desperate
+Upsell = oferta de mayor valor
 
-⸻
+Tipos:
+	•	mejora de nivel
+	•	más soporte
+	•	resultados más rápidos
+	•	versión DFY
 
-5. Keep it simple
-
-Rules:
-	•	1–2 upsells max
-	•	1 downsell option
-	•	clear difference in value
-
-⸻
-
-6. Increase perceived value
-
-Upsells should:
-	•	feel like a logical upgrade
-	•	reduce effort or time
-	•	increase success rate
+Ejemplos:
+	•	curso → programa
+	•	programa → consultoría
 
 ⸻
 
-Output Format
+3. Diseña los downsells
+
+Downsell = oferta de menor barrera
+
+Se usa cuando:
+	•	el usuario duda
+	•	el usuario dice que no
+
+Ejemplos:
+	•	plan de pagos
+	•	versión más ligera
+	•	producto más chico
+
+⸻
+
+4. Alinea con la intención
+
+Asegura:
+	•	el upsell se siente natural
+	•	el downsell se siente útil, no desesperado
+
+⸻
+
+5. Mantenlo simple
+
+Reglas:
+	•	1–2 upsells máximo
+	•	1 opción de downsell
+	•	diferencia clara de valor
+
+⸻
+
+6. Aumenta el valor percibido
+
+Los upsells deben:
+	•	sentirse como una mejora lógica
+	•	reducir el esfuerzo o el tiempo
+	•	aumentar la tasa de éxito
+
+⸻
+
+Formato de salida
 
 ```md
 # REVENUE_FLOW.md
 
-## 1. Entry Point
-- First purchase
+## 1. Punto de entrada
+- Primera compra
 
-## 2. Upsell Options
+## 2. Opciones de upsell
 
 ### Upsell 1
-- Offer
-- Why it fits
-- Price
+- Oferta
+- Por qué encaja
+- Precio
 
 ### Upsell 2
-- Offer
-- Why it fits
-- Price
+- Oferta
+- Por qué encaja
+- Precio
 
-## 3. Downsell Options
+## 3. Opciones de downsell
 
 ### Downsell 1
-- Offer
-- Why it fits
-- Price
+- Oferta
+- Por qué encaja
+- Precio
 
-## 4. Flow Logic
-- When upsell appears
-- When downsell appears
+## 4. Lógica del flujo
+- Cuándo aparece el upsell
+- Cuándo aparece el downsell
 
-## 5. Value Increase Strategy
-- How revenue per customer increases
+## 5. Estrategia de aumento de valor
+- Cómo aumentan los ingresos por cliente
 ```
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Productize when:
-	•	work repeats
-	•	time is the bottleneck
-	•	demand exists
+Productiza cuando:
+	•	el trabajo se repite
+	•	el tiempo es el cuello de botella
+	•	hay demanda
 
-Build ladder when:
-	•	audience has different budgets
-	•	multiple needs exist
-	•	scaling is the goal
+Construye la escalera cuando:
+	•	la audiencia tiene presupuestos distintos
+	•	existen varias necesidades
+	•	la meta es escalar
 
-Add upsells when:
-	•	user already trusts you
-	•	higher value can be delivered
+Agrega upsells cuando:
+	•	el usuario ya confía en ti
+	•	se puede entregar más valor
 
-Add downsells when:
-	•	price blocks purchase
-	•	simpler option still provides value
-
-⸻
-
-Style Guidelines
-	•	keep structure simple
-	•	align with real customer journey
-	•	prioritize clarity over complexity
-	•	focus on value at each step
+Agrega downsells cuando:
+	•	el precio bloquea la compra
+	•	una opción más simple igual aporta valor
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	mantén la estructura simple
+	•	alinea con el recorrido real del cliente
+	•	prioriza la claridad sobre la complejidad
+	•	enfócate en el valor en cada paso
 
-The skill works when:
-	•	services become scalable
-	•	offers are clearly structured
-	•	customers have multiple entry points
-	•	revenue per customer increases
-	•	business scales beyond time constraints
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	los servicios se vuelven escalables
+	•	las ofertas están claramente estructuradas
+	•	los clientes tienen varios puntos de entrada
+	•	los ingresos por cliente aumentan
+	•	el negocio escala más allá de las restricciones de tiempo
 

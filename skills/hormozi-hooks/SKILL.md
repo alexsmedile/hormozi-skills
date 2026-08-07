@@ -1,387 +1,387 @@
 ---
 name: hormozi-hooks
-description: Generate scroll-stopping hooks in Hormozi style for posts, ads, and emails. Use when content is not getting attention, hooks feel generic, or you need buyer-attracting hooks. Produces multiple variations across outcome, time, effort, callout, contrarian, pain, mechanism, and transformation hook types.
+description: Genera hooks que detienen el scroll en estilo Hormozi para posts, anuncios y emails. Úsala cuando el contenido no capta atención, los hooks se sienten genéricos o necesitas hooks que atraigan compradores. Produce múltiples variaciones en los tipos de hook de resultado, tiempo, esfuerzo, callout, a contracorriente, dolor, mecanismo y transformación.
 ---
 
-# Skill: Hook Generator (Hormozi-Style)
+# Skill: Generador de hooks (estilo Hormozi)
 
-## Purpose
-Create scroll-stopping hooks that attract the right people and make them want to keep reading.
+## Propósito
+Crea hooks que detienen el scroll, atraen a la gente correcta y dan ganas de seguir leyendo.
 
-This skill focuses on:
-- grabbing attention fast
-- promising a real outcome
-- reducing friction immediately
-- aligning hooks with the offer
+Esta skill se enfoca en:
+- captar la atención rápido
+- prometer un resultado real
+- reducir la fricción de inmediato
+- alinear los hooks con la oferta
 
-Goal: make the right person think  
-“this is exactly for me”
-
----
-
-## When to Use
-Activate this skill when:
-- content is not getting attention
-- hooks feel weak or generic
-- you need ideas for posts, ads, emails
-- you want higher retention
-- you want hooks that attract buyers, not just views
+Meta: que la persona correcta piense  
+“esto es exactamente para mí”
 
 ---
 
-## Inputs
-This skill works with:
-- an `OFFER.md`
-- a product or service
-- a target audience
-- a desired outcome
-- a pain point
+## Cuándo usarla
+Activa esta skill cuando:
+- el contenido no capta atención
+- los hooks se sienten débiles o genéricos
+- necesitas ideas para posts, anuncios o emails
+- quieres más retención
+- quieres hooks que atraigan compradores, no solo vistas
 
 ---
 
-## Core Outcome
-The assistant produces:
-- multiple high-performing hooks
-- variations across different styles
-- hooks aligned with pain + outcome
-- hooks that reduce objections early
+## Entradas
+Esta skill funciona con:
+- un `OFFER.md`
+- un producto o servicio
+- una audiencia objetivo
+- un resultado deseado
+- un punto de dolor
 
 ---
 
-## Core Principles (Hormozi Style)
-
-- lead with outcome
-- be specific (numbers, constraints)
-- make it feel fast
-- make it feel easy
-- remove objections early
-- call out a clear audience
-- use contrast (fast vs slow, easy vs hard)
-- add slight contrarian angle when useful
-- keep it simple (one idea)
-- promise real value
+## Resultado principal
+El asistente produce:
+- múltiples hooks de alto rendimiento
+- variaciones en distintos estilos
+- hooks alineados con dolor + resultado
+- hooks que reducen objeciones desde el inicio
 
 ---
 
-## Core Formula
+## Principios centrales (estilo Hormozi)
+
+- abre con el resultado
+- sé específico (números, restricciones)
+- que se sienta rápido
+- que se sienta fácil
+- elimina las objeciones desde el inicio
+- interpela a una audiencia clara
+- usa contraste (rápido vs lento, fácil vs difícil)
+- agrega un ángulo a contracorriente leve cuando sirva
+- mantenlo simple (una sola idea)
+- promete valor real
+
+---
+
+## Fórmula central
 
 ```text
-WHO + RESULT + SPEED/EASE + OBJECTION REMOVAL
+QUIÉN + RESULTADO + VELOCIDAD/FACILIDAD + ELIMINACIÓN DE OBJECIÓN
 
-Example:
-	•	“Coaches: get 3 clients this week without ads”
+Ejemplo:
+	•	“Coaches: consigue 3 clientes esta semana sin anuncios”
 ```
 
 ⸻
 
-Assistant Behavior
+Comportamiento del asistente
 
-1. Extract core elements
+1. Extrae los elementos centrales
 
-Identify:
-	•	WHO (target audience)
-	•	RESULT (desired outcome)
-	•	PAIN (what they struggle with)
-	•	SPEED (how fast result can happen)
-	•	EASE (how hard it feels)
-	•	OBJECTIONS (what stops them)
+Identifica:
+	•	QUIÉN (audiencia objetivo)
+	•	RESULTADO (resultado deseado)
+	•	DOLOR (con qué se traban)
+	•	VELOCIDAD (qué tan rápido puede llegar el resultado)
+	•	FACILIDAD (qué tan difícil se siente)
+	•	OBJECIONES (qué los detiene)
 
-Then simplify:
+Después simplifica:
 
-This helps X achieve Y fast, without Z.
+Esto ayuda a X a lograr Y rápido, sin Z.
 
 ⸻
 
-2. Improve weak inputs
+2. Mejora las entradas débiles
 
-If vague, refine:
-	•	“grow business” → “get 5 clients”
-	•	“lose weight” → “lose 5kg in 30 days”
+Si es vago, afina:
+	•	“hacer crecer el negocio” → “conseguir 5 clientes”
+	•	“bajar de peso” → “bajar 5 kg en 30 días”
 
-Make everything:
-	•	specific
-	•	measurable
+Haz que todo sea:
+	•	específico
+	•	medible
 	•	visual
 
 ⸻
 
-3. Generate hooks by type
+3. Genera hooks por tipo
 
-Create 3–5 variations for each type.
-
-⸻
-
-1. Outcome Hooks
-
-Get [result]
-
+Crea 3–5 variaciones para cada tipo.
 
 ⸻
 
-2. Time-Based Hooks
+1. Hooks de resultado
 
-Get [result] in [time]
+Consigue [resultado]
 
 
 ⸻
 
-3. Effort Reduction Hooks
+2. Hooks de tiempo
 
-Get [result] without [pain]
-
-
-⸻
-
-4. Callout Hooks
-
-If you are [audience], this is for you
+Consigue [resultado] en [tiempo]
 
 
 ⸻
 
-5. “How I” Hooks (Proof)
+3. Hooks de reducción de esfuerzo
 
-How I [achieved result] in [time]
-
-
-⸻
-
-6. Contrarian Hooks
-
-[Common belief] is wrong
+Consigue [resultado] sin [dolor]
 
 
 ⸻
 
-7. Pain Hooks
+4. Hooks de callout
 
-If you struggle with [pain], read this
-
-
-⸻
-
-8. Mechanism Hooks
-
-The system that helps you [result]
+Si eres [audiencia], esto es para ti
 
 
 ⸻
 
-9. Transformation Hooks
+5. Hooks de “Cómo yo” (prueba)
 
-From [bad state] to [desired state]
-
-
-⸻
-
-10. Hybrid Hooks (Best performers)
-Combine multiple elements:
-
-WHO + RESULT + TIME + WITHOUT X
+Cómo yo [logré resultado] en [tiempo]
 
 
 ⸻
 
-4. Inject speed and ease
+6. Hooks a contracorriente
 
-Upgrade hooks by adding:
-	•	time (“in 7 days”)
-	•	effort reduction (“without ads”)
-	•	simplicity (“even if you’re a beginner”)
+[Creencia común] está mal
+
 
 ⸻
 
-5. Add objection handling
+7. Hooks de dolor
 
-Include phrases like:
-	•	“even if…”
-	•	“without…”
-	•	“no experience needed”
+Si te trabas con [dolor], lee esto
+
 
 ⸻
 
-6. Add contrast
+8. Hooks de mecanismo
 
-Improve clarity with:
-	•	before vs after
-	•	slow vs fast
-	•	hard vs easy
+El sistema que te ayuda a [resultado]
+
 
 ⸻
 
-7. Keep hooks simple
+9. Hooks de transformación
 
-Rules:
-	•	one idea per hook
-	•	short sentences
-	•	no fluff
-	•	no complex wording
+De [estado malo] a [estado deseado]
+
 
 ⸻
 
-8. Select best hooks
+10. Hooks híbridos (los que mejor funcionan)
+Combina varios elementos:
 
-Pick top 5–10 based on:
-	•	clarity
-	•	specificity
-	•	relevance
-	•	strength of outcome
+QUIÉN + RESULTADO + TIEMPO + SIN X
+
 
 ⸻
 
-9. Suggest use cases
+4. Inyecta velocidad y facilidad
 
-For each top hook:
-	•	best for Instagram
-	•	best for ads
-	•	best for email
-	•	best for landing page
+Mejora los hooks con:
+	•	tiempo (“en 7 días”)
+	•	reducción de esfuerzo (“sin anuncios”)
+	•	simplicidad (“incluso si eres principiante”)
 
 ⸻
 
-Output Format
+5. Agrega manejo de objeciones
+
+Incluye frases como:
+	•	“incluso si…”
+	•	“sin…”
+	•	“sin experiencia previa”
+
+⸻
+
+6. Agrega contraste
+
+Mejora la claridad con:
+	•	antes vs después
+	•	lento vs rápido
+	•	difícil vs fácil
+
+⸻
+
+7. Mantén los hooks simples
+
+Reglas:
+	•	una idea por hook
+	•	oraciones cortas
+	•	sin relleno
+	•	sin redacción complicada
+
+⸻
+
+8. Selecciona los mejores hooks
+
+Elige los 5–10 mejores según:
+	•	claridad
+	•	especificidad
+	•	relevancia
+	•	fuerza del resultado
+
+⸻
+
+9. Sugiere casos de uso
+
+Para cada hook destacado:
+	•	mejor para Instagram
+	•	mejor para anuncios
+	•	mejor para email
+	•	mejor para landing page
+
+⸻
+
+Formato de salida
 
 # HOOKS.md
 
-## 1. Core Message
-- Audience:
-- Result:
-- Pain:
-- Speed:
-- Ease:
-- Key objection:
+## 1. Mensaje central
+- Audiencia:
+- Resultado:
+- Dolor:
+- Velocidad:
+- Facilidad:
+- Objeción clave:
 
 ---
 
-## 2. Hook Variations
+## 2. Variaciones de hooks
 
-### Outcome Hooks
+### Hooks de resultado
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Time-Based Hooks
+### Hooks de tiempo
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Effort Reduction Hooks
+### Hooks de reducción de esfuerzo
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Callout Hooks
+### Hooks de callout
 - Hook 1
 - Hook 2
 - Hook 3
 
-### “How I” Hooks
+### Hooks de “Cómo yo”
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Contrarian Hooks
+### Hooks a contracorriente
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Pain Hooks
+### Hooks de dolor
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Mechanism Hooks
+### Hooks de mecanismo
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Transformation Hooks
+### Hooks de transformación
 - Hook 1
 - Hook 2
 - Hook 3
 
-### Hybrid Hooks (Best)
+### Hooks híbridos (los mejores)
 - Hook 1
 - Hook 2
 - Hook 3
 
 ---
 
-## 3. Top Hooks
+## 3. Mejores hooks
 
 ### Top 1
 - Hook:
-- Why it works:
+- Por qué funciona:
 
 ### Top 2
 - Hook:
-- Why it works:
+- Por qué funciona:
 
 ### Top 3
 - Hook:
-- Why it works:
+- Por qué funciona:
 
 ---
 
-## 4. Usage Suggestions
-- Best hooks for ads:
-- Best hooks for organic content:
-- Best hooks for email:
-- Best hooks for landing page:
+## 4. Sugerencias de uso
+- Mejores hooks para anuncios:
+- Mejores hooks para contenido orgánico:
+- Mejores hooks para email:
+- Mejores hooks para landing page:
 
 
 ⸻
 
-Decision Rules
+Reglas de decisión
 
-Add specificity when:
-	•	hook sounds generic
-	•	outcome is unclear
+Agrega especificidad cuando:
+	•	el hook suena genérico
+	•	el resultado no queda claro
 
-Add speed when:
-	•	urgency is missing
-	•	decision feels slow
+Agrega velocidad cuando:
+	•	falta urgencia
+	•	la decisión se siente lenta
 
-Add ease when:
-	•	effort feels high
-	•	audience is beginner
+Agrega facilidad cuando:
+	•	el esfuerzo se siente alto
+	•	la audiencia es principiante
 
-Add callout when:
-	•	audience is broad
-	•	message lacks focus
+Agrega callout cuando:
+	•	la audiencia es amplia
+	•	al mensaje le falta foco
 
-Add contrast when:
-	•	value is not obvious
-	•	transformation is unclear
-
-⸻
-
-Before vs After Example
-
-Before
-	•	“Learn how to grow your business”
-
-After
-	•	“Coaches: get 3 clients this week without ads”
+Agrega contraste cuando:
+	•	el valor no es obvio
+	•	la transformación no queda clara
 
 ⸻
 
-Style Guidelines
-	•	direct and simple
-	•	outcome-focused
-	•	no fluff
-	•	no vague claims
-	•	clarity over creativity
+Ejemplo de antes vs después
+
+Antes
+	•	“Aprende a hacer crecer tu negocio”
+
+Después
+	•	“Coaches: consigue 3 clientes esta semana sin anuncios”
 
 ⸻
 
-Success Criteria
+Guía de estilo
+	•	directo y simple
+	•	enfocado en el resultado
+	•	sin relleno
+	•	sin promesas vagas
+	•	claridad por encima de creatividad
 
-The skill works when:
-	•	hooks grab attention fast
-	•	the right audience feels targeted
-	•	outcome is clear instantly
-	•	objections are reduced early
-	•	users want to keep reading
-	•	content performance improves
+⸻
+
+Criterios de éxito
+
+La skill funciona cuando:
+	•	los hooks captan la atención rápido
+	•	la audiencia correcta se siente interpelada
+	•	el resultado queda claro al instante
+	•	las objeciones se reducen desde el inicio
+	•	los usuarios quieren seguir leyendo
+	•	el rendimiento del contenido mejora
 
