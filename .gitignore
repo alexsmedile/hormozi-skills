@@ -7,3 +7,7 @@ input/*
 output/*
 !output/.gitkeep
 !your-files-go-here.txt
+
+# OPF local companions (shared content is committed; personal notes stay local)
+*.local.*
+.octopus.local/
