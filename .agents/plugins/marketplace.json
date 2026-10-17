@@ -8,7 +8,7 @@
       "name": "hormozi-skills",
       "source": {
         "source": "local",
-        "path": "../../"
+        "path": "./"
       },
       "category": "Productivity"
     }
